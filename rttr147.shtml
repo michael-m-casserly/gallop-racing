@@ -36,6 +36,7 @@
   </div> <!--end left column-->
 
   <div class="col-lg-4"> <!--begin middle column-->
+<center>
 
 <!--This was the list of horses, sorted by Derby Finish, not really needed...
 <div class="round-border"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=249132506&amp;single=true&amp;widget=true&amp;headers=false" width="295" height="725" frameborder="1" marginheight="0" marginwidth="0">Loading...</iframe></div>
@@ -124,7 +125,7 @@
 <div class="col-lg-4"> <!--begin right column-->
 
 <!--a name="Schedule"></a-->
-<!--center-->
+<center>
 
 <div class="round-border"><h5>Leading Horses</h5>
   <p><center><a class="btn btn-secondary" href="/gallop/pdf/RTTR147_Season_Leaders-Horses.pdf" target="_blank" role="button" onclick="captureOutboundLink('/gallop/pdf/RTTR147_Season_Leaders-Horses.pdf');">View PDF</a></center></p>
@@ -219,7 +220,7 @@
   </div>
   
   <!--div class="round-border"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" width="295" height="1150" frameborder="1" marginheight="0" marginwidth="0">Loading...</iframe></div-->
-<!--/center-->
+</center>
 
 </div> <!--end right column-->
 
