@@ -206,13 +206,11 @@
       <table class="scoring-table" border="1">
         <tr class="scoring-table-header-row">
           <th class="scoring-table-data-subject">&nbsp;</th>
-          <th class="scoring-table-data-subject">Win</th>
-          <th class="scoring-table-data-subject">Place</th>
-          <th class="scoring-table-data-subject">Show</th>
-          <th class="scoring-table-data-subject">4th</th>
-          <th class="scoring-table-data-subject">
-            *Tr./<br>
-            Jock</th>
+          <th class="scoring-table-data-subject" style="text-align: center;">Win</th>
+          <th class="scoring-table-data-subject" style="text-align: center;">Place</th>
+          <th class="scoring-table-data-subject" style="text-align: center;">Show</th>
+          <th class="scoring-table-data-subject" style="text-align: center;">4th</th>
+          <th class="scoring-table-data-subject" style="text-align: center;">*Tr./<br>Jock</th>
         </tr>
         <tr>
           <td class="scoring-table-data-subject">Derby</td>
