@@ -200,8 +200,10 @@
 <div class="row">
   <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" style="max-width: 250px;" border="0"/></a>
 
+  <!--#include virtual="/iframe-spinner.html" -->   
+
   <div class="iframe-container">
-    <iframe class="responsive-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+    <iframe class="responsive-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" onload="document.getElementById('spinner').style.display='none';"></iframe>
   </div>
     <table cellpadding="2" cellspacing="2" border="1">
     <tr>
