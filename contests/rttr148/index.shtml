@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+      <!--#include virtual="/banner-head.html" -->
+
+      <title>RTTR 148 - Gallop Racing -- www.gallop-racing.com</title>
+
+</head>
+
+<body class="bodyTag">
+  <header>
+    <!--#include virtual="/banner.html" -->    
+    </header>
+    
+    <!--End Banner-->
+    
+    <!--Begin Main Content Section-->
+    <main role="main" class="container" style="background-color:#FFF;">
+      <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/contests/">Contests</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">RTTR 148</a></div>
+   
+  <div class="container marketing">
+
+    <center>
+      <h3>Road to the Roses<br/>Derby 148</h3>
+ <br/>
+      
+      <table class="TableStandard" border="1" cellpadding="2" cellspacing="2">
+        <!--tr class="TableHeader">
+          <td colspan="2" align="center">Week #2, Jan. 29, 2022</td>
+        </tr>
+        <tr>
+          <td colspan="2"><p><center><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+            <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></center></p></td>
+      </tr>
+      <tr>
+        <td colspan="2" class="race-name-header">Southwest Stakes<br/>(10-4-2-1-7)</td>
+      </tr>
+      <tr>
+        <td colspan="2"><p><center><a class="btn btn-secondary btn-half" href="/nominations/rttr148/Week02-Southwest-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>&nbsp;
+          <a class="btn btn-secondary btn-half" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Entries</a>
+          <!--a class="btn btn-secondary btn-half" href="/results/rttr148/Week02-Southwest-Stakes-Results.pdf" target="_blank" role="button">Results</a></center></p></td>
+    </tr>
+      <tr>
+          <td colspan="2">&nbsp;</td>
+        </tr-->
+        <tr class="TableHeader">
+          <td colspan="2" align="center">Week #1, Jan. 22, 2022</td>
+        </tr>
+        <!--tr>
+          <td colspan="2"><p><center><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+            <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></center></p></td>
+      </tr-->
+      <tr>
+        <td colspan="2" class="race-name-header">Lecomte Stakes<br/>(10-4-2-1-7)</td>
+      </tr>
+      <!--tr>
+        <td colspan="2"><p><center><a class="btn btn-secondary btn-half" href="/nominations/rttr148/Week01-Lecomte-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>&nbsp;
+          <!--a class="btn btn-secondary btn-half" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Entries</a>
+          <!--a class="btn btn-secondary btn-half" href="/results/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Results</a></center></p></td>
+    </tr--></table>
+
+      </center>
+
+<br/>
+<br/>
+
+<!-- FOOTER -->
+
+<!--#include virtual="/footer-page.html" -->    
+
+</div> <!--container-->
+
+<!--#include virtual="/footer.html" -->    
+
+
+</main>
+
+
+</body>
+</html>

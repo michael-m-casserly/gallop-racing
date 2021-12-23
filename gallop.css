@@ -203,3 +203,9 @@ a.PageTitleBreadCrumb:link {
 {
   margin: 10px;
 }
+
+.race-name-header
+{
+  font-weight: bold;
+  text-align: center;
+}

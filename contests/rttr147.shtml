@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en">
+  <head>
+      <!--#include virtual="/banner-head.html" -->
+
+
+    <title>Road to the Roses, Derby 147 - Gallop Racing -- www.gallop-racing.com</title>
+
+</head>
+
+<body class="bodyTag">
+  <header>
+    <!--#include virtual="/banner.html" -->    
+    </header>
+        
+    <!--End Banner-->
+    
+    <!--Begin Main Content Section-->
+    <main role="main" class="container" style="background-color:#FFF;">
+      <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">RTTR 147</a></div>
+  
+  <div class="container marketing">
+
+    <center>
+      <h3>Road to the Roses<br/>Derby 147</h3>
+    </center>
+          
+    <div class="row">
+      <div class="col-lg-4"> <!--begin left column-->
+    
+  <div class="round-border"><h5>Final Standings</h5>
+    
+    <img src="/images/leaderboard-rttr147.png" border="0" style="max-width: 362px;"/>
+  </div>
+
+  </div> <!--end left column-->
+
+  <div class="col-lg-4"> <!--begin middle column-->
+<center>
+
+<!--This was the list of horses, sorted by Derby Finish, not really needed...
+<div class="round-border"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=249132506&amp;single=true&amp;widget=true&amp;headers=false" width="295" height="725" frameborder="1" marginheight="0" marginwidth="0">Loading...</iframe></div>
+-->
+
+<div class="round-border"><h5>RTTR147 Info</h5>
+  <p><center><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=0&single=true" target="_blank" role="button">Leaderboard</a></center></p>
+<p><center><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=249132506&single=true" target="_blank" role="button">Horses</a></center></p>
+<p><center><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=2036485040&single=true" target="_blank" role="button">Schedule</a></center></p>
+<p><center><a class="btn btn-secondary" href="https://docs.google.com/presentation/d/16U1QbNcjxJhd65WnAsgt9wQmJ7ZwfA8PZvT4_vX1lag/edit?usp=sharing" target="_blank" role="button">View All Stables PDF</a></center></p>
+<p><center><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttr147?f=live" target="_blank" role="button">#rttr147 on Twitter &raquo;</a></center></p>
+</div>
+
+<div class="round-border"><h5>Leading Trainers</h5>
+  <table width="100%" class="stats-table">
+    <tr>
+        <th width="75%">Name</th>
+        <th class="table-data-number">Points</th>  
+    </tr>
+    <tr class="drafted-player">
+        <td>Bob Baffert</td>
+        <td class="table-data-number">230</td>
+    </tr>
+    <tr class="drafted-player">
+      <td>Todd Pletcher</td>
+      <td class="table-data-number">140</td>
+    </tr>
+    <tr class="drafted-player">
+      <td>Brad Cox</td>
+      <td class="table-data-number">112</td>
+    </tr>
+    <tr class="drafted-player">
+      <td>Steven Asmussen</td>
+      <td class="table-data-number">70</td>
+    </tr>
+    <tr class="non-drafted-player">
+      <td>*Leandro Mora</td>
+      <td class="table-data-number">70</td>
+    </tr>
+    <tr class="non-drafted-player">
+      <td>*Wesley Ward</td>
+      <td class="table-data-number">70</td>
+    </tr>
+    <tr class="non-drafted-player">
+      <td>*Charles Appleby</td>
+      <td class="table-data-number">70</td>
+    </tr>
+    <tr class="non-drafted-player">
+      <td>*John Sadler</td>
+      <td class="table-data-number">70</td>
+    </tr>
+    <tr class="non-drafted-player">
+      <td>*Shug McGaughey</td>
+      <td class="table-data-number">35</td>
+    </tr>
+    <tr class="non-drafted-player">
+      <td>*James Jerkens</td>
+      <td class="table-data-number">35</td>
+    </tr>
+    <tr class="non-drafted-player">
+      <td>*Mark Casse</td>
+      <td class="table-data-number">35</td>
+    </tr>
+    <tr class="non-drafted-player">
+      <td>*Kenneth McPeek</td>
+      <td class="table-data-number">14</td>
+    </tr>
+    <tr class="non-drafted-player">
+      <td>*Michael McCarthy</td>
+      <td class="table-data-number">7</td>
+    </tr>
+    <tr class="non-drafted-player">
+      <td>*William Morey</td>
+      <td class="table-data-number">7</td>
+    </tr>
+    <tr class="non-drafted-player">
+      <td colspan="2">*Not drafted by any stable.</td>
+    </tr>
+</table>
+</div>
+
+
+
+</center>
+</div> <!--end middle column-->
+<div class="col-lg-4"> <!--begin right column-->
+
+<!--a name="Schedule"></a-->
+<center>
+
+<div class="round-border"><h5>Leading Horses</h5>
+  <p><center><a class="btn btn-secondary" href="/gallop/pdf/RTTR147_Season_Leaders-Horses.pdf" target="_blank" role="button" onclick="captureOutboundLink('/gallop/pdf/RTTR147_Season_Leaders-Horses.pdf');">View PDF</a></center></p>
+</div>
+
+<div class="round-border"><h5>Leading Jockeys</h5>
+      <table width="100%" class="stats-table">
+        <tr>
+            <th width="75%">Name</th>
+            <th class="table-data-number">Points</th>  
+        </tr>
+        <tr class="drafted-player">
+          <td>John R. Velazquez</td>
+          <td class="table-data-number">160</td>
+        </tr>
+          <tr class="drafted-player">
+            <td>Joel Rosario</td>
+            <td class="table-data-number">105</td>
+        </tr>
+        <tr class="drafted-player">
+          <td>Luis Saez</td>
+          <td class="table-data-number">77</td>
+      </tr>
+      <tr class="drafted-player">
+        <td>Irad Ortiz, Jr.</td>
+        <td class="table-data-number">70</td>
+      </tr>
+        <tr class="non-drafted-player">
+          <td>*Ricardo Santana Jr</td>
+          <td class="table-data-number">70</td>
+        </tr>
+        <tr class="non-drafted-player">
+          <td>*Drayden Van Dyke</td>
+          <td class="table-data-number">70</td>
+        </tr>
+        <tr class="non-drafted-player">
+          <td>*William Buick</td>
+          <td class="table-data-number">70</td>
+        </tr>
+        <tr class="non-drafted-player">
+          <td>*Umberto Rispoli</td>
+          <td class="table-data-number">70</td>
+        </tr>
+        <tr class="non-drafted-player">
+          <td>*Kendrick Carmouche</td>
+          <td class="table-data-number">70</td>
+        </tr>
+        <tr class="drafted-player">
+          <td>Jose L. Ortiz</td>
+          <td class="table-data-number">35</td>
+        </tr>
+      <tr class="drafted-player">
+        <td>Florent Geroux</td>
+        <td class="table-data-number">35</td>
+      </tr>
+      <tr class="drafted-player">
+        <td>Mike E Smith</td>
+        <td class="table-data-number">35</td>
+      </tr>
+      <tr class="non-drafted-player">
+        <td>*Trevor McCarthy</td>
+        <td class="table-data-number">35</td>
+      </tr>
+      <tr class="non-drafted-player">
+        <td>*Jose C. Ferrer</td>
+        <td class="table-data-number">35</td>
+      </tr>
+      <tr class="non-drafted-player">
+        <td>*Brian Joseph Hernandez</td>
+        <td class="table-data-number">14</td>
+      </tr>
+      <tr class="non-drafted-player">
+        <td>*Kyle Frey</td>
+        <td class="table-data-number">7</td>
+      </tr>
+      <tr class="non-drafted-player">
+        <td>*Santiago Gonzalez</td>
+        <td class="table-data-number">7</td>
+      </tr>
+    <tr class="drafted-player">
+        <td>Javier Castellano</td>
+        <td class="table-data-number">0</td>
+      </tr>
+      <tr class="drafted-player">
+        <td>Tyler Gafflione</td>
+        <td class="table-data-number">0</td>
+      </tr>
+      <tr class="non-drafted-player">
+        <td colspan="2">*Not drafted by any stable.</td>
+      </tr>
+    </table>
+  </div>
+  
+  <!--div class="round-border"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" width="295" height="1150" frameborder="1" marginheight="0" marginwidth="0">Loading...</iframe></div-->
+</center>
+
+</div> <!--end right column-->
+
+</div> <!--row #1-->
+<br/>
+<div class="row">      
+  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" style="max-width: 250px;" border="0"/></a>
+
+  <!--#include virtual="/iframe-spinner.html" -->   
+
+  <div class="iframe-container">
+    <iframe class="responsive-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" onload="document.getElementById('spinner').style.display='none';"></iframe>
+  </div>
+</div> <!--row #2-->
+<br/>
+<!-- FOOTER -->
+
+<!--#include virtual="/footer-page.html" -->    
+
+</div> <!--container-->
+
+<!--#include virtual="/footer.html" -->    
+
+
+</main>
+
+      
+</body>
+</html>

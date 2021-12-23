@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="en">
+  <head>
+      <!--#include virtual="/banner-head.html" -->
+
+    <title>Road to the Breeders Cup 2021 - Gallop Racing -- www.gallop-racing.com</title>
+
+</head>
+
+<body class="bodyTag">
+  <header>
+    <!--#include virtual="/banner.html" -->    
+    </header>
+        
+    <!--End Banner-->
+    
+    <!--Begin Main Content Section-->
+    <main role="main" class="container" style="background-color:#FFF;">
+      <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/contests/">Contests</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">RTTBC 2021</a></div>
+
+<center>
+<h3>Road to the Breeders Cup 2021</h3>
+</center>
+
+<div class="container marketing">
+
+<div class="row">
+  <div class="col-lg-4"> <!--begin left column-->
+    <div class="round-border"><h5>Final Standings</h5>
+    
+      <img src="/images/leaderboard-rttbc2021.png" border="0" style="max-width: 328px;"/>
+    </div>
+  
+  </div> <!--end left column-->
+
+<div class="col-lg-4"> <!--begin middle column-->
+  <a name="Horses"></a>
+  <center>
+<div class="round-border"><h5>RTTBC2021 Info</h5>
+  <p><center><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=0&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=0&single=true');">Leaderboard</a></center></p>
+    
+<p><center><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=249132506&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=249132506&single=true');">Horses</a></center></p>
+<p><center><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&single=true');">Schedule</a></center></p>
+ 
+<p><center><a class="btn btn-secondary" href="/gallop/pdf/RTTBC21-AllStables.pdf" target="_blank" role="button" onclick="captureOutboundLink('/gallop/pdf/RTTBC21-AllStables.pdf');" target="_blank" role="button">View All Stables PDF</a></center></p>
+
+<p><center><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttbc2021?f=live" target="_blank" role="button">#rttbc2021 on Twitter &raquo;</a></center></p>
+</div>
+
+<div class="round-border"><h5>Leading Trainers</h5>
+  <table width="100%" class="stats-table">
+    <tr>
+        <th width="75%">Name</th>
+        <th class="table-data-number">Points</th>  
+    </tr>
+    <tr class="drafted-player">
+        <td>Steven Asmussen</td>
+        <td class="table-data-number">89</td>
+    </tr>
+    <tr class="drafted-player">
+      <td>Brad Cox</td>
+      <td class="table-data-number">78</td>
+    </tr>
+    <tr class="non-drafted-player">
+      <td>*Bob Baffert</td>
+      <td class="table-data-number">63</td>
+    </tr>
+    <tr class="drafted-player">
+      <td>Todd Pletcher</td>
+      <td class="table-data-number">52</td>
+    </tr>
+    <tr class="non-drafted-player">
+      <td>*Fausto Gutierrez</td>
+      <td class="table-data-number">25</td>
+    </tr>
+    <tr class="drafted-player">
+      <td>Chad Brown</td>
+      <td class="table-data-number">21</td>
+    </tr>
+    <tr class="drafted-player">
+      <td>William Mott</td>
+      <td class="table-data-number">19</td>
+    </tr>
+    <tr class="drafted-player">
+      <td>Saffie Joseph, Jr.</td>
+      <td class="table-data-number">7</td>
+    </tr>
+    <tr class="non-drafted-player">
+      <td colspan="2">*Not drafted by any stable.</td>
+    </tr>
+    </table>
+</div>
+
+<div class="round-border"><h5>Leading Horses</h5>
+  <p><center><a class="btn btn-secondary" href="/gallop/pdf/RTTBC21_Season_Leaders-Horses.pdf" target="_blank" role="button" onclick="captureOutboundLink('/gallop/pdf/RTTBC21_Season_Leaders-Horses.pdf');">View PDF</a></center></p>
+</div>
+
+</center>
+</div> <!--end middle column-->
+
+<div class="col-lg-4"> <!--begin right column-->
+<center>
+  
+    <div class="round-border"><h5>Leading Jockeys</h5>
+        <table width="100%" class="stats-table">
+          <tr>
+              <th width="75%">Name</th>
+              <th class="table-data-number">Points</th>  
+          </tr>
+          <tr class="drafted-player">
+              <td>Joel Rosario</td>
+              <td class="table-data-number">94</td>
+          </tr>
+          <tr class="non-drafted-player">
+            <td>*Ricardo Santana Jr</td>
+            <td class="table-data-number">60</td>
+          </tr>
+          <tr class="drafted-player">
+            <td>Jose L. Ortiz</td>
+            <td class="table-data-number">50</td>
+          </tr>
+        <tr class="drafted-player">
+            <td>Luis Saez</td>
+            <td class="table-data-number">46</td>
+        </tr>
+        <tr class="drafted-player">
+          <td>Flavian Prat</td>
+          <td class="table-data-number">44</td>
+        </tr>
+        <tr class="drafted-player">
+          <td>Irad Ortiz, Jr.</td>
+          <td class="table-data-number">35</td>
+        </tr>
+        <tr class="drafted-player">
+          <td>John R. Velazquez</td>
+          <td class="table-data-number">32</td>
+        </tr>
+        <tr class="drafted-player">
+          <td>Florent Geroux</td>
+          <td class="table-data-number">27</td>
+        </tr>
+        <tr class="drafted-player">
+          <td>Javier Castellano</td>
+          <td class="table-data-number">14</td>
+        </tr>
+        <tr class="non-drafted-player">
+          <td colspan="2">*Not drafted by any stable.</td>
+        </tr>
+      </table>
+  </div>
+
+  <div class="round-border"><h5>Leading Sires</h5>
+      <table width="100%" class="stats-table">
+        <tr>
+            <th width="75%">Name</th>
+            <th class="table-data-number">Points</th>  
+        </tr>
+        <tr class="drafted-player">
+            <td>Into Mischief</td>
+            <td class="table-data-number">26</td>
+        </tr>
+        <tr class="drafted-player">
+            <td>Super Saver</td>
+            <td class="table-data-number">15</td>
+        </tr>
+        <tr class="drafted-player">
+            <td>Curlin</td>
+            <td class="table-data-number">14</td>
+        </tr>
+        <tr class="drafted-player">
+            <td>Maclean's Music</td>
+            <td class="table-data-number">12</td>
+        </tr>
+        <tr class="drafted-player">
+            <td>Tapit</td>
+            <td class="table-data-number">11</td>
+        </tr>
+        <tr class="drafted-player">
+            <td>Union Rags</td>
+            <td class="table-data-number">4</td>
+        </tr>
+        <tr class="drafted-player">
+            <td>American Pharoah</td>
+            <td class="table-data-number">0</td>
+        </tr>
+        <tr class="drafted-player">
+            <td>Ghostzapper</td>
+            <td class="table-data-number">0</td>
+        </tr>
+      </table>
+</div>
+
+</center>
+
+</div> <!--end right column-->
+</center>
+
+      </div> <!--row #1-->
+<br/>
+<div class="row">
+  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" style="max-width: 250px;" border="0"/></a>
+
+  <!--#include virtual="/iframe-spinner.html" -->   
+
+  <div class="iframe-container">
+    <iframe class="responsive-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" onload="document.getElementById('spinner').style.display='none';"></iframe>
+  </div>
+    <table cellpadding="2" cellspacing="2" border="1">
+    <tr>
+      <td style="background-color: aqua;">Horse in an RTTBC21 Stable at Race Time.</td>
+    </tr>
+    <tr>
+      <td style="background-color: orange;">Previous Breeder's Cup Winner.</td>
+    </tr>
+    <tr>
+      <td style="background-color: lawngreen;">Breeder's Cup "Win And You're In" Winner.</td>
+    </tr>
+  </table>
+</div> <!--row #2-->
+<br/>
+<!-- FOOTER -->
+
+<!--#include virtual="/footer-page.html" -->    
+
+</div> <!--container-->
+
+<!--#include virtual="/footer.html" -->    
+
+
+</main>
+
+
+      
+</body>
+</html>
