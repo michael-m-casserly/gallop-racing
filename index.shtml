@@ -29,7 +29,7 @@
     
       <div class="round-border"><h5>Sign Up for RTTR 148</h5>
 
-        <p><center><a class="btn btn-secondary" href="https://www.gallop-racing.com/register" role="button" onclick="captureOutboundLink('https://www.gallop-racing.com/register');">Register</a></center></p>
+        <p><center><a class="btn btn-secondary" href="/register/index.shtml" role="button">Register</a></center></p>
         
       </div>    
       
