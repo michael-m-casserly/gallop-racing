@@ -17,13 +17,19 @@
     <!--Begin Main Content Section-->
     <main role="main" class="container" style="background-color:#FFF;">
       <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span><span class="PageTitleBreadCrumb">RTTR 148</span></div>
-   
-  <div class="container marketing">
 
-    <center>
-      <h3>Road to the Roses<br/>Derby 148</h3>
- <br/>
+      <center>
+        <h3>Road to the Roses<br/>Derby 148</h3>
+      </center>
       
+<div class="container marketing">
+
+ <div class="row">
+  <div class="col-lg-4"> <!--begin left column-->
+    <center>
+    
+      <div class="round-border"><h5>Weekly Updates</h5>
+
     <!--table class="TableStandard" border="1" cellpadding="2" cellspacing="2">
       <tr class="TableHeader">
         <td colspan="2" align="center">Week #2, Jan. 29, 2022</td>
@@ -55,9 +61,85 @@
           <a class="btn btn-secondary btn-half" href="/results/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Results</a></p--></td>
       </tr>
     </table>
+    
+  </div>
 
       </center>
+  </div><!--end left column-->
+  <div class="col-lg-4"> <!--begin middle column-->
+    <center>
+    
+      <div class="round-border"><h5>Leading Horses</h5>
+        <table width="100%" class="stats-table">
+          <tr>
+              <th width="75%">Name</th>
+              <th class="table-data-number">Points</th>  
+          </tr>
+          <!--tr class="drafted-player">
+              <td>Bob Baffert</td>
+              <td class="table-data-number">230</td>
+          </tr>
+          <tr class="non-drafted-player">
+            <td>*William Morey</td>
+            <td class="table-data-number">7</td>
+          </tr-->
+          <tr class="non-drafted-player">
+            <td colspan="2">*Not drafted by any stable.</td>
+          </tr>
+      </table>
 
+        </div>
+        </center>
+  </div><!--end middle column-->
+
+  <div class="col-lg-4"> <!--begin right column-->
+    <center>
+    
+      <div class="round-border"><h5>Leading Trainers</h5>
+        <table width="100%" class="stats-table">
+          <tr>
+              <th width="75%">Name</th>
+              <th class="table-data-number">Points</th>  
+          </tr>
+          <!--tr class="drafted-player">
+              <td>Bob Baffert</td>
+              <td class="table-data-number">230</td>
+          </tr>
+          <tr class="non-drafted-player">
+            <td>*William Morey</td>
+            <td class="table-data-number">7</td>
+          </tr-->
+          <tr class="non-drafted-player">
+            <td colspan="2">*Not drafted by any stable.</td>
+          </tr>
+      </table>
+
+        </div>
+        <div class="round-border"><h5>Leading Jockeys</h5>
+          <table width="100%" class="stats-table">
+            <tr>
+                <th width="75%">Name</th>
+                <th class="table-data-number">Points</th>  
+            </tr>
+            <!--tr class="drafted-player">
+                <td>Bob Baffert</td>
+                <td class="table-data-number">230</td>
+            </tr>
+            <tr class="non-drafted-player">
+              <td>*William Morey</td>
+              <td class="table-data-number">7</td>
+            </tr-->
+            <tr class="non-drafted-player">
+              <td colspan="2">*Not drafted by any stable.</td>
+            </tr>
+        </table>
+  
+        </div>
+
+      </center>
+  </div><!--end right column-->
+
+</div><!--end row-->
 <br/>
 <br/>
 

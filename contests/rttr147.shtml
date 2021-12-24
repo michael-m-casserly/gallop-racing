@@ -19,11 +19,11 @@
     <main role="main" class="container" style="background-color:#FFF;">
       <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span><span class="PageTitleBreadCrumb">RTTR 147</span></div>
   
-  <div class="container marketing">
-
-    <center>
-      <h3>Road to the Roses<br/>Derby 147</h3>
-    </center>
+      <center>
+        <h3>Road to the Roses<br/>Derby 147</h3>
+      </center>
+  
+      <div class="container marketing">
           
     <div class="row">
       <div class="col-lg-4"> <!--begin left column-->

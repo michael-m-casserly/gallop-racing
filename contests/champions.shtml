@@ -18,11 +18,11 @@
     <main role="main" class="container" style="background-color:#FFF;">
       <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span><span class="PageTitleBreadCrumb">Champions</span></div>
    
-  <div class="container marketing">
-
-    <center>
-      <h3>Road to the Roses<br/>&amp;<br/>Road to the Breeder's Cup<br/>Champions</h3>
- <br/>
+      <center>
+        <h3>Road to the Roses<br/>&amp;<br/>Road to the Breeder's Cup<br/>Champions</h3>
+        </center>
+  
+      <div class="container marketing">
       
       <table class="TableStandard" border="1" cellpadding="2" cellspacing="2">
         <tr class="TableHeader">
