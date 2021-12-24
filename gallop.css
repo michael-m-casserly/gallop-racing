@@ -170,10 +170,19 @@ td {
 	border: 2px solid black; 
 	border-radius:5px;
 	padding-left: 20px !important;
+  background-color: #344f7c;
+}
+
+span.PageTitleBreadCrumb { 
+  color: #FFF;
+  /*color: #5e183e; */
+  text-align: left; 
+  font: 10pt "Tahoma";
+  font-weight:bold
 }
 
 a.PageTitleBreadCrumb { 
-  color: #344f7c;
+  color: #FFF;
   /*color: #5e183e; */
   text-align: left; 
   font: 10pt "Tahoma";
@@ -182,6 +191,7 @@ a.PageTitleBreadCrumb {
   
 a.PageTitleBreadCrumb:link {
   text-decoration: underline;
+  color: #FFF;
   /*color: #0000CC; */
   }
 

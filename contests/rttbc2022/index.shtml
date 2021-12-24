@@ -17,7 +17,7 @@
     <!--Begin Main Content Section-->
     <main role="main" class="container" style="background-color:#FFF;">
 
-      <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">RTTBC 2022</a></div>
+      <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span><span class="PageTitleBreadCrumb">RTTBC 2022</span></div>
 
 <center>
 <h3>Road to the Breeders Cup 2022</h3>
