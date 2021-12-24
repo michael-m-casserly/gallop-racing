@@ -36,11 +36,18 @@ body
     margin:0 0 0 0; 
     background-image: url(/images/background.gif)}
 
-    h2, h3, h4, h5, .navbar-brand {
+    h2, h4, h5, .navbar-brand {
         font-family: Charlemagne std;
         color: #000;
     }
-    
+
+    h3 {
+      font-family: Georgia;
+      color: #000;
+      font-weight: bold;
+      font-style: italic;
+    }
+
 /*Begin New Code for X Close Button*/
        /* hide close when burger shown */
        .navbar-toggler.collapsed .close-icon {
@@ -135,21 +142,27 @@ td {
 	background:#344f7c; 
 	color:white !important;
 	font-weight:bold;
+  padding: 10px;
 }
 
 .TableStandard {
 	max-width:500px;
-	min-width:300px; 
+	min-width:250px; 
 	/*border:thin;*/
 	border-width: 1px; 
-	border-color: #CCC;	
+	border-color: #CCC;
+  background-color: #FFF;
+  width: 100%;
+  padding: 10px;	
 }
 
 .TableStandard td {
-	text-align:center;
-	vertical-align:center;
+	text-align:left;
+	vertical-align:middle;
 	border-width: 1px; 
-	border-color: #CCC;	
+	border-color: #CCC;
+  margin-left: 10px;
+  padding-left: 10px;	
 }
 
 .TableSubHeader {
@@ -164,6 +177,41 @@ td {
 .Standings-Team {
 	text-align:left !important;
 }
+
+.table-data-number{
+  text-align: center !important;
+}
+
+.drafted-player
+{
+  font-weight: bold;
+}
+
+.non-drafted-player
+{
+  font-style: italic;
+}
+
+.stats-table
+{
+  margin: 10px;
+  background-color: #FFF;
+  width: 100%;
+  min-width: 250px;
+}
+
+.race-name-header
+{
+  font-weight: bold;
+  text-align: center !important;
+}
+
+.text-align-center
+{
+  text-align: center;
+}
+
+/* End Table Styles*/
 
 .breadcrumb {
 	padding-top: 20px !important; /* any adjustment here should also be applied to the jumbotron pic on index.shtml */
@@ -195,27 +243,3 @@ a.PageTitleBreadCrumb:link {
   /*color: #0000CC; */
   }
 
-.table-data-number{
-  text-align: center;
-}
-
-.drafted-player
-{
-  font-weight: bold;
-}
-
-.non-drafted-player
-{
-  font-style: italic;
-}
-
-.stats-table
-{
-  margin: 10px;
-}
-
-.race-name-header
-{
-  font-weight: bold;
-  text-align: center;
-}
