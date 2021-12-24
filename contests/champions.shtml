@@ -29,12 +29,12 @@
           <td colspan="2" align="center">RTTBC '21 (2021)</td>
         </tr>
         <tr>
-          <td>Moonshine Mullon (WIN)</td>
-          <td>Kevin Mullon, Long Beach, NY</td>
+          <td class="drafted-player">Moonshine Mullon (WIN)</td>
+          <td>Kevin Mullon<br/>Long Beach, NY</td>
       </tr>
       <tr>
-        <td>Crack the Whip Stables (PLACE)</td>
-        <td>Mike Triunfo, Greece</td>
+        <td class="drafted-player">Crack the Whip Stables (PLACE)</td>
+        <td>Mike Triunfo<br/>Greece</td>
     </tr>
       <tr>
           <td colspan="2">&nbsp;</td>
@@ -43,12 +43,12 @@
             <td colspan="2" align="center">RTTR 147 (2021)</td>
           </tr>
           <tr>
-            <td>Bumruggles Stables (WIN)</td>
-            <td>Greg Schaefer, Rockville Center, NY</td>
+            <td class="drafted-player">Bumruggles Stables (WIN)</td>
+            <td>Greg Schaefer<br/>Rockville Center, NY</td>
         </tr>
         <tr>
-          <td>Bazooka Double Deuce Stables (PLACE)</td>
-          <td>James Gormley, Valley Stream, NY</td>
+          <td class="drafted-player">Bazooka Double Deuce Stables (PLACE)</td>
+          <td>James Gormley<br/>Valley Stream, NY</td>
       </tr>
         <tr>
             <td colspan="2">&nbsp;</td>
@@ -57,8 +57,8 @@
           <td colspan="2" align="center">RTTR 142 (2016)</td>
         </tr>
         <tr>
-          <td>Moonshine Mullon</td>
-          <td>Kevin Mullon, Long Beach, NY</td>
+          <td class="drafted-player">Moonshine Mullon</td>
+          <td>Kevin Mullon<br/>Long Beach, NY</td>
         </tr>        
         <tr>
           <td colspan="2">&nbsp;</td>
@@ -67,8 +67,8 @@
           <td colspan="2" align="center">RTTR 141 (2015)</td>
         </tr>
         <tr>
-          <td>Kathryn J Fox Stables</td>
-          <td>Kathryn Rodgers, South Ozone Park, NY</td>
+          <td class="drafted-player">Kathryn J Fox Stables</td>
+          <td>Kathryn Rodgers<br/>South Ozone Park, NY</td>
         </tr>        
         <tr>
           <td colspan="2">&nbsp;</td>
@@ -77,8 +77,8 @@
           <td colspan="2" align="center">RTTR 138 (2012)</td>
         </tr>
         <tr>
-          <td>Handsome Dans</td>
-          <td>Dan O'Connell, Bellerose Village, NY</td>
+          <td class="drafted-player">Handsome Dans</td>
+          <td>Dan O'Connell<br/>Bellerose Village, NY</td>
         </tr>        
         <tr>
           <td colspan="2">&nbsp;</td>
@@ -87,8 +87,8 @@
           <td colspan="2" align="center">RTTR 137 (2011)</td>
         </tr>
         <tr>
-          <td>Handsome Dans</td>
-          <td>Dan O'Connell, Bellerose Village, NY</td>
+          <td class="drafted-player">Handsome Dans</td>
+          <td>Dan O'Connell<br/>Bellerose Village, NY</td>
         </tr>        
         <tr>
           <td colspan="2">&nbsp;</td>
@@ -97,8 +97,8 @@
           <td colspan="2" align="center">RTTR 136 (2010)</td>
         </tr>
         <tr>
-          <td>Handsome Dans</td>
-          <td>Dan O'Connell, Bellerose Village, NY</td>
+          <td class="drafted-player">Handsome Dans</td>
+          <td>Dan O'Connell<br/>Bellerose Village, NY</td>
         </tr>        
 </table>
 
