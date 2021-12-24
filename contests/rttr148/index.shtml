@@ -46,16 +46,16 @@
 </tr>
       </table>
     <br/-->
-      <table class="TableStandard" border="1" cellpadding="2" cellspacing="2">
+      <table class="TableStandard">
         <tr class="TableHeader">
-          <td colspan="2" align="center">Week #1, Jan. 22, 2022</td>
+          <th class="text-align-center">Week #1, Jan. 22, 2022</th>
         </tr>
         <!--tr>
-          <td colspan="2"><p><center><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+          <td><p><center><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
             <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></center></p></td>
       </tr-->
       <tr>
-        <td colspan="2" class="race-name-header">Lecomte Stakes<br/>(10-4-2-1-7)
+        <td class="race-name-header">Lecomte Stakes<br/>(10-4-2-1-7)
           <!--p><a class="btn btn-secondary btn-half" href="/nominations/rttr148/Week01-Lecomte-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>&nbsp;
           <a class="btn btn-secondary btn-half" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Entries</a>
           <a class="btn btn-secondary btn-half" href="/results/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Results</a></p--></td>
@@ -70,10 +70,10 @@
     <center>
     
       <div class="round-border"><h5>Leading Horses</h5>
-        <table width="100%" class="stats-table">
+        <table class="TableStandard">
           <tr>
-              <th width="75%">Name</th>
-              <th class="table-data-number">Points</th>  
+              <th class="TableHeader" width="75%">Name</th>
+              <th class="table-data-number TableHeader">Points&nbsp;&#8224;</th>  
           </tr>
           <!--tr class="drafted-player">
               <td>Bob Baffert</td>
@@ -84,7 +84,8 @@
             <td class="table-data-number">7</td>
           </tr-->
           <tr class="non-drafted-player">
-            <td colspan="2">*Not drafted by any stable.</td>
+            <td colspan="2">*Not drafted by any stable.<br/>
+              &#8224;&nbsp;Does not include Power Horse points.</td>
           </tr>
       </table>
 
@@ -96,10 +97,10 @@
     <center>
     
       <div class="round-border"><h5>Leading Trainers</h5>
-        <table width="100%" class="stats-table">
+        <table class="TableStandard">
           <tr>
-              <th width="75%">Name</th>
-              <th class="table-data-number">Points</th>  
+              <th class="TableHeader" width="75%">Name</th>
+              <th class="table-data-number TableHeader">Points</th>  
           </tr>
           <!--tr class="drafted-player">
               <td>Bob Baffert</td>
@@ -116,10 +117,10 @@
 
         </div>
         <div class="round-border"><h5>Leading Jockeys</h5>
-          <table width="100%" class="stats-table">
+          <table class="TableStandard">
             <tr>
-                <th width="75%">Name</th>
-                <th class="table-data-number">Points</th>  
+                <th class="TableHeader" width="75%">Name</th>
+                <th class="table-data-number TableHeader">Points</th>  
             </tr>
             <!--tr class="drafted-player">
                 <td>Bob Baffert</td>
@@ -135,6 +136,9 @@
         </table>
   
         </div>
+
+        <!--#include virtual="/contests/rttr-scoring-table.html" -->    
+    
 
       </center>
   </div><!--end right column-->

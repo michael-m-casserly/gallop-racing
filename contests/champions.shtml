@@ -23,8 +23,13 @@
         </center>
   
       <div class="container marketing">
-      
-      <table class="TableStandard" border="1" cellpadding="2" cellspacing="2">
+      <center>
+        <style>
+          td{
+            text-align: center !important;
+          }
+        </style>
+      <table class="TableStandard" border="1">
         <tr class="TableHeader">
           <td colspan="2" align="center">RTTBC '21 (2021)</td>
         </tr>
@@ -101,8 +106,7 @@
           <td>Dan O'Connell<br/>Bellerose Village, NY</td>
         </tr>        
 </table>
-
-      </center>
+</center>
 
 <br/>
 <br/>
