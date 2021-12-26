@@ -3,7 +3,7 @@
   <head>
       <!--#include virtual="/banner-head.html" -->
 
-    <title>Road to the Breeders Cup 2022 - Gallop Racing -- www.gallop-racing.com</title>
+    <title>Road to the Breeders' Cup 2022 - Gallop Racing -- www.gallop-racing.com</title>
 
 </head>
 
@@ -20,7 +20,7 @@
       <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span><span class="PageTitleBreadCrumb">RTTBC 2022</span></div>
 
 <center>
-<h3>Road to the Breeders Cup 2022</h3>
+<h3>Road to the Breeders' Cup 2022</h3>
 </center>
 
 <div class="container marketing">
@@ -61,7 +61,7 @@
         <p><center><a class="btn btn-secondary" href="https://twitter.com/i/lists/1458447606745640963" target="_blank" role="button" onclick="captureOutboundLink('https://twitter.com/i/lists/1458447606745640963');">Gallop List on Twitter &raquo;</a></center></p>
         <p><center><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttbc2021?f=live" target="_blank" role="button" onclick="captureOutboundLink('https://twitter.com/hashtag/rttbc2022?f=live');">#rttbc2022 on Twitter &raquo;</a></center></p>
         <p><center><a class="btn btn-secondary" href="https://www.equibase.com/yearbook/FutureRaces.cfm" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/yearbook/FutureRaces.cfm');">Equibase Future Races &raquo;</a></center></p>
-        <p><center><a class="btn btn-secondary" href="https://www.breederscup.com/races/how-it-works" target="_blank" role="button" onclick="captureOutboundLink('https://www.breederscup.com/races/how-it-works');">Breeder's Cup Info &raquo;</a></center></p>
+        <p><center><a class="btn btn-secondary" href="https://www.breederscup.com/races/how-it-works" target="_blank" role="button" onclick="captureOutboundLink('https://www.breederscup.com/races/how-it-works');">Breeders' Cup Info &raquo;</a></center></p>
         <p><center><a class="btn btn-secondary" href="https://www.paulickreport.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.paulickreport.com/');">Paulick Report &raquo;</a></center></p>
         <p><center><a class="btn btn-secondary" href="https://www.pedigreequery.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.pedigreequery.com/');">Pedigree Query &raquo;</a></center></p>
         <p><center><a class="btn btn-secondary" href="https://news.tvg.com/" target="_blank" role="button" onclick="captureOutboundLink('https://news.tvg.com/');">TVG News &raquo;</a></center></p>
