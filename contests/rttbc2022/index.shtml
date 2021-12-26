@@ -37,9 +37,9 @@
 
 <!-- Replace these 2 links with a direct link to 2 pages, one with the Previews for each week, and the other with the Results for each week. All of the PDFs will be stored there.-->
 
-        <!--p><center><a class="btn btn-secondary" href="/gallop/pdf/race-previews/rttbc21/Week23-Race-Previews.pdf" target="_blank" role="button" onclick="captureOutboundLink('/gallop/pdf/race-previews/rttbc21/Week23-Race-Previews.pdf');">Race Previews &raquo;</a></center></p>
-        <p><center><a class="btn btn-secondary" href="/gallop/pdf/race-results/rttbc21/Week23-Race-Results.pdf" target="_blank" role="button" onclick="captureOutboundLink('/gallop/pdf/race-previews/rttbc21/Week23-Race-Previews.pdf');">Race Results &raquo;</a></center></p>
-        <p><center><a class="btn btn-secondary" href="/gallop/pdf/RTTBC21-AllStables.pdf" target="_blank" role="button" onclick="captureOutboundLink('/gallop/pdf/RTTBC21-AllStables.pdf');">View All Stables &raquo;</a></center></p-->
+        <!--p><center><a class="btn btn-secondary" href="/pdf/race-previews/rttbc21/Week23-Race-Previews.pdf" target="_blank" role="button" onclick="captureOutboundLink('/pdf/race-previews/rttbc21/Week23-Race-Previews.pdf');">Race Previews &raquo;</a></center></p>
+        <p><center><a class="btn btn-secondary" href="/pdf/race-results/rttbc21/Week23-Race-Results.pdf" target="_blank" role="button" onclick="captureOutboundLink('/pdf/race-previews/rttbc21/Week23-Race-Previews.pdf');">Race Results &raquo;</a></center></p>
+        <p><center><a class="btn btn-secondary" href="/pdf/RTTBC21-AllStables.pdf" target="_blank" role="button" onclick="captureOutboundLink('/pdf/RTTBC21-AllStables.pdf');">View All Stables &raquo;</a></center></p-->
       </div>
   
       <!--div class="round-border"><h5>Contest Schedule</h5>

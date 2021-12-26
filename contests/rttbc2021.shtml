@@ -42,7 +42,7 @@
 <p><center><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=249132506&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=249132506&single=true');">Horses</a></center></p>
 <p><center><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&single=true');">Schedule</a></center></p>
  
-<p><center><a class="btn btn-secondary" href="/gallop/pdf/RTTBC21-AllStables.pdf" target="_blank" role="button" onclick="captureOutboundLink('/gallop/pdf/RTTBC21-AllStables.pdf');" target="_blank" role="button">View All Stables PDF</a></center></p>
+<p><center><a class="btn btn-secondary" href="/pdf/RTTBC21-AllStables.pdf" target="_blank" role="button" onclick="captureOutboundLink('/pdf/RTTBC21-AllStables.pdf');" target="_blank" role="button">View All Stables PDF</a></center></p>
 
 <p><center><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttbc2021?f=live" target="_blank" role="button">#rttbc2021 on Twitter &raquo;</a></center></p>
 </div>
@@ -92,7 +92,7 @@
 </div>
 
 <div class="round-border"><h5>Leading Horses</h5>
-  <p><center><a class="btn btn-secondary" href="/gallop/pdf/RTTBC21_Season_Leaders-Horses.pdf" target="_blank" role="button" onclick="captureOutboundLink('/gallop/pdf/RTTBC21_Season_Leaders-Horses.pdf');">View PDF</a></center></p>
+  <p><center><a class="btn btn-secondary" href="/pdf/RTTBC21_Season_Leaders-Horses.pdf" target="_blank" role="button" onclick="captureOutboundLink('/pdf/RTTBC21_Season_Leaders-Horses.pdf');">View PDF</a></center></p>
 </div>
 
 </center>

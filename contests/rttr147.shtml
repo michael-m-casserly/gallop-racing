@@ -128,7 +128,7 @@
 <center>
 
 <div class="round-border"><h5>Leading Horses</h5>
-  <p><center><a class="btn btn-secondary" href="/gallop/pdf/RTTR147_Season_Leaders-Horses.pdf" target="_blank" role="button" onclick="captureOutboundLink('/gallop/pdf/RTTR147_Season_Leaders-Horses.pdf');">View PDF</a></center></p>
+  <p><center><a class="btn btn-secondary" href="/pdf/RTTR147_Season_Leaders-Horses.pdf" target="_blank" role="button" onclick="captureOutboundLink('/pdf/RTTR147_Season_Leaders-Horses.pdf');">View PDF</a></center></p>
 </div>
 
 <div class="round-border"><h5>Leading Jockeys</h5>
