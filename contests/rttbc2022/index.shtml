@@ -69,7 +69,7 @@
 </div> <!--end left column-->
 
 <div class="col-lg-4"> <!--begin middle column-->
-    <a name="Twitter"></a>
+    <a id="Twitter"></a>
     <div class="round-border"><h5>Contest News</h5>
       <a class="twitter-timeline" width="100%" height="1022" href="https://twitter.com/gallopracingllc?ref_src=twsrc%5Etfw">Tweets by gallopracingllc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
@@ -168,7 +168,7 @@
 
 </div> <!--end right column-->
 
-<a name="schedule"></a>
+<a id="schedule"></a>
       </div> <!--row #1-->
 
 <br/>

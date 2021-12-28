@@ -17,7 +17,7 @@
     <main class="container" style="background-color:#FFF;">
 
 <br/>
-<a name="Entries-Results"></a>
+<a id="Entries-Results"></a>
 <div class="text-align-center"><h3>Road to the Roses<br/>Derby 148</h3></div>
 
 <div class="container marketing">
@@ -192,7 +192,7 @@
 </div> <!--end middle column-->
 
 <div class="col-lg-4"> <!--begin right column-->
-    <a name="Twitter"></a>
+    <a id="Twitter"></a>
     <div class="round-border"><h5>Contest News</h5>
       <a class="twitter-timeline" width="100%" height="1146" href="https://twitter.com/gallopracingllc?ref_src=twsrc%5Etfw">Tweets by gallopracingllc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
   
@@ -223,7 +223,7 @@
 
 </div> <!--end right column-->
 
-<a name="leaderboard"></a>
+<a id="leaderboard"></a>
       </div> <!--row #1-->
 
       <br/>
@@ -234,7 +234,7 @@
 
             <iframe class="responsive-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" onload="document.getElementById('spinner').style.display='none';">Loading...</iframe>
           </div-->
-<a name="schedule"></a>
+<a id="schedule"></a>
       </div> <!--row #2-->
 <br/>
 <div class="row">

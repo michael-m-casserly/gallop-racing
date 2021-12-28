@@ -32,7 +32,6 @@
   </div> <!--end left column-->
 
 <div class="col-lg-4"> <!--begin middle column-->
-  <a name="Horses"></a>
 <div class="round-border"><h5>RTTBC2021 Info</h5>
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=0&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=0&single=true');">Leaderboard</a></p>
     
