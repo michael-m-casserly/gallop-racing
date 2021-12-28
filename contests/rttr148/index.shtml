@@ -39,7 +39,7 @@
       <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></center></p></td>
 </tr>
 <tr>
-  <td colspan="2" class="race-name-header">Southwest Stakes<br/>(10-4-2-1-7)
+  <td colspan="2" class="race-name-header">Southwest Stakes<br/>(Tier 4)
     <p><a class="btn btn-secondary btn-half" href="/nominations/rttr148/Week02-Southwest-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>&nbsp;
     <a class="btn btn-secondary btn-half" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Entries</a>
     <a class="btn btn-secondary btn-half" href="/results/rttr148/Week02-Southwest-Stakes-Results.pdf" target="_blank" role="button">Results</a></p></td>
@@ -55,7 +55,7 @@
             <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></center></p></td>
       </tr-->
       <tr>
-        <td class="race-name-header">Lecomte Stakes<br/>(10-4-2-1-7)
+        <td class="race-name-header">Lecomte Stakes<br/>(Tier 4)
           <!--p><a class="btn btn-secondary btn-half" href="/nominations/rttr148/Week01-Lecomte-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>&nbsp;
           <a class="btn btn-secondary btn-half" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Entries</a>
           <a class="btn btn-secondary btn-half" href="/results/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Results</a></p--></td>
