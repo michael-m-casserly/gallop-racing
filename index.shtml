@@ -29,7 +29,7 @@
     
       <div class="round-border"><h5>Sign Up for RTTR 148</h5>
 
-        <p><center><a class="btn btn-secondary" href="/register/index.shtml" role="button">Register</a></center></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="/register/index.shtml" role="button">Register</a></p>
         
       </div>    
       
@@ -37,11 +37,10 @@
 
 <!--Placeholder Message-->
 <p>RTTR148 will start with the Lecomte Stakes on Jan. 22, 2022.</p>
-<p><center><a class="btn btn-secondary" href="/contests/rttr148/index.shtml" role="button">Nominations,&nbsp;Entries&nbsp;&amp;&nbsp;Results</a></center></p>
+<p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttr148/index.shtml" role="button">Nominations,&nbsp;Entries&nbsp;&amp;&nbsp;Results</a></p>
         
 <!-- Convert these Preview links below to a drop-down menu once the season ends-->
-<!--p>
-<center-->
+<!--p class="module-button-wrapper"-->
   <!--a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week01-Preview.pdf" target="_blank" role="button">Week #1 Preview &raquo;</a>
   <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week02-Preview.pdf" target="_blank" role="button">Week #2 Preview &raquo;</a>
   <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week03-Preview.pdf" target="_blank" role="button">Week #3 Preview &raquo;</a>
@@ -56,7 +55,6 @@
   <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week12-Preview.pdf" target="_blank" role="button">Week #12 Preview &raquo;</a>
   <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week13-Preview.pdf" target="_blank" role="button">Week #13 Preview &raquo;</a>
   <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week14-Preview.pdf" target="_blank" role="button">Week #14 Preview &raquo;</a-->
-<!--/center>
 </p-->
       
 <!--a name="Nominations"></a-->
@@ -105,16 +103,16 @@
                       
       <div class="round-border"><h5>Resources for Drafting</h5>
       <!-- Hide the 2 Derby Points related buttons for Derby 148, since the omission of Baffert's horses can be misleading
-        <p><center><a class="btn btn-secondary" href="https://www.kentuckyderby.com/horses" target="_blank" role="button" onclick="captureOutboundLink('https://www.kentuckyderby.com/horses');">Derby Horses &raquo;</a></center></p>
-      <p><center><a class="btn btn-secondary" href="https://www.kentuckyderby.com/horses/leaderboard" target="_blank" role="button" onclick="captureOutboundLink('https://www.kentuckyderby.com/horses/leaderboard');">Derby Points Leaderboard &raquo;</a></center></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.kentuckyderby.com/horses" target="_blank" role="button" onclick="captureOutboundLink('https://www.kentuckyderby.com/horses');">Derby Horses &raquo;</a></p>
+      <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.kentuckyderby.com/horses/leaderboard" target="_blank" role="button" onclick="captureOutboundLink('https://www.kentuckyderby.com/horses/leaderboard');">Derby Points Leaderboard &raquo;</a></p>
       -->
-      <p><center><a class="btn btn-secondary" href="https://www.kentuckyderby.com/horses/prep-races" target="_blank" role="button" onclick="captureOutboundLink('https://www.kentuckyderby.com/horses/prep-races');">Derby Prep Schedule &raquo;</a></center></p>
-      <p><center><a class="btn btn-secondary" href="https://www1.drf.com/drfLeaderBoard.do?category=beyer" target="_blank" role="button" onclick="captureOutboundLink('https://www1.drf.com/drfLeaderBoard.do?category=beyer');">DRF Beyer Leaders &raquo;</a></center></p>
-      <p><center><a class="btn btn-secondary" href="https://www.drf.com/derby-watch" target="_blank" role="button" onclick="captureOutboundLink('https://www.drf.com/derby-watch');">DRF Derby Watch &raquo;</a></center></p>
-      <p><center><a class="btn btn-secondary" href="https://www.equibase.com/virtualstable" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/virtualstable');">Equibase Virtual Stable &raquo;</a></center></p>
-      <p><center><a class="btn btn-secondary" href="https://www.horseracingnation.com/p/stakes-schedule" target="_blank" role="button" onclick="captureOutboundLink('https://www.horseracingnation.com/p/stakes-schedule');">HRN Stakes Tracker &raquo;</a></center></p>
-      <p><center><a class="btn btn-secondary" href="https://youtu.be/k-895WUX6zk" target="_blank" role="button" onclick="captureOutboundLink('https://youtu.be/k-895WUX6zk');">League Demo on YouTube &raquo;</a></center></p>
-      <!--p><center><a class="btn btn-secondary" href="https://www.bloodhorse.com/horse-racing/triple-crown/nominations/2022" target="_blank" role="button" onclick="captureOutboundLink('https://www.bloodhorse.com/horse-racing/triple-crown/nominations/2022');">Triple Crown Nominations &raquo;</a></center></p-->
+      <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.kentuckyderby.com/horses/prep-races" target="_blank" role="button" onclick="captureOutboundLink('https://www.kentuckyderby.com/horses/prep-races');">Derby Prep Schedule &raquo;</a></p>
+      <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www1.drf.com/drfLeaderBoard.do?category=beyer" target="_blank" role="button" onclick="captureOutboundLink('https://www1.drf.com/drfLeaderBoard.do?category=beyer');">DRF Beyer Leaders &raquo;</a></p>
+      <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.drf.com/derby-watch" target="_blank" role="button" onclick="captureOutboundLink('https://www.drf.com/derby-watch');">DRF Derby Watch &raquo;</a></p>
+      <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.equibase.com/virtualstable" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/virtualstable');">Equibase Virtual Stable &raquo;</a></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.horseracingnation.com/p/stakes-schedule" target="_blank" role="button" onclick="captureOutboundLink('https://www.horseracingnation.com/p/stakes-schedule');">HRN Stakes Tracker &raquo;</a></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://youtu.be/k-895WUX6zk" target="_blank" role="button" onclick="captureOutboundLink('https://youtu.be/k-895WUX6zk');">League Demo on YouTube &raquo;</a></p>
+        <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.bloodhorse.com/horse-racing/triple-crown/nominations/2022" target="_blank" role="button" onclick="captureOutboundLink('https://www.bloodhorse.com/horse-racing/triple-crown/nominations/2022');">Triple Crown Nominations &raquo;</a></p-->
     </div>
     
     <div class="round-border"><h5>Television Schedule</h5>
@@ -122,7 +120,7 @@
       <p>Info regarding any network coverage of the RTTR races will be shown here.</p>
       
       
-              <!--p><center><a class="btn btn-secondary" href="https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs" target="_blank" role="button" onclick="captureOutboundLink('https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs');">BC Challenge Series &raquo;</a></center></p>
+      <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs" target="_blank" role="button" onclick="captureOutboundLink('https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs');">BC Challenge Series &raquo;</a></p>
               <p style="text-align: left;">All <b>Del Mar</b> Racing is shown on TVG:<br/><i>Verizon Fios Channel 815<br/>DirectTV Channel 602</i><br/><a href="https://www.tvg.com/promos/watch/channel-finder/" target="_blank" onclick="captureOutboundLink('https://www.tvg.com/promos/watch/channel-finder/');">TVG Channel Finder</a><br/>Most other tracks are also on TVG, when not on NBC, NBCSN, FS1 or FS2.<br/>TVG is also shown on MSG or MSG+ from 12-7PM EST Wed. thru Sun.</p-->
   </div>
 
@@ -159,9 +157,10 @@
 <p>Links to the RTTR148 Leaderboard, Calendar, Horses, and Rules will be available here when the contest begins.</p-->
 
     <!--*********Uncomment this once the Leaderboard is filled in, and then remove the temporary button...*********
-    <p><center><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&single=true');">Leaderboard &raquo;</a></center></p-->
+    <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&single=true');">Leaderboard &raquo;</a></p-->
     
 <!--*********TEMPORARY LEADERBOARD BUTTON-->
+<p class="module-button-wrapper">
 <div class="dropdown" style="border:hidden;">
   <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     Leaderboard
@@ -172,26 +171,26 @@
 
 </div>
 </div>
+</p>
 
+    <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=agenda" target="_blank" role="button" onclick="captureOutboundLink('https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=agenda');">Calendar</a>&nbsp;
+    <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=249132506&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=249132506&single=true');">Horses</a></p>
 
-    <p><center><a class="btn btn-secondary btn-half" href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=agenda" target="_blank" role="button" onclick="captureOutboundLink('https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=agenda');">Calendar</a>&nbsp;
-    <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=249132506&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=249132506&single=true');">Horses</a></center></p>
-
-    <p><center><a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2036485040&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&single=true');">Schedule</a>&nbsp;
-    <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2095985959&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2095985959&single=true');">Rules</a></center></p>
+    <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2036485040&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&single=true');">Schedule</a>&nbsp;
+    <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2095985959&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2095985959&single=true');">Rules</a></p>
     </div>
   
     <!--#include virtual="/contests/rttr-scoring-table.html" -->    
     
       
       <div class="round-border"><h5>Additional Resources</h5>
-        <p><center><a class="btn btn-secondary" href="https://www.bloodhorse.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.bloodhorse.com/');">BloodHorse Magazine &raquo;</a></center></p>
-        <p><center><a class="btn btn-secondary" href="https://www.drf.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.drf.com/');">Daily Racing Form &raquo;</a></center></p>
-        <p><center><a class="btn btn-secondary" href="https://www.equibase.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/');">Equibase &raquo;</a></center></p>
-        <p><center><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttr148?f=live" target="_blank" role="button" onclick="captureOutboundLink('https://twitter.com/hashtag/rttr148?f=live');">#rttr148 on Twitter &raquo;</a></center></p>
-        <p><center><a class="btn btn-secondary" href="https://www.paulickreport.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.paulickreport.com/');">Paulick Report &raquo;</a></center></p>
-        <p><center><a class="btn btn-secondary" href="https://www.pedigreequery.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.pedigreequery.com/');">Pedigree Query &raquo;</a></center></p>
-        <p><center><a class="btn btn-secondary" href="https://news.tvg.com/" target="_blank" role="button" onclick="captureOutboundLink('https://news.tvg.com/');">TVG News &raquo;</a></center></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.bloodhorse.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.bloodhorse.com/');">BloodHorse Magazine &raquo;</a></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.drf.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.drf.com/');">Daily Racing Form &raquo;</a></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.equibase.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/');">Equibase &raquo;</a></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttr148?f=live" target="_blank" role="button" onclick="captureOutboundLink('https://twitter.com/hashtag/rttr148?f=live');">#rttr148 on Twitter &raquo;</a></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.paulickreport.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.paulickreport.com/');">Paulick Report &raquo;</a></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.pedigreequery.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.pedigreequery.com/');">Pedigree Query &raquo;</a></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://news.tvg.com/" target="_blank" role="button" onclick="captureOutboundLink('https://news.tvg.com/');">TVG News &raquo;</a></p>
         </div>
         
 </center>

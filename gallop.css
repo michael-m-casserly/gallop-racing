@@ -243,3 +243,6 @@ a.PageTitleBreadCrumb:link {
   /*color: #0000CC; */
   }
 
+p.module-button-wrapper {
+  text-align: center;
+}
