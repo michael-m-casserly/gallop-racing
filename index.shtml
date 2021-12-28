@@ -52,7 +52,7 @@
   <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week11-Preview.pdf" target="_blank" role="button">Week #11 Preview &raquo;</a>
   <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week12-Preview.pdf" target="_blank" role="button">Week #12 Preview &raquo;</a>
   <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week13-Preview.pdf" target="_blank" role="button">Week #13 Preview &raquo;</a>
-  <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week14-Preview.pdf" target="_blank" role="button">Week #14 Preview &raquo;</a-->
+  <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week14-Preview.pdf" target="_blank" role="button">Week #14 Preview &raquo;</a>
 </p-->
       
 <!--a name="Nominations"></a-->
@@ -153,7 +153,8 @@
 
     <!--*********Uncomment this once the Leaderboard is filled in, and then remove the temporary button...*********
     <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&single=true');">Leaderboard &raquo;</a></p-->
-    
+
+      
 <!--*********TEMPORARY LEADERBOARD BUTTON-->
 <p class="module-button-wrapper">
 <div class="dropdown" style="border:hidden;">
