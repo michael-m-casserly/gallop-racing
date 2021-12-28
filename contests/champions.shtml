@@ -21,12 +21,12 @@
       <div class="text-align-center"><h3>Road to the Roses<br/>&amp;<br/>Breeders' Cup<br/>Champions</h3></div>
   
       <div class="container marketing">
-      <center>
         <style>
           td{
             text-align: center !important;
           }
         </style>
+        <center>
       <table class="TableStandard" border="1">
         <tr class="TableHeader">
           <td colspan="2" align="center">RTTBC '21 (2021)</td>

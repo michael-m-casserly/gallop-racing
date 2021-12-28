@@ -33,16 +33,15 @@
 
 <div class="col-lg-4"> <!--begin middle column-->
   <a name="Horses"></a>
-  <center>
 <div class="round-border"><h5>RTTBC2021 Info</h5>
-  <p><center><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=0&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=0&single=true');">Leaderboard</a></center></p>
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=0&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=0&single=true');">Leaderboard</a></p>
     
-<p><center><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=249132506&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=249132506&single=true');">Horses</a></center></p>
-<p><center><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&single=true');">Schedule</a></center></p>
+<p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=249132506&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=249132506&single=true');">Horses</a></p>
+<p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&single=true');">Schedule</a></p>
  
-<p><center><a class="btn btn-secondary" href="/pdf/RTTBC21-AllStables.pdf" target="_blank" role="button" onclick="captureOutboundLink('/pdf/RTTBC21-AllStables.pdf');" target="_blank" role="button">View All Stables PDF</a></center></p>
+<p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC21-AllStables.pdf" target="_blank" role="button" onclick="captureOutboundLink('/pdf/RTTBC21-AllStables.pdf');" target="_blank" role="button">View All Stables PDF</a></p>
 
-<p><center><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttbc2021?f=live" target="_blank" role="button">#rttbc2021 on Twitter &raquo;</a></center></p>
+<p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttbc2021?f=live" target="_blank" role="button">#rttbc2021 on Twitter &raquo;</a></p>
 </div>
 
 <div class="round-border"><h5>Leading Trainers</h5>
@@ -90,14 +89,12 @@
 </div>
 
 <div class="round-border"><h5>Leading Horses</h5>
-  <p><center><a class="btn btn-secondary" href="/pdf/RTTBC21_Season_Leaders-Horses.pdf" target="_blank" role="button" onclick="captureOutboundLink('/pdf/RTTBC21_Season_Leaders-Horses.pdf');">View PDF</a></center></p>
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC21_Season_Leaders-Horses.pdf" target="_blank" role="button" onclick="captureOutboundLink('/pdf/RTTBC21_Season_Leaders-Horses.pdf');">View PDF</a></p>
 </div>
 
-</center>
 </div> <!--end middle column-->
 
 <div class="col-lg-4"> <!--begin right column-->
-<center>
   
     <div class="round-border"><h5>Leading Jockeys</h5>
         <table class="TableStandard">
@@ -188,10 +185,7 @@
       </table>
 </div>
 
-</center>
-
 </div> <!--end right column-->
-</center>
 
       </div> <!--row #1-->
 <br/>

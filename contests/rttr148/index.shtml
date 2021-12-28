@@ -25,7 +25,6 @@
 
  <div class="row">
   <div class="col-lg-4"> <!--begin left column-->
-    <center>
     
       <div class="round-border"><h5>Weekly Updates</h5>
 
@@ -34,7 +33,7 @@
         <td colspan="2" align="center">Week #2, Jan. 29, 2022</td>
   </tr>
   <tr>
-    <td colspan="2"><p><center><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+    <td colspan="2"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
       <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></center></p></td>
 </tr>
 <tr>
@@ -54,7 +53,7 @@
           <th class="text-align-center">Week #1, Jan. 22, 2022</th>
         </tr>
         <!--tr>
-          <td><p><center><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+          <td><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
             <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></center></p></td>
       </tr-->
       <tr>
@@ -71,10 +70,8 @@
     
   </div>
 
-      </center>
   </div><!--end left column-->
   <div class="col-lg-4"> <!--begin middle column-->
-    <center>
     
       <div class="round-border"><h5>Leading Horses</h5>
         <table class="TableStandard">
@@ -100,11 +97,9 @@
       </table>
 
         </div>
-        </center>
   </div><!--end middle column-->
 
   <div class="col-lg-4"> <!--begin right column-->
-    <center>
     
       <div class="round-border"><h5>Leading Trainers</h5>
         <table class="TableStandard">
@@ -154,9 +149,7 @@
         </div>
 
         <!--#include virtual="/contests/rttr-scoring-table.html" -->    
-    
 
-      </center>
   </div><!--end right column-->
 
 </div><!--end row-->

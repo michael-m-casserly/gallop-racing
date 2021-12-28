@@ -24,7 +24,6 @@
 
   <div class="row">
   <div class="col-lg-4"> <!--begin left column-->
-    <center>
     
       <div class="round-border"><h5>Sign Up for RTTR 148</h5>
 
@@ -122,15 +121,12 @@
       <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs" target="_blank" role="button" onclick="captureOutboundLink('https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs');">BC Challenge Series &raquo;</a></p>
               <p style="text-align: left;">All <b>Del Mar</b> Racing is shown on TVG:<br/><i>Verizon Fios Channel 815<br/>DirectTV Channel 602</i><br/><a href="https://www.tvg.com/promos/watch/channel-finder/" target="_blank" onclick="captureOutboundLink('https://www.tvg.com/promos/watch/channel-finder/');">TVG Channel Finder</a><br/>Most other tracks are also on TVG, when not on NBC, NBCSN, FS1 or FS2.<br/>TVG is also shown on MSG or MSG+ from 12-7PM EST Wed. thru Sun.</p-->
   </div>
-
-  </center>
     
 </div> <!--end left column-->
 
 <div class="col-lg-4"> <!--begin middle column-->
-<center>
   
-  <div class="round-border"><center><h5>How to Play</h5></center>
+  <div class="round-border" style="text-align: center;"><h5>How to Play</h5>
   <p style="text-align:center; font-size: 13px; color: #000000;">
     <b><i>January</i></b><br/> 
     Draft 5 horses, 2 trainers, and 2 jockeys.<br/>
@@ -191,13 +187,10 @@
         <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.pedigreequery.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.pedigreequery.com/');">Pedigree Query &raquo;</a></p>
         <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://news.tvg.com/" target="_blank" role="button" onclick="captureOutboundLink('https://news.tvg.com/');">TVG News &raquo;</a></p>
         </div>
-        
-</center>
 
 </div> <!--end middle column-->
 
 <div class="col-lg-4"> <!--begin right column-->
-  <center>
     <a name="Twitter"></a>
     <div class="round-border"><h5>Contest News</h5>
       <a class="twitter-timeline" width="100%" height="1146" href="https://twitter.com/gallopracingllc?ref_src=twsrc%5Etfw">Tweets by gallopracingllc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
@@ -226,9 +219,6 @@
         </div>
         </div>
       </div>
-
-  
-    </center>
 
 </div> <!--end right column-->
 
