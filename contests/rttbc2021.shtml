@@ -28,7 +28,7 @@
   <div class="col-lg-4"> <!--begin left column-->
     <div class="round-border"><h5>Final Standings</h5>
     
-      <img src="/images/leaderboard-rttbc2021.png" border="0" style="max-width: 328px;"/>
+      <img src="/images/leaderboard-rttbc2021.png" style="max-width: 328px; border: 0;"/>
     </div>
   
   </div> <!--end left column-->
@@ -198,7 +198,7 @@
       </div> <!--row #1-->
 <br/>
 <div class="row">
-  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" style="max-width: 250px;" border="0"/></a>
+  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" style="max-width: 250px; border: 0;" /></a>
 
   <!--#include virtual="/iframe-spinner.html" -->   
 

@@ -30,7 +30,7 @@
     
   <div class="round-border"><h5>Final Standings</h5>
     
-    <img src="/images/leaderboard-rttr147.png" border="0" style="max-width: 362px;"/>
+    <img src="/images/leaderboard-rttr147.png" style="max-width: 362px; border: 0;"/>
   </div>
 
   </div> <!--end left column-->
@@ -227,7 +227,7 @@
 </div> <!--row #1-->
 <br/>
 <div class="row">      
-  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" style="max-width: 250px;" border="0"/></a>
+  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" style="max-width: 250px; border: 0;" /></a>
 
   <!--#include virtual="/iframe-spinner.html" -->   
 
