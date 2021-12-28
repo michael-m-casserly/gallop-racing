@@ -15,7 +15,7 @@
     <!--End Banner-->
     
     <!--Begin Main Content Section-->
-    <main role="main" class="container" style="background-color:#FFF;">
+    <main class="container" style="background-color:#FFF;">
       <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span><span class="PageTitleBreadCrumb">RTTBC 2021</span></div>
 
 <center>
