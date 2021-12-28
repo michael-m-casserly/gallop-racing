@@ -241,7 +241,7 @@
 
       <br/>
       <div class="row">      
-        <!--a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" style="max-width: 250px; border: 0;" /></a>
+        <!--a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive" style="max-width: 250px; border: 0;" /></a>
         <div class="iframe-container">
           <!#include virtual="/iframe-spinner.html" > Add back 2 dashes when uncommented
 
@@ -251,7 +251,7 @@
       </div> <!--row #2-->
 <br/>
 <div class="row">
-  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" style="max-width: 250px; border: 0;" /></a>
+  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive" style="max-width: 250px; border: 0;" /></a>
 
 <!--#include virtual="/iframe-spinner2.html" -->   
 
