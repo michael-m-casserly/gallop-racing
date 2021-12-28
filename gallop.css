@@ -178,40 +178,69 @@ td {
 	text-align:left !important;
 }
 
-.table-data-number{
+.table-data-number {
   text-align: center !important;
 }
 
-.drafted-player
-{
+.drafted-player {
   font-weight: bold;
 }
 
-.non-drafted-player
-{
+.non-drafted-player {
   font-style: italic;
 }
 
-.stats-table
-{
+.stats-table {
   margin: 10px;
   background-color: #FFF;
   width: 100%;
   min-width: 250px;
 }
 
-.race-name-header
-{
+.race-name-header {
   font-weight: bold;
   text-align: center !important;
 }
 
-.text-align-center
-{
+.text-align-left {
+  text-align: left;
+}
+
+.text-align-center {
   text-align: center;
 }
 
 /* End Table Styles*/
+
+/* Scoring Table Special Styles */
+
+.scoring-table-data {
+  text-align: center;
+  padding: 9px;
+  background-color: #FFF;
+}
+
+.scoring-table-data-subject {
+  font-size: 12px;
+  text-align: left;
+  font-style: italic;
+  font-weight: bold;
+  padding: 5px;
+  background-color: #344f7c;
+  color: #FFF;
+}
+
+.scoring-table {
+  border-width: 2px;
+}
+
+.scoring-table-header-row { 
+  border-width: 5px;
+  background-color: #344f7c;
+  color: #FFF;
+}
+
+/* End Scoring Table Special Styles */
 
 .breadcrumb {
 	padding-top: 20px !important; /* any adjustment here should also be applied to the jumbotron pic on index.shtml */
