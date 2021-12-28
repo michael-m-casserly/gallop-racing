@@ -16,10 +16,9 @@
     <!--Begin Main Content Section-->
     <main class="container" style="background-color:#FFF;">
 
-<center>
 <br/>
 <a name="Entries-Results"></a>
-<h3>Road to the Roses<br/>Derby 148</h3>
+<div class="text-align-center"><h3>Road to the Roses<br/>Derby 148</h3></div>
 
 <div class="container marketing">
 
@@ -232,8 +231,6 @@
     </center>
 
 </div> <!--end right column-->
-
-</center>
 
 <a name="leaderboard"></a>
       </div> <!--row #1-->

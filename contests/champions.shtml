@@ -18,9 +18,7 @@
     <main class="container" style="background-color:#FFF;">
       <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span><span class="PageTitleBreadCrumb">Champions</span></div>
    
-      <center>
-        <h3>Road to the Roses<br/>&amp;<br/>Breeders' Cup<br/>Champions</h3>
-        </center>
+      <div class="text-align-center"><h3>Road to the Roses<br/>&amp;<br/>Breeders' Cup<br/>Champions</h3></div>
   
       <div class="container marketing">
       <center>
