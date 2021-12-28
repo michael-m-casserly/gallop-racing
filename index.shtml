@@ -97,7 +97,7 @@
       </div-->
           
       <div class="round-border"><h5>Contest Schedule</h5>
-      <iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0" height="450" width="100%" scrolling="no"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div>
+      <iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 450px; width: 100%; overflow: hidden;"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div>
                       
       <div class="round-border"><h5>Resources for Drafting</h5>
       <!-- Hide the 2 Derby Points related buttons for Derby 148, since the omission of Baffert's horses can be misleading
@@ -194,7 +194,7 @@
 <div class="col-lg-4"> <!--begin right column-->
     <a id="Twitter"></a>
     <div class="round-border"><h5>Contest News</h5>
-      <a class="twitter-timeline" width="100%" height="1146" href="https://twitter.com/gallopracingllc?ref_src=twsrc%5Etfw">Tweets by gallopracingllc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+      <a class="twitter-timeline" width="100%" height="1146" href="https://twitter.com/gallopracingllc?ref_src=twsrc%5Etfw">Tweets by gallopracingllc</a> <script async src="https://platform.twitter.com/widgets.js"></script></div>
   
         <!-- Comment this out until issue with footer menu is resolved. For some reason, the menu appears inside of this dropdown, instead of on the page-->
       <div class="round-border"><h5>Stakes Nominations</h5>
@@ -232,7 +232,7 @@
         <div class="iframe-container">
           <!#include virtual="/iframe-spinner.html" > Add back 2 dashes when uncommented
 
-            <iframe class="responsive-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" onload="document.getElementById('spinner').style.display='none';">Loading...</iframe>
+            <iframe class="responsive-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" onload="document.getElementById('spinner').style.display='none';"></iframe>
           </div-->
 <a id="schedule"></a>
       </div> <!--row #2-->
@@ -243,7 +243,7 @@
 <!--#include virtual="/iframe-spinner2.html" -->   
 
     <div class="iframe-container">
-      <iframe class="responsive-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" onload="document.getElementById('spinner2').style.display='none';">Loading...</iframe>
+      <iframe class="responsive-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" onload="document.getElementById('spinner2').style.display='none';"></iframe>
     </div>
 </div> <!--row #3-->
 <br/>
