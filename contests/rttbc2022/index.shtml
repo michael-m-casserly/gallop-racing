@@ -42,7 +42,7 @@
       </div>
   
       <!--div class="round-border"><h5>Contest Schedule</h5>
-      <iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0" height="344" width="100%" scrolling="no"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div-->
+      <iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0" height="344" width="100%" scrolling="no"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a></div-->
 
     <div class="round-border"><h5>Resources for Draft</h5>
       <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.breederscup.com/contenders" target="_blank" role="button" onclick="captureOutboundLink('https://www.breederscup.com/contenders');">BC Contenders &raquo;</a></p>
@@ -71,7 +71,7 @@
 <div class="col-lg-4"> <!--begin middle column-->
     <a id="Twitter"></a>
     <div class="round-border"><h5>Contest News</h5>
-      <a class="twitter-timeline" width="100%" height="1022" href="https://twitter.com/gallopracingllc?ref_src=twsrc%5Etfw">Tweets by gallopracingllc</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+      <a class="twitter-timeline" height="1022" href="https://twitter.com/gallopracingllc?ref_src=twsrc%5Etfw" style="width: 100%;">Tweets by gallopracingllc</a> <script async src="https://platform.twitter.com/widgets.js"></script></div>
 
 </div> <!--end middle column-->
 

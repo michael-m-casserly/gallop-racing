@@ -26,10 +26,11 @@
             text-align: center !important;
           }
         </style>
-        <center>
+        
+      <center><!--Need to find a way to center this table with CSS, same with the border-->
       <table class="TableStandard" border="1">
         <tr class="TableHeader">
-          <td colspan="2" align="center">RTTBC '21 (2021)</td>
+          <td colspan="2" class="text-align-center">RTTBC '21 (2021)</td>
         </tr>
         <tr>
           <td class="drafted-player">Moonshine Mullon (WIN)</td>
@@ -43,7 +44,7 @@
           <td colspan="2">&nbsp;</td>
         </tr>
         <tr class="TableHeader">
-            <td colspan="2" align="center">RTTR 147 (2021)</td>
+            <td colspan="2" class="text-align-center">RTTR 147 (2021)</td>
           </tr>
           <tr>
             <td class="drafted-player">Bumruggles Stables (WIN)</td>
@@ -57,7 +58,7 @@
             <td colspan="2">&nbsp;</td>
           </tr>
         <tr class="TableHeader">
-          <td colspan="2" align="center">RTTR 142 (2016)</td>
+          <td colspan="2" class="text-align-center">RTTR 142 (2016)</td>
         </tr>
         <tr>
           <td class="drafted-player">Moonshine Mullon</td>
@@ -67,7 +68,7 @@
           <td colspan="2">&nbsp;</td>
         </tr>
       <tr class="TableHeader">
-          <td colspan="2" align="center">RTTR 141 (2015)</td>
+          <td colspan="2" class="text-align-center">RTTR 141 (2015)</td>
         </tr>
         <tr>
           <td class="drafted-player">Kathryn J Fox Stables</td>
@@ -77,7 +78,7 @@
           <td colspan="2">&nbsp;</td>
         </tr>
       <tr class="TableHeader">
-          <td colspan="2" align="center">RTTR 138 (2012)</td>
+          <td colspan="2" class="text-align-center">RTTR 138 (2012)</td>
         </tr>
         <tr>
           <td class="drafted-player">Handsome Dans</td>
@@ -87,7 +88,7 @@
           <td colspan="2">&nbsp;</td>
         </tr>
       <tr class="TableHeader">
-          <td colspan="2" align="center">RTTR 137 (2011)</td>
+          <td colspan="2" class="text-align-center">RTTR 137 (2011)</td>
         </tr>
         <tr>
           <td class="drafted-player">Handsome Dans</td>
@@ -97,7 +98,7 @@
           <td colspan="2">&nbsp;</td>
         </tr>
       <tr class="TableHeader">
-          <td colspan="2" align="center">RTTR 136 (2010)</td>
+          <td colspan="2" class="text-align-center">RTTR 136 (2010)</td>
         </tr>
         <tr>
           <td class="drafted-player">Handsome Dans</td>
@@ -107,7 +108,7 @@
           <td colspan="2">&nbsp;</td>
         </tr>
         <tr class="TableHeader">
-          <td colspan="2" align="center">RTTR 133 (2007)</td>
+          <td colspan="2" class="text-align-center">RTTR 133 (2007)</td>
         </tr>
         <tr>
           <td class="drafted-player">Need for Speed Racing, Inc.</td>
@@ -117,7 +118,7 @@
           <td colspan="2">&nbsp;</td>
         </tr>
         <tr class="TableHeader">
-          <td colspan="2" align="center">RTTR 132 (2006)</td>
+          <td colspan="2" class="text-align-center">RTTR 132 (2006)</td>
         </tr>
         <tr>
           <td class="drafted-player">BIG KEV</td>
@@ -125,7 +126,6 @@
         </tr>        
 </table>
 </center>
-
 <br/>
 <br/>
 
