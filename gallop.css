@@ -222,8 +222,6 @@ td {
   text-align: center;
   padding: 9px;
   background-color: #FFF;
-  border: 1px solid #CCC;
-  border-collapse: collapse; 
 }
 
 .scoring-table-data-subject {
@@ -234,21 +232,13 @@ td {
   padding: 5px;
   background-color: #344f7c;
   color: #FFF;
-  border: 1px solid #CCC;
-  border-collapse: collapse; 
 }
 
-.scoring-table {
+.scoring-table table, th, td {
   border-width: 2px;
   border: 1px solid #CCC;
   border-collapse: collapse; 
 	}
-
-.scoring-table td {
-    border: 1px solid #CCC;
-    border-collapse: collapse; 
-}
-  
 
 .scoring-table-header-row { 
   border-width: 5px;
