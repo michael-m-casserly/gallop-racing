@@ -35,10 +35,6 @@
 
   <div class="col-lg-4"> <!--begin middle column-->
 
-<!--This was the list of horses, sorted by Derby Finish, not really needed...
-<div class="round-border"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=249132506&amp;single=true&amp;widget=true&amp;headers=false" width="295" height="725" frameborder="1" marginheight="0" marginwidth="0">Loading...</iframe></div>
--->
-
 <div class="round-border"><h5>RTTR147 Info</h5>
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=0&single=true" target="_blank" role="button">Leaderboard</a></p>
 <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=249132506&single=true" target="_blank" role="button">Horses</a></p>
@@ -211,8 +207,6 @@
       </tr>
     </table>
   </div>
-  
-  <!--div class="round-border"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" width="295" height="1150" frameborder="1" marginheight="0" marginwidth="0">Loading...</iframe></div-->
 
 </div> <!--end right column-->
 

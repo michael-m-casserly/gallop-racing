@@ -28,7 +28,7 @@
         </style>
         
       <center><!--Need to find a way to center this table with CSS, same with the border-->
-      <table class="TableStandard" border="1">
+      <table class="TableStandard">
         <tr class="TableHeader">
           <td colspan="2" class="text-align-center">RTTBC '21 (2021)</td>
         </tr>

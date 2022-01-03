@@ -147,10 +147,12 @@ td {
 
 .TableStandard {
 	max-width:500px;
-	min-width:250px; 
-	/*border:thin;*/
+	min-width:250px;
+  border: 1px solid black;
+  border-collapse: collapse; 
+	/*border:thin;
 	border-width: 1px; 
-	border-color: #CCC;
+	border-color: #CCC;*/
   background-color: #FFF;
   width: 100%;
   padding: 10px;
@@ -159,8 +161,10 @@ td {
 .TableStandard td {
 	text-align:left;
 	vertical-align:middle;
-	border-width: 1px; 
-	border-color: #CCC;
+	border: 1px solid black; 
+  border-collapse: collapse; 
+  /*border-width: 1px; 
+	border-color: #CCC;*/
   margin-left: 10px;
   padding-left: 10px;	
 }
@@ -218,6 +222,8 @@ td {
   text-align: center;
   padding: 9px;
   background-color: #FFF;
+  border: 1px solid #CCC;
+  border-collapse: collapse; 
 }
 
 .scoring-table-data-subject {
@@ -228,11 +234,21 @@ td {
   padding: 5px;
   background-color: #344f7c;
   color: #FFF;
+  border: 1px solid #CCC;
+  border-collapse: collapse; 
 }
 
 .scoring-table {
   border-width: 2px;
+  border: 1px solid #CCC;
+  border-collapse: collapse; 
+	}
+
+.scoring-table td {
+    border: 1px solid #CCC;
+    border-collapse: collapse; 
 }
+  
 
 .scoring-table-header-row { 
   border-width: 5px;
