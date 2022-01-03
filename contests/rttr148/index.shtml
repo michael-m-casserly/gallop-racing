@@ -121,23 +121,23 @@
               <th class="text-align-center" colspan="2">Stable Sheet, Column A</th>
             </tr>
           <tr>
-            <td>Did Not Enter</td>
+            <td class="drafted-player">Did Not Enter</td>
             <td>Horse was Nominated for a Stakes race, but Did Not Enter.</td>
           </tr>
           <tr>
-            <td>Entered</td>
+            <td class="drafted-player">Entered</td>
             <td>Horse is Entered into an upcoming RTTR race.</td>
           </tr>
           <tr>
-            <td>Nominated</td>
+            <td class="drafted-player">Nominated</td>
             <td>Horse is Nominated for an upcoming Stakes race.</td>
           </tr>
           <tr>
-            <td>OFF TRAIL</td>
+            <td class="drafted-player">OFF TRAIL</td>
             <td>Horse is no longer considering the Kentucky Derby.</td>
           </tr>
           <tr>
-            <td>SCR</td>
+            <td class="drafted-player">SCR</td>
             <td>Horse scratched from their last Stakes race.</td>
           </tr>
         </table>
