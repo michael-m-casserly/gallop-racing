@@ -28,7 +28,7 @@
     
       <div class="round-border"><h5>Weekly Updates</h5>
 
-    <!--table class="TableStandard" border="1" cellpadding="2" cellspacing="2">
+    <!--table class="TableStandard">
       <tr class="TableHeader">
         <td colspan="2" align="center">Week #2, Jan. 29, 2022</td>
   </tr>
@@ -84,6 +84,36 @@
     </table>
     
   </div>
+<a id="legend"></a>
+  <div class="round-border"><h5>Legend</h5>
+
+    <table class="TableStandard">
+      <tr class="TableHeader">
+        <th class="text-align-center" colspan="2">Stable Sheet, Column A</th>
+      </tr>
+    <tr>
+      <td>Did Not Enter</td>
+      <td>Horse was Nominated for a Stakes race, but Did Not Enter.</td>
+    </tr>
+    <tr>
+      <td>Entered</td>
+      <td>Horse is Entered into an upcoming RTTR race.</td>
+    </tr>
+    <tr>
+      <td>Nominated</td>
+      <td>Horse is Nominated for an upcoming Stakes race.</td>
+    </tr>
+    <tr>
+      <td>OFF TRAIL</td>
+      <td>Horse is no longer considering the Kentucky Derby.</td>
+    </tr>
+    <tr>
+      <td>SCR</td>
+      <td>Horse scratched from their last Stakes race.</td>
+    </tr>
+  </table>
+  
+</div>
 
   </div><!--end left column-->
   <div class="col-lg-4"> <!--begin middle column-->
