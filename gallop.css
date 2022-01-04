@@ -234,9 +234,10 @@ td {
   color: #FFF;
 }
 
+/* This will apply to all tables*/
 .scoring-table table, th, td {
   border-width: 2px;
-  border: 1px solid #CCC;
+  border: 1px solid #344f7c;
   border-collapse: collapse; 
 	}
 
