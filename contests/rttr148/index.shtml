@@ -110,8 +110,7 @@
   
       <!--*********Uncomment this once the Leaderboard is filled in, and then remove the temporary button...*********
       <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&single=true');">Leaderboard &raquo;</a></p-->
-  
-        
+    
   <!--*********TEMPORARY LEADERBOARD BUTTON-->
   <p class="module-button-wrapper">  
   <div class="dropdown" style="border:hidden;">
@@ -120,7 +119,20 @@
     <a class="dropdown-item" role="button">Available After Contest Begins</a></div>
   </div>
   </p>
+  <!--*********END TEMPORARY LEADERBOARD BUTTON-->
   
+  <p class="module-button-wrapper">  
+    <div class="dropdown" style="border:hidden;">
+      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton_Stables" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Select Stable
+      </button>          
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton_Stables">
+      <a class="dropdown-item" role="button">Available After Contest Begins</a></div>
+      <!--a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1royW9huwC-DyqK8-F5kibw07d0JO7yBOTT4v2FU1N2Y" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1royW9huwC-DyqK8-F5kibw07d0JO7yBOTT4v2FU1N2Y');">2015 Champion Stables | Kathryn Rodgers</a-->
+    </div>
+  </p>
+
+
       <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=agenda" target="_blank" role="button" onclick="captureOutboundLink('https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=agenda');">Calendar</a>&nbsp;
       <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=249132506&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=249132506&single=true');">Horses</a></p>
   
