@@ -28,7 +28,9 @@
     
       <div class="round-border"><h5>Weekly Updates</h5>
 
-    <!--table class="TableStandard">
+    <a id="southwest"></a>
+    <!--br/>
+    <table class="TableStandard">
       <tr class="TableHeader">
         <td colspan="2" align="center">Week #2, Jan. 29, 2022</td>
   </tr>
@@ -46,9 +48,11 @@
     <a class="btn btn-secondary btn-half" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Entries</a>
     <a class="btn btn-secondary btn-half" href="/results/rttr148/Week02-Southwest-Stakes-Results.pdf" target="_blank" role="button">Results</a></p></td>
 </tr>
-      </table>
-    <br/-->
-      <table class="TableStandard">
+      </table-->
+    
+    <a id="lecomte"></a>
+    <!--br/-->
+    <table class="TableStandard">
         <tr class="TableHeader">
           <th class="text-align-center">Week #1, Jan. 22, 2022</th>
         </tr>
