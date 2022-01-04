@@ -31,11 +31,11 @@
         
       </div>    
       
-      <div class="round-border"><h5>RTTR Weekly Updates</h5>
+      <div class="round-border"><h5>Current Contest</h5>
 
 <!--Placeholder Message-->
-<p>RTTR148 will start with the Lecomte Stakes on Jan. 22, 2022.</p>
-<p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttr148/index.shtml" role="button">Nominations,&nbsp;Entries&nbsp;&amp;&nbsp;Results</a></p>
+<p>RTTR 148 will start with the Lecomte Stakes on Jan. 22, 2022.</p>
+<p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttr148/index.shtml" role="button">RTTR 148</a></p>
         
 <!-- Convert these Preview links below to a drop-down menu once the season ends-->
 <!--p class="module-button-wrapper"-->
@@ -82,6 +82,21 @@
 
       </div>
 
+      <div class="round-border" style="text-align: center;"><h5>How to Play</h5>
+        <p style="text-align:center; font-size: 13px; color: #000000;">
+          <b><i>January</i></b><br/> 
+          Draft 5 horses, 2 trainers, and 2 jockeys.<br/>
+          <b><i>February</i></b><br/>
+          Add on 5 horses.<br/>
+          <b><i>April/May</i></b><br/>
+          Add final 5 horses, for 15 total.<br/>
+          <br/>
+          Earn points throughout a 14-week (25-race) schedule into the Kentucky Derby.<br/>
+          Finish in the Top Tier to qualify for prizes.
+        </p>
+          </div>
+      
+
       <!--div class="round-border"><h5>RTTR Nominations</h5>
 
         <div class="dropdown" style="border:hidden;">
@@ -95,9 +110,6 @@
         </div>
         </div>
       </div-->
-          
-      <div class="round-border"><h5>Contest Schedule</h5>
-      <iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 424px; width: 100%; overflow: hidden;"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div>
                       
       <div class="round-border"><h5>Resources for Drafting</h5>
       <!-- Hide the 2 Derby Points related buttons for Derby 148, since the omission of Baffert's horses can be misleading
@@ -126,46 +138,9 @@
 
 <div class="col-lg-4"> <!--begin middle column-->
   
-  <div class="round-border" style="text-align: center;"><h5>How to Play</h5>
-  <p style="text-align:center; font-size: 13px; color: #000000;">
-    <b><i>January</i></b><br/> 
-    Draft 5 horses, 2 trainers, and 2 jockeys.<br/>
-    <b><i>February</i></b><br/>
-    Add on 5 horses.<br/>
-    <b><i>April/May</i></b><br/>
-    Add final 5 horses, for 15 total.<br/>
-    <br/>
-    Earn points throughout a 14-week (25-race) schedule into the Kentucky Derby.<br/>
-    Finish in the Top Tier to qualify for prizes.
-  </p>
-    </div>
-  
-  <div class="round-border"><h5>RTTR Contest Info</h5>
-    <!--Placeholder Message...
-<p>Links to the RTTR148 Leaderboard, Calendar, Horses, and Rules will be available here when the contest begins.</p-->
+  <div class="round-border"><h5>Contest Schedule</h5>
+    <iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 481px; width: 100%; overflow: hidden;"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div>
 
-    <!--*********Uncomment this once the Leaderboard is filled in, and then remove the temporary button...*********
-    <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&single=true');">Leaderboard &raquo;</a></p-->
-
-      
-<!--*********TEMPORARY LEADERBOARD BUTTON-->
-<p class="module-button-wrapper">  
-<div class="dropdown" style="border:hidden;">
-    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton_Leaderboard" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Leaderboard</button>
-  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton_Leaderboard">
-  <a class="dropdown-item" role="button">Available After Contest Begins</a></div>
-</div>
-</p>
-
-    <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=agenda" target="_blank" role="button" onclick="captureOutboundLink('https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=agenda');">Calendar</a>&nbsp;
-    <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=249132506&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=249132506&single=true');">Horses</a></p>
-
-    <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2036485040&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&single=true');">Schedule</a>&nbsp;
-    <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2095985959&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2095985959&single=true');">Rules</a></p>
-    </div>
-  
-    <!--#include virtual="/contests/rttr-scoring-table.html" -->    
-    
       
       <div class="round-border"><h5>Additional Resources</h5>
         <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.bloodhorse.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.bloodhorse.com/');">BloodHorse Magazine &raquo;</a></p>
@@ -177,37 +152,37 @@
         <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://news.tvg.com/" target="_blank" role="button" onclick="captureOutboundLink('https://news.tvg.com/');">TVG News &raquo;</a></p>
         </div>
 
+        <div class="round-border"><h5>Stakes Nominations</h5>
+          <div class="dropdown" style="border:hidden;">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton_Nomimations" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Select Track
+            </button>          
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton_Nomimations">
+            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=AQU&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=AQU&cy=USA');">Aqueduct (AQU)</a>
+            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=CD&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=CD&cy=USA');">Churchill Downs (CD)</a>
+            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=FG&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=FG&cy=USA');">Fairgrounds (FG)</a>
+            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GG&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GG&cy=USA');">Golden Gate (GG)</a>
+            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GP&cy=USA');">Gulfstream (GP)</a>
+            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=IND&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=KEE&cy=USA');">Keeneland (KEE)</a>
+            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=LRC&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=LRC&cy=USA');">Los Alamitos (LRC)</a>
+            <a class="dropdown-item" href="https://emiratesracing.com/racing-information/race-entries" target="_blank" role="button" onclick="captureOutboundLink('https://emiratesracing.com/racing-information/race-entries');">Meydan (MEY)</a>
+            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=OP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=OP&cy=USA');">Oaklawn Park (OP)</a>
+            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=RP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=RP&cy=USA');">Remington Park (RP)</a>
+            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SA&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SA&cy=USA');">Santa Anita (SA)</a>
+            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SUN&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SUN&cy=USA');">Sunland Park (SUN)</a>
+            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TAM&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TAM&cy=USA');">Tampa Bay Downs (TAM)</a>
+            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TP&cy=USA');">Turfway Park (TP)</a>
+          </div>
+          </div>
+        </div>
+  
 </div> <!--end middle column-->
 
 <div class="col-lg-4"> <!--begin right column-->
     <a id="Twitter"></a>
     <div class="round-border"><h5>Contest News</h5>
-      <a class="twitter-timeline" height="1144" href="https://twitter.com/gallopracingllc?ref_src=twsrc%5Etfw" style="width: 100%;">Tweets by gallopracingllc</a> <script async src="https://platform.twitter.com/widgets.js"></script></div>
+      <a class="twitter-timeline" height="1029" href="https://twitter.com/gallopracingllc?ref_src=twsrc%5Etfw" style="width: 100%;">Tweets by gallopracingllc</a> <script async src="https://platform.twitter.com/widgets.js"></script></div>
   
-        <!-- Comment this out until issue with footer menu is resolved. For some reason, the menu appears inside of this dropdown, instead of on the page-->
-      <div class="round-border"><h5>Stakes Nominations</h5>
-        <div class="dropdown" style="border:hidden;">
-          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton_Nomimations" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Select Track
-          </button>          
-        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton_Nomimations">
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=AQU&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=AQU&cy=USA');">Aqueduct (AQU)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=CD&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=CD&cy=USA');">Churchill Downs (CD)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=FG&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=FG&cy=USA');">Fairgrounds (FG)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GG&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GG&cy=USA');">Golden Gate (GG)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GP&cy=USA');">Gulfstream (GP)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=IND&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=KEE&cy=USA');">Keeneland (KEE)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=LRC&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=LRC&cy=USA');">Los Alamitos (LRC)</a>
-          <a class="dropdown-item" href="https://emiratesracing.com/racing-information/race-entries" target="_blank" role="button" onclick="captureOutboundLink('https://emiratesracing.com/racing-information/race-entries');">Meydan (MEY)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=OP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=OP&cy=USA');">Oaklawn Park (OP)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=RP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=RP&cy=USA');">Remington Park (RP)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SA&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SA&cy=USA');">Santa Anita (SA)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SUN&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SUN&cy=USA');">Sunland Park (SUN)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TAM&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TAM&cy=USA');">Tampa Bay Downs (TAM)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TP&cy=USA');">Turfway Park (TP)</a>
-        </div>
-        </div>
-      </div>
 
 </div> <!--end right column-->
 

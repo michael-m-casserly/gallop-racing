@@ -87,7 +87,34 @@
 
   </div><!--end left column-->
   <div class="col-lg-4"> <!--begin middle column-->
+   
+    <div class="round-border"><h5>RTTR Contest Info</h5>
+      <!--Placeholder Message...
+  <p>Links to the RTTR148 Leaderboard, Calendar, Horses, and Rules will be available here when the contest begins.</p-->
+  
+      <!--*********Uncomment this once the Leaderboard is filled in, and then remove the temporary button...*********
+      <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&single=true');">Leaderboard &raquo;</a></p-->
+  
+        
+  <!--*********TEMPORARY LEADERBOARD BUTTON-->
+  <p class="module-button-wrapper">  
+  <div class="dropdown" style="border:hidden;">
+      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton_Leaderboard" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Leaderboard</button>
+    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton_Leaderboard">
+    <a class="dropdown-item" role="button">Available After Contest Begins</a></div>
+  </div>
+  </p>
+  
+      <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=agenda" target="_blank" role="button" onclick="captureOutboundLink('https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=agenda');">Calendar</a>&nbsp;
+      <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=249132506&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=249132506&single=true');">Horses</a></p>
+  
+      <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2036485040&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&single=true');">Schedule</a>&nbsp;
+      <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2095985959&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2095985959&single=true');">Rules</a></p>
+      </div>
     
+    
+    <!--#include virtual="/contests/rttr-scoring-table.html" -->    
+
       <div class="round-border"><h5>Leading Horses</h5>
         <table class="TableStandard">
           <tr>
@@ -113,37 +140,6 @@
 
         </div>
         
-        <a id="legend"></a>
-        <div class="round-border"><h5>Legend</h5>
-      
-          <table class="TableStandard">
-            <tr class="TableHeader">
-              <th class="text-align-center" colspan="2">Stable Sheet, Column A</th>
-            </tr>
-          <tr>
-            <td class="drafted-player">Did Not Enter</td>
-            <td>Horse was Nominated for a Stakes race, but Did Not Enter.</td>
-          </tr>
-          <tr>
-            <td class="drafted-player">Entered</td>
-            <td>Horse is Entered into an upcoming RTTR race.</td>
-          </tr>
-          <tr>
-            <td class="drafted-player">Nominated</td>
-            <td>Horse is Nominated for an upcoming Stakes race.</td>
-          </tr>
-          <tr>
-            <td class="drafted-player">OFF TRAIL</td>
-            <td>Horse is no longer considering the Kentucky Derby.</td>
-          </tr>
-          <tr>
-            <td class="drafted-player">SCR</td>
-            <td>Horse scratched from their last Stakes race.</td>
-          </tr>
-        </table>
-        
-      </div>
-      
       </div><!--end middle column-->
 
   <div class="col-lg-4"> <!--begin right column-->
@@ -195,8 +191,59 @@
   
         </div>
 
-        <!--#include virtual="/contests/rttr-scoring-table.html" -->    
-
+        <a id="legend"></a>
+        <div class="round-border"><h5>Legend</h5>
+      
+          <table class="TableStandard">
+            <tr class="TableHeader">
+              <th class="text-align-center" colspan="2">Stable Sheet, Column A</th>
+            </tr>
+          <tr>
+            <td class="drafted-player">Did Not Enter</td>
+            <td>Horse was Nominated for a Stakes race, but Did Not Enter.</td>
+          </tr>
+          <tr>
+            <td class="drafted-player">Entered</td>
+            <td>Horse is Entered into an upcoming RTTR race.</td>
+          </tr>
+          <tr>
+            <td class="drafted-player">Nominated</td>
+            <td>Horse is Nominated for an upcoming Stakes race.</td>
+          </tr>
+          <tr>
+            <td class="drafted-player">OFF TRAIL</td>
+            <td>Horse is no longer considering the Kentucky Derby.</td>
+          </tr>
+          <tr>
+            <td class="drafted-player">SCR</td>
+            <td>Horse scratched from their last Stakes race.</td>
+          </tr>
+        </table>
+        <a id="legend-tc-nominations"></a>
+        <table class="TableStandard">
+          <tr class="TableHeader">
+            <th class="text-align-center" colspan="2">Stable Sheet, Column E</th>
+          </tr>
+        <tr>
+          <td class="drafted-player" style="width: 25%;">Early</td>
+          <td>Horse was Nominated to Triple Crown by Jan 29th with a $600 payment.</td>
+        </tr>
+        <tr>
+          <td class="drafted-player">Late</td>
+          <td>Horse was Nominated to Triple Crown between Jan 30th and Mar 29th with a $6,000 payment.</td>
+        </tr>
+        <tr>
+          <td class="drafted-player">Supp.</td>
+          <td>Horse was not Nominated during the Early or Late phase, but was supplemented with a $200,000 payment.</td>
+        </tr>
+        <tr>
+          <td class="drafted-player">[Blank]</td>
+          <td>Horse has yet to be nominated to the Triple Crown.</td>
+        </tr>
+      </table>
+      
+      </div>
+      
   </div><!--end right column-->
 
 </div><!--end row-->
