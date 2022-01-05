@@ -82,20 +82,26 @@
           <a class="btn btn-secondary btn-half" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Entries</a>
           <a class="btn btn-secondary btn-half" href="/results/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Results</a></p--></td>
       </tr>
-    </table>
-    
-  </div>
-
-
-  <div class="round-border"><h5>Contest Notes</h5>
-
+      </table>
+      <a id="louisiana-derby"></a>
+      <br/>
       <table class="TableStandard">
-        <tr class="TableHeader">
-          <th class="text-align-center">Bob Baffert</th>
-        </tr>
-      <tr>
-        <td><p>Bob Baffert <b>will be eligible</b> for both horse and trainer points in this contest. Please be aware of the risk that any of his contending horses could potentially be moved to another trainer prior to the Kentucky Derby, if his current 2-year suspension at Churchill Downs is still in effect come May.</p>
-        <p>Also be aware that all horses currently trained by Bob Baffert will not be listed on the <a href="https://www.kentuckyderby.com/horses" target="_blank"  onclick="captureOutboundLink('https://www.kentuckyderby.com/horses');">Official Road to the Kentucky Derby Points Leaderboard</a>, as they are not eligible for those points. So if you are drafting solely off of that list, you could be missing some of the contenders (Corniche, Messier, Newgrange, Rockefeller, etc.)</p></td>
+          <tr class="TableHeader">
+            <th class="text-align-center">Week #10, Mar. 26, 2022</th>
+          </tr>
+          <!--tr>
+            <td><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+              <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
+        </tr-->
+            <tr>
+        <td class="race-name-header">
+          Louisiana Derby (Tier 1)<br/>
+          Fairgrounds (FG)<br/>
+          Louisiana<!--br>
+          Race #x, Post Time x:xxPM EST-->
+          <p><a class="btn btn-secondary btn-half" href="/nominations/rttr148/Week10-Louisiana-Derby-Early-Bird-Nominations.pdf" target="_blank" role="button">Nominations</a>&nbsp;
+          <!--a class="btn btn-secondary btn-half" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Entries</a>
+          <a class="btn btn-secondary btn-half" href="/results/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Results</a--></p></td>
       </tr>
     </table>
     
@@ -141,143 +147,182 @@
       </div>
     
     
-    <!--#include virtual="/contests/rttr-scoring-table.html" -->    
-
-      <div class="round-border"><h5>Leading Horses</h5>
-        <table class="TableStandard">
-          <tr>
-              <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
-              <th class="table-data-number TableHeader">Points&nbsp;&#8224;</th>  
-          </tr>
-          <tr class="drafted-player">
-              <td colspan="2">Will be updated after Week #1</td>
-          </tr>
-          <!--tr class="drafted-player">
-              <td>Bob Baffert</td>
-              <td class="table-data-number">230</td>
-          </tr>
-          <tr class="non-drafted-player">
-            <td>*William Morey</td>
-            <td class="table-data-number">7</td>
-          </tr-->
-          <tr class="non-drafted-player">
-            <td colspan="2">*Not drafted by any stable.<br/>
-              &#8224;&nbsp;Does not include Power Horse points.</td>
-          </tr>
-      </table>
-
-        </div>
         
       </div><!--end middle column-->
 
   <div class="col-lg-4"> <!--begin right column-->
+    <!--#include virtual="/contests/rttr-scoring-table.html" -->    
     
-      <div class="round-border"><h5>Leading Trainers</h5>
-        <table class="TableStandard">
-          <tr>
-              <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
-              <th class="table-data-number TableHeader">Points</th>  
-          </tr>
-          <tr class="drafted-player">
-            <td colspan="2">Will be updated after Week #1</td>
-        </tr>
-        <!--tr class="drafted-player">
-              <td>Bob Baffert</td>
-              <td class="table-data-number">230</td>
-          </tr>
-          <tr class="non-drafted-player">
-            <td>*William Morey</td>
-            <td class="table-data-number">7</td>
-          </tr-->
-          <tr class="non-drafted-player">
-            <td colspan="2">*Not drafted by any stable.</td>
-          </tr>
-      </table>
-
-        </div>
-        <div class="round-border"><h5>Leading Jockeys</h5>
-          <table class="TableStandard">
-            <tr>
-                <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
-                <th class="table-data-number TableHeader">Points</th>  
-            </tr>
-            <tr class="drafted-player">
-              <td colspan="2">Will be updated after Week #1</td>
-          </tr>
-            <!--tr class="drafted-player">
-                <td>Bob Baffert</td>
-                <td class="table-data-number">230</td>
-            </tr>
-            <tr class="non-drafted-player">
-              <td>*William Morey</td>
-              <td class="table-data-number">7</td>
-            </tr-->
-            <tr class="non-drafted-player">
-              <td colspan="2">*Not drafted by any stable.</td>
-            </tr>
-        </table>
-  
-        </div>
-
-        <a id="legend"></a>
-        <div class="round-border"><h5>Legend</h5>
-      
-          <table class="TableStandard">
-            <tr class="TableHeader">
-              <th class="text-align-center" colspan="2">Stable Sheet, Column A</th>
-            </tr>
-          <tr>
-            <td class="drafted-player">Did Not Enter</td>
-            <td>Horse was Nominated for a Stakes race, but Did Not Enter.</td>
-          </tr>
-          <tr>
-            <td class="drafted-player">Entered</td>
-            <td>Horse is Entered into an upcoming RTTR race.</td>
-          </tr>
-          <tr>
-            <td class="drafted-player">Nominated</td>
-            <td>Horse is Nominated for an upcoming Stakes race.</td>
-          </tr>
-          <tr>
-            <td class="drafted-player">OFF TRAIL</td>
-            <td>Horse is no longer considering the Kentucky Derby.</td>
-          </tr>
-          <tr>
-            <td class="drafted-player">SCR</td>
-            <td>Horse scratched from their last Stakes race.</td>
-          </tr>
-        </table>
-        <a id="legend-tc-nominations"></a>
-        <br/>
-        <table class="TableStandard">
-          <tr class="TableHeader">
-            <th class="text-align-center" colspan="2">Stable Sheet, Column E</th>
-          </tr>
-        <tr>
-          <td class="drafted-player" style="width: 25%;">Early</td>
-          <td>Horse was Nominated to Triple Crown by Jan 29th with a $600 payment.</td>
-        </tr>
-        <tr>
-          <td class="drafted-player">Late</td>
-          <td>Horse was Nominated to Triple Crown between Jan 30th and Mar 29th with a $6,000 payment.</td>
-        </tr>
-        <tr>
-          <td class="drafted-player">Supp.</td>
-          <td>Horse was not Nominated during the Early or Late phase, but was supplemented with a $200,000 payment.</td>
-        </tr>
-        <tr>
-          <td class="drafted-player">[Blank]</td>
-          <td>Horse has yet to be nominated to the Triple Crown.</td>
-        </tr>
-      </table>
-      
-      </div>
       
   </div><!--end right column-->
 
-</div><!--end row-->
-<br/>
-<br/>
+</div><!--end row #1-->
+
+<div class="row">
+  <div class="col-lg-4"> <!--begin left column-->
+    <div class="round-border"><h5>Leading Horses</h5>
+      <table class="TableStandard">
+        <tr>
+            <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
+            <th class="table-data-number TableHeader">Points&nbsp;&#8224;</th>  
+        </tr>
+        <tr class="drafted-player">
+            <td colspan="2">Will be updated after Week #1</td>
+        </tr>
+        <!--tr class="drafted-player">
+            <td>Bob Baffert</td>
+            <td class="table-data-number">230</td>
+        </tr>
+        <tr class="non-drafted-player">
+          <td>*William Morey</td>
+          <td class="table-data-number">7</td>
+        </tr-->
+        <tr class="non-drafted-player">
+          <td colspan="2">*Not drafted by any stable.<br/>
+            &#8224;&nbsp;Does not include Power Horse points.</td>
+        </tr>
+    </table>
+
+      </div>
+
+  </div> <!--end left column-->
+
+  <div class="col-lg-4"> <!--begin middle column-->
+    <div class="round-border"><h5>Leading Trainers</h5>
+      <table class="TableStandard">
+        <tr>
+            <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
+            <th class="table-data-number TableHeader">Points</th>  
+        </tr>
+        <tr class="drafted-player">
+          <td colspan="2">Will be updated after Week #1</td>
+      </tr>
+      <!--tr class="drafted-player">
+            <td>Bob Baffert</td>
+            <td class="table-data-number">230</td>
+        </tr>
+        <tr class="non-drafted-player">
+          <td>*William Morey</td>
+          <td class="table-data-number">7</td>
+        </tr-->
+        <tr class="non-drafted-player">
+          <td colspan="2">*Not drafted by any stable.</td>
+        </tr>
+    </table>
+
+      </div>
+
+  </div> <!--end middle column-->
+
+  <div class="col-lg-4"> <!--begin right column-->
+    <div class="round-border"><h5>Leading Jockeys</h5>
+      <table class="TableStandard">
+        <tr>
+            <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
+            <th class="table-data-number TableHeader">Points</th>  
+        </tr>
+        <tr class="drafted-player">
+          <td colspan="2">Will be updated after Week #1</td>
+      </tr>
+        <!--tr class="drafted-player">
+            <td>Bob Baffert</td>
+            <td class="table-data-number">230</td>
+        </tr>
+        <tr class="non-drafted-player">
+          <td>*William Morey</td>
+          <td class="table-data-number">7</td>
+        </tr-->
+        <tr class="non-drafted-player">
+          <td colspan="2">*Not drafted by any stable.</td>
+        </tr>
+    </table>
+
+    </div>
+
+  </div> <!--end right column-->
+
+</div><!--end row #2-->
+
+<div class="row">
+  <div class="col-lg-4"> <!--begin left column-->
+    <div class="round-border"><h5>Contest Notes</h5>
+
+      <table class="TableStandard">
+        <tr class="TableHeader">
+          <th class="text-align-center">Bob Baffert</th>
+        </tr>
+      <tr>
+        <td><p>Bob Baffert <b>will be eligible</b> for both horse and trainer points in this contest. Please be aware of the risk that any of his contending horses could potentially be moved to another trainer prior to the Kentucky Derby, if his current 2-year suspension at Churchill Downs is still in effect come May.</p>
+        <p>Also be aware that all horses currently trained by Bob Baffert will not be listed on the <a href="https://www.kentuckyderby.com/horses" target="_blank"  onclick="captureOutboundLink('https://www.kentuckyderby.com/horses');">Official Road to the Kentucky Derby Points Leaderboard</a>, as they are not eligible for those points. So if you are drafting solely off of that list, you could be missing some of the contenders (Corniche, Messier, Newgrange, Rockefeller, etc.)</p></td>
+      </tr>
+    </table>
+    
+  </div>
+  </div> <!--end left column-->
+
+  <div class="col-lg-4"> <!--begin middle column-->
+    <a id="legend"></a>
+    <div class="round-border"><h5>Legend</h5>
+  
+      <table class="TableStandard">
+        <tr class="TableHeader">
+          <th class="text-align-center" colspan="2">Stable Sheet, Column A</th>
+        </tr>
+      <tr>
+        <td class="drafted-player">Did Not Enter</td>
+        <td>Horse was Nominated for a Stakes race, but Did Not Enter.</td>
+      </tr>
+      <tr>
+        <td class="drafted-player">Entered</td>
+        <td>Horse is Entered into an upcoming RTTR race.</td>
+      </tr>
+      <tr>
+        <td class="drafted-player">Nominated</td>
+        <td>Horse is Nominated for an upcoming Stakes race.</td>
+      </tr>
+      <tr>
+        <td class="drafted-player">OFF TRAIL</td>
+        <td>Horse is no longer considering the Kentucky Derby.</td>
+      </tr>
+      <tr>
+        <td class="drafted-player">SCR</td>
+        <td>Horse scratched from their last Stakes race.</td>
+      </tr>
+    </table>
+    
+  </div>
+
+  </div> <!--end middle column-->
+
+  <div class="col-lg-4"> <!--begin right column-->
+    <a id="legend-tc-nominations"></a>
+    <div class="round-border"><h5>Legend</h5>
+    <table class="TableStandard">
+      <tr class="TableHeader">
+        <th class="text-align-center" colspan="2">Stable Sheet, Column E</th>
+      </tr>
+    <tr>
+      <td class="drafted-player" style="width: 25%;">Early</td>
+      <td>Horse was Nominated to Triple Crown by Jan 29th with a $600 payment.</td>
+    </tr>
+    <tr>
+      <td class="drafted-player">Late</td>
+      <td>Horse was Nominated to Triple Crown between Jan 30th and Mar 29th with a $6,000 payment.</td>
+    </tr>
+    <tr>
+      <td class="drafted-player">Supp.</td>
+      <td>Horse was not Nominated during the Early or Late phase, but was supplemented with a $200,000 payment.</td>
+    </tr>
+    <tr>
+      <td class="drafted-player">[Blank]</td>
+      <td>Horse has yet to be nominated to the Triple Crown.</td>
+    </tr>
+  </table>
+  </div>
+  
+  </div> <!--end right column-->
+
+</div><!--end row #3-->
 
 <!-- FOOTER -->
 
