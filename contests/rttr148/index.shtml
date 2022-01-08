@@ -127,12 +127,13 @@
   <p class="module-button-wrapper">  
     <div class="dropdown" style="border:hidden;">
       <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton_Stables" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        Select Stable
+        View Stables*
       </button>          
     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton_Stables">
       <a class="dropdown-item" role="button">Available After Contest Begins</a></div>
       <!--a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1royW9huwC-DyqK8-F5kibw07d0JO7yBOTT4v2FU1N2Y" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1royW9huwC-DyqK8-F5kibw07d0JO7yBOTT4v2FU1N2Y');">2015 Champion Stables | Kathryn Rodgers</a-->
     </div>
+    <span style="font-size: 12px;">*Cannot View Other Stables During Drafts or Power Horse Selection (Friday until 3PM EST Saturday)</span>
   </p>
 
 
