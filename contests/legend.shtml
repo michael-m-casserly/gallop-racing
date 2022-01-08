@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+  <head>
+      <!--#include virtual="/banner-head.html" -->
+
+      <title>Legend | Gallop Racing</title>
+
+</head>
+
+<body class="bodyTag">
+  <header>
+    <!--#include virtual="/banner.html" -->    
+    </header>
+    
+    <!--End Banner-->
+    
+    <!--Begin Main Content Section-->
+    <main class="container" style="background-color:#FFF;">
+      <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span><span class="PageTitleBreadCrumb">Legend</span></div>
+   
+      <div class="text-align-center"><h3>Legend</h3></div>
+  
+      <div class="container marketing">
+        
+      <center><!--Need to find a way to center this table with CSS, same with the border-->
+      <table class="TableStandard">
+        <tr class="TableHeader">
+          <th class="text-align-center" colspan="2">Stable Sheet, Column A</th>
+        </tr>
+        <tr>
+          <td class="drafted-player">Did Not Enter</td>
+          <td>Horse was Nominated for a Stakes race, but Did Not Enter.</td>
+        </tr>
+        <tr>
+          <td class="drafted-player">Entered</td>
+          <td>Horse is Entered into an upcoming RTTR race.</td>
+        </tr>
+        <tr>
+          <td class="drafted-player">Nominated</td>
+          <td>Horse is Nominated for an upcoming Stakes race.</td>
+        </tr>
+        <tr>
+          <td class="drafted-player">OFF TRAIL</td>
+          <td>Horse is no longer considering the Kentucky Derby.</td>
+        </tr>
+        <tr>
+          <td class="drafted-player">SCR</td>
+          <td>Horse scratched from their last Stakes race.</td>
+        </tr>
+      </table>
+      <br/>
+      <table class="TableStandard">
+        <tr class="TableHeader">
+          <th class="text-align-center" colspan="2">Stable Sheet, Column E</th>
+        </tr>
+      <tr>
+        <td class="drafted-player" style="width: 25%;">Early</td>
+        <td>Horse was Nominated to Triple Crown by Jan 29th with a $600 payment.</td>
+      </tr>
+      <tr>
+        <td class="drafted-player">Late</td>
+        <td>Horse was Nominated to Triple Crown between Jan 30th and Mar 29th with a $6,000 payment.</td>
+      </tr>
+      <tr>
+        <td class="drafted-player">Supp.</td>
+        <td>Horse was not Nominated during the Early or Late phase, but was supplemented with a $200,000 payment.</td>
+      </tr>
+      <tr>
+        <td class="drafted-player">[Blank]</td>
+        <td>Horse has yet to be nominated to the Triple Crown.</td>
+      </tr>
+    </table>  
+</center>
+<br/>
+<br/>
+
+<!-- FOOTER -->
+
+<!--#include virtual="/footer-page.html" -->    
+
+</div> <!--container-->
+
+<!--#include virtual="/footer.html" -->    
+
+
+</main>
+
+
+</body>
+</html>
