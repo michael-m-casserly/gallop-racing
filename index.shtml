@@ -3,7 +3,7 @@
   <head>
       <!--#include virtual="/banner-head.html" -->
 
-    <title>Home | Gallop Racing</title>
+    <title>Gallop Racing</title>
 
 </head>
 
@@ -27,6 +27,7 @@
     
       <div class="round-border"><h5>Sign Up for RTTR 148</h5>
 
+        <p>Register by <b>Sunday, Jan 16th, 9PM EST.</b><br/>Draft begins <b>Monday, Jan 17th, 9AM EST.</b></p>
         <p class="module-button-wrapper"><a class="btn btn-secondary" href="/register/index.shtml" role="button">Register</a></p>
         
       </div>    
