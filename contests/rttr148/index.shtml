@@ -74,7 +74,7 @@
       <tr>
         <td class="race-name-header">
           Lecomte Stakes (Tier 4)<br/>
-          Fairgrounds (FG) | Louisiana<!--br>
+          Fair Grounds (FG) | Louisiana<!--br>
           Race #x, Post Time x:xxPM EST-->
           <!--p><a class="btn btn-secondary btn-half" href="/nominations/rttr148/Week01-Lecomte-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>&nbsp;
           <a class="btn btn-secondary btn-half" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Entries</a>
@@ -94,7 +94,7 @@
             <tr>
         <td class="race-name-header">
           Louisiana Derby (Tier 1)<br/>
-          Fairgrounds (FG) | Louisiana<!--br>
+          Fair Grounds (FG) | Louisiana<!--br>
           Race #x, Post Time x:xxPM EST-->
           <p><a class="btn btn-secondary btn-half" href="/nominations/rttr148/Week10-Louisiana-Derby-Early-Bird-Nominations.pdf" target="_blank" role="button">Nominations</a>&nbsp;
           <!--a class="btn btn-secondary btn-half" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Entries</a>
@@ -131,7 +131,45 @@
       </button>          
     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton_Stables">
       <a class="dropdown-item" role="button">Available After Contest Begins</a></div>
-      <!--a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1royW9huwC-DyqK8-F5kibw07d0JO7yBOTT4v2FU1N2Y" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1royW9huwC-DyqK8-F5kibw07d0JO7yBOTT4v2FU1N2Y');">2015 Champion Stables | Kathryn Rodgers</a-->
+    <!--
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1kE7NPcnu1kJ84mMm0ScjhE4oWi35s4vaiwmqCDlzMw4" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1kE7NPcnu1kJ84mMm0ScjhE4oWi35s4vaiwmqCDlzMw4');">John EscoBarbie | John Barbie</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1bXJMtVLrzI8G1wqIUaaMpi7kTInzisiwAi1Dv8syXP0" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1bXJMtVLrzI8G1wqIUaaMpi7kTInzisiwAi1Dv8syXP0');">Ketchup Is The Devil | John Bauman</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1eG6srLpzXRBvGq5PQNKFsKidLp-F58Std2p6ZwaJLMo" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1eG6srLpzXRBvGq5PQNKFsKidLp-F58Std2p6ZwaJLMo');">Rippin Up Floor Boards | Ray Carolan</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1r5WzE2rAXpRTwjlXqYntnxhTzROAdItcyktxePcKVrA" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1r5WzE2rAXpRTwjlXqYntnxhTzROAdItcyktxePcKVrA');">Maiden Claimers | John Casey</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1fY5n0djOFVMb8iV3hqi6UO78aesXQ1PTX7Px7EV8Ujo" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1fY5n0djOFVMb8iV3hqi6UO78aesXQ1PTX7Px7EV8Ujo');">Colonial Inn | Daniel Euerle</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/14Yfe3uQsJMxS_pO-3T1NGtzwM472-yyiHaHg2CpMYTk" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/14Yfe3uQsJMxS_pO-3T1NGtzwM472-yyiHaHg2CpMYTk');">Sicilia Stables | Bobby Fallo</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1wJk6kVKTMTZ4wJ-5gnL19FTmaAtpzJemLRPCjBfk7vw" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1wJk6kVKTMTZ4wJ-5gnL19FTmaAtpzJemLRPCjBfk7vw');">Shkyboy Shtables | James Gormley</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1hvEes0RTGqBtLgiAeOSjnWTjvYq6kK0ROuyDLEqRp0I" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1hvEes0RTGqBtLgiAeOSjnWTjvYq6kK0ROuyDLEqRp0I');">The Shoe Stable | Dan Henderson Sr.</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1eZyqjMAPDaUC3ttcYiY4e06EKOFtXUXhQYsNYmqeC1Q" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1eZyqjMAPDaUC3ttcYiY4e06EKOFtXUXhQYsNYmqeC1Q');">Papanick Stables | Paul Henderson</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/15DQg_llRUoJCCDoWc2DG6m33yK9OFZTLDnD8FzJbXcQ" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/15DQg_llRUoJCCDoWc2DG6m33yK9OFZTLDnD8FzJbXcQ');">Horse Face Stables | Rich Henderson</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/16BjfxiLgVzx8mif4gM7m4KKvodlb6natLA2o-6LWFWM" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/16BjfxiLgVzx8mif4gM7m4KKvodlb6natLA2o-6LWFWM');">We All Had Pony | Poopman</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1RuiVJB8sJ3IDkyHwMUYgwp_h94mwjPq9trNwNcAvXXo" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1RuiVJB8sJ3IDkyHwMUYgwp_h94mwjPq9trNwNcAvXXo');">Eamus Catuli Stable | Bryan Mack</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1rCTTT2vhEE3f5OfPk-LFxLzl4gkKdqQyBHs_j3msXjU" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1rCTTT2vhEE3f5OfPk-LFxLzl4gkKdqQyBHs_j3msXjU');">Moonshine Mullon | Kevin Mullon</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1Z9Uyqs_CvVMqiiHXG-9YB4xqPy_vqYW8O193Fm5sQEQ" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1Z9Uyqs_CvVMqiiHXG-9YB4xqPy_vqYW8O193Fm5sQEQ');">Handsome Dans | Daniel O'Connell</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1royW9huwC-DyqK8-F5kibw07d0JO7yBOTT4v2FU1N2Y" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1royW9huwC-DyqK8-F5kibw07d0JO7yBOTT4v2FU1N2Y');">2015 Champion Stables | Kathryn Rodgers</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1cMEQJJgTOoP91uvuk-2d2CjbEQqriKPRE16j8vncfJU" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1cMEQJJgTOoP91uvuk-2d2CjbEQqriKPRE16j8vncfJU');">Bumruggles | Greg Schaefer</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1ZSvchFZ6w-ikZp3gq6DfvgKjkdjmD_FLlEjFvD8XkPc" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1ZSvchFZ6w-ikZp3gq6DfvgKjkdjmD_FLlEjFvD8XkPc');">Crack the Whip | Mike Triunfo</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1COvV8wAO5rRWvcSo66s3lwxhX5JRA9RuWw0HhzkL4eI" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1COvV8wAO5rRWvcSo66s3lwxhX5JRA9RuWw0HhzkL4eI');">Finstock's Fillies  | Kevin Walsh</a>
+
+      
+    -->
     </div>
     <span style="font-size: 12px;">*Cannot View Other Stables During Drafts or Power Horse Selection (Friday until 3PM EST Saturday)</span>
   </p>
