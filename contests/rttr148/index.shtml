@@ -188,6 +188,9 @@
       </div><!--end middle column-->
 
   <div class="col-lg-4"> <!--begin right column-->
+  
+    <!--#include virtual="/contests/how-to-play-rttr.html" -->  
+  
     <!--#include virtual="/contests/rttr-scoring-table.html" -->    
     
       

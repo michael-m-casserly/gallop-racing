@@ -83,20 +83,7 @@
 
       </div>
 
-      <div class="round-border" style="text-align: center;"><h5>How to Play</h5>
-        <p style="text-align:center; font-size: 13px; color: #000000;">
-          <b><i>January</i></b><br/> 
-          Draft 5 horses, 2 trainers, and 2 jockeys.<br/>
-          <b><i>February</i></b><br/>
-          Add on 5 horses.<br/>
-          <b><i>April/May</i></b><br/>
-          Add final 5 horses, for 15 total.<br/>
-          <br/>
-          Earn points throughout a 14-week (25-race) schedule into the Kentucky Derby.<br/>
-          Finish in the Top Tier to qualify for prizes.
-        </p>
-          </div>
-      
+      <!--#include virtual="/contests/how-to-play-rttr.html" -->  
 
       <!--div class="round-border"><h5>RTTR Nominations</h5>
 
