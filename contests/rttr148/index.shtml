@@ -137,6 +137,8 @@
 
       <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1bXJMtVLrzI8G1wqIUaaMpi7kTInzisiwAi1Dv8syXP0" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1bXJMtVLrzI8G1wqIUaaMpi7kTInzisiwAi1Dv8syXP0');">Ketchup Is The Devil | John Bauman</a>
 
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1nTyNEQ4cqodANvyu20zS3hOt8BIiApci5gpbQwNF19c" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1nTyNEQ4cqodANvyu20zS3hOt8BIiApci5gpbQwNF19c');">5 Dimes | John Briody</a>
+
       <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1eG6srLpzXRBvGq5PQNKFsKidLp-F58Std2p6ZwaJLMo" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1eG6srLpzXRBvGq5PQNKFsKidLp-F58Std2p6ZwaJLMo');">Rippin Up Floor Boards | Ray Carolan</a>
 
       <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1r5WzE2rAXpRTwjlXqYntnxhTzROAdItcyktxePcKVrA" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1r5WzE2rAXpRTwjlXqYntnxhTzROAdItcyktxePcKVrA');">Maiden Claimers | John Casey</a>
@@ -172,7 +174,7 @@
       
     -->
     </div>
-    <span style="font-size: 12px;">*Cannot View Other Stables During Drafts or Power Horse Selection (Friday until 3PM EST Saturday)</span>
+    <span style="font-size: 12px;">*Cannot view other player's stables during drafts or Power Horse selection windows.</span>
   </p>
 
 
