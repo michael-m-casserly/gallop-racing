@@ -77,6 +77,7 @@
           Lecomte Stakes (Tier 4)<br/>
           Fair Grounds (FG) | Louisiana<!--br>
           Race #x, Post Time x:xxPM EST-->
+          <p style="font-size: 12px; font-weight: normal; text-align: justify;">Louisina Derby "Early Bird" Nominees are automatically nominated to the Lecomte and Risen Star Stakes. That list can be found <a href="/nominations/rttr148/Week10-Louisiana-Derby-Early-Bird-Nominations.pdf" target="_blank">here</a>.</p>
           <!--p><a class="btn btn-secondary btn-half" href="/nominations/rttr148/Week01-Lecomte-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>&nbsp;
           <a class="btn btn-secondary btn-half" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Entries</a>
           <a class="btn btn-secondary btn-half" href="/results/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Results</a></p--></td>
@@ -128,7 +129,7 @@
   <p class="module-button-wrapper">  
     <div class="dropdown" style="border:hidden;">
       <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton_Stables" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        View Stables*
+        View Stables&nbsp;*
       </button>          
     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton_Stables">
       <a class="dropdown-item" role="button">Available After Contest Begins</a></div>
@@ -174,7 +175,7 @@
       
     -->
     </div>
-    <span style="font-size: 12px;">*Cannot view other player's stables during drafts or Power Horse selection windows.</span>
+    <p style="font-size: 12px; text-align: justify; padding: 5px 20px 0px 20px;">*Cannot view other player's stables during Drafts or Power Horse selection windows.</p>
   </p>
 
 
