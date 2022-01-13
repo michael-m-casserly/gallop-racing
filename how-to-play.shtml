@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+      <!--#include virtual="/banner-head.html" -->
+
+      <title>How to Play | Gallop Racing</title>
+
+</head>
+
+<body class="bodyTag">
+  <header>
+    <!--#include virtual="/banner.html" -->    
+    </header>
+    
+    <!--End Banner-->
+    
+    <!--Begin Main Content Section-->
+    <main class="container" style="background-color:#FFF;">
+      <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span><span class="PageTitleBreadCrumb">How to Play</span></div>
+   
+      <div class="text-align-center"><h3>How to Play</h3></div>
+  
+      <div class="container marketing">
+
+        <p>In mid-January you'll draft <b>5 horses, 2 trainers, and 2 jockeys</b> whom you think have a good chance at winning the Kentucky Derby.</p>
+
+        <p>There will be 6 races from Jan 22nd thru Feb 6th where you can earn points.</p>
+        
+        <p>Then the 2nd draft of <b>5 horses</b> will take place in mid-February.</p>
+        
+        <p>There will be 11 races following that draft up until the next draft at the end of March.</p>
+        
+        <p>The draft at the end of March is a variable draft, meaning you can take anywhere from <b>0-5 horses</b>.</p>
+        
+        <p>There will be 7 races following that draft leading up to the Derby.</p>
+        
+        <p>The week of the Derby, you can use any of those <b>0-5 horse</b> selections that you didn't use at the end of March to complete your stable.</p>
+        
+        <p>Come Derby Day, you'll end up with <b>15 horses, 2 trainers and 2 jockeys</b> in your stable.</p>
+        
+        <p>Stables can have the same horses, trainers and jockeys as other player's stables. The opportunity to separate comes with the 3 "Power Horses" you select each week. Those horses will earn you 2x points.</p>
+        
+        <p>As the contest goes on, the races are worth more points. So even if you start out slow, you can make up a lot of ground towards the end.</p>
+
+<!-- FOOTER -->
+
+<!--#include virtual="/footer-page.html" -->    
+
+</div> <!--container-->
+
+<!--#include virtual="/footer.html" -->    
+
+
+</main>
+
+
+</body>
+</html>
