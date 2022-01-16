@@ -77,10 +77,10 @@
           Lecomte Stakes (Tier 4)<br/>
           Fair Grounds (FG) | Louisiana<!--br>
           Race #x, Post Time x:xxPM EST-->
-          <p style="font-size: 12px; font-weight: normal; text-align: justify;">Louisina Derby "Early Bird" Nominees are automatically nominated to the Lecomte and Risen Star Stakes. That list can be found <a href="/nominations/rttr148/Week10-Louisiana-Derby-Early-Bird-Nominations.pdf" target="_blank">here</a>.</p>
-          <!--p><a class="btn btn-secondary btn-half" href="/nominations/rttr148/Week01-Lecomte-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>&nbsp;
-          <a class="btn btn-secondary btn-half" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Entries</a>
-          <a class="btn btn-secondary btn-half" href="/results/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Results</a></p--></td>
+          <!--p style="font-size: 12px; font-weight: normal; text-align: justify;">Louisina Derby "Early Bird" Nominees are automatically nominated to the Lecomte and Risen Star Stakes. That list can be found <a href="/nominations/rttr148/Week10-Louisiana-Derby-Early-Bird-Nominations.pdf" target="_blank">here</a>.</p-->
+          <p><!--a class="btn btn-secondary btn-half" href="/nominations/rttr148/Week01-Lecomte-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>&nbsp;-->
+          <a class="btn btn-secondary btn-half" href="https://www.equibase.com/static/entry/FG012222USA14-EQB.html" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/static/entry/FG012222USA14-EQB.html');">Entries &raquo;</a>
+          <!--a class="btn btn-secondary btn-half" href="/results/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Results</a--></p></td>
       </tr>
       </table>
       <a id="louisiana-derby"></a>
@@ -161,6 +161,8 @@
       <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/15DQg_llRUoJCCDoWc2DG6m33yK9OFZTLDnD8FzJbXcQ" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/15DQg_llRUoJCCDoWc2DG6m33yK9OFZTLDnD8FzJbXcQ');">Horse Face Stables | Rich Henderson</a>
 
       <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/16BjfxiLgVzx8mif4gM7m4KKvodlb6natLA2o-6LWFWM" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/16BjfxiLgVzx8mif4gM7m4KKvodlb6natLA2o-6LWFWM');">We All Had Pony | Poopman</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1iIWqKj-jq_BXnOJmzCUNBVcfILyTycON8uO9LI-iHes" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1iIWqKj-jq_BXnOJmzCUNBVcfILyTycON8uO9LI-iHes');">Macaroni | Vincent LaRosa Jr.</a>
 
       <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1RuiVJB8sJ3IDkyHwMUYgwp_h94mwjPq9trNwNcAvXXo" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1RuiVJB8sJ3IDkyHwMUYgwp_h94mwjPq9trNwNcAvXXo');">Eamus Catuli Stable | Bryan Mack</a>
 
