@@ -206,6 +206,11 @@ td {
   text-align: center !important;
 }
 
+.track-name-state {
+  font-weight: normal;
+  font-size: 13px;
+}
+
 .text-align-left {
   text-align: left;
 }
