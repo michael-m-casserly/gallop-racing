@@ -40,27 +40,6 @@
     </div-->
 
       <div class="round-border"><h5>Upcoming Races</h5>
-
-    <a id="southwest"></a>
-    <!--br/>
-    <table class="TableStandard">
-      <tr class="TableHeader">
-        <td colspan="2" align="center">Week #2, Jan. 29, 2022</td>
-  </tr>
-  <tr>
-    <td colspan="2"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-      <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
-</tr>
-<tr>
-  <td colspan="2" class="race-name-header">
-    Southwest Stakes (Tier 4)<br/>
-    Oaklawn Park (OP) | Arkansas<br>
-    Race #x, Post Time x:xxPM EST-->
-    <!--p><a class="btn btn-secondary btn-half" href="/nominations/rttr148/Week02-Southwest-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>&nbsp;
-    <a class="btn btn-secondary btn-half" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Entries</a>
-    <a class="btn btn-secondary btn-half" href="/results/rttr148/Week02-Southwest-Stakes-Results.pdf" target="_blank" role="button">Results</a></p></td>
-</tr>
-      </table-->
     
     <a id="lecomte"></a>
     <!--br/-->
@@ -78,12 +57,53 @@
           Fair Grounds (FG) | Louisiana<!--br>
           Race #x, Post Time x:xxPM EST-->
           <!--p style="font-size: 12px; font-weight: normal; text-align: justify;">Louisina Derby "Early Bird" Nominees are automatically nominated to the Lecomte and Risen Star Stakes. That list can be found <a href="/nominations/rttr148/Week10-Louisiana-Derby-Early-Bird-Nominations.pdf" target="_blank">here</a>.</p-->
-          <p><!--a class="btn btn-secondary btn-half" href="/nominations/rttr148/Week01-Lecomte-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>&nbsp;-->
-          <a class="btn btn-secondary btn-half" href="https://www.equibase.com/static/entry/FG012222USA14-EQB.html" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/static/entry/FG012222USA14-EQB.html');">Entries &raquo;</a>
-          <!--a class="btn btn-secondary btn-half" href="/results/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Results</a--></p></td>
+          <p><!--a class="btn btn-secondary" href="/nominations/rttr148/Week01-Lecomte-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>&nbsp;-->
+          <a class="btn btn-secondary" href="https://www.equibase.com/static/entry/FG012222USA14-EQB.html" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/static/entry/FG012222USA14-EQB.html');">Equibase Entries &raquo;</a>
+          <!--a class="btn btn-secondary" href="/results/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a--></p></td>
       </tr>
       </table>
-      <a id="louisiana-derby"></a>
+      <a id="southwest"></a>
+      <br/>
+      <table class="TableStandard">
+        <tr class="TableHeader">
+          <td colspan="2" align="center">Week #2, Jan. 29, 2022</td>
+    </tr>
+    <!--tr>
+      <td colspan="2"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+        <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
+  </tr-->
+  <tr>
+    <td colspan="2" class="race-name-header">
+      Southwest Stakes (Tier 4)<br/>
+      Oaklawn Park (OP) | Arkansas<!--br>
+      Race #x, Post Time x:xxPM EST-->
+      <p><a class="btn btn-secondary" href="/nominations/rttr148/Week02-Southwest-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>
+      <!--a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a>
+      <a class="btn btn-secondary" href="/results/rttr148/Week02-Southwest-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a></p--></td>
+  </tr>
+        </table>
+      <a id="risen-star"></a>
+      <br/>
+      <table class="TableStandard">
+          <tr class="TableHeader">
+            <th class="text-align-center">Week #5, Feb. 19, 2022</th>
+          </tr>
+          <!--tr>
+            <td><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week05-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+              <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week05-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
+        </tr-->
+        <tr>
+          <td class="race-name-header">
+            Risen Star Stakes (Tier 2)<br/>
+            Fair Grounds (FG) | Louisiana<!--br>
+            Race #x, Post Time x:xxPM EST-->
+            <p style="font-size: 12px; font-weight: normal; text-align: justify;">Louisiana Derby "Early Bird" Nominees are automatically nominated to the Risen Star Stakes. That list can be found <a href="/nominations/rttr148/Week10-Louisiana-Derby-Early-Bird-Nominations.pdf" target="_blank">here</a>.</p>
+            <p><!--a class="btn btn-secondary" href="/nominations/rttr148/Week05-Risen-Star-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>&nbsp;-->
+            <!--a class="btn btn-secondary" href="INSERT EQUIBASE LINK" target="_blank" role="button" onclick="captureOutboundLink('INSERT EQUIBASE LINK');">Equibase Entries &raquo;</a-->
+            <!--a class="btn btn-secondary" href="/results/rttr148/Week05-Risen-Star-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a--></p></td>
+        </tr>
+        </table>
+        <a id="louisiana-derby"></a>
       <br/>
       <table class="TableStandard">
           <tr class="TableHeader">
@@ -98,9 +118,9 @@
           Louisiana Derby (Tier 1)<br/>
           Fair Grounds (FG) | Louisiana<!--br>
           Race #x, Post Time x:xxPM EST-->
-          <p><a class="btn btn-secondary btn-half" href="/nominations/rttr148/Week10-Louisiana-Derby-Early-Bird-Nominations.pdf" target="_blank" role="button">Nominations</a>&nbsp;
-          <!--a class="btn btn-secondary btn-half" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Entries</a>
-          <a class="btn btn-secondary btn-half" href="/results/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Results</a--></p></td>
+          <p><a class="btn btn-secondary" href="/nominations/rttr148/Week10-Louisiana-Derby-Early-Bird-Nominations.pdf" target="_blank" role="button">Nominations</a>
+          <!--a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Entries</a>
+          <a class="btn btn-secondary" href="/results/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Results</a--></p></td>
       </tr>
     </table>
     <p style="font-size: 12px;">Nominations and Results courtesy of <a href="https://www.equibase.com" target="_blank">Equibase.com</a></p>
@@ -160,13 +180,17 @@
 
       <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/15DQg_llRUoJCCDoWc2DG6m33yK9OFZTLDnD8FzJbXcQ" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/15DQg_llRUoJCCDoWc2DG6m33yK9OFZTLDnD8FzJbXcQ');">Horse Face Stables | Rich Henderson</a>
 
-      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/16BjfxiLgVzx8mif4gM7m4KKvodlb6natLA2o-6LWFWM" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/16BjfxiLgVzx8mif4gM7m4KKvodlb6natLA2o-6LWFWM');">We All Had Pony | Poopman</a>
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/16BjfxiLgVzx8mif4gM7m4KKvodlb6natLA2o-6LWFWM" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/16BjfxiLgVzx8mif4gM7m4KKvodlb6natLA2o-6LWFWM');">We All Had Pony | Casey Hutchings</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1dCpq8SeL67VEfmviWAGVb6KmzSNgPpMfAHQ0xG2FqTc" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1dCpq8SeL67VEfmviWAGVb6KmzSNgPpMfAHQ0xG2FqTc');">Harvey Peck | Charlie Kinzie</a>
 
       <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1iIWqKj-jq_BXnOJmzCUNBVcfILyTycON8uO9LI-iHes" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1iIWqKj-jq_BXnOJmzCUNBVcfILyTycON8uO9LI-iHes');">Macaroni | Vincent LaRosa Jr.</a>
 
       <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1RuiVJB8sJ3IDkyHwMUYgwp_h94mwjPq9trNwNcAvXXo" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1RuiVJB8sJ3IDkyHwMUYgwp_h94mwjPq9trNwNcAvXXo');">Eamus Catuli Stable | Bryan Mack</a>
 
       <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1rCTTT2vhEE3f5OfPk-LFxLzl4gkKdqQyBHs_j3msXjU" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1rCTTT2vhEE3f5OfPk-LFxLzl4gkKdqQyBHs_j3msXjU');">Moonshine Mullon | Kevin Mullon</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1KaVIty5I9XagBjpoxyFCqY7WA-qioYDZdC85IXHu310" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1KaVIty5I9XagBjpoxyFCqY7WA-qioYDZdC85IXHu310');">Danny Boy Stables | Mary Ruth Mullon</a>
 
       <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1Z9Uyqs_CvVMqiiHXG-9YB4xqPy_vqYW8O193Fm5sQEQ" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1Z9Uyqs_CvVMqiiHXG-9YB4xqPy_vqYW8O193Fm5sQEQ');">Handsome Dans | Daniel O'Connell</a>
 
