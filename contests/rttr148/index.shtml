@@ -20,7 +20,8 @@
 
         <div class="text-align-center"><h3>Road to the Roses<br/>Derby 148</h3></div>
       
-      <!--#include virtual="/countdown-timer.html" -->
+      <!--Add back the # symbol when the counter is rest-->
+      <!--include virtual="/countdown-timer.html" -->
 
 <div class="container marketing">
 
@@ -66,14 +67,14 @@
       <br/>
       <table class="TableStandard">
         <tr class="TableHeader">
-          <td colspan="2" align="center">Week #2, Jan. 29, 2022</td>
+          <th class="text-align-center">Week #2, Jan. 29, 2022</th>
     </tr>
     <!--tr>
-      <td colspan="2"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+      <td><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
         <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
   </tr-->
   <tr>
-    <td colspan="2" class="race-name-header">
+    <td class="race-name-header">
       Southwest Stakes (Tier 4)<br/>
       Oaklawn Park (OP) | Arkansas<!--br>
       Race #x, Post Time x:xxPM EST-->
@@ -154,6 +155,8 @@
     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton_Stables">
       <a class="dropdown-item" role="button">Available After Contest Begins</a></div>
     <!--
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1R3Iz729HjsoPpWOqsCT1VZAbo8_KcL9pyBBXp4nnsp8" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1R3Iz729HjsoPpWOqsCT1VZAbo8_KcL9pyBBXp4nnsp8');">JEB Stables | Joe Balut</a>
+
       <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1kE7NPcnu1kJ84mMm0ScjhE4oWi35s4vaiwmqCDlzMw4" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1kE7NPcnu1kJ84mMm0ScjhE4oWi35s4vaiwmqCDlzMw4');">John EscoBarbie | John Barbie</a>
 
       <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1bXJMtVLrzI8G1wqIUaaMpi7kTInzisiwAi1Dv8syXP0" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1bXJMtVLrzI8G1wqIUaaMpi7kTInzisiwAi1Dv8syXP0');">Ketchup Is The Devil | John Bauman</a>
@@ -191,6 +194,8 @@
       <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1rCTTT2vhEE3f5OfPk-LFxLzl4gkKdqQyBHs_j3msXjU" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1rCTTT2vhEE3f5OfPk-LFxLzl4gkKdqQyBHs_j3msXjU');">Moonshine Mullon | Kevin Mullon</a>
 
       <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1KaVIty5I9XagBjpoxyFCqY7WA-qioYDZdC85IXHu310" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1KaVIty5I9XagBjpoxyFCqY7WA-qioYDZdC85IXHu310');">Danny Boy Stables | Mary Ruth Mullon</a>
+
+      <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/16cFh7iND9RTfPdkWWTTFVpEEdONnh5KLBIxxu1bON5Q" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/16cFh7iND9RTfPdkWWTTFVpEEdONnh5KLBIxxu1bON5Q');">Kegasus Stables | Walter Mullon</a>
 
       <a class="dropdown-item" href="https://docs.google.com/spreadsheets/d/1Z9Uyqs_CvVMqiiHXG-9YB4xqPy_vqYW8O193Fm5sQEQ" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/1Z9Uyqs_CvVMqiiHXG-9YB4xqPy_vqYW8O193Fm5sQEQ');">Handsome Dans | Daniel O'Connell</a>
 

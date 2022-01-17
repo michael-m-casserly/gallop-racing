@@ -25,152 +25,138 @@
   <div class="row">
   <div class="col-lg-4"> <!--begin left column-->
     
-      <div class="round-border"><h5>Sign Up for RTTR 148</h5>
+      <!--div class="round-border"><h5>Sign Up for RTTR 148</h5>
 
         <p>Register by <b>Sunday, Jan 16th, 9PM EST.</b><br/>Draft begins <b>Monday, Jan 17th, 9AM EST.</b></p>
         <p class="module-button-wrapper"><a class="btn btn-secondary" href="/register/index.shtml" role="button">Register</a></p>
         
-      </div>    
-      
+      </div-->
+
       <div class="round-border"><h5>Current Contest</h5>
 
-<!--Placeholder Message-->
-<p>RTTR 148 will start with the Lecomte Stakes on Jan. 22, 2022.</p>
-<p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttr148/index.shtml" role="button">RTTR 148</a></p>
-        
-<!-- Convert these Preview links below to a drop-down menu once the season ends-->
-<!--p class="module-button-wrapper"-->
-  <!--a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week01-Preview.pdf" target="_blank" role="button">Week #1 Preview &raquo;</a>
-  <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week02-Preview.pdf" target="_blank" role="button">Week #2 Preview &raquo;</a>
-  <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week03-Preview.pdf" target="_blank" role="button">Week #3 Preview &raquo;</a>
-  <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week04-Preview.pdf" target="_blank" role="button">Week #4 Preview &raquo;</a>
-  <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week05-Preview.pdf" target="_blank" role="button">Week #5 Preview &raquo;</a>
-  <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week06-Preview.pdf" target="_blank" role="button">Week #6 Preview &raquo;</a>
-  <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week07-Preview.pdf" target="_blank" role="button">Week #7 Preview &raquo;</a>
-  <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week08-Preview.pdf" target="_blank" role="button">Week #8 Preview &raquo;</a>
-  <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week09-Preview.pdf" target="_blank" role="button">Week #9 Preview &raquo;</a>
-  <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week10-Preview.pdf" target="_blank" role="button">Week #10 Preview &raquo;</a>
-  <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week11-Preview.pdf" target="_blank" role="button">Week #11 Preview &raquo;</a>
-  <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week12-Preview.pdf" target="_blank" role="button">Week #12 Preview &raquo;</a>
-  <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week13-Preview.pdf" target="_blank" role="button">Week #13 Preview &raquo;</a>
-  <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week14-Preview.pdf" target="_blank" role="button">Week #14 Preview &raquo;</a>
-</p-->
-      
-<!--a name="Nominations"></a-->
-<!--div class="dropdown" style="border:hidden;">
-  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Results
-  </button>          
-<div class="dropdown-menu" aria-labelledby="dropdownMenuButton"-->
-  <!--a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week14-Results.pdf" target="_blank" role="button">Week #14</a>
-  <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week13-Results.pdf" target="_blank" role="button">Week #13</a>
-  <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week12-Results.pdf" target="_blank" role="button">Week #12</a>
-  <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week11-Results.pdf" target="_blank" role="button">Week #11</a>
-  <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week10-Results.pdf" target="_blank" role="button">Week #10</a>
-  <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week09-Results.pdf" target="_blank" role="button">Week #9</a>
-  <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week08-Results.pdf" target="_blank" role="button">Week #8</a>
-  <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week07-Results.pdf" target="_blank" role="button">Week #7</a>
-  <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week06-Results.pdf" target="_blank" role="button">Week #6</a>
-  <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week05-Results.pdf" target="_blank" role="button">Week #5</a>
-  <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week04-Results.pdf" target="_blank" role="button">Week #4</a>
-  <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week03-Results.pdf" target="_blank" role="button">Week #3</a>
-  <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week02-Results.pdf" target="_blank" role="button">Week #2</a>
-  <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week01-Results.pdf" target="_blank" role="button">Week #1</a-->
-  <!--a class="dropdown-item" role="button">Available After Contest Begins</a>
-
-</div>
-</div-->
-
-      </div>
-
-      <!--#include virtual="/contests/how-to-play-rttr.html" -->  
-
-      <!--div class="round-border"><h5>RTTR Nominations</h5>
-
-        <div class="dropdown" style="border:hidden;">
+        <!--Placeholder Message-->
+        <p>RTTR 148 will start with the Lecomte Stakes on Jan. 22, 2022.</p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttr148/index.shtml" role="button">RTTR 148</a></p>
+                
+        <!-- Convert these Preview links below to a drop-down menu once the season ends-->
+        <!--p class="module-button-wrapper"-->
+          <!--a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week01-Preview.pdf" target="_blank" role="button">Week #1 Preview &raquo;</a>
+          <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week02-Preview.pdf" target="_blank" role="button">Week #2 Preview &raquo;</a>
+          <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week03-Preview.pdf" target="_blank" role="button">Week #3 Preview &raquo;</a>
+          <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week04-Preview.pdf" target="_blank" role="button">Week #4 Preview &raquo;</a>
+          <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week05-Preview.pdf" target="_blank" role="button">Week #5 Preview &raquo;</a>
+          <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week06-Preview.pdf" target="_blank" role="button">Week #6 Preview &raquo;</a>
+          <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week07-Preview.pdf" target="_blank" role="button">Week #7 Preview &raquo;</a>
+          <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week08-Preview.pdf" target="_blank" role="button">Week #8 Preview &raquo;</a>
+          <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week09-Preview.pdf" target="_blank" role="button">Week #9 Preview &raquo;</a>
+          <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week10-Preview.pdf" target="_blank" role="button">Week #10 Preview &raquo;</a>
+          <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week11-Preview.pdf" target="_blank" role="button">Week #11 Preview &raquo;</a>
+          <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week12-Preview.pdf" target="_blank" role="button">Week #12 Preview &raquo;</a>
+          <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week13-Preview.pdf" target="_blank" role="button">Week #13 Preview &raquo;</a>
+          <a class="btn btn-secondary" href="/pdf/race-previews/rttr148/RTTR148-Week14-Preview.pdf" target="_blank" role="button">Week #14 Preview &raquo;</a>
+        </p-->
+              
+        <!--a name="Nominations"></a-->
+        <!--div class="dropdown" style="border:hidden;">
           <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Select Race
+            Results
           </button>          
-        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-          <!--a class="dropdown-item" href="#" target="_blank" role="button" onclick="captureOutboundLink('#');">Lecomte Stakes &raquo;</a>
-          <a class="dropdown-item" role="button">Available 2 Weeks Prior to Contest</a>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton"-->
+          <!--a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week14-Results.pdf" target="_blank" role="button">Week #14</a>
+          <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week13-Results.pdf" target="_blank" role="button">Week #13</a>
+          <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week12-Results.pdf" target="_blank" role="button">Week #12</a>
+          <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week11-Results.pdf" target="_blank" role="button">Week #11</a>
+          <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week10-Results.pdf" target="_blank" role="button">Week #10</a>
+          <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week09-Results.pdf" target="_blank" role="button">Week #9</a>
+          <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week08-Results.pdf" target="_blank" role="button">Week #8</a>
+          <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week07-Results.pdf" target="_blank" role="button">Week #7</a>
+          <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week06-Results.pdf" target="_blank" role="button">Week #6</a>
+          <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week05-Results.pdf" target="_blank" role="button">Week #5</a>
+          <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week04-Results.pdf" target="_blank" role="button">Week #4</a>
+          <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week03-Results.pdf" target="_blank" role="button">Week #3</a>
+          <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week02-Results.pdf" target="_blank" role="button">Week #2</a>
+          <a class="dropdown-item" href="/pdf/race-results/rttr148/RTTR148-Week01-Results.pdf" target="_blank" role="button">Week #1</a-->
+          <!--a class="dropdown-item" role="button">Available After Contest Begins</a>
         
         </div>
-        </div>
-      </div-->
-                      
-      <div class="round-border"><h5>Resources for Drafting</h5>
-      <!-- Hide the 2 Derby Points related buttons for Derby 148, since the omission of Baffert's horses can be misleading
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.kentuckyderby.com/horses" target="_blank" role="button" onclick="captureOutboundLink('https://www.kentuckyderby.com/horses');">Derby Horses &raquo;</a></p>
-      <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.kentuckyderby.com/horses/leaderboard" target="_blank" role="button" onclick="captureOutboundLink('https://www.kentuckyderby.com/horses/leaderboard');">Derby Points Leaderboard &raquo;</a></p>
-      -->
-      <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.kentuckyderby.com/horses/prep-races" target="_blank" role="button" onclick="captureOutboundLink('https://www.kentuckyderby.com/horses/prep-races');">Derby Prep Schedule &raquo;</a></p>
-      <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www1.drf.com/drfLeaderBoard.do?category=beyer" target="_blank" role="button" onclick="captureOutboundLink('https://www1.drf.com/drfLeaderBoard.do?category=beyer');">DRF Beyer Leaders &raquo;</a></p>
-      <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.drf.com/derby-watch" target="_blank" role="button" onclick="captureOutboundLink('https://www.drf.com/derby-watch');">DRF Derby Watch &raquo;</a></p>
-      <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.equibase.com/virtualstable" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/virtualstable');">Equibase Virtual Stable &raquo;</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.horseracingnation.com/p/stakes-schedule" target="_blank" role="button" onclick="captureOutboundLink('https://www.horseracingnation.com/p/stakes-schedule');">HRN Stakes Tracker &raquo;</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://youtu.be/k-895WUX6zk" target="_blank" role="button" onclick="captureOutboundLink('https://youtu.be/k-895WUX6zk');">League Demo on YouTube &raquo;</a></p>
-        <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.bloodhorse.com/horse-racing/triple-crown/nominations/2022" target="_blank" role="button" onclick="captureOutboundLink('https://www.bloodhorse.com/horse-racing/triple-crown/nominations/2022');">Triple Crown Nominations &raquo;</a></p-->
-    </div>
-    
-    <div class="round-border"><h5>Television Schedule</h5>
-      <!--Placeholder Message-->
-      <p>Info regarding any network coverage of the RTTR races will be shown here.</p>
+        </div-->
+        
+              </div>
+        
+      <a id="Twitter"></a>
+      <div class="round-border"><h5>Contest News</h5>
+        <a class="twitter-timeline" height="708" href="https://twitter.com/gallopracingllc?ref_src=twsrc%5Etfw" style="width: 100%;">Tweets by gallopracingllc</a> <script async src="https://platform.twitter.com/widgets.js"></script></div>
       
-      
-      <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs" target="_blank" role="button" onclick="captureOutboundLink('https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs');">BC Challenge Series &raquo;</a></p>
-              <p style="text-align: left;">All <b>Del Mar</b> Racing is shown on TVG:<br/><i>Verizon Fios Channel 815<br/>DirectTV Channel 602</i><br/><a href="https://www.tvg.com/promos/watch/channel-finder/" target="_blank" onclick="captureOutboundLink('https://www.tvg.com/promos/watch/channel-finder/');">TVG Channel Finder</a><br/>Most other tracks are also on TVG, when not on NBC, NBCSN, FS1 or FS2.<br/>TVG is also shown on MSG or MSG+ from 12-7PM EST Wed. thru Sun.</p-->
-  </div>
-    
 </div> <!--end left column-->
 
 <div class="col-lg-4"> <!--begin middle column-->
   
   <div class="round-border"><h5>Contest Schedule</h5>
-    <iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 481px; width: 100%; overflow: hidden;"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div>
+    <iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 461px; width: 100%; overflow: hidden;"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div>
 
+      <!--#include virtual="/contests/how-to-play-rttr.html" --> 
+
+      <div class="round-border"><h5>Stakes Nominations</h5>
+        <div class="dropdown" style="border:hidden;">
+          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton_Nomimations" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Select Track
+          </button>          
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton_Nomimations">
+          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=AQU&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=AQU&cy=USA');">Aqueduct (AQU)</a>
+          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=CD&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=CD&cy=USA');">Churchill Downs (CD)</a>
+          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=FG&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=FG&cy=USA');">Fair Grounds (FG)</a>
+          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GG&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GG&cy=USA');">Golden Gate (GG)</a>
+          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GP&cy=USA');">Gulfstream (GP)</a>
+          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=IND&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=KEE&cy=USA');">Keeneland (KEE)</a>
+          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=LRC&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=LRC&cy=USA');">Los Alamitos (LRC)</a>
+          <a class="dropdown-item" href="https://emiratesracing.com/racing-information/race-entries" target="_blank" role="button" onclick="captureOutboundLink('https://emiratesracing.com/racing-information/race-entries');">Meydan (MEY)</a>
+          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=OP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=OP&cy=USA');">Oaklawn Park (OP)</a>
+          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=RP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=RP&cy=USA');">Remington Park (RP)</a>
+          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SA&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SA&cy=USA');">Santa Anita (SA)</a>
+          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SUN&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SUN&cy=USA');">Sunland Park (SUN)</a>
+          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TAM&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TAM&cy=USA');">Tampa Bay Downs (TAM)</a>
+          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TP&cy=USA');">Turfway Park (TP)</a>
+        </div>
+        </div>
+      </div>
       
-      <div class="round-border"><h5>Additional Resources</h5>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.bloodhorse.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.bloodhorse.com/');">BloodHorse Magazine &raquo;</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.drf.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.drf.com/');">Daily Racing Form &raquo;</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.equibase.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/');">Equibase &raquo;</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttr148?f=live" target="_blank" role="button" onclick="captureOutboundLink('https://twitter.com/hashtag/rttr148?f=live');">#rttr148 on Twitter &raquo;</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.paulickreport.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.paulickreport.com/');">Paulick Report &raquo;</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.pedigreequery.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.pedigreequery.com/');">Pedigree Query &raquo;</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://news.tvg.com/" target="_blank" role="button" onclick="captureOutboundLink('https://news.tvg.com/');">TVG News &raquo;</a></p>
-        </div>
-
-        <div class="round-border"><h5>Stakes Nominations</h5>
-          <div class="dropdown" style="border:hidden;">
-            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton_Nomimations" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Select Track
-            </button>          
-          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton_Nomimations">
-            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=AQU&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=AQU&cy=USA');">Aqueduct (AQU)</a>
-            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=CD&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=CD&cy=USA');">Churchill Downs (CD)</a>
-            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=FG&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=FG&cy=USA');">Fair Grounds (FG)</a>
-            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GG&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GG&cy=USA');">Golden Gate (GG)</a>
-            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GP&cy=USA');">Gulfstream (GP)</a>
-            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=IND&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=KEE&cy=USA');">Keeneland (KEE)</a>
-            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=LRC&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=LRC&cy=USA');">Los Alamitos (LRC)</a>
-            <a class="dropdown-item" href="https://emiratesracing.com/racing-information/race-entries" target="_blank" role="button" onclick="captureOutboundLink('https://emiratesracing.com/racing-information/race-entries');">Meydan (MEY)</a>
-            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=OP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=OP&cy=USA');">Oaklawn Park (OP)</a>
-            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=RP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=RP&cy=USA');">Remington Park (RP)</a>
-            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SA&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SA&cy=USA');">Santa Anita (SA)</a>
-            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SUN&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SUN&cy=USA');">Sunland Park (SUN)</a>
-            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TAM&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TAM&cy=USA');">Tampa Bay Downs (TAM)</a>
-            <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TP&cy=USA');">Turfway Park (TP)</a>
-          </div>
-          </div>
-        </div>
-  
 </div> <!--end middle column-->
 
 <div class="col-lg-4"> <!--begin right column-->
-    <a id="Twitter"></a>
-    <div class="round-border"><h5>Contest News</h5>
-      <a class="twitter-timeline" height="1029" href="https://twitter.com/gallopracingllc?ref_src=twsrc%5Etfw" style="width: 100%;">Tweets by gallopracingllc</a> <script async src="https://platform.twitter.com/widgets.js"></script></div>
-  
+                 
+        <div class="round-border"><h5>Resources for Drafting</h5>
+          <!-- Hide the 2 Derby Points related buttons for Derby 148, since the omission of Baffert's horses can be misleading
+            <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.kentuckyderby.com/horses" target="_blank" role="button" onclick="captureOutboundLink('https://www.kentuckyderby.com/horses');">Derby Horses &raquo;</a></p>
+          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.kentuckyderby.com/horses/leaderboard" target="_blank" role="button" onclick="captureOutboundLink('https://www.kentuckyderby.com/horses/leaderboard');">Derby Points Leaderboard &raquo;</a></p>
+          -->
+          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.kentuckyderby.com/horses/prep-races" target="_blank" role="button" onclick="captureOutboundLink('https://www.kentuckyderby.com/horses/prep-races');">Derby Prep Schedule &raquo;</a></p>
+          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www1.drf.com/drfLeaderBoard.do?category=beyer" target="_blank" role="button" onclick="captureOutboundLink('https://www1.drf.com/drfLeaderBoard.do?category=beyer');">DRF Beyer Leaders &raquo;</a></p>
+          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.drf.com/derby-watch" target="_blank" role="button" onclick="captureOutboundLink('https://www.drf.com/derby-watch');">DRF Derby Watch &raquo;</a></p>
+          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.equibase.com/virtualstable" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/virtualstable');">Equibase Virtual Stable &raquo;</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.horseracingnation.com/p/stakes-schedule" target="_blank" role="button" onclick="captureOutboundLink('https://www.horseracingnation.com/p/stakes-schedule');">HRN Stakes Tracker &raquo;</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://youtu.be/k-895WUX6zk" target="_blank" role="button" onclick="captureOutboundLink('https://youtu.be/k-895WUX6zk');">League Demo on YouTube &raquo;</a></p>
+            <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.bloodhorse.com/horse-racing/triple-crown/nominations/2022" target="_blank" role="button" onclick="captureOutboundLink('https://www.bloodhorse.com/horse-racing/triple-crown/nominations/2022');">Triple Crown Nominations &raquo;</a></p-->
+        </div>
+
+        <div class="round-border"><h5>Additional Resources</h5>
+          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.bloodhorse.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.bloodhorse.com/');">BloodHorse Magazine &raquo;</a></p>
+          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.drf.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.drf.com/');">Daily Racing Form &raquo;</a></p>
+          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.equibase.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/');">Equibase &raquo;</a></p>
+          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttr148?f=live" target="_blank" role="button" onclick="captureOutboundLink('https://twitter.com/hashtag/rttr148?f=live');">#rttr148 on Twitter &raquo;</a></p>
+          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.paulickreport.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.paulickreport.com/');">Paulick Report &raquo;</a></p>
+          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.pedigreequery.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.pedigreequery.com/');">Pedigree Query &raquo;</a></p>
+          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://news.tvg.com/" target="_blank" role="button" onclick="captureOutboundLink('https://news.tvg.com/');">TVG News &raquo;</a></p>
+          </div>    
+
+          <div class="round-border"><h5>Television Schedule</h5>
+            <!--Placeholder Message-->
+            <p>Info regarding any network coverage of the RTTR races will be shown here.</p>
+            
+            
+            <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs" target="_blank" role="button" onclick="captureOutboundLink('https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs');">BC Challenge Series &raquo;</a></p>
+                    <p style="text-align: left;">All <b>Del Mar</b> Racing is shown on TVG:<br/><i>Verizon Fios Channel 815<br/>DirectTV Channel 602</i><br/><a href="https://www.tvg.com/promos/watch/channel-finder/" target="_blank" onclick="captureOutboundLink('https://www.tvg.com/promos/watch/channel-finder/');">TVG Channel Finder</a><br/>Most other tracks are also on TVG, when not on NBC, NBCSN, FS1 or FS2.<br/>TVG is also shown on MSG or MSG+ from 12-7PM EST Wed. thru Sun.</p-->
+        </div>
+      
 
 </div> <!--end right column-->
 
