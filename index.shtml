@@ -35,7 +35,7 @@
       <div class="round-border"><h5>Current Contest</h5>
 
         <!--Placeholder Message-->
-        <p>RTTR 148 will start with the Lecomte Stakes on Jan. 22, 2022.</p>
+        <!--p>RTTR 148 will start with the Lecomte Stakes on Jan. 22, 2022.</p-->
         <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttr148/index.shtml" role="button">RTTR 148</a></p>
                 
         <!-- Convert these Preview links below to a drop-down menu once the season ends-->
@@ -83,9 +83,9 @@
         
               </div>
         
-      <a id="Twitter"></a>
+      <a id="twitter"></a>
       <div class="round-border"><h5>Contest News</h5>
-        <a class="twitter-timeline" height="708" href="https://twitter.com/gallopracingllc?ref_src=twsrc%5Etfw" style="width: 100%;">Tweets by gallopracingllc</a> <script async src="https://platform.twitter.com/widgets.js"></script></div>
+        <a class="twitter-timeline" height="763" href="https://twitter.com/gallopracingllc?ref_src=twsrc%5Etfw" style="width: 100%;">Tweets by gallopracingllc</a> <script async src="https://platform.twitter.com/widgets.js"></script></div>
       
 </div> <!--end left column-->
 

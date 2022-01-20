@@ -76,7 +76,7 @@ body
       border: 2px solid black; 
     }	
   .btn-secondary{
-            width: 250px;
+        width: 240px; /* Adjusted from 250 to account for 10px padding on all td */
         background-color: #1b95e0 !important;
             }
   .module-wrapper{
