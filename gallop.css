@@ -98,7 +98,7 @@ body
         width: 55px !important;
        }
        .btn-half{
-        width: 120px !important;
+        width: 115px !important; /* Adjusted from 120 to account for 10px padding on all td */
        }
 
       .iframe-container {
@@ -304,5 +304,8 @@ a.PageTitleBreadCrumb:link {
 
 p.module-button-wrapper {
   text-align: center;
+}
+
+td.race-buttons {
   padding-top: 10px;
 }

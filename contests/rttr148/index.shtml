@@ -115,7 +115,7 @@
     <!--#include virtual="/contests/rttr-scoring-table.html" -->    
     
  
-    <div class="round-border"><h5>Previous Races</h5>
+    <div class="round-border"><h5>Completed Races</h5>
     
       <a id="lecomte"></a>
       <!--br/-->
@@ -141,7 +141,7 @@
             <th class="text-align-center">Week #1, Jan. 22, 2022</th>
           </tr>
           <tr>
-            <td><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a><!--&nbsp;
+            <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a><!--&nbsp;
               <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a--></p></td>
         </tr>
         <tr>
@@ -162,7 +162,7 @@
             <th class="text-align-center">Week #2, Jan. 29, 2022</th>
       </tr>
       <!--tr>
-        <td><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+        <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
           <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
     </tr-->
     <tr>
@@ -182,7 +182,7 @@
               <th class="text-align-center">Week #3, Feb. 5-6, 2022</th>
         </tr>
         <!--tr>
-          <td><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week03-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+          <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week03-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
             <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week03-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
       </tr-->
       <tr>
@@ -220,7 +220,7 @@
                 <th class="text-align-center">Week #4, Feb. 12, 2022</th>
           </tr>
           <!--tr>
-            <td><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week04-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+            <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week04-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
               <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week04-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
         </tr-->
         <tr>
@@ -259,7 +259,7 @@
               <th class="text-align-center">Week #5, Feb. 19, 2022</th>
             </tr>
             <!--tr>
-              <td><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week05-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+              <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week05-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
                 <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week05-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
           </tr-->
           <tr>
@@ -280,7 +280,7 @@
               <th class="text-align-center">Week #10, Mar. 26, 2022</th>
             </tr>
             <!--tr>
-              <td><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+              <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
                 <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
           </tr-->
               <tr>
@@ -348,6 +348,7 @@
 <div class="row">
   <div class="col-lg-4"> <!--begin left column-->
     <div class="round-border"><h5>Leading Horses</h5>
+      <center>
       <table class="TableStandard">
         <tr>
             <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
@@ -369,13 +370,14 @@
             &#8224;&nbsp;Does not include Power Horse points.</td>
         </tr>
     </table>
-
+  </center>
       </div>
 
   </div> <!--end left column-->
 
   <div class="col-lg-4"> <!--begin middle column-->
     <div class="round-border"><h5>Leading Trainers</h5>
+      <center>
       <table class="TableStandard">
         <tr>
             <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
@@ -396,13 +398,14 @@
           <td colspan="2">*Not drafted by any stable.</td>
         </tr>
     </table>
-
+  </center>
       </div>
 
   </div> <!--end middle column-->
 
   <div class="col-lg-4"> <!--begin right column-->
     <div class="round-border"><h5>Leading Jockeys</h5>
+      <center>
       <table class="TableStandard">
         <tr>
             <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
@@ -423,7 +426,7 @@
           <td colspan="2">*Not drafted by any stable.</td>
         </tr>
     </table>
-
+  </center>
     </div>
 
   </div> <!--end right column-->
@@ -441,8 +444,9 @@
 
             <iframe class="responsive-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" onload="document.getElementById('spinner').style.display='none';"></iframe>
           </div>
-<a id="schedule"></a>
       </div> <!--row #4-->
+<a id="schedule"></a>
+
 <br/>
 <div class="row">
   <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive" style="max-width: 250px; border: 0;" /></a>
