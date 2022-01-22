@@ -123,7 +123,11 @@
     <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2095985959&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2095985959&single=true');">Rules</a></p>
     </div>
  
+    <!--#include virtual="/contests/how-to-play-rttr.html" -->  
+  
+    <!--#include virtual="/contests/rttr-scoring-table.html" -->    
     
+ 
     <div class="round-border"><h5>Previous Races</h5>
     
       <a id="lecomte"></a>
@@ -306,102 +310,6 @@
 
   <div class="col-lg-4"> <!--begin right column-->
   
-    <!--#include virtual="/contests/how-to-play-rttr.html" -->  
-  
-    <!--#include virtual="/contests/rttr-scoring-table.html" -->    
-    
-      
-  </div><!--end right column-->
-
-</div><!--end row #1-->
-
-<div class="row">
-  <div class="col-lg-4"> <!--begin left column-->
-    <div class="round-border"><h5>Leading Horses</h5>
-      <table class="TableStandard">
-        <tr>
-            <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
-            <th class="table-data-number TableHeader">Points&nbsp;&#8224;</th>  
-        </tr>
-        <tr class="drafted-player">
-            <td colspan="2">Will be updated after Week #1</td>
-        </tr>
-        <!--tr class="drafted-player">
-            <td>Bob Baffert</td>
-            <td class="table-data-number">230</td>
-        </tr>
-        <tr class="non-drafted-player">
-          <td>*William Morey</td>
-          <td class="table-data-number">7</td>
-        </tr-->
-        <tr class="non-drafted-player">
-          <td colspan="2">*Not drafted by any stable.<br/>
-            &#8224;&nbsp;Does not include Power Horse points.</td>
-        </tr>
-    </table>
-
-      </div>
-
-  </div> <!--end left column-->
-
-  <div class="col-lg-4"> <!--begin middle column-->
-    <div class="round-border"><h5>Leading Trainers</h5>
-      <table class="TableStandard">
-        <tr>
-            <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
-            <th class="table-data-number TableHeader">Points</th>  
-        </tr>
-        <tr class="drafted-player">
-          <td colspan="2">Will be updated after Week #1</td>
-      </tr>
-      <!--tr class="drafted-player">
-            <td>Bob Baffert</td>
-            <td class="table-data-number">230</td>
-        </tr>
-        <tr class="non-drafted-player">
-          <td>*William Morey</td>
-          <td class="table-data-number">7</td>
-        </tr-->
-        <tr class="non-drafted-player">
-          <td colspan="2">*Not drafted by any stable.</td>
-        </tr>
-    </table>
-
-      </div>
-
-  </div> <!--end middle column-->
-
-  <div class="col-lg-4"> <!--begin right column-->
-    <div class="round-border"><h5>Leading Jockeys</h5>
-      <table class="TableStandard">
-        <tr>
-            <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
-            <th class="table-data-number TableHeader">Points</th>  
-        </tr>
-        <tr class="drafted-player">
-          <td colspan="2">Will be updated after Week #1</td>
-      </tr>
-        <!--tr class="drafted-player">
-            <td>Bob Baffert</td>
-            <td class="table-data-number">230</td>
-        </tr>
-        <tr class="non-drafted-player">
-          <td>*William Morey</td>
-          <td class="table-data-number">7</td>
-        </tr-->
-        <tr class="non-drafted-player">
-          <td colspan="2">*Not drafted by any stable.</td>
-        </tr>
-    </table>
-
-    </div>
-
-  </div> <!--end right column-->
-
-</div><!--end row #2-->
-
-<div class="row">
-  <div class="col-lg-4"> <!--begin left column-->
     <div class="round-border"><h5>Horses by RTTR Stable</h5>
       <table class="TableStandard">
         <tr>
@@ -551,131 +459,111 @@
     </table>
 
       </div>
+      
+  </div><!--end right column-->
+
+</div><!--end row #1-->
+
+<div class="row">
+  <div class="col-lg-4"> <!--begin left column-->
+    <div class="round-border"><h5>Leading Horses</h5>
+      <table class="TableStandard">
+        <tr>
+            <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
+            <th class="table-data-number TableHeader">Points&nbsp;&#8224;</th>  
+        </tr>
+        <tr class="drafted-player">
+            <td colspan="2">Will be updated after Week #1</td>
+        </tr>
+        <!--tr class="drafted-player">
+            <td>Bob Baffert</td>
+            <td class="table-data-number">230</td>
+        </tr>
+        <tr class="non-drafted-player">
+          <td>*William Morey</td>
+          <td class="table-data-number">7</td>
+        </tr-->
+        <tr class="non-drafted-player">
+          <td colspan="2">*Not drafted by any stable.<br/>
+            &#8224;&nbsp;Does not include Power Horse points.</td>
+        </tr>
+    </table>
+
+      </div>
 
   </div> <!--end left column-->
 
   <div class="col-lg-4"> <!--begin middle column-->
-    <div class="round-border"><h5>Trainers by RTTR Stable</h5>
+    <div class="round-border"><h5>Leading Trainers</h5>
       <table class="TableStandard">
         <tr>
             <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
-            <th class="table-data-number TableHeader"># of Stables</th>  
+            <th class="table-data-number TableHeader">Points</th>  
         </tr>
         <tr class="drafted-player">
-          <td>Todd Pletcher</td>
-          <td class="table-data-number">14</td>
+          <td colspan="2">Will be updated after Week #1</td>
       </tr>
-      <tr class="drafted-player">
-        <td>Kenneth McPeek</td>
-        <td class="table-data-number">13</td>
-    </tr>
-    <tr class="drafted-player">
-      <td>Steven Asmussen</td>
-      <td class="table-data-number">10</td>
-  </tr>
-  <tr class="drafted-player">
-    <td>Bob Baffert</td>
-    <td class="table-data-number">5</td>
-</tr>
-<tr class="drafted-player">
-  <td>Chad Brown</td>
-  <td class="table-data-number">5</td>
-</tr>
-<tr class="drafted-player">
-<td>Brad Cox</td>
-<td class="table-data-number">4</td>
-</tr>
-<tr class="drafted-player">
-<td>Mark Casse</td>
-<td class="table-data-number">2</td>
-</tr>
-<tr class="drafted-player">
-<td>Doug O'Neill</td>
-<td class="table-data-number">2</td>
-</tr>
-<tr class="drafted-player">
-<td>Saffie Joseph, Jr.</td>
-<td class="table-data-number">1</td>
-</tr>
-<tr class="drafted-player">
-<td>Michael Maker</td>
-<td class="table-data-number">1</td>
-</tr>
-<tr class="drafted-player">
-<td>William Mott</td>
-<td class="table-data-number">1</td>
-</tr>
-  </table>
+      <!--tr class="drafted-player">
+            <td>Bob Baffert</td>
+            <td class="table-data-number">230</td>
+        </tr>
+        <tr class="non-drafted-player">
+          <td>*William Morey</td>
+          <td class="table-data-number">7</td>
+        </tr-->
+        <tr class="non-drafted-player">
+          <td colspan="2">*Not drafted by any stable.</td>
+        </tr>
+    </table>
 
       </div>
 
   </div> <!--end middle column-->
 
   <div class="col-lg-4"> <!--begin right column-->
-    <div class="round-border"><h5>Jockeys by RTTR Stable</h5>
+    <div class="round-border"><h5>Leading Jockeys</h5>
       <table class="TableStandard">
         <tr>
             <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
-            <th class="table-data-number TableHeader"># of Stables</th>  
+            <th class="table-data-number TableHeader">Points</th>  
         </tr>
         <tr class="drafted-player">
-            <td>Joel Rosario</td>
-            <td class="table-data-number">17</td>
-        </tr>
-        <tr class="drafted-player">
-          <td>Irad Ortiz, Jr.</td>
-          <td class="table-data-number">12</td>
+          <td colspan="2">Will be updated after Week #1</td>
       </tr>
-      <tr class="drafted-player">
-        <td>John R. Velazquez</td>
-        <td class="table-data-number">8</td>
-    </tr>
-    <tr class="drafted-player">
-      <td>Luis Saez</td>
-      <td class="table-data-number">7</td>
-  </tr>
-  <tr class="drafted-player">
-    <td>Jose L. Ortiz</td>
-    <td class="table-data-number">5</td>
-</tr>
-<tr class="drafted-player">
-  <td>Flavien Prat</td>
-  <td class="table-data-number">2</td>
-</tr>
-<tr class="drafted-player">
-  <td>Javier Castellano</td>
-  <td class="table-data-number">2</td>
-</tr>
-<tr class="drafted-player">
-  <td>Junior Alvarado</td>
-  <td class="table-data-number">1</td>
-</tr>
-<tr class="drafted-player">
-  <td>Joe Bravo</td>
-  <td class="table-data-number">1</td>
-</tr>
-<tr class="drafted-player">
-  <td>Florent Geroux</td>
-  <td class="table-data-number">1</td>
-</tr>
-<tr class="drafted-player">
-  <td>Brian Joseph Hernandez, Jr.</td>
-  <td class="table-data-number">1</td>
-</tr>
-<tr class="drafted-player">
-  <td>Corey Lanerie</td>
-  <td class="table-data-number">1</td>
-</tr>
-</table>
+        <!--tr class="drafted-player">
+            <td>Bob Baffert</td>
+            <td class="table-data-number">230</td>
+        </tr>
+        <tr class="non-drafted-player">
+          <td>*William Morey</td>
+          <td class="table-data-number">7</td>
+        </tr-->
+        <tr class="non-drafted-player">
+          <td colspan="2">*Not drafted by any stable.</td>
+        </tr>
+    </table>
 
     </div>
 
   </div> <!--end right column-->
 
-</div><!--end row #3-->
+</div><!--end row #2-->
 
+<div class="row">
+  <div class="col-lg-4"> <!--begin left column-->
+    
+    <!--#include virtual="/modules/rttr148-trainers-by-stable.html"-->
 
-<div style="text-align: center; width: 100%;">
+  </div> <!--end left column-->
+
+  <div class="col-lg-4"> <!--begin middle column-->
+
+    <!--#include virtual="/modules/rttr148-jockeys-by-stable.html"-->
+
+  </div> <!--end middle column-->
+
+  <div class="col-lg-4"> <!--begin right column-->
+
     <div class="round-border">
       <h5>Contest Notes</h5>
       <center>
@@ -691,7 +579,10 @@
     </center>
   </div>
 
-</div>
+
+  </div> <!--end right column-->
+
+</div><!--end row #3-->
 
 <a id="leaderboard"></a>
 <br/>
