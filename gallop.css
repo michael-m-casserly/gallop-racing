@@ -194,6 +194,10 @@ td {
   font-style: italic;
 }
 
+.player-by-stable {
+  font-weight: normal;
+}
+
 .stats-table {
   margin: 10px;
   background-color: #FFF;
