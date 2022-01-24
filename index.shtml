@@ -54,30 +54,9 @@
 
       <!--#include virtual="/contests/how-to-play-rttr.html" --> 
 
-      <div class="round-border"><h5>Stakes Nominations</h5>
-        <div class="dropdown" style="border:hidden;">
-          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton_Nomimations" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Select Track
-          </button>          
-        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton_Nomimations">
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=AQU&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=AQU&cy=USA');">Aqueduct (AQU)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=CD&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=CD&cy=USA');">Churchill Downs (CD)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=FG&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=FG&cy=USA');">Fair Grounds (FG)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GG&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GG&cy=USA');">Golden Gate (GG)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GP&cy=USA');">Gulfstream (GP)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=IND&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=KEE&cy=USA');">Keeneland (KEE)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=LRC&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=LRC&cy=USA');">Los Alamitos (LRC)</a>
-          <a class="dropdown-item" href="https://emiratesracing.com/racing-information/race-entries" target="_blank" role="button" onclick="captureOutboundLink('https://emiratesracing.com/racing-information/race-entries');">Meydan (MEY)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=OP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=OP&cy=USA');">Oaklawn Park (OP)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=RP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=RP&cy=USA');">Remington Park (RP)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SA&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SA&cy=USA');">Santa Anita (SA)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SUN&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SUN&cy=USA');">Sunland Park (SUN)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TAM&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TAM&cy=USA');">Tampa Bay Downs (TAM)</a>
-          <a class="dropdown-item" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TP&cy=USA');">Turfway Park (TP)</a>
-        </div>
-        </div>
-      </div>
-      
+      <!--#include virtual="/modules/stakes-nominations-rttr.html" -->
+
+
 </div> <!--end middle column-->
 
 <div class="col-lg-4"> <!--begin right column-->
