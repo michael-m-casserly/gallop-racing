@@ -36,10 +36,10 @@
             <tr class="TableHeader">
               <th class="text-align-center">Week #2, Jan. 29, 2022</th>
         </tr>
-        <!--tr>
-          <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-            <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
-      </tr-->
+        <tr>
+          <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a><!--&nbsp;
+            <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a--></p></td>
+      </tr>
       <tr>
         <td class="race-name-header">
           Southwest Stakes (Tier 4)<br/>
