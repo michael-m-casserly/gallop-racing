@@ -64,9 +64,9 @@
             Holy Bull Stakes (Tier 4)<br/>
             <span class="track-name-state">Gulfstream Park (GP) | Florida</span><!--br>
             Race #x, Post Time x:xxPM EST-->
-            <!--p><a class="btn btn-secondary" href="/contests/rttr148/Week03-Holy-Bull-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a-->
+            <p><a class="btn btn-secondary" href="/contests/rttr148/Week03-Holy-Bull-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>
             <!--a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a>
-            <a class="btn btn-secondary" href="/contests/rttr148/Week03-Holy-Bull-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a></p--></td>
+            <a class="btn btn-secondary" href="/contests/rttr148/Week03-Holy-Bull-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a--></p></td>
         </tr>
         <tr>
           <td class="race-name-header">
@@ -75,7 +75,7 @@
             Race #x, Post Time x:xxPM EST-->
             <p><a class="btn btn-secondary" href="/contests/rttr148/Week03-Withers-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>
             <!--a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a>
-            <a class="btn btn-secondary" href="/contests/rttr148/Week03-Withers-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a></p--></td>
+            <a class="btn btn-secondary" href="/contests/rttr148/Week03-Withers-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a--></p></td>
         </tr>
         <tr>
           <td class="race-name-header">
