@@ -36,6 +36,10 @@
           <td>Horse is Entered into an upcoming RTTR race.</td>
         </tr>
         <tr>
+          <td class="drafted-player">*Entered</td>
+          <td>RTTR Horse is Entered into a non-RTTR race.</td>
+        </tr>
+        <tr>
           <td class="drafted-player">Nominated</td>
           <td>Horse is Nominated for an upcoming Stakes race.</td>
         </tr>
