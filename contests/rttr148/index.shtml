@@ -82,9 +82,9 @@
             Robert B. Lewis Stakes (Tier 4)<br/>
             <span class="track-name-state">Santa Anita Park (SA) | California</span><!--br>
             Race #x, Post Time x:xxPM EST-->
-            <!--p><a class="btn btn-secondary" href="/contests/rttr148/Week03-Robert-B-Lewis-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a-->
+            <p><a class="btn btn-secondary" href="/contests/rttr148/Week03-Robert-B-Lewis-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>
             <!--a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a>
-            <a class="btn btn-secondary" href="/contests/rttr148/Week03-Robert-B-Lewis-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a></p--></td>
+            <a class="btn btn-secondary" href="/contests/rttr148/Week03-Robert-B-Lewis-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a--></p></td>
         </tr>
               </table>
               <a id="week4"></a>
@@ -226,7 +226,20 @@
 
   <div class="col-lg-4"> <!--begin right column-->
 
-    <!--#include virtual="/modules/rttr148-trainer-jockey-combo-by-stable.html"-->
+    <div class="round-border">
+      <h5>Contest Notes</h5>
+      <center>
+      <table class="TableStandard">
+        <tr class="TableHeader">
+          <th class="text-align-center">Bob Baffert</th>
+        </tr>
+      <tr>
+        <td style="font-size: 14px;"><p>Bob Baffert <b>will be eligible</b> for both horse and trainer points in this contest. Please be aware of the risk that any of his contending horses could potentially be moved to another trainer prior to the Kentucky Derby, if his current 2-year suspension at Churchill Downs is still in effect come May.</p>
+        <p>Also be aware that all horses currently trained by Bob Baffert will not be listed on the <a href="https://www.kentuckyderby.com/horses" target="_blank"  onclick="captureOutboundLink('https://www.kentuckyderby.com/horses');">Official Road to the Kentucky Derby Points Leaderboard</a>, as they are not eligible for those points. So if you are drafting solely off of that list, you could be missing some of the contenders (Corniche, Messier, Newgrange, Rockefeller, etc.)</p></td>
+      </tr>
+    </table>
+    </center>
+  </div>
 
   </div> <!--end right column-->
 
@@ -248,21 +261,8 @@
   </div> <!--end middle column-->
 
   <div class="col-lg-4"> <!--begin right column-->
-    
-    <div class="round-border">
-      <h5>Contest Notes</h5>
-      <center>
-      <table class="TableStandard">
-        <tr class="TableHeader">
-          <th class="text-align-center">Bob Baffert</th>
-        </tr>
-      <tr>
-        <td style="font-size: 14px;"><p>Bob Baffert <b>will be eligible</b> for both horse and trainer points in this contest. Please be aware of the risk that any of his contending horses could potentially be moved to another trainer prior to the Kentucky Derby, if his current 2-year suspension at Churchill Downs is still in effect come May.</p>
-        <p>Also be aware that all horses currently trained by Bob Baffert will not be listed on the <a href="https://www.kentuckyderby.com/horses" target="_blank"  onclick="captureOutboundLink('https://www.kentuckyderby.com/horses');">Official Road to the Kentucky Derby Points Leaderboard</a>, as they are not eligible for those points. So if you are drafting solely off of that list, you could be missing some of the contenders (Corniche, Messier, Newgrange, Rockefeller, etc.)</p></td>
-      </tr>
-    </table>
-    </center>
-  </div>
+ 
+        <!--#include virtual="/modules/rttr148-trainer-jockey-combo-by-stable.html"-->
 
   </div> <!--end right column-->
 
