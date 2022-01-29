@@ -31,24 +31,6 @@
     <!--#include virtual="/modules/rttr148-contest-info.html" -->  
     
     <div class="round-border"><h5>Upcoming Races</h5>
-      <a id="week2"></a>
-          <table class="TableStandard">
-            <tr class="TableHeader">
-              <th class="text-align-center">Week #2, Jan. 29, 2022</th>
-        </tr>
-        <tr>
-          <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a><!--&nbsp;
-            <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a--></p></td>
-      </tr>
-      <tr>
-        <td class="race-name-header">
-          Southwest Stakes (Tier 4)<br/>
-          <span class="track-name-state">Oaklawn Park (OP) | Arkansas</span><br/>
-          Race #9, Post Time 5:22PM EST
-          <p><a class="btn btn-secondary" href="https://www.equibase.com/static/entry/OP012922USA9-EQB.html" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/static/entry/OP012922USA9-EQB.html');">Equibase Entries</a>
-          <!--a class="btn btn-secondary" href="/contests/rttr148/Week02-Southwest-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a--></p></td>
-      </tr>
-            </table>
             <a id="week3"></a>
             <br/>
             <table class="TableStandard">
@@ -176,9 +158,26 @@
   <div class="col-lg-4"> <!--begin middle column-->
    
     <div class="round-border"><h5>Completed Races</h5>
-      <a id="lecomte"></a>
         <center>
-        <table class="TableStandard">
+          <a id="week2"></a>
+          <table class="TableStandard">
+            <tr class="TableHeader">
+              <th class="text-align-center">Week #2, Jan. 29, 2022</th>
+        </tr>
+        <tr>
+          <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+            <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
+      </tr>
+      <tr>
+        <td class="race-name-header">
+          Southwest Stakes (Tier 4)<br/>
+          <span class="track-name-state">Oaklawn Park (OP) | Arkansas</span><br/>
+          <p><a class="btn btn-secondary" href="/contests/rttr148/Week02-Southwest-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a></p></td>
+      </tr>
+            </table>
+        <a id="week1"></a>
+         <br/>
+          <table class="TableStandard">
             <tr class="TableHeader">
               <th class="text-align-center">Week #1, Jan. 22, 2022</th>
             </tr>
@@ -193,6 +192,7 @@
               <a class="btn btn-secondary" href="/contests/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a></p></td>
           </tr>
           </table>
+          </center>
     </div>
      
     <!--#include virtual="/contests/how-to-play-rttr.html" -->  
