@@ -16,7 +16,13 @@
     
     <!--Begin Main Content Section-->
     <main class="container" style="background-color:#FFF;">
-      <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span><!--a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a><span class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</span--><span class="PageTitleBreadCrumb">Register</span></div>
+
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+          <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Register</span></li>
+        </ol>
+      </nav>
    
   <div class="container marketing" style="margin: 0px; padding: 0px;">
 
