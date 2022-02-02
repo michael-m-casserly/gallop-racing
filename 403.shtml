@@ -27,7 +27,7 @@
       <div class="text-align-center"><h3>403 - Forbidden</h3></div>
   
       <div class="container marketing">
-        <p>Access is forbidden to the requested page. Please visit our current home page by clicking <a href="index.shtml">here</a>.</p>
+        <p>Access is forbidden to the requested page. Please visit our current home page by clicking <a href="/index.shtml">here</a>.</p>
 
 <!-- FOOTER -->
 

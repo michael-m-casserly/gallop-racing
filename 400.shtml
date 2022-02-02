@@ -27,7 +27,7 @@
         <div class="text-align-center"><h3>400 - Bad Request</h3></div>
   
       <div class="container marketing">
-<p>Your browser sent a request that this server could not understand. Please visit our current home page by clicking <a href="index.shtml">here</a>.</p>
+<p>Your browser sent a request that this server could not understand. Please visit our current home page by clicking <a href="/index.shtml">here</a>.</p>
 
 <!-- FOOTER -->
 

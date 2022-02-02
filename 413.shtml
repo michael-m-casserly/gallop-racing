@@ -27,7 +27,7 @@
       <div class="text-align-center"><h3>413 - Request Entity Too Large</h3></div>
   
       <div class="container marketing">
-<p>The request exceeds the capacity limit. Please visit our current home page by clicking <a href="index.shtml">here</a>.</p>
+<p>The request exceeds the capacity limit. Please visit our current home page by clicking <a href="/index.shtml">here</a>.</p>
 
 <!-- FOOTER -->
 

@@ -27,7 +27,7 @@
       <div class="text-align-center"><h3>401 - Unauthorized</h3></div>
   
       <div class="container marketing">
-        <p>The requested page requires authentication. Please visit our current home page by clicking <a href="index.shtml">here</a>.</p>
+        <p>The requested page requires authentication. Please visit our current home page by clicking <a href="/index.shtml">here</a>.</p>
 
 <!-- FOOTER -->
 
