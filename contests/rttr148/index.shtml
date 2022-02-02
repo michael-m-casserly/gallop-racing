@@ -48,26 +48,28 @@
         </tr-->
         <tr>
           <td class="race-name-header">
-            Holy Bull Stakes (Tier 4)<br/>
-            <span class="track-name-state">Gulfstream Park (GP) | Florida</span><!--br>
-            Race #x, Post Time x:xxPM EST-->
-            <p><a class="btn btn-secondary" href="/contests/rttr148/Week03-Holy-Bull-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>
-            <!--a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a>
-            <a class="btn btn-secondary" href="/contests/rttr148/Week03-Holy-Bull-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a--></p></td>
+            Withers Stakes (Tier 4)<br/>
+            <span class="track-name-state">Aqueduct Racetrack (AQU) | New York</span><br/>
+            Saturday<br/>
+            Race #8, Post Time 4:25PM EST
+            <p><a class="btn btn-secondary" href="https://www.equibase.com/static/entry/AQU020522USA8-EQB.html" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/static/entry/AQU020522USA8-EQB.html');">Equibase Entries</a>
+            <!--a class="btn btn-secondary" href="/contests/rttr148/Week03-Withers-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a--></p></td>
         </tr>
         <tr>
           <td class="race-name-header">
-            Withers Stakes (Tier 4)<br/>
-            <span class="track-name-state">Aqueduct Racetrack (AQU) | New York</span><!--br>
-            Race #x, Post Time x:xxPM EST-->
-            <p><a class="btn btn-secondary" href="/contests/rttr148/Week03-Withers-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>
-            <!--a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a>
-            <a class="btn btn-secondary" href="/contests/rttr148/Week03-Withers-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a--></p></td>
+            Holy Bull Stakes (Tier 4)<br/>
+            <span class="track-name-state">Gulfstream Park (GP) | Florida</span><br>
+            Saturday<br/>
+            Race #11, Post Time 5:10PM EST
+            <p>
+            <a class="btn btn-secondary" href="https://www.equibase.com/static/entry/GP020522USA11-EQB.html" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/static/entry/GP020522USA11-EQB.html');">Equibase Entries</a>
+            <!--a class="btn btn-secondary" href="/contests/rttr148/Week03-Holy-Bull-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a--></p></td>
         </tr>
         <tr>
           <td class="race-name-header">
             Robert B. Lewis Stakes (Tier 4)<br/>
             <span class="track-name-state">Santa Anita Park (SA) | California</span><!--br>
+            Sunday<br/>
             Race #x, Post Time x:xxPM EST-->
             <p><a class="btn btn-secondary" href="/contests/rttr148/Week03-Robert-B-Lewis-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>
             <!--a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a>
@@ -215,64 +217,89 @@
 
 </div><!--end row #1-->
 
+<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+        Trainers & Jockeys by Stable / Contest Notes
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        
+        <div class="row">
+          <div class="col-lg-4"> <!--begin left column-->
+            
+            <!--#include virtual="/modules/rttr148-trainers-by-stable.html"-->
+        
+          </div> <!--end left column-->
+        
+          <div class="col-lg-4"> <!--begin middle column-->
+        
+            <!--#include virtual="/modules/rttr148-jockeys-by-stable.html"-->
+        
+          </div> <!--end middle column-->
+        
+          <div class="col-lg-4"> <!--begin right column-->
+        
+            <div class="round-border">
+              <h5>Contest Notes</h5>
+              <center>
+              <table class="TableStandard">
+                <tr class="TableHeader">
+                  <th class="text-align-center">Bob Baffert</th>
+                </tr>
+              <tr>
+                <td style="font-size: 14px;"><p>Bob Baffert <b>will be eligible</b> for both horse and trainer points in this contest. Please be aware of the risk that any of his contending horses could potentially be moved to another trainer prior to the Kentucky Derby, if his current 2-year suspension at Churchill Downs is still in effect come May.</p>
+                <p>Also be aware that all horses currently trained by Bob Baffert will not be listed on the <a href="https://www.kentuckyderby.com/horses" target="_blank"  onclick="captureOutboundLink('https://www.kentuckyderby.com/horses');">Official Road to the Kentucky Derby Points Leaderboard</a>, as they are not eligible for those points. So if you are drafting solely off of that list, you could be missing some of the contenders (Corniche, Messier, Newgrange, Rockefeller, etc.)</p></td>
+              </tr>
+            </table>
+            </center>
+          </div>
+        
+          </div> <!--end right column-->
+        
+        </div><!--end row #2-->
 
-<div class="row">
-  <div class="col-lg-4"> <!--begin left column-->
-    
-    <!--#include virtual="/modules/rttr148-trainers-by-stable.html"-->
-
-  </div> <!--end left column-->
-
-  <div class="col-lg-4"> <!--begin middle column-->
-
-    <!--#include virtual="/modules/rttr148-jockeys-by-stable.html"-->
-
-  </div> <!--end middle column-->
-
-  <div class="col-lg-4"> <!--begin right column-->
-
-    <div class="round-border">
-      <h5>Contest Notes</h5>
-      <center>
-      <table class="TableStandard">
-        <tr class="TableHeader">
-          <th class="text-align-center">Bob Baffert</th>
-        </tr>
-      <tr>
-        <td style="font-size: 14px;"><p>Bob Baffert <b>will be eligible</b> for both horse and trainer points in this contest. Please be aware of the risk that any of his contending horses could potentially be moved to another trainer prior to the Kentucky Derby, if his current 2-year suspension at Churchill Downs is still in effect come May.</p>
-        <p>Also be aware that all horses currently trained by Bob Baffert will not be listed on the <a href="https://www.kentuckyderby.com/horses" target="_blank"  onclick="captureOutboundLink('https://www.kentuckyderby.com/horses');">Official Road to the Kentucky Derby Points Leaderboard</a>, as they are not eligible for those points. So if you are drafting solely off of that list, you could be missing some of the contenders (Corniche, Messier, Newgrange, Rockefeller, etc.)</p></td>
-      </tr>
-    </table>
-    </center>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingTwo">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        RTTR Leaders / Trainer & Jockey Combos
+      </button>
+    </h2>
+    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <div class="row">
+          <div class="col-lg-4"> <!--begin left column-->
+        
+            <!--#include virtual="/modules/rttr148-leading-horses.html"-->
+        
+          </div> <!--end left column-->
+        
+          <div class="col-lg-4"> <!--begin middle column-->
+        
+            <!--#include virtual="/modules/rttr148-leading-trainers.html"-->
+          
+              <!--#include virtual="/modules/rttr148-leading-jockeys.html"-->
+        
+          </div> <!--end middle column-->
+        
+          <div class="col-lg-4"> <!--begin right column-->
+         
+                <!--#include virtual="/modules/rttr148-trainer-jockey-combo-by-stable.html"-->
+        
+          </div> <!--end right column-->
+        
+        </div><!--end row #3-->
+        
+      </div>
+    </div>
   </div>
 
-  </div> <!--end right column-->
-
-</div><!--end row #2-->
-
-<div class="row">
-  <div class="col-lg-4"> <!--begin left column-->
-
-    <!--#include virtual="/modules/rttr148-leading-horses.html"-->
-
-  </div> <!--end left column-->
-
-  <div class="col-lg-4"> <!--begin middle column-->
-
-    <!--#include virtual="/modules/rttr148-leading-trainers.html"-->
-  
-      <!--#include virtual="/modules/rttr148-leading-jockeys.html"-->
-
-  </div> <!--end middle column-->
-
-  <div class="col-lg-4"> <!--begin right column-->
- 
-        <!--#include virtual="/modules/rttr148-trainer-jockey-combo-by-stable.html"-->
-
-  </div> <!--end right column-->
-
-</div><!--end row #3-->
-
+</div>
 
 <a id="leaderboard"></a>
 <br/>

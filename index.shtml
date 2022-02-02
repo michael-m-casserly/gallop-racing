@@ -80,7 +80,7 @@
           <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.drf.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.drf.com/');">Daily Racing Form &raquo;</a></p>
           <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.equibase.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/');">Equibase &raquo;</a></p>
           <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttr148?f=live" target="_blank" role="button" onclick="captureOutboundLink('https://twitter.com/hashtag/rttr148?f=live');">#rttr148 on Twitter &raquo;</a></p>
-          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.paulickreport.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.paulickreport.com/');">Paulick Report &raquo;</a></p>
+          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://paulickreport.com/" target="_blank" role="button" onclick="captureOutboundLink('https://paulickreport.com/');">Paulick Report &raquo;</a></p>
           <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.pedigreequery.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.pedigreequery.com/');">Pedigree Query &raquo;</a></p>
           <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://news.tvg.com/" target="_blank" role="button" onclick="captureOutboundLink('https://news.tvg.com/');">TVG News &raquo;</a></p>
           </div>    

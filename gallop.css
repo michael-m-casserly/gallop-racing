@@ -270,7 +270,7 @@ border-bottom: #FFF !important;
 	}
 
 .scoring-table-header-row { 
-  border-width: 5px;
+  /*border-width: 5px; This was causing breakage in Bootstrap 5.1, will remove and see if any adverse effects */
   background-color: #344f7c;
   color: #FFF;
 }
