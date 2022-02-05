@@ -57,11 +57,8 @@
           <td class="race-name-header">
             Holy Bull Stakes (Tier 4)<br/>
             <span class="track-name-state">Gulfstream Park (GP) | Florida</span><br>
-            Saturday<br/>
-            Race #11, Post Time 5:10PM EST
             <p>
-            <a class="btn btn-secondary" href="https://www.equibase.com/static/entry/GP020522USA11-EQB.html" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/static/entry/GP020522USA11-EQB.html');">Equibase Entries</a>
-            <!--a class="btn btn-secondary" href="/contests/rttr148/Week03-Holy-Bull-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a--></p></td>
+            <a class="btn btn-secondary" href="/contests/rttr148/Week03-Holy-Bull-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a></p></td>
         </tr>
         <tr>
           <td class="race-name-header">
