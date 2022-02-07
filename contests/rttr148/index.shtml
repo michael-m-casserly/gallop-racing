@@ -38,6 +38,7 @@
     
     <div class="round-border"><h5>Upcoming Races</h5>
               <a id="week4"></a>
+              <center> <!--Need to leave this in until a reliable CSS method is available-->
               <table class="TableStandard">
                 <tr class="TableHeader">
                   <th class="text-align-center">Week #4, Feb. 12, 2022</th>
@@ -117,7 +118,7 @@
           </tr>
         </table>
         <p style="font-size: 12px;">Nominations and Results courtesy of <a href="https://www.equibase.com" target="_blank">Equibase.com</a></p>
-      </center>
+      </center><!--Need to leave this in until a reliable CSS method is available-->
   
       </div>
 
@@ -125,7 +126,7 @@
   <div class="col-lg-4"> <!--begin middle column-->
    
     <div class="round-border"><h5>Completed Races</h5>
-        <center>
+        <center><!--Need to leave this in until a reliable CSS method is available-->
           <a id="week3"></a>
           <table class="TableStandard">
             <tr class="TableHeader">
@@ -189,7 +190,7 @@
               <a class="btn btn-secondary" href="/contests/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a></p></td>
           </tr>
           </table>
-          </center>
+          </center><!--Need to leave this in until a reliable CSS method is available-->
     </div>
    
       </div><!--end middle column-->
