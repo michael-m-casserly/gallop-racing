@@ -117,6 +117,25 @@
               <a class="btn btn-secondary" href="/contests/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Results</a--></p></td>
           </tr>
         </table>
+        <br/>
+          <table class="TableStandard">
+              <tr class="TableHeader">
+                <th class="text-align-center">Week #14, May 7, 2022</th>
+              </tr>
+              <!--tr>
+                <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+                  <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
+            </tr-->
+                <tr>
+            <td class="race-name-header">
+              Kentucky Derby (Championship Tier)<br/>
+              <span class="track-name-state">Churchill Downs (CD) | Kentucky</span><!--br>
+              Race #x, Post Time x:xxPM EST-->
+              <p><a class="btn btn-secondary" href="/contests/rttr148/Week14-Triple-Crown-Nominations.pdf" target="_blank" role="button">Nominations</a>
+              <!--a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Entries</a>
+              <a class="btn btn-secondary" href="/contests/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Results</a--></p></td>
+          </tr>
+        </table>
         <p style="font-size: 12px;">Nominations and Results courtesy of <a href="https://www.equibase.com" target="_blank">Equibase.com</a></p>
       </center><!--Need to leave this in until a reliable CSS method is available-->
   
