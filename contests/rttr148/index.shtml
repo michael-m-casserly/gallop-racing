@@ -97,7 +97,7 @@
                 <!--a class="btn btn-secondary" href="/results/rttr148/Week05-Risen-Star-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a--></p></td>
             </tr>
             </table>
-            <a id="louisiana-derby"></a>
+            <a id="week10"></a>
           <br/>
           <table class="TableStandard">
               <tr class="TableHeader">
@@ -117,6 +117,7 @@
               <a class="btn btn-secondary" href="/contests/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Results</a--></p></td>
           </tr>
         </table>
+        <a id="week14"></a>
         <br/>
           <table class="TableStandard">
               <tr class="TableHeader">
