@@ -148,7 +148,7 @@ td {
 .TableStandard {
 	max-width:500px;
 	min-width:250px;
-  border: 1px solid black;
+  border: 1px solid #344f7c;
   border-collapse: collapse; 
 	/*border:thin;
 	border-width: 1px; 
@@ -161,7 +161,7 @@ td {
 .TableStandard td {
 	text-align:left;
 	vertical-align:middle;
-	border: 1px solid black; 
+	border: 1px solid #344f7c; 
   border-collapse: collapse; 
   /*border-width: 1px; 
 	border-color: #CCC;*/
@@ -265,7 +265,7 @@ border-bottom: #FFF !important;
 /* This will apply to all tables*/
 .scoring-table table, th, td {
   border-width: 2px;
-  border: 1px solid #344f7c;
+  border: 1px solid #344f7c !important;
   border-collapse: collapse; 
 	}
 
