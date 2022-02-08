@@ -4,8 +4,8 @@
       <!--#include virtual="/banner-head.html" -->
 
       <title>Road to the Roses, Derby 148 | Gallop Racing</title>
-      
-</head>
+
+  </head>
 
 <body class="bodyTag">
   <header>
@@ -52,18 +52,20 @@
               Sam F. Davis Stakes (Tier 4)<br/>
               <span class="track-name-state">Tampa Bay Downs (TAM) | Florida</span><!--br>
               Race #x, Post Time x:xxPM EST-->
-              <p><a class="btn btn-secondary" href="/contests/rttr148/Week04-Sam-F-Davis-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>
-              <!--a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a>
-              <a class="btn btn-secondary" href="/contests/rttr148/Week04-Sam-F-Davis-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a--></p></td>
+              <p><a class="btn btn-secondary" href="/contests/rttr148/Week04-Sam-F-Davis-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a></p>
+              <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
+              <!--p class="text-link"><a href="/contests/rttr148/Week04-Sam-F-Davis-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
+              </td>
           </tr>
           <tr>
             <td class="race-name-header">
               El Camino Real Derby (Tier 4)<br/>
               <span class="track-name-state">Golden Gate Fields (GG) | California</span><!--br>
               Race #x, Post Time x:xxPM EST-->
-              <p><a class="btn btn-secondary" href="/contests/rttr148/Week04-El-Camino-Real-Derby-Nominations.pdf" target="_blank" role="button">Nominations</a>
-              <!--a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a>
-              <a class="btn btn-secondary" href="/contests/rttr148/Week04-El-Camino-Real-Derby-Results.pdf" target="_blank" role="button">Equibase Results</a--></p></td>
+              <p><a class="btn btn-secondary" href="/contests/rttr148/Week04-El-Camino-Real-Derby-Nominations.pdf" target="_blank" role="button">Nominations</a></p>
+              <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
+              <!--p class="text-link"><a href="/contests/rttr148/Week04-El-Camino-Real-Derby-Results.pdf" target="_blank">Equibase Results</a></p-->
+              </td>
           </tr>
         </table>
         <br/>
@@ -92,9 +94,10 @@
                 <span class="track-name-state">Fair Grounds (FG) | Louisiana</span><!--br>
                 Race #x, Post Time x:xxPM EST-->
                 <p style="font-size: 12px; font-weight: normal; text-align: justify;">Louisiana Derby "Early Bird" Nominees are automatically nominated to the Risen Star Stakes. That list can be found <a href="/contests/rttr148/Week10-Louisiana-Derby-Early-Bird-Nominations.pdf" target="_blank">here</a>.</p>
-                <p><!--a class="btn btn-secondary" href="/contests/rttr148/Week05-Risen-Star-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a>&nbsp;-->
-                <!--a class="btn btn-secondary" href="INSERT EQUIBASE LINK" target="_blank" role="button" onclick="captureOutboundLink('INSERT EQUIBASE LINK');">Equibase Entries &raquo;</a-->
-                <!--a class="btn btn-secondary" href="/results/rttr148/Week05-Risen-Star-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a--></p></td>
+                <!--p><a class="btn btn-secondary" href="/contests/rttr148/Week05-Risen-Star-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a></p-->
+                <!--p><a class="btn btn-secondary" href="INSERT EQUIBASE LINK" target="_blank" role="button" onclick="captureOutboundLink('INSERT EQUIBASE LINK');">Equibase Entries</a></p-->
+                <!--p class="text-link"><a href="/results/rttr148/Week05-Risen-Star-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
+              </td>
             </tr>
             </table>
             <a id="week10"></a>
@@ -112,9 +115,10 @@
               Louisiana Derby (Tier 1)<br/>
               <span class="track-name-state">Fair Grounds (FG) | Louisiana</span><!--br>
               Race #x, Post Time x:xxPM EST-->
-              <p><a class="btn btn-secondary" href="/contests/rttr148/Week10-Louisiana-Derby-Early-Bird-Nominations.pdf" target="_blank" role="button">Nominations</a>
-              <!--a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Entries</a>
-              <a class="btn btn-secondary" href="/contests/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Results</a--></p></td>
+              <p><a class="btn btn-secondary" href="/contests/rttr148/Week10-Louisiana-Derby-Early-Bird-Nominations.pdf" target="_blank" role="button">Nominations</a></p>
+              <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
+              <!--p class="text-link"><a href="/contests/rttr148/Week10-Louisiana-Derby-Results.pdf" target="_blank">Equibase Results</a></p-->
+            </td>
           </tr>
         </table>
         <a id="week14"></a>
@@ -132,9 +136,10 @@
               Kentucky Derby (Championship Tier)<br/>
               <span class="track-name-state">Churchill Downs (CD) | Kentucky</span><!--br>
               Race #x, Post Time x:xxPM EST-->
-              <p><a class="btn btn-secondary" href="/contests/rttr148/Week14-Triple-Crown-Nominations.pdf" target="_blank" role="button">Nominations</a>
-              <!--a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Entries</a>
-              <a class="btn btn-secondary" href="/contests/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Results</a--></p></td>
+              <p><a class="btn btn-secondary" href="/contests/rttr148/Week14-Triple-Crown-Nominations.pdf" target="_blank" role="button">Nominations</a></p>
+              <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
+              <!--p class="text-link"><a href="/contests/rttr148/Week14-Kentucky-Derby-Results.pdf" target="_blank">Equibase Results</a></p-->
+              </td>
           </tr>
         </table>
         <p style="font-size: 12px;">Nominations and Results courtesy of <a href="https://www.equibase.com" target="_blank">Equibase.com</a></p>
@@ -160,21 +165,22 @@
         <td class="race-name-header">
           Withers Stakes (Tier 4)<br/>
           <span class="track-name-state">Aqueduct Racetrack (AQU) | New York</span><br/>
-          <p>
-          <a class="btn btn-secondary" href="/contests/rttr148/Week03-Withers-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a></p></td>
+          <p class="text-link"><a href="/contests/rttr148/Week03-Withers-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
+        </td>
       </tr>
       <tr>
         <td class="race-name-header">
           Holy Bull Stakes (Tier 4)<br/>
           <span class="track-name-state">Gulfstream Park (GP) | Florida</span><br>
-          <p>
-          <a class="btn btn-secondary" href="/contests/rttr148/Week03-Holy-Bull-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a></p></td>
+          <p class="text-link"><a href="/contests/rttr148/Week03-Holy-Bull-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
+        </td>
       </tr>
       <tr>
         <td class="race-name-header">
           Robert B. Lewis Stakes (Tier 4)<br/>
           <span class="track-name-state">Santa Anita Park (SA) | California</span><br>
-          <p><a class="btn btn-secondary" href="/contests/rttr148/Week03-Robert-B-Lewis-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a></p></td>
+          <p class="text-link"><a href="/contests/rttr148/Week03-Robert-B-Lewis-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
+        </td>
       </tr>
             </table>
           <a id="week2"></a>
@@ -190,7 +196,8 @@
         <td class="race-name-header">
           Southwest Stakes (Tier 4)<br/>
           <span class="track-name-state">Oaklawn Park (OP) | Arkansas</span><br/>
-          <p><a class="btn btn-secondary" href="/contests/rttr148/Week02-Southwest-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a></p></td>
+          <p class="text-link"><a href="/contests/rttr148/Week02-Southwest-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
+        </td>
       </tr>
             </table>
         <a id="week1"></a>
@@ -207,7 +214,8 @@
             <td class="race-name-header">
               Lecomte Stakes (Tier 4)<br/>
               <span class="track-name-state">Fair Grounds (FG) | Louisiana</span><br>
-              <a class="btn btn-secondary" href="/contests/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank" role="button">Equibase Results</a></p></td>
+              <p class="text-link"><a href="/contests/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
+            </td>
           </tr>
           </table>
           </center><!--Need to leave this in until a reliable CSS method is available-->
