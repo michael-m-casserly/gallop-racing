@@ -66,7 +66,6 @@
               </td>
           </tr>
         </table>
-        <br/>
         <table class="TableStandard">
           <tr class="TableHeader">
             <th class="text-align-center">Supp. Draft #1, Feb. 14-18, 2022</th>
@@ -75,9 +74,7 @@
             <td class="race-name-header">Add 5 Horses to your stable.</td>
           </tr>
         </table>
-    
-            <a id="risen-star"></a>
-          <br/>
+        <a id="week4"></a>
           <table class="TableStandard">
               <tr class="TableHeader">
                 <th class="text-align-center">Week #5, Feb. 19, 2022</th>
@@ -99,7 +96,6 @@
             </tr>
             </table>
             <a id="week10"></a>
-          <br/>
           <table class="TableStandard">
               <tr class="TableHeader">
                 <th class="text-align-center">Week #10, Mar. 26, 2022</th>
@@ -120,7 +116,6 @@
           </tr>
         </table>
         <a id="week14"></a>
-        <br/>
           <table class="TableStandard">
               <tr class="TableHeader">
                 <th class="text-align-center">Week #14, May 7, 2022</th>
@@ -199,7 +194,6 @@
       </tr>
             </table>
         <a id="week1"></a>
-         <br/>
           <table class="TableStandard">
             <tr class="TableHeader">
               <th class="text-align-center">Week #1, Jan. 22, 2022</th>
