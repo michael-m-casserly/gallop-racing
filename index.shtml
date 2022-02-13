@@ -61,7 +61,7 @@
 
 <div class="col-lg-4"> <!--begin right column-->
                  
-        <div class="round-border"><h5>Resources for Drafting</h5>
+        <div class="round-border"><h5>Draft Resources</h5>
           <!-- Hide the 2 Derby Points related buttons for Derby 148, since the omission of Baffert's horses can be misleading
             <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.kentuckyderby.com/horses" target="_blank" role="button" onclick="captureOutboundLink('https://www.kentuckyderby.com/horses');">Derby Horses &raquo;</a></p>
           <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.kentuckyderby.com/horses/leaderboard" target="_blank" role="button" onclick="captureOutboundLink('https://www.kentuckyderby.com/horses/leaderboard');">Derby Points Leaderboard &raquo;</a></p>
