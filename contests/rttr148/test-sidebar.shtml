@@ -111,6 +111,12 @@
 
     <!--#include virtual="/modules/rttr148-contest-info.html" -->  
     
+    <a id="twitter"></a>
+      <div class="round-border"><h5>Contest News</h5>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/gallopracingllc" target="_blank" role="button" onclick="captureOutboundLink('https://twitter.com/gallopracingllc');">Follow @gallopracingllc &raquo;</a></p>
+        
+        <a class="twitter-timeline" height="718" href="https://twitter.com/hashtag/rttr148" style="width: 100%;">Tweets by gallopracingllc</a> <script async src="https://platform.twitter.com/widgets.js"></script></div>
+
     <div class="round-border"><h5>Upcoming Races</h5>
             <a id="week3"></a>
             <table class="TableStandard">
