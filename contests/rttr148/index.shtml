@@ -27,7 +27,7 @@
         <div class="text-align-center"><h3>Road to the Roses<br/>Derby 148</h3></div>
       
       <!--Add back the # symbol when the counter is rest-->
-      <!--#include virtual="/countdown-timer.html" -->
+      <!--include virtual="/countdown-timer.html" -->
 
 <div class="container marketing">
 
