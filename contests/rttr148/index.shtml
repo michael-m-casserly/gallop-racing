@@ -54,7 +54,7 @@
                     Race #x, Post Time x:xxPM EST-->
                     <p><a class="btn btn-secondary" href="/contests/rttr148/Week07-John-Battaglia-Memorial-Stakes-Nomination.pdf" target="_blank" role="button">Nominations</a></p>
                     <!--p><a class="btn btn-secondary" href="INSERT EQUIBASE LINK" target="_blank" role="button" onclick="captureOutboundLink('INSERT EQUIBASE LINK');">Equibase Entries</a></p-->
-                    <!--p class="text-link"><a href="/results/rttr148/Week07-John-Battaglia-Memorial-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
+                    <!--p class="text-link"><a href="/contests/rttr148/Week07-John-Battaglia-Memorial-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
                   </td>
                 </tr>
                 <tr>
@@ -64,7 +64,7 @@
                     Race #x, Post Time x:xxPM EST-->
                     <p><a class="btn btn-secondary" href="/contests/rttr148/Week07-Gotham-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a></p>
                     <!--p><a class="btn btn-secondary" href="INSERT EQUIBASE LINK" target="_blank" role="button" onclick="captureOutboundLink('INSERT EQUIBASE LINK');">Equibase Entries</a></p-->
-                    <!--p class="text-link"><a href="/results/rttr148/Week07-Gotham-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
+                    <!--p class="text-link"><a href="/contests/rttr148/Week07-Gotham-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
                   </td>
                 </tr>
                 <tr>
@@ -74,7 +74,7 @@
                     Race #x, Post Time x:xxPM EST-->
                     <p><a class="btn btn-secondary" href="/contests/rttr148/Week07-San-Felipe-Stakes-Nomination.pdf" target="_blank" role="button">Nominations</a></p>
                     <!--p><a class="btn btn-secondary" href="INSERT EQUIBASE LINK" target="_blank" role="button" onclick="captureOutboundLink('INSERT EQUIBASE LINK');">Equibase Entries</a></p-->
-                    <!--p class="text-link"><a href="/results/rttr148/Week07-San-Felipe-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
+                    <!--p class="text-link"><a href="/contests/rttr148/Week07-San-Felipe-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
                   </td>
                 </tr>
                 <tr>
@@ -84,7 +84,7 @@
                     Race #x, Post Time x:xxPM EST-->
                     <p><a class="btn btn-secondary" href="/contests/rttr148/Week07-Fountain-of-Youth-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a></p>
                     <!--p><a class="btn btn-secondary" href="INSERT EQUIBASE LINK" target="_blank" role="button" onclick="captureOutboundLink('INSERT EQUIBASE LINK');">Equibase Entries</a></p-->
-                    <!--p class="text-link"><a href="/results/rttr148/Week07-Fountain-of-Youth-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
+                    <!--p class="text-link"><a href="/contests/rttr148/Week07-Fountain-of-Youth-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
                   </td>
                 </tr>
                 </table>
@@ -324,7 +324,7 @@
                             <td class="race-name-header">
                 Rebel Stakes (Tier 2)<br/>
                 <span class="track-name-state">Oaklawn Park (OP) | Arkansas</span>
-                <p class="text-link"><a href="/results/rttr148/Week06-Rebel-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
+                <p class="text-link"><a href="/contests/rttr148/Week06-Rebel-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
                             </td>
                           </tr>
                         </table>
