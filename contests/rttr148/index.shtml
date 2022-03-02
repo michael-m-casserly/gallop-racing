@@ -43,27 +43,16 @@
                   <tr class="TableHeader">
                     <th class="text-align-center">Week #7, Mar. 5, 2022</th>
                   </tr>
-                  <!--tr>
-                    <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week07-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-                      <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week07-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
-                </tr-->
-                <tr>
-                  <td class="race-name-header">
-                    John Battaglia Mem. Stakes (Tier 4)<br/>
-                    <span class="track-name-state">Turfway Park (TP) | Kentucky</span><!--br>
-                    Race #x, Post Time x:xxPM EST-->
-                    <p><a class="btn btn-secondary" href="/contests/rttr148/Week07-John-Battaglia-Memorial-Stakes-Nomination.pdf" target="_blank" role="button">Nominations</a></p>
-                    <!--p><a class="btn btn-secondary" href="INSERT EQUIBASE LINK" target="_blank" role="button" onclick="captureOutboundLink('INSERT EQUIBASE LINK');">Equibase Entries</a></p-->
-                    <!--p class="text-link"><a href="/contests/rttr148/Week07-John-Battaglia-Memorial-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
-                  </td>
+                  <tr>
+                    <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week07-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a><!--&nbsp;
+                      <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week07-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a--></p></td>
                 </tr>
                 <tr>
                   <td class="race-name-header">
                     Gotham Stakes (Tier 2)<br/>
-                    <span class="track-name-state">Aqueduct Racetrack (AQU) | New York</span><!--br>
-                    Race #x, Post Time x:xxPM EST-->
-                    <p><a class="btn btn-secondary" href="/contests/rttr148/Week07-Gotham-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a></p>
-                    <!--p><a class="btn btn-secondary" href="INSERT EQUIBASE LINK" target="_blank" role="button" onclick="captureOutboundLink('INSERT EQUIBASE LINK');">Equibase Entries</a></p-->
+                    <span class="track-name-state">Aqueduct Racetrack (AQU) | New York</span><br>
+                    Race #10, Post Time 5:27PM EST
+                    <p><a class="btn btn-secondary" href="https://www.equibase.com/static/entry/AQU030522USA10-EQB.html" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/static/entry/AQU030522USA10-EQB.html');">Equibase Entries</a></p>
                     <!--p class="text-link"><a href="/contests/rttr148/Week07-Gotham-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
                   </td>
                 </tr>
@@ -83,6 +72,15 @@
                     Race #12, Post Time 5:42PM EST
                     <p><a class="btn btn-secondary" href="https://www.equibase.com/static/entry/GP030522USA12-EQB.html" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/static/entry/GP030522USA12-EQB.html');">Equibase Entries</a></p>
                     <!--p class="text-link"><a href="/contests/rttr148/Week07-Fountain-of-Youth-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
+                  </td>
+                </tr>
+                <tr>
+                  <td class="race-name-header">
+                    John Battaglia Mem. Stakes (Tier 4)<br/>
+                    <span class="track-name-state">Turfway Park (TP) | Kentucky</span><br>
+                    Race #5, Post Time 8:14PM EST
+                    <p><a class="btn btn-secondary" href="https://www.equibase.com/static/entry/TP030522USA5-EQB.html" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/static/entry/TP030522USA5-EQB.html');">Equibase Entries</a></p>
+                    <!--p class="text-link"><a href="/contests/rttr148/Week07-John-Battaglia-Memorial-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
                   </td>
                 </tr>
                 </table>
