@@ -255,8 +255,8 @@
                 <th class="text-align-center">Week #7, Mar. 5, 2022</th>
               </tr>
               <tr>
-                <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week07-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a><!--&nbsp;
-                  <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week07-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a--></p></td>
+                <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week07-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+                  <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week07-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
             </tr>
             <tr>
               <td>
@@ -264,7 +264,7 @@
                       <div class="accordion-item">
                         <h4 class="accordion-header" id="headingRTTR148week7races">
                           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseRTTR148week7races" aria-expanded="false" aria-controls="collapseRTTR148week7races">
-                            Week 6 Races
+                            Week 7 Races
                           </button>
                         </h4>
                         <div id="collapseRTTR148week7races" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week7races">
