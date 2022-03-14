@@ -34,7 +34,8 @@ body
 
 .bodyTag{ 
     margin:0 0 0 0; 
-    background-image: url(/images/background.gif)}
+    background-image: url(/images/background.gif)
+  }
 
     h2, h4, h5, .navbar-brand {
         font-family: Charlemagne std;
@@ -59,16 +60,18 @@ body
     /*End New Code for X Close Button*/
     
     li.nav-item, .dropdown, .active {
-      border: 1px solid gray; 
+      /*border: 1px solid gray; 
       border-radius:5px;
+      */
       }
-    /*Customize Nav Menu Buttons*/
+    /*Customize Nav Menu Buttons
     a.nav-link {
       text-transform:uppercase;
       font-weight:bold;
       text-align:center;
       color:#FFF !important;
       }
+      */
     a.dropdown-item{
       text-decoration:underline;
     }
@@ -92,6 +95,9 @@ body
     padding-top:10px;
     margin-bottom: 10px;
     background-color: #e5ecf9;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
   }
   
   .btn-nominations{

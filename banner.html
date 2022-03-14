@@ -31,69 +31,37 @@
 </svg>
 <!--End Bootstrap icon code-->
 
+<!--this is the old nav bar code, just in case
 <nav class="navbar navbar-expand-lg navbar-light fixed-top bg-light container" style="border: 2px solid black; border-radius:5px; background-color: #c9daf8 !important;">
-    
-    <!--Wrap Navbar in a container to center it-->
-    <div class="container"> 
-  
-  <a class="navbar-brand" href="/index.shtml"><img src="/images/logo-gallop.png" alt="Gallop Racing LLC" style="max-height:36px; max-width:51px; border: 0;"></a>
-  <a href="/index.shtml" style=""><img src="/images/gallop-title-text.png" alt="Gallop Racing LLC" style="max-height:53px; max-width:200px; padding-right: 10px; border: 0;"/></a>
-  <!--a class="navbar-brand" href="/index.shtml">GALLOP</a-->
+-->
 
-  <!--Begin New code to swap out X for Close Button-->
-  <button class="navbar-toggler collapsed border-1" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation" style="border-color: black;">
-    <span class="navbar-toggler-icon"></span>
-    <div class="close-icon py-1">✖</div>
-  </button>
-<!--End New code-->
-
-
-  <!--a class="navbar-brand" href="/index.shtml">GALLOP</a-->
-  
-    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-      <ul class="navbar-nav mr-auto" style="background-color:#344f7c; border: 2px solid black; border-radius:5px;">
-        <li class="nav-item dropdown active">
-          <a class="nav-link dropdown-toggle" href="#" id="dropdown01_rttr148" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Road&nbsp;to&nbsp;the&nbsp;Roses</a>
-          <div class="dropdown-menu" aria-labelledby="dropdown01_rttr148">
-            <a class="dropdown-item" href="/contests/rttr148/index.shtml">Derby 148</a>
-            <a class="dropdown-item" href="/contests/rttr148/index.shtml#leaderboard">Leaderboard</a>
-            <a class="dropdown-item" href="/contests/rttr148/index.shtml#schedule">Schedule</a>
-            <a class="dropdown-item" href="/index.shtml#twitter">News</a>
-            <a class="dropdown-item" href="https://twitter.com/hashtag/rttr148?f=live" target="_blank" onclick="captureOutboundLink('https://twitter.com/hashtag/rttr148?f=live');">#rttr148</a>
-          </div>
-          <!--a class="nav-link" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=0&single=true" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=0&single=true');">Leaderboard</a-->
-        </li>
-        <!-- Use this one the Leaderboard is ready-->
-        <!--li class="nav-item dropdown">
-          <a class="nav-link" href="/index.shtml#leaderboard">Leaderboard</a>
-        </li-->
-        <li class="nav-item dropdown active">
-          <a class="nav-link dropdown-toggle" href="#" id="dropdown01_contests" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contests</a>
-          <div class="dropdown-menu" aria-labelledby="dropdown01_contests">
-            <a class="dropdown-item" href="/contests/rttbc2022/index.shtml">Breeders' Cup 2022</a>
-            <a class="dropdown-item" href="/contests/rttr148/index.shtml">Derby 148</a>
-            <a class="dropdown-item" href="/contests/rttbc2021.shtml">RTTBC 2021</a>
-            <a class="dropdown-item" href="/contests/rttr147.shtml">RTTR 147</a>
-            <a class="dropdown-item" href="/index.shtml#twitter">News</a>
-            <a class="dropdown-item" href="/contests/champions.shtml">Champions</a>
-            <a class="dropdown-item" href="/contests/legend.shtml">Legend</a>
-          </div>
-        </li>      
-        <li class="nav-item dropdown">
-          <a class="nav-link" href="/how-to-play.shtml">How&nbsp;to&nbsp;Play</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link" href="/register/index.shtml">Register</a>
-        </li>
-        
-        <!--li class="nav-item">
-          <a class="nav-link disabled" href="#">Disabled</a>
-        </li-->
-      </ul>
-      <form class="form-inline my-2 my-lg-0" method="GET" action="http://www.google.com/custom">
-        <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" name="q" size="13" maxlength="255" value="" style="width:121px;"><!--&nbsp;<button class="btn btn-outline-success my-2 my-sm-0" type="submit" name="sa">Go</button>&nbsp;--><INPUT type="hidden" name="cof" VALUE="S:https://www.gallop-racing.com;VLC:#5e183e;AH:center;LH:95;LC:black;L:http://www.gallop-racing.com/images/banner_google.gif;ALC:#5e183e;LW:708;T:black;AWFID:0cc56407884f14f7;"><input type="hidden" name="domains" value="www.gallop-racing.com"><input type="hidden" name="sitesearch" value="www.gallop-racing.com"><!--span style="font-size:10px; color:#FFF; padding-right:10px;">This Site</span><input type="radio" name="sitesearch" value=""><span style="font-size:10px; color:#FFF;">The Web</span--><!--&nbsp;<a href="http://www.google.com" target="_blank">Powered by Google&reg;</a>-->
-      </form>
-    </div>
-  <!-- End Container DIV for Navbar-->
+<nav class="py-2 bg-light border-bottom">
+  <div class="container d-flex flex-wrap">
+    <ul class="nav me-auto">
+      <li class="nav-item"><a href="/index.shtml" class="nav-link link-dark px-2" aria-current="page">Home</a></li>
+      <!--li class="nav-item"><a href="/contests/rttr148/index.shtml" class="nav-link link-dark px-2">Road to the Roses</a></li-->
+      <li class="nav-item"><a href="/contests/index.shtml" class="nav-link link-dark px-2">Contests</a></li>
+      <li class="nav-item"><a href="/how-to-play.shtml" class="nav-link link-dark px-2">How to Play</a></li>
+      <!--li class="nav-item"><a href="#" class="nav-link link-dark px-2">FAQs</a></li>
+      <li class="nav-item"><a href="#" class="nav-link link-dark px-2">About</a></li-->
+    </ul>
+    <ul class="nav">
+      <li class="nav-item"><a href="/register/index.shtml" class="nav-link link-dark px-2">Register</a></li>
+      <!--li class="nav-item"><a href="#" class="nav-link link-dark px-2">Sign up</a></li-->
+    </ul>
   </div>
-  </nav>
+</nav>
+<header class="py-3 mb-4 border-bottom" style="background-color: white; margin-bottom: 0rem !important;">
+  <div class="container d-flex flex-wrap justify-content-center">
+    <a href="/index.shtml" class="d-flex align-items-center mb-3 mb-lg-0 me-lg-auto text-dark text-decoration-none">
+      <img src="/images/logo-gallop.png" alt="Gallop Racing LLC" style="max-height:36px; max-width:51px; border: 0;">
+      <span class="fs-4"><img src="/images/gallop-title-text.png" alt="Gallop Racing LLC" style="max-height:53px; max-width:200px; padding-right: 10px; padding-left: 25px; border: 0;"/></span>
+    </a>
+    <form class="col-12 col-lg-auto mb-3 mb-lg-0" method="GET" action="http://www.google.com/custom">
+      <input type="search" class="form-control" placeholder="Search..." aria-label="Search" name="q">
+      <input type="hidden" name="cof" VALUE="S:https://www.gallop-racing.com;VLC:#5e183e;AH:center;LH:95;LC:black;L:http://www.gallop-racing.com/images/banner_google.gif;ALC:#5e183e;LW:708;T:black;AWFID:0cc56407884f14f7;">
+        <input type="hidden" name="domains" value="www.gallop-racing.com">
+        <input type="hidden" name="sitesearch" value="www.gallop-racing.com">
+    </form>
+  </div>
+</header>
