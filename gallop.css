@@ -282,7 +282,7 @@ border-bottom: #FFF !important;
 /* End Scoring Table Special Styles */
 
 .breadcrumb {
-	padding-top: 20px !important; /* any adjustment here should also be applied to the jumbotron pic on index.shtml */
+	padding-top: 10px !important; /* any adjustment here should also be applied to the jumbotron pic on index.shtml */
 	border: 2px solid black; 
 	border-radius:5px;
 	padding-left: 20px !important;
