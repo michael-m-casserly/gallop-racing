@@ -42,7 +42,7 @@
         
       <a id="twitter"></a>
       <div class="round-border"><h5>News</h5>
-        <a class="twitter-timeline" height="718" href="https://twitter.com/gallopracingllc?ref_src=twsrc%5Etfw" style="width: 100%;">Tweets by gallopracingllc</a> <script async src="https://platform.twitter.com/widgets.js"></script>
+        <a class="twitter-timeline" height="706" href="https://twitter.com/gallopracingllc?ref_src=twsrc%5Etfw" style="width: 100%;">Tweets by gallopracingllc</a> <script async src="https://platform.twitter.com/widgets.js"></script>
         <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/gallopracingllc" target="_blank" role="button" onclick="captureOutboundLink('https://twitter.com/gallopracingllc');">Follow @gallopracingllc &raquo;</a></p>
       </div>
 
@@ -51,7 +51,7 @@
 <div class="col-lg-4"> <!--begin middle column-->
   
   <div class="round-border"><h5>Calendar</h5>
-    <iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 398px; width: 100%; overflow: hidden;"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div>
+    <iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 390px; width: 100%; overflow: hidden;"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div>
 
       <!--#include virtual="/contests/how-to-play-rttr.html" --> 
 
@@ -80,7 +80,6 @@
           <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.bloodhorse.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.bloodhorse.com/');">BloodHorse Magazine &raquo;</a></p>
           <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.drf.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.drf.com/');">Daily Racing Form &raquo;</a></p>
           <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.equibase.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/');">Equibase &raquo;</a></p>
-          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttr148?f=live" target="_blank" role="button" onclick="captureOutboundLink('https://twitter.com/hashtag/rttr148?f=live');">#rttr148 on Twitter &raquo;</a></p>
           <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://paulickreport.com/" target="_blank" role="button" onclick="captureOutboundLink('https://paulickreport.com/');">Paulick Report &raquo;</a></p>
           <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.pedigreequery.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.pedigreequery.com/');">Pedigree Query &raquo;</a></p>
           <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://news.tvg.com/" target="_blank" role="button" onclick="captureOutboundLink('https://news.tvg.com/');">TVG News &raquo;</a></p>
