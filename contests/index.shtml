@@ -25,7 +25,9 @@
       </nav>
 
       <div class="text-align-center"><h3>Contests</h3></div>
- 
+      <div class="text-align-center"><h5>Kentucky Derby (RTTR)</h5></div>
+      <div class="text-align-center"><h5>Breeders' Cup (RTTBC)</h5></div>
+
         <div class="container marketing">
       
  <div class="row"> <!--row 1-->
