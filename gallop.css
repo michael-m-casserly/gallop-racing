@@ -107,6 +107,11 @@ body
     background-color: #FFF;
   }
 
+  /* this is used to force the breadcrumb separator to be white */
+  .breadcrumb-item+.breadcrumb-item::before {
+    color: #fff !important;
+  }
+
   .btn-nominations{
     width: 55px !important;
   }
