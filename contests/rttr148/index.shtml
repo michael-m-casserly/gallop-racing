@@ -15,7 +15,7 @@
     <!--End Banner-->
     
     <!--Begin Main Content Section-->
-    <main class="container" style="background-color:#FFF;">
+    <main class="container container-round-border">
       <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
           <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
@@ -227,7 +227,7 @@
   </div><!--end left column-->
   <div class="col-lg-4"> <!--begin middle column-->
    
-    <div class="round-border"><h5>Completed Races</h5>
+    <div class="round-border" style="padding-left: 0px; padding-right: 0px;"><h5>Completed Races</h5>
         <center><!--Need to leave this in until a reliable CSS method is available-->
           <a id="week8"></a>
                 <table class="TableStandard">
