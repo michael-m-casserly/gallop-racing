@@ -38,55 +38,39 @@
     
     <div class="round-border"><h5>Upcoming Races</h5>
               <center> <!--Need to leave this in until a reliable CSS method is available-->
-<a id="week9"></a>
-              <table class="TableStandard">
-                  <tr class="TableHeader">
-                    <th class="text-align-center">Week #9, Mar. 19, 2022</th>
-                  </tr>
-                  <!--tr>
-                    <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week09-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-                      <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week09-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
-                </tr-->
-                <tr>
-                  <td class="race-name-header"><i>No RTTR Races this weekend.</i></td>
-                </tr>
-              </table>
 <a id="week10"></a>
           <table class="TableStandard">
               <tr class="TableHeader">
                 <th class="text-align-center">Week #10, Mar. 26, 2022</th>
               </tr>
-              <!--tr>
+              <tr>
                 <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week10-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-                  <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week10-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
-            </tr-->
+                  <!--a class="btn btn-secondary btn-half" href="/contests/rttr148/Week10-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a--></p></td>
+            </tr>
             <tr>
               <td class="race-name-header">
                 UAE Derby (Tier 1)<br/>
-                <span class="track-name-state">Meydan Racecourse (MEY) | UAE - Dubai</span><!--br>
-                Race #x, Post Time x:xxPM EST-->
-                <!--p><a class="btn btn-secondary" href="/contests/rttr148/Week10-UAE-Derby-Nominations.pdf" target="_blank" role="button">Nominations</a></p-->
-                <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
+                <span class="track-name-state">Meydan Racecourse (MEY) | UAE - Dubai</span><br>
+                Race #5, Post Time 10:10AM EST>
+                <p><a class="btn btn-secondary" href="https://emiratesracing.com/node/3?id=3159#tab-13081" target="_blank" role="button" onclick="captureOutboundLink('https://emiratesracing.com/node/3?id=3159#tab-13081');">Equibase Entries</a></p>
                 <!--p class="text-link"><a href="/contests/rttr148/Week10-UAE-Derby-Results.pdf" target="_blank">Equibase Results</a></p-->
               </td>
             </tr>
               <tr>
             <td class="race-name-header">
               Louisiana Derby (Tier 1)<br/>
-              <span class="track-name-state">Fair Grounds (FG) | Louisiana</span><!--br>
-              Race #x, Post Time x:xxPM EST-->
-              <p><a class="btn btn-secondary" href="/contests/rttr148/Week10-Louisiana-Derby-Nominations.pdf" target="_blank" role="button">Nominations</a></p>
-              <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
+              <span class="track-name-state">Fair Grounds (FG) | Louisiana</span><br>
+              Race #12, Post Time 6:44PM EST
+              <p><a class="btn btn-secondary" href="https://www.equibase.com/static/entry/FG032622USA12-EQB.html" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/static/entry/FG032622USA12-EQB.html');">Equibase Entries</a></p>
               <!--p class="text-link"><a href="/contests/rttr148/Week10-Louisiana-Derby-Results.pdf" target="_blank">Equibase Results</a></p-->
             </td>
           </tr>
           <tr>
             <td class="race-name-header">
               Sunland Derby (Tier 2)<br/>
-              <span class="track-name-state">Sunland Park (SUN) | New Mexico</span><!--br>
-              Race #x, Post Time x:xxPM EST-->
-              <!--p><a class="btn btn-secondary" href="/contests/rttr148/Week10-Sunland-Derby-Nominations.pdf" target="_blank" role="button">Nominations</a></p-->
-              <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
+              <span class="track-name-state">Sunland Park (SUN) | New Mexico</span><br>
+              Race #11, Post Time 7:15PM EST>
+              <p><a class="btn btn-secondary" href="https://www.equibase.com/static/entry/SUN032722USA11-EQB.html" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/static/entry/SUN032722USA11-EQB.html');">Equibase Entries</a></p>
               <!--p class="text-link"><a href="/contests/rttr148/Week10-Sunland-Derby-Results.pdf" target="_blank">Equibase Results</a></p-->
             </td>
           </tr>
@@ -133,7 +117,7 @@
           Arkansas Derby (Tier 1)<br/>
           <span class="track-name-state">Oaklawn Park (OP) | Arkansas</span><!--br>
           Race #x, Post Time x:xxPM EST-->
-          <!--p><a class="btn btn-secondary" href="/contests/rttr148/Week11-Arkansas-Derby-Nominations.pdf" target="_blank" role="button">Nominations</a></p-->
+          <p><a class="btn btn-secondary" href="/contests/rttr148/Week11-Arkansas-Derby-Nominations.pdf" target="_blank" role="button">Nominations</a></p>
           <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
           <!--p class="text-link"><a href="/contests/rttr148/Week11-Arkansas-Derby-Results.pdf" target="_blank">Equibase Results</a></p-->
           </td>
