@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+      <!--#include virtual="/banner-head.html" -->
+
+      <title>Strategies | Gallop Racing</title>
+
+</head>
+
+<body class="bodyTag">
+  <header>
+    <!--#include virtual="/banner.html" -->    
+    </header>
+    
+    <!--End Banner-->
+    
+    <!--Begin Main Content Section-->
+    <main class="container container-round-border">
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+          <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
+          <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Strategies</span></li>
+        </ol>
+      </nav>
+   
+      <div class="text-align-center"><h3>Strategies</h3></div>
+  
+      <div class="container marketing">
+
+        <h4>Variable Drafting</h4>
+
+        <p>The final 2 Supplemental Drafts in the RTTR contest will be "variable". Meaning stables can select anywhere between 0 and 5 horses to add to their stable, over 2 separate selection periods.</p>
+
+        <p>The first period will be the first week of April. The second period will be the week leading into the Kentucky Derby.</p>
+
+        <p>While there are many unique factors for each stable to consider when making their selections, in the end it amounts to a balancing act and weighing the pros and cons.</p>
+
+        <p>Here are some high-level pros and cons to each approach:</p>
+
+        <p><b><i>Drafting a horse the first week of April (with 7 races left):</i></b></p>
+        <p><b>PRO:</b> The horse has an opportunity to earn points in those 7 races leading into the Derby.</p>
+        <p><b>CON:</b> The horse misses the board in that race, earns no points, and doesn't make it into the Derby.</p>
+
+        <p><b><i>Waiting to draft a horse during Derby week:</i></b></p>
+        <p><b>PRO:</b> You know for certain that the horse will be entered into the Derby.</p>
+        <p><b>CON:</b> You miss out on any opportunity to earn points in those 7 races prior.</p>
+
+        <p>RTTR Points in the Kentucky Derby itself are worth a lot more, so there is definitely some thoughtful consideration required by each stable on their best combination!</p>
+
+        <!--#include virtual="/contests/rttr-scoring-table.html" -->
+
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/index.shtml" role="button">Contests</a></p>
+
+<!-- FOOTER -->
+
+<!--#include virtual="/footer-page.html" -->    
+
+</div> <!--container-->
+
+<!--#include virtual="/footer.html" -->    
+
+
+</main>
+
+
+</body>
+</html>

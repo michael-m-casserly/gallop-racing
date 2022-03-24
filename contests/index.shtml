@@ -75,6 +75,17 @@
       
 </div> <!--end row 2-->
 
+<div class="row"> <!--row 3-->
+  <div class="col-lg-4"> <!--begin left column-->
+      <div class="round-border"><h5>Strategies</h5>
+        <p>Variable Drafting, etc.</p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/strategies.shtml" role="button">Go</a></p>
+      </div>
+    </div> <!--end left column-->     
+      
+</div> <!--end row 3-->
+
+
 <br/>
 <br/>
 
