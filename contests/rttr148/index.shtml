@@ -663,14 +663,15 @@
 <a id="leaderboard"></a>
 <br/>
 <br/>
-      <div class="row">      
+<div class="row">      
         <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive" style="max-width: 250px; border: 0;" /></a>
-        <div class="iframe-container">
-          <!--#include virtual="/iframe-spinner.html" -->
 
+<!--#include virtual="/iframe-spinner.html" -->
+        
+      <div class="iframe-container">
             <iframe class="responsive-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" onload="document.getElementById('spinner').style.display='none';"></iframe>
           </div>
-      </div> <!--row #4-->
+</div> <!--row #4-->
 <a id="schedule"></a>
 
 <br/>
