@@ -49,7 +49,9 @@
         <p>RTTR Points in the Kentucky Derby itself are worth a lot more, so there is definitely some thoughtful consideration required by each stable on their best combination. The most common is 3 then 2, or 4 then 1, or all 5 up front. Rarely are 4 or 5 left until Derby Week. But it all depends on each stable, their current position, stable strength, etc. This is where the RTTR Contest gets interesting!</p>
 
         <!--#include virtual="/contests/rttr-scoring-table.html" -->
-
+        
+        <p><center><img src="/images/sample-supp-draft-schedule.png" alt="Sample Supplemental Draft Schedule" title="Sample Supplemental Draft Schedule" /></center></p>
+        
         <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/index.shtml" role="button">Contests</a></p>
 
 <!-- FOOTER -->
