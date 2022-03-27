@@ -119,7 +119,7 @@
             Wood Memorial (Tier 1)<br/>
             <span class="track-name-state">Aqueduct (AQU) | New York</span><!--br>
             Race #x, Post Time x:xxPM EST-->
-            <!--p><a class="btn btn-secondary" href="/contests/rttr148/Week12-Wood-Memorial-Nominations.pdf" target="_blank" role="button">Nominations</a></p-->
+            <p><a class="btn btn-secondary" href="/contests/rttr148/Week12-Wood-Memorial-Nominations.pdf" target="_blank" role="button">Nominations</a></p>
             <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
             <!--p class="text-link"><a href="/contests/rttr148/Week12-Wood-Memorial-Results.pdf" target="_blank">Equibase Results</a></p-->
             </td>
