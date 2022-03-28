@@ -38,25 +38,6 @@
     
     <div class="round-border"><h5>Upcoming Races</h5>
               <center> <!--Need to leave this in until a reliable CSS method is available-->
-<a id="week10"></a>
-          <table class="TableStandard">
-              <tr class="TableHeader">
-                <th class="text-align-center">Week #10, Mar. 26, 2022</th>
-              </tr>
-              <tr>
-                <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week10-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-                  <!--a class="btn btn-secondary btn-half" href="/contests/rttr148/Week10-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a--></p></td>
-            </tr>
-          <tr>
-            <td class="race-name-header">
-              Sunland Park Derby (Tier 2)<br/>
-              <span class="track-name-state">Sunland Park (SUN) | New Mexico</span><br>
-              Race #11, Post Time 7:15PM EST
-              <p><a class="btn btn-secondary" href="https://www.equibase.com/static/entry/SUN032722USA11-EQB.html" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/static/entry/SUN032722USA11-EQB.html');">Equibase Entries</a></p>
-              <!--p class="text-link"><a href="/contests/rttr148/Week10-Sunland-Derby-Results.pdf" target="_blank">Equibase Results</a></p-->
-            </td>
-          </tr>
-      </table>
       <table class="TableStandard">
         <tr class="TableHeader">
           <th class="text-align-center">Supp. Draft #2, Mar. 28 - Apr. 1, 2022</th>
@@ -202,11 +183,11 @@
           <a id="week10"></a>
           <table class="TableStandard">
               <tr class="TableHeader">
-                <th class="text-align-center">Week #10, Mar. 26, 2022</th>
+                <th class="text-align-center">Week #10, Mar. 26-27, 2022</th>
               </tr>
               <tr>
                 <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week10-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-                  <!--a class="btn btn-secondary btn-half" href="/contests/rttr148/Week10-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a--></p></td>
+                  <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week10-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
             </tr>
             <tr>
               <td>
@@ -234,13 +215,13 @@
               <p class="text-link"><a href="/contests/rttr148/Week10-Louisiana-Derby-Results.pdf" target="_blank">Equibase Results</a></p>
             </td>
           </tr>
-          <!--tr>
+          <tr>
             <td class="race-name-header">
               Sunland Park Derby (Tier 2)<br/>
               <span class="track-name-state">Sunland Park (SUN) | New Mexico</span>
               <p class="text-link"><a href="/contests/rttr148/Week10-Sunland-Derby-Results.pdf" target="_blank">Equibase Results</a></p>
             </td>
-          </tr-->
+          </tr>
                             </table>
                         </div>
                         </div>
