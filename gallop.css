@@ -37,12 +37,16 @@ body
     background-image: url(/images/background.gif)
   }
 
-    h2, h4, h5, .navbar-brand {
+p {
+    text-align: justify;
+  }
+
+h2, h4, h5, .navbar-brand {
         font-family: Charlemagne std;
         color: #000;
     }
 
-    h3 {
+h3 {
       font-family: Georgia;
       color: #000;
       font-weight: bold;
