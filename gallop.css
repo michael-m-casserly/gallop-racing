@@ -39,6 +39,8 @@ body
 
 p {
     text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
 h2, h4, h5, .navbar-brand {

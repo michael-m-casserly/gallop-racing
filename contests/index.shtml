@@ -5,6 +5,12 @@
 
       <title>Contests | Gallop Racing</title>
 
+<style>
+  p {
+    text-align: center;
+  }
+</style>
+
 </head>
 
 <body class="bodyTag">
