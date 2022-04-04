@@ -192,6 +192,12 @@ td {
   padding-left: 10px;	
 }
 
+.accordion-td-cell
+{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
 .TableSubHeader {
 	font-weight:bold;
 	}

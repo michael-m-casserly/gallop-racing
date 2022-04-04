@@ -1,742 +1,912 @@
 <!doctype html>
 <html lang="en">
-  <head>
-      <!--#include virtual="/banner-head.html" -->
 
-      <title>Road to the Roses, Derby 148 | Gallop Racing</title>
+<head>
+  <!--#include virtual="/banner-head.html" -->
 
-<style>
-  p {
-    text-align: center;
-  }
-</style>
+  <title>Road to the Roses, Derby 148 | Gallop Racing</title>
 
-  </head>
+  <style>
+    p {
+      text-align: center;
+    }
+  </style>
+
+</head>
 
 <body class="bodyTag">
   <header>
-    <!--#include virtual="/banner.html" -->    
-    </header>
-    
-    <!--End Banner-->
-    
-    <!--Begin Main Content Section-->
-    <main class="container container-round-border">
-      <nav aria-label="breadcrumb">
-        <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
-          <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
-          <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">RTTR 148</span></li>
-        </ol>
-      </nav>
+    <!--#include virtual="/banner.html" -->
+  </header>
 
-        <div class="text-align-center"><h3>Road to the Roses<br/>Derby 148</h3></div>
-      
-      <!--Add back the # symbol when the counter is rest-->
-      <!--include virtual="/countdown-timer.html" -->
+  <!--End Banner-->
 
-<div class="container marketing">
+  <!--Begin Main Content Section-->
+  <main class="container container-round-border">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
+        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">RTTR 148</span></li>
+      </ol>
+    </nav>
 
- <div class="row">
-  <div class="col-lg-4"> <!--begin left column-->
+    <div class="text-align-center">
+      <h3>Road to the Roses<br />Derby 148</h3>
+    </div>
 
-    <!--#include virtual="/modules/rttr148-contest-info.html" -->  
-    
-    <div class="round-border"><h5>Upcoming Races</h5>
-              <center> <!--Need to leave this in until a reliable CSS method is available-->
-<a id="week12"></a>
-      <table class="TableStandard">
-          <tr class="TableHeader">
-            <th class="text-align-center">Week #12, Apr. 9, 2022</th>
-          </tr>
-          <!--tr>
-            <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week12-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-              <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week12-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
-        </tr-->
-        <tr>
-          <td class="race-name-header">
-            Wood Memorial (Tier 1)<br/>
-            <span class="track-name-state">Aqueduct (AQU) | New York</span><!--br>
-            Race #x, Post Time x:xxPM EST-->
-            <p><a class="btn btn-secondary" href="/contests/rttr148/Week12-Wood-Memorial-Nominations.pdf" target="_blank" role="button">Nominations</a></p>
-            <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
-            <!--p class="text-link"><a href="/contests/rttr148/Week12-Wood-Memorial-Results.pdf" target="_blank">Equibase Results</a></p-->
-            </td>
-        </tr>
-              <tr>
-        <td class="race-name-header">
-          Blue Grass Stakes (Tier 1)<br/>
-          <span class="track-name-state">Keeneland (KEE) | Kentucky</span><!--br>
-          Race #x, Post Time x:xxPM EST-->
-          <p><a class="btn btn-secondary" href="/contests/rttr148/Week12-Blue-Grass-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a></p>
-          <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
-          <!--p class="text-link"><a href="/contests/rttr148/Week12-Blue-Grass-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
-          </td>
-      </tr>
-      <tr>
-        <td class="race-name-header">
-          Santa Anita Derby (Tier 1)<br/>
-          <span class="track-name-state">Santa Anita Park (SA) | California</span><!--br>
-          Race #x, Post Time x:xxPM EST-->
-          <p><a class="btn btn-secondary" href="/contests/rttr148/Week12-Santa-Anita-Derby-Nominations.pdf" target="_blank" role="button">Nominations</a></p>
-          <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
-          <!--p class="text-link"><a href="/contests/rttr148/Week12-Santa-Anita-Derby-Results.pdf" target="_blank">Equibase Results</a></p-->
-          </td>
-      </tr>
-  </table>
-<a id="week13"></a>
-  <table class="TableStandard">
-      <tr class="TableHeader">
-        <th class="text-align-center">Week #13, Apr. 16, 2022</th>
-      </tr>
-      <!--tr>
-        <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week13-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-          <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week13-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
-    </tr-->
-        <tr>
-    <td class="race-name-header">
-      Lexington Stakes (Tier 3)<br/>
-      <span class="track-name-state">Keeneland (KEE) | Kentucky</span><!--br>
-      Race #x, Post Time x:xxPM EST-->
-      <p><a class="btn btn-secondary" href="/contests/rttr148/Week13-Lexington-Stakes-Nominations.pdf" target="_blank" role="button">Nominations</a></p>
-      <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
-      <!--p class="text-link"><a href="/contests/rttr148/Week13-Lexington-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
-      </td>
-  </tr>
-  </table>
-  <table class="TableStandard">
-    <tr class="TableHeader">
-      <th class="text-align-center">Supp. Draft #3, May 2-6, 2022</th>
-    </tr>
-    <tr>
-      <td class="race-name-header"><i>Add remaining 0-5 Horses to your stable (from Draft #2).</i></td>
-    </tr>
-  </table>
-<a id="week14"></a>
-          <table class="TableStandard">
-              <tr class="TableHeader">
-                <th class="text-align-center">Week #14, May 7, 2022</th>
-              </tr>
-              <!--tr>
-                <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week14-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-                  <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week14-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
+    <!--Add back the # symbol when the counter is rest-->
+    <!--include virtual="/countdown-timer.html" -->
+
+    <div class="container marketing">
+
+      <div class="row">
+        <div class="col-lg-4">
+          <!--begin left column-->
+
+          <!--#include virtual="/modules/rttr148-contest-info.html" -->
+
+          <div class="round-border">
+            <h5>Upcoming Races</h5>
+            <center>
+              <!--Need to leave this in until a reliable CSS method is available-->
+              <a id="week12"></a>
+              <table class="TableStandard">
+                <tr class="TableHeader">
+                  <th class="text-align-center">Week #12, Apr. 9, 2022</th>
+                </tr>
+                <!--tr>
+                <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week12-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+                  <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week12-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
             </tr-->
                 <tr>
-            <td class="race-name-header">
-              Kentucky Derby (Championship Tier)<br/>
-              <span class="track-name-state">Churchill Downs (CD) | Kentucky</span><!--br>
+                  <td class="race-name-header">
+                    Wood Memorial (Tier 1)<br />
+                    <span class="track-name-state">Aqueduct (AQU) | New York</span>
+                    <!--br>
+                Race #x, Post Time x:xxPM EST-->
+                    <p><a class="btn btn-secondary" href="/contests/rttr148/Week12-Wood-Memorial-Nominations.pdf"
+                        target="_blank" role="button">Nominations</a></p>
+                    <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
+                    <!--p class="text-link"><a href="/contests/rttr148/Week12-Wood-Memorial-Results.pdf" target="_blank">Equibase Results</a></p-->
+                  </td>
+                </tr>
+                <tr>
+                  <td class="race-name-header">
+                    Blue Grass Stakes (Tier 1)<br />
+                    <span class="track-name-state">Keeneland (KEE) | Kentucky</span>
+                    <!--br>
               Race #x, Post Time x:xxPM EST-->
-              <p><a class="btn btn-secondary" href="/contests/rttr148/Week14-Triple-Crown-Nominations.pdf" target="_blank" role="button">Nominations</a></p>
-              <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
-              <!--p class="text-link"><a href="/contests/rttr148/Week14-Kentucky-Derby-Results.pdf" target="_blank">Equibase Results</a></p-->
-              </td>
-          </tr>
-        </table>
-        <p style="font-size: 12px;">Nominations and Results courtesy of <a href="https://www.equibase.com" target="_blank">Equibase.com</a></p>
-      </center><!--Need to leave this in until a reliable CSS method is available-->
-  
-      </div>
+                    <p><a class="btn btn-secondary" href="/contests/rttr148/Week12-Blue-Grass-Stakes-Nominations.pdf"
+                        target="_blank" role="button">Nominations</a></p>
+                    <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
+                    <!--p class="text-link"><a href="/contests/rttr148/Week12-Blue-Grass-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
+                  </td>
+                </tr>
+                <tr>
+                  <td class="race-name-header">
+                    Santa Anita Derby (Tier 1)<br />
+                    <span class="track-name-state">Santa Anita Park (SA) | California</span>
+                    <!--br>
+              Race #x, Post Time x:xxPM EST-->
+                    <p><a class="btn btn-secondary" href="/contests/rttr148/Week12-Santa-Anita-Derby-Nominations.pdf"
+                        target="_blank" role="button">Nominations</a></p>
+                    <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
+                    <!--p class="text-link"><a href="/contests/rttr148/Week12-Santa-Anita-Derby-Results.pdf" target="_blank">Equibase Results</a></p-->
+                  </td>
+                </tr>
+              </table>
+              <a id="week13"></a>
+              <table class="TableStandard">
+                <tr class="TableHeader">
+                  <th class="text-align-center">Week #13, Apr. 16, 2022</th>
+                </tr>
+                <!--tr>
+            <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week13-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+              <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week13-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
+        </tr-->
+                <tr>
+                  <td class="race-name-header">
+                    Lexington Stakes (Tier 3)<br />
+                    <span class="track-name-state">Keeneland (KEE) | Kentucky</span>
+                    <!--br>
+          Race #x, Post Time x:xxPM EST-->
+                    <p><a class="btn btn-secondary" href="/contests/rttr148/Week13-Lexington-Stakes-Nominations.pdf"
+                        target="_blank" role="button">Nominations</a></p>
+                    <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
+                    <!--p class="text-link"><a href="/contests/rttr148/Week13-Lexington-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
+                  </td>
+                </tr>
+              </table>
+              <table class="TableStandard">
+                <tr class="TableHeader">
+                  <th class="text-align-center">Supp. Draft #3, May 2-6, 2022</th>
+                </tr>
+                <tr>
+                  <td class="race-name-header"><i>Add remaining 0-5 Horses to your stable (from Draft #2).</i></td>
+                </tr>
+              </table>
+              <a id="week14"></a>
+              <table class="TableStandard">
+                <tr class="TableHeader">
+                  <th class="text-align-center">Week #14, May 7, 2022</th>
+                </tr>
+                <!--tr>
+                    <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week14-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
+                      <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week14-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
+                </tr-->
+                <tr>
+                  <td class="race-name-header">
+                    Kentucky Derby (Championship Tier)<br />
+                    <span class="track-name-state">Churchill Downs (CD) | Kentucky</span>
+                    <!--br>
+                  Race #x, Post Time x:xxPM EST-->
+                    <p><a class="btn btn-secondary" href="/contests/rttr148/Week14-Triple-Crown-Nominations.pdf"
+                        target="_blank" role="button">Nominations</a></p>
+                    <!--p><a class="btn btn-secondary" href="LINK TO EQUIBASE" target="_blank" role="button" onclick="captureOutboundLink('LINK TO EQUIBASE');">Equibase Entries</a></p-->
+                    <!--p class="text-link"><a href="/contests/rttr148/Week14-Kentucky-Derby-Results.pdf" target="_blank">Equibase Results</a></p-->
+                  </td>
+                </tr>
+              </table>
+              <p style="font-size: 12px;">Nominations and Results courtesy of <a href="https://www.equibase.com"
+                  target="_blank">Equibase.com</a></p>
+            </center>
+            <!--Need to leave this in until a reliable CSS method is available-->
 
-  </div><!--end left column-->
-  <div class="col-lg-4"> <!--begin middle column-->
-   
-    <div class="round-border" style="padding-left: 0px; padding-right: 0px;"><h5>Completed Races</h5>
-        <center><!--Need to leave this in until a reliable CSS method is available-->
+          </div>
           
-          <a id="week11"></a>
-          <table class="TableStandard">
-              <tr class="TableHeader">
-                <th class="text-align-center">Week #11, Apr. 2, 2022</th>
-              </tr>
-              <tr>
-                <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week11-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-                  <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week11-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
-            </tr>
-            <tr>
-              <td>
-                <div class="accordion" id="accordionRTTR148week11races">
-                  <div class="accordion-item">
-                    <h4 class="accordion-header" id="headingRTTR148week11races">
-                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseRTTR148week11races" aria-expanded="false" aria-controls="collapseRTTR148week11races">
-                        Week 11 Races
-                      </button>
-                    </h4>
-                    <div id="collapseRTTR148week11races" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week11races">
-                      <div class="accordion-body">
-                        <table class="TableStandard">
-                          <tr>
-                            <td class="race-name-header">
-                              Jeff Ruby Steaks (Tier 1)<br/>
-                              <span class="track-name-state">Turfway Park (TP) | Kentucky</span><br>
-                              <p class="text-link"><a href="/contests/rttr148/Week11-Jeff-Ruby-Steaks-Results.pdf" target="_blank">Equibase Results</a></p>
-                              </td>
-                          </tr>
-                          <tr>
-                            <td class="race-name-header">
-                              Florida Derby (Tier 1)<br/>
-                              <span class="track-name-state">Gulfstream Park (GP) | Florida</span><br>
-                              <p class="text-link"><a href="/contests/rttr148/Week11-Florida-Derby-Results.pdf" target="_blank">Equibase Results</a></p>
-                              </td>
-                          </tr>
-                        <tr>
-                          <td class="race-name-header">
-                            Arkansas Derby (Tier 1)<br/>
-                            <span class="track-name-state">Oaklawn Park (OP) | Arkansas</span><br>
-                            <p class="text-link"><a href="/contests/rttr148/Week11-Arkansas-Derby-Results.pdf" target="_blank">Equibase Results</a></p>
-                            </td>
-                        </tr>                                        
-                        </table>
-              </td>
-            </tr>
-      </table>
-              
-          <a id="week10"></a>
-          <table class="TableStandard">
-              <tr class="TableHeader">
-                <th class="text-align-center">Week #10, Mar. 26-27, 2022</th>
-              </tr>
-              <tr>
-                <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week10-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-                  <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week10-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
-            </tr>
-            <tr>
-              <td>
+          <div class="round-border" style="padding-left: 0px; padding-right: 0px;">
+            <h5>Completed Races</h5>
+            <center>
+              <!--Need to leave this in until a reliable CSS method is available-->
+
+              <a id="week11"></a>
+              <table class="TableStandard">
+                <tr class="TableHeader">
+                  <th class="text-align-center">Week #11, Apr. 2, 2022</th>
+                </tr>
+                <tr>
+                  <td class="accordion-td-cell">
+                    <div class="accordion" id="accordionRTTR148week11races">
+                      <div class="accordion-item">
+                        <h4 class="accordion-header" id="headingRTTR148week11races">
+                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseRTTR148week11races" aria-expanded="false"
+                            aria-controls="collapseRTTR148week11races">
+                            Week 11 Races
+                          </button>
+                        </h4>
+                        <div id="collapseRTTR148week11races" class="accordion-collapse collapse"
+                          aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week11races">
+                          <div class="accordion-body accordion-td-cell">
+                            <table class="TableStandard">
+                              <tr>
+                                <td class="race-buttons">
+                                  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
+                                      href="/contests/rttr148/Week11-RTTR-Entries.pdf" target="_blank"
+                                      role="button">RTTR&nbsp;Entries</a>&nbsp;
+                                    <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week11-RTTR-Results.pdf"
+                                      target="_blank" role="button">RTTR&nbsp;Results</a>
+                                  </p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="race-name-header">
+                                  Jeff Ruby Steaks (Tier 1)<br />
+                                  <span class="track-name-state">Turfway Park (TP) | Kentucky</span><br>
+                                  <p class="text-link"><a href="/contests/rttr148/Week11-Jeff-Ruby-Steaks-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="race-name-header">
+                                  Florida Derby (Tier 1)<br />
+                                  <span class="track-name-state">Gulfstream Park (GP) | Florida</span><br>
+                                  <p class="text-link"><a href="/contests/rttr148/Week11-Florida-Derby-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="race-name-header">
+                                  Arkansas Derby (Tier 1)<br />
+                                  <span class="track-name-state">Oaklawn Park (OP) | Arkansas</span><br>
+                                  <p class="text-link"><a href="/contests/rttr148/Week11-Arkansas-Derby-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
+                                </td>
+                              </tr>
+                            </table>
+                  </td>
+                </tr>
+              </table>
+
+              <a id="week10"></a>
+              <table class="TableStandard">
+                <tr class="TableHeader">
+                  <th class="text-align-center">Week #10, Mar. 26-27, 2022</th>
+                </tr>
+                <tr>
+                  <td class="accordion-td-cell">
                     <div class="accordion" id="accordionRTTR148week10races">
                       <div class="accordion-item">
                         <h4 class="accordion-header" id="headingRTTR148week10races">
-                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseRTTR148week10races" aria-expanded="false" aria-controls="collapseRTTR148week10races">
+                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseRTTR148week10races" aria-expanded="false"
+                            aria-controls="collapseRTTR148week10races">
                             Week 10 Races
                           </button>
                         </h4>
-                        <div id="collapseRTTR148week10races" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week10races">
-                          <div class="accordion-body">
-                            <table class="TableStandard">
-                            <tr>
-              <td class="race-name-header">
-                UAE Derby (Tier 1)<br/>
-                <span class="track-name-state">Meydan Racecourse (MEY) | UAE - Dubai</span>
-                <p class="text-link"><a href="/contests/rttr148/Week10-UAE-Derby-Results.pdf" target="_blank">Emirates Racing Results</a></p>
-              </td>
-            </tr>
-              <tr>
-            <td class="race-name-header">
-              Louisiana Derby (Tier 1)<br/>
-              <span class="track-name-state">Fair Grounds (FG) | Louisiana</span>
-              <p class="text-link"><a href="/contests/rttr148/Week10-Louisiana-Derby-Results.pdf" target="_blank">Equibase Results</a></p>
-            </td>
-          </tr>
-          <tr>
-            <td class="race-name-header">
-              Sunland Park Derby (Tier 2)<br/>
-              <span class="track-name-state">Sunland Park (SUN) | New Mexico</span>
-              <p class="text-link"><a href="/contests/rttr148/Week10-Sunland-Derby-Results.pdf" target="_blank">Equibase Results</a></p>
-            </td>
-          </tr>
-                            </table>
-                        </div>
-                        </div>
-                        </div>
-                    </div>
-                    </td>
-                    </tr>
-                    </table>  
-
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          <a id="week8"></a>
-                <table class="TableStandard">
-                    <tr class="TableHeader">
-                      <th class="text-align-center">Week #8, Mar. 12, 2022</th>
-                    </tr>
-                    <tr>
-                      <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week08-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-                        <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week08-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
-                  </tr>
-                  <tr>
-                    <td>
-                          <div class="accordion" id="accordionRTTR148week8races">
-                            <div class="accordion-item">
-                              <h4 class="accordion-header" id="headingRTTR148week8races">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseRTTR148week8races" aria-expanded="false" aria-controls="collapseRTTR148week8races">
-                                  Week 8 Races
-                                </button>
-                              </h4>
-                              <div id="collapseRTTR148week8races" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week8races">
-                                <div class="accordion-body">
-                                  <table class="TableStandard">
-                                    <tr>
-                                      <td class="race-name-header">
-                    Tampa Bay Derby (Tier 2)<br/>
-                    <span class="track-name-state">Tampa Bay Downs (TAM) | Florida</span>
-                    <p class="text-link"><a href="/contests/rttr148/Week08-Tampa-Bay-Derby-Results.pdf" target="_blank">Equibase Results</a></p>
-                                      </td>
-                                    </tr>
-                                  </table>
-                                </div>
-                              </div>
-                              </div>
-                              </div>
-                    </td>
-                  </tr>
-                  </table>
-          <a id="week7"></a>
-          <table class="TableStandard">
-              <tr class="TableHeader">
-                <th class="text-align-center">Week #7, Mar. 5, 2022</th>
-              </tr>
-              <tr>
-                <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week07-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-                  <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week07-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
-            </tr>
-            <tr>
-              <td>
-                    <div class="accordion" id="accordionRTTR148week7races">
-                      <div class="accordion-item">
-                        <h4 class="accordion-header" id="headingRTTR148week7races">
-                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseRTTR148week7races" aria-expanded="false" aria-controls="collapseRTTR148week7races">
-                            Week 7 Races
-                          </button>
-                        </h4>
-                        <div id="collapseRTTR148week7races" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week7races">
-                          <div class="accordion-body">
+                        <div id="collapseRTTR148week10races" class="accordion-collapse collapse"
+                          aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week10races">
+                          <div class="accordion-body accordion-td-cell">
                             <table class="TableStandard">
                               <tr>
-                                <td class="race-name-header">
-                                  Gotham Stakes (Tier 2)<br/>
-                                  <span class="track-name-state">Aqueduct Racetrack (AQU) | New York</span>
-                                  <p class="text-link"><a href="/contests/rttr148/Week07-Gotham-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
+                                <td class="race-buttons">
+                                  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
+                                      href="/contests/rttr148/Week10-RTTR-Entries.pdf" target="_blank"
+                                      role="button">RTTR&nbsp;Entries</a>&nbsp;
+                                    <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week10-RTTR-Results.pdf"
+                                      target="_blank" role="button">RTTR&nbsp;Results</a>
+                                  </p>
                                 </td>
                               </tr>
                               <tr>
                                 <td class="race-name-header">
-                                  San Felipe Stakes (Tier 2)<br/>
-                                  <span class="track-name-state">Santa Anita Park (SA) | California</span>
-                                  <p class="text-link"><a href="/contests/rttr148/Week07-San-Felipe-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
+                                  UAE Derby (Tier 1)<br />
+                                  <span class="track-name-state">Meydan Racecourse (MEY) | UAE - Dubai</span>
+                                  <p class="text-link"><a href="/contests/rttr148/Week10-UAE-Derby-Results.pdf"
+                                      target="_blank">Emirates Racing Results</a></p>
                                 </td>
                               </tr>
                               <tr>
                                 <td class="race-name-header">
-                                  Fountain of Youth Stakes (Tier 2)<br/>
-                                  <span class="track-name-state">Gulfstream Park (GP) | Florida</span>
-                                  <p class="text-link"><a href="/contests/rttr148/Week07-Fountain-of-Youth-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
+                                  Louisiana Derby (Tier 1)<br />
+                                  <span class="track-name-state">Fair Grounds (FG) | Louisiana</span>
+                                  <p class="text-link"><a href="/contests/rttr148/Week10-Louisiana-Derby-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
                                 </td>
                               </tr>
                               <tr>
                                 <td class="race-name-header">
-                                  John Battaglia Mem. Stakes (Tier 4)<br/>
-                                  <span class="track-name-state">Turfway Park (TP) | Kentucky</span>
-                                  <p class="text-link"><a href="/contests/rttr148/Week07-John-Battaglia-Memorial-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
+                                  Sunland Park Derby (Tier 2)<br />
+                                  <span class="track-name-state">Sunland Park (SUN) | New Mexico</span>
+                                  <p class="text-link"><a href="/contests/rttr148/Week10-Sunland-Derby-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
                                 </td>
-                              </tr>                  
+                              </tr>
                             </table>
-                            </div>
                           </div>
                         </div>
                       </div>
-              </td>
-            </tr>
-            </table>
-      <a id="week6"></a>
-          <table class="TableStandard">
-              <tr class="TableHeader">
-                <th class="text-align-center">Week #6, Feb. 26, 2022</th>
-              </tr>
-              <tr>
-                <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week06-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-                  <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week06-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
-            </tr>
-            <tr>
-              <td>
-                <div class="accordion" id="accordionRTTR148week6races">
-                  <div class="accordion-item">
-                    <h4 class="accordion-header" id="headingRTTR148week6races">
-                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseRTTR148week6races" aria-expanded="false" aria-controls="collapseRTTR148week6races">
-                        Week 6 Races
-                      </button>
-                    </h4>
-                    <div id="collapseRTTR148week6races" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week6races">
-                      <div class="accordion-body">
-                        <table class="TableStandard">
-                          <tr>
-                            <td class="race-name-header">
-                Rebel Stakes (Tier 2)<br/>
-                <span class="track-name-state">Oaklawn Park (OP) | Arkansas</span>
-                <p class="text-link"><a href="/contests/rttr148/Week06-Rebel-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
-                            </td>
-                          </tr>
-                        </table>
-                      </div>
                     </div>
-                  </div>
-                </div>
-              </td>
-            </tr>
-          </table>
-
-<a id="week5"></a>
-          <table class="TableStandard">
-              <tr class="TableHeader">
-                <th class="text-align-center">Week #5, Feb. 19, 2022</th>
-              </tr>
-              <tr>
-                <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week05-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-                  <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week05-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
-            </tr>
-            <tr>
-                <td>
-                  <div class="accordion" id="accordionRTTR148week5races">
-                    <div class="accordion-item">
-                      <h4 class="accordion-header" id="headingRTTR148week5races">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseRTTR148week5races" aria-expanded="false" aria-controls="collapseRTTR148week5races">
-                          Week 5 Races
-                        </button>
-                      </h4>
-                      <div id="collapseRTTR148week5races" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week5races">
-                        <div class="accordion-body">
-                          <table class="TableStandard">
-                            <tr>
-                              <td class="race-name-header">
-                                Risen Star Stakes (Tier 2)<br/>
-                                <span class="track-name-state">Fair Grounds (FG) | Louisiana</span>
-                                <p class="text-link"><a href="/contests/rttr148/Week05-Risen-Star-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
-                              </td>
-                            </tr>
-                          </table>
+                  </td>
+                </tr>
+              </table>
+              <a id="week8"></a>
+              <table class="TableStandard">
+                <tr class="TableHeader">
+                  <th class="text-align-center">Week #8, Mar. 12, 2022</th>
+                </tr>
+                <tr>
+                  <td class="accordion-td-cell">
+                    <div class="accordion" id="accordionRTTR148week8races">
+                      <div class="accordion-item">
+                        <h4 class="accordion-header" id="headingRTTR148week8races">
+                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseRTTR148week8races" aria-expanded="false"
+                            aria-controls="collapseRTTR148week8races">
+                            Week 8 Races
+                          </button>
+                        </h4>
+                        <div id="collapseRTTR148week8races" class="accordion-collapse collapse"
+                          aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week8races">
+                          <div class="accordion-body accordion-td-cell">
+                            <table class="TableStandard">
+                              <tr>
+                                <td class="race-buttons">
+                                  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
+                                      href="/contests/rttr148/Week08-RTTR-Entries.pdf" target="_blank"
+                                      role="button">RTTR&nbsp;Entries</a>&nbsp;
+                                    <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week08-RTTR-Results.pdf"
+                                      target="_blank" role="button">RTTR&nbsp;Results</a>
+                                  </p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="race-name-header">
+                                  Tampa Bay Derby (Tier 2)<br />
+                                  <span class="track-name-state">Tampa Bay Downs (TAM) | Florida</span>
+                                  <p class="text-link"><a href="/contests/rttr148/Week08-Tampa-Bay-Derby-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
+                                </td>
+                              </tr>
+                            </table>
+                          </div>
                         </div>
                       </div>
                     </div>
-                  </div>
-                </td>
-            </tr>
-          </table>
-<a id="week4"></a>
-          <table class="TableStandard">
-            <tr class="TableHeader">
-              <th class="text-align-center">Week #4, Feb. 12, 2022</th>
-            </tr>
-            <tr>
-              <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week04-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-                <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week04-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
-          </tr>
-          <tr>
-            <td>
-              <div class="accordion" id="accordionRTTR148week4races">
-                <div class="accordion-item">
-                  <h4 class="accordion-header" id="headingRTTR148week4races">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseRTTR148week4races" aria-expanded="false" aria-controls="collapseRTTR148week4races">
-                      Week 4 Races
-                    </button>
-                  </h4>
-                  <div id="collapseRTTR148week4races" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week4races">
-                    <div class="accordion-body">
-                      <table class="TableStandard">
-                        <tr>
-                          <td class="race-name-header">
-                            Sam F. Davis Stakes (Tier 4)<br/>
-                            <span class="track-name-state">Tampa Bay Downs (TAM) | Florida</span><br>
-                            <p class="text-link"><a href="/contests/rttr148/Week04-Sam-F-Davis-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
-                            </td>
-                        </tr>
-                        <tr>
-                          <td class="race-name-header">
-                            El Camino Real Derby (Tier 4)<br/>
-                            <span class="track-name-state">Golden Gate Fields (GG) | California</span><br>
-                            <p class="text-link"><a href="/contests/rttr148/Week04-El-Camino-Real-Derby-Results.pdf" target="_blank">Equibase Results</a></p>
-                            </td>
-                        </tr>              
-                      </table>
-                    </div>
-                  </div>
-                </div>
-              </div>                
-            </td>
-          </tr>  
-        </table>
-          <a id="week3"></a>
-          <table class="TableStandard">
-            <tr class="TableHeader">
-              <th class="text-align-center">Week #3, Feb. 5-6, 2022</th>
-            </tr>
-            <tr>
-              <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week03-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-            <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week03-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
-            </tr>
-            <tr>
-              <td>
-                <div class="accordion" id="accordionRTTR148week3races">
-                  <div class="accordion-item">
-                    <h4 class="accordion-header" id="headingRTTR148week3races">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseRTTR148week3races" aria-expanded="false" aria-controls="collapseRTTR148week3races">
-              Week 3 Races
-            </button>
-                    </h4>
-                    <div id="collapseRTTR148week3races" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week3races">
-                      <div class="accordion-body">
-                        <table class="TableStandard">
-                          <tr>
-                            <td class="race-name-header">
-                              Withers Stakes (Tier 4)<br/>
-                              <span class="track-name-state">Aqueduct Racetrack (AQU) | New York</span><br/>
-                              <p class="text-link"><a href="/contests/rttr148/Week03-Withers-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
-                            </td>
-                          </tr>
-                          <tr>
-                            <td class="race-name-header">
-                              Holy Bull Stakes (Tier 4)<br/>
-                              <span class="track-name-state">Gulfstream Park (GP) | Florida</span><br>
-                              <p class="text-link"><a href="/contests/rttr148/Week03-Holy-Bull-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
-                            </td>
-                          </tr>
-                          <tr>
-                            <td class="race-name-header">
-                              Robert B. Lewis Stakes (Tier 4)<br/>
-                              <span class="track-name-state">Santa Anita Park (SA) | California</span><br>
-                              <p class="text-link"><a href="/contests/rttr148/Week03-Robert-B-Lewis-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
-                            </td>
-                          </tr>
-                        </table>
+                  </td>
+                </tr>
+              </table>
+              <a id="week7"></a>
+              <table class="TableStandard">
+                <tr class="TableHeader">
+                  <th class="text-align-center">Week #7, Mar. 5, 2022</th>
+                </tr>
+                <tr>
+                  <td class="accordion-td-cell">
+                    <div class="accordion" id="accordionRTTR148week7races">
+                      <div class="accordion-item">
+                        <h4 class="accordion-header" id="headingRTTR148week7races">
+                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseRTTR148week7races" aria-expanded="false"
+                            aria-controls="collapseRTTR148week7races">
+                            Week 7 Races
+                          </button>
+                        </h4>
+                        <div id="collapseRTTR148week7races" class="accordion-collapse collapse"
+                          aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week7races">
+                          <div class="accordion-body accordion-td-cell">
+                            <table class="TableStandard">
+                              <tr>
+                                <td class="race-buttons">
+                                  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
+                                      href="/contests/rttr148/Week07-RTTR-Entries.pdf" target="_blank"
+                                      role="button">RTTR&nbsp;Entries</a>&nbsp;
+                                    <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week07-RTTR-Results.pdf"
+                                      target="_blank" role="button">RTTR&nbsp;Results</a>
+                                  </p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="race-name-header">
+                                  Gotham Stakes (Tier 2)<br />
+                                  <span class="track-name-state">Aqueduct Racetrack (AQU) | New York</span>
+                                  <p class="text-link"><a href="/contests/rttr148/Week07-Gotham-Stakes-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="race-name-header">
+                                  San Felipe Stakes (Tier 2)<br />
+                                  <span class="track-name-state">Santa Anita Park (SA) | California</span>
+                                  <p class="text-link"><a href="/contests/rttr148/Week07-San-Felipe-Stakes-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="race-name-header">
+                                  Fountain of Youth Stakes (Tier 2)<br />
+                                  <span class="track-name-state">Gulfstream Park (GP) | Florida</span>
+                                  <p class="text-link"><a
+                                      href="/contests/rttr148/Week07-Fountain-of-Youth-Stakes-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="race-name-header">
+                                  John Battaglia Mem. Stakes (Tier 4)<br />
+                                  <span class="track-name-state">Turfway Park (TP) | Kentucky</span>
+                                  <p class="text-link"><a
+                                      href="/contests/rttr148/Week07-John-Battaglia-Memorial-Stakes-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
+                                </td>
+                              </tr>
+                            </table>
+                          </div>
+                        </div>
                       </div>
                     </div>
-                  </div>
-                </div>
-              </td>
-            </tr>
-          </table>
-          <a id="week2"></a>
-          <table class="TableStandard">
-            <tr class="TableHeader">
-              <th class="text-align-center">Week #2, Jan. 29, 2022</th>
-        </tr>
-        <tr>
-          <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-            <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
-      </tr>
-      <tr>
-          <td>
-            <div class="accordion" id="accordionRTTR148week2races">
-              <div class="accordion-item">
-                <h4 class="accordion-header" id="headingRTTR148week2races">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseRTTR148week2races" aria-expanded="false" aria-controls="collapseRTTR148week2races">
-                    Week 2 Races
-                  </button>
-                </h4>
-                <div id="collapseRTTR148week2races" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week2races">
-                  <div class="accordion-body">
-                    <table class="TableStandard">
-                      <tr>
-                        <td class="race-name-header">
-                          Southwest Stakes (Tier 4)<br/>
-                          <span class="track-name-state">Oaklawn Park (OP) | Arkansas</span><br/>
-                          <p class="text-link"><a href="/contests/rttr148/Week02-Southwest-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
-                        </td>
-                      </tr>                
-                    </table>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </td>
-      </tr>
-          </table>
-        <a id="week1"></a>
-          <table class="TableStandard">
-            <tr class="TableHeader">
-              <th class="text-align-center">Week #1, Jan. 22, 2022</th>
-            </tr>
-            <tr>
-              <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>&nbsp;
-                <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a></p></td>
-          </tr>
-          <tr>
-              <td>
-                <div class="accordion" id="accordionRTTR148week1races">
-                  <div class="accordion-item">
-                    <h4 class="accordion-header" id="headingRTTR148week1races">
-                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseRTTR148week1races" aria-expanded="false" aria-controls="collapseRTTR148week1races">
-                        Week 1 Races
-                      </button>
-                    </h4>
-                    <div id="collapseRTTR148week1races" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week1races">
-                      <div class="accordion-body">
-                        <table class="TableStandard">
-                          <tr>
-                            <td class="race-name-header">
-                              Lecomte Stakes (Tier 4)<br/>
-                              <span class="track-name-state">Fair Grounds (FG) | Louisiana</span><br>
-                              <p class="text-link"><a href="/contests/rttr148/Week01-Lecomte-Stakes-Results.pdf" target="_blank">Equibase Results</a></p>
-                            </td>
-                          </tr>                
-                        </table>
+                  </td>
+                </tr>
+              </table>
+              <a id="week6"></a>
+              <table class="TableStandard">
+                <tr class="TableHeader">
+                  <th class="text-align-center">Week #6, Feb. 26, 2022</th>
+                </tr>
+                <tr>
+                  <td class="accordion-td-cell">
+                    <div class="accordion" id="accordionRTTR148week6races">
+                      <div class="accordion-item">
+                        <h4 class="accordion-header" id="headingRTTR148week6races">
+                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseRTTR148week6races" aria-expanded="false"
+                            aria-controls="collapseRTTR148week6races">
+                            Week 6 Races
+                          </button>
+                        </h4>
+                        <div id="collapseRTTR148week6races" class="accordion-collapse collapse"
+                          aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week6races">
+                          <div class="accordion-body accordion-td-cell">
+                            <table class="TableStandard">
+                              <tr>
+                                <td class="race-buttons">
+                                  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
+                                      href="/contests/rttr148/Week06-RTTR-Entries.pdf" target="_blank"
+                                      role="button">RTTR&nbsp;Entries</a>&nbsp;
+                                    <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week06-RTTR-Results.pdf"
+                                      target="_blank" role="button">RTTR&nbsp;Results</a>
+                                  </p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="race-name-header">
+                                  Rebel Stakes (Tier 2)<br />
+                                  <span class="track-name-state">Oaklawn Park (OP) | Arkansas</span>
+                                  <p class="text-link"><a href="/contests/rttr148/Week06-Rebel-Stakes-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
+                                </td>
+                              </tr>
+                            </table>
+                          </div>
+                        </div>
                       </div>
                     </div>
-                  </div>
-                </div>
-              </td>
-          </tr>
-          </table>
-          </center><!--Need to leave this in until a reliable CSS method is available-->
-    </div>
-   
-      </div><!--end middle column-->
+                  </td>
+                </tr>
+              </table>
 
-  <div class="col-lg-4"> <!--begin right column-->
-  
-    <!--#include virtual="/modules/rttr148-horses-by-stable.html"-->
-      
-  </div><!--end right column-->
-
-</div><!--end row #1-->
-
-<div class="accordion" id="accordionRTTR148data">
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="headingOne">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-        Trainers & Jockeys by Stable / Contest Notes
-      </button>
-    </h2>
-    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148data">
-      <div class="accordion-body">
-        
-        <div class="row">
-          <div class="col-lg-4"> <!--begin left column-->
-            
-            <!--#include virtual="/modules/rttr148-trainers-by-stable.html"-->
-        
-          </div> <!--end left column-->
-        
-          <div class="col-lg-4"> <!--begin middle column-->
-        
-            <!--#include virtual="/modules/rttr148-jockeys-by-stable.html"-->
-        
-          </div> <!--end middle column-->
-        
-          <div class="col-lg-4"> <!--begin right column-->
-        
-            <!--#include virtual="/modules/rttr148-contest-notes.html"-->
-        
-          </div> <!--end right column-->
-        
-        </div><!--end row-->
-
-      </div>
-    </div>
-  </div>
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="headingTwo">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-        RTTR Leaders / Trainer & Jockey Combos
-      </button>
-    </h2>
-    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionRTTR148data">
-      <div class="accordion-body">
-        <div class="row">
-          <div class="col-lg-4"> <!--begin left column-->
-        
-            <!--#include virtual="/modules/rttr148-leading-horses.html"-->
-        
-          </div> <!--end left column-->
-        
-          <div class="col-lg-4"> <!--begin middle column-->
-        
-            <!--#include virtual="/modules/rttr148-leading-trainers.html"-->
-          
-              <!--#include virtual="/modules/rttr148-leading-jockeys.html"-->
-        
-          </div> <!--end middle column-->
-        
-          <div class="col-lg-4"> <!--begin right column-->
-         
-                <!--#include virtual="/modules/rttr148-trainer-jockey-combo-by-stable.html"-->
-        
-          </div> <!--end right column-->
-        
-        </div><!--end row-->
-        
-      </div>
-    </div>
-  </div>
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="headingThree">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-        How to Play / RTTR Scoring
-      </button>
-    </h2>
-    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionRTTR148data">
-      <div class="accordion-body">
-        
-        <div class="row">
-          <div class="col-lg-4"> <!--begin left column-->
-            
-            <!--#include virtual="/contests/how-to-play-rttr.html" -->  
-        
-          </div> <!--end left column-->
-        
-          <div class="col-lg-4"> <!--begin middle column-->
-        
-            <!--#include virtual="/contests/rttr-scoring-table.html" -->
-        
-          </div> <!--end middle column-->
-        
-          <!--div class="col-lg-4"--> <!--begin right column-->
-        
-            
-          <!--/div--> <!--end right column-->
-        
-        </div><!--end row-->
-
-      </div>
-    </div>
-  </div>
-
-</div>
-
-<a id="leaderboard"></a>
-<br/>
-<br/>
-<div class="row">      
-        <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive" style="max-width: 250px; border: 0;" /></a>
-
-<!--#include virtual="/iframe-spinner.html" -->
-        
-      <div class="iframe-container">
-            <iframe class="responsive-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" onload="document.getElementById('spinner').style.display='none';"></iframe>
+              <a id="week5"></a>
+              <table class="TableStandard">
+                <tr class="TableHeader">
+                  <th class="text-align-center">Week #5, Feb. 19, 2022</th>
+                </tr>
+                <tr>
+                  <td class="accordion-td-cell">
+                    <div class="accordion" id="accordionRTTR148week5races">
+                      <div class="accordion-item">
+                        <h4 class="accordion-header" id="headingRTTR148week5races">
+                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseRTTR148week5races" aria-expanded="false"
+                            aria-controls="collapseRTTR148week5races">
+                            Week 5 Races
+                          </button>
+                        </h4>
+                        <div id="collapseRTTR148week5races" class="accordion-collapse collapse"
+                          aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week5races">
+                          <div class="accordion-body accordion-td-cell">
+                            <table class="TableStandard">
+                              <tr>
+                                <td class="race-buttons">
+                                  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
+                                      href="/contests/rttr148/Week05-RTTR-Entries.pdf" target="_blank"
+                                      role="button">RTTR&nbsp;Entries</a>&nbsp;
+                                    <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week05-RTTR-Results.pdf"
+                                      target="_blank" role="button">RTTR&nbsp;Results</a>
+                                  </p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="race-name-header">
+                                  Risen Star Stakes (Tier 2)<br />
+                                  <span class="track-name-state">Fair Grounds (FG) | Louisiana</span>
+                                  <p class="text-link"><a href="/contests/rttr148/Week05-Risen-Star-Stakes-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
+                                </td>
+                              </tr>
+                            </table>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+              <a id="week4"></a>
+              <table class="TableStandard">
+                <tr class="TableHeader">
+                  <th class="text-align-center">Week #4, Feb. 12, 2022</th>
+                </tr>
+                <tr>
+                  <td class="accordion-td-cell">
+                    <div class="accordion" id="accordionRTTR148week4races">
+                      <div class="accordion-item">
+                        <h4 class="accordion-header" id="headingRTTR148week4races">
+                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseRTTR148week4races" aria-expanded="false"
+                            aria-controls="collapseRTTR148week4races">
+                            Week 4 Races
+                          </button>
+                        </h4>
+                        <div id="collapseRTTR148week4races" class="accordion-collapse collapse"
+                          aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week4races">
+                          <div class="accordion-body accordion-td-cell">
+                            <table class="TableStandard">
+                              <tr>
+                                <td class="race-buttons">
+                                  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
+                                      href="/contests/rttr148/Week04-RTTR-Entries.pdf" target="_blank"
+                                      role="button">RTTR&nbsp;Entries</a>&nbsp;
+                                    <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week04-RTTR-Results.pdf"
+                                      target="_blank" role="button">RTTR&nbsp;Results</a>
+                                  </p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="race-name-header">
+                                  Sam F. Davis Stakes (Tier 4)<br />
+                                  <span class="track-name-state">Tampa Bay Downs (TAM) | Florida</span><br>
+                                  <p class="text-link"><a href="/contests/rttr148/Week04-Sam-F-Davis-Stakes-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="race-name-header">
+                                  El Camino Real Derby (Tier 4)<br />
+                                  <span class="track-name-state">Golden Gate Fields (GG) | California</span><br>
+                                  <p class="text-link"><a
+                                      href="/contests/rttr148/Week04-El-Camino-Real-Derby-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
+                                </td>
+                              </tr>
+                            </table>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+              <a id="week3"></a>
+              <table class="TableStandard">
+                <tr class="TableHeader">
+                  <th class="text-align-center">Week #3, Feb. 5-6, 2022</th>
+                </tr>
+                <tr>
+                  <td class="accordion-td-cell">
+                    <div class="accordion" id="accordionRTTR148week3races">
+                      <div class="accordion-item">
+                        <h4 class="accordion-header" id="headingRTTR148week3races">
+                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseRTTR148week3races" aria-expanded="false"
+                            aria-controls="collapseRTTR148week3races">
+                            Week 3 Races
+                          </button>
+                        </h4>
+                        <div id="collapseRTTR148week3races" class="accordion-collapse collapse"
+                          aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week3races">
+                          <div class="accordion-body accordion-td-cell">
+                            <table class="TableStandard">
+                              <tr>
+                                <td class="race-buttons">
+                                  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
+                                      href="/contests/rttr148/Week03-RTTR-Entries.pdf" target="_blank"
+                                      role="button">RTTR&nbsp;Entries</a>&nbsp;
+                                    <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week03-RTTR-Results.pdf"
+                                      target="_blank" role="button">RTTR&nbsp;Results</a>
+                                  </p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="race-name-header">
+                                  Withers Stakes (Tier 4)<br />
+                                  <span class="track-name-state">Aqueduct Racetrack (AQU) | New York</span><br />
+                                  <p class="text-link"><a href="/contests/rttr148/Week03-Withers-Stakes-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="race-name-header">
+                                  Holy Bull Stakes (Tier 4)<br />
+                                  <span class="track-name-state">Gulfstream Park (GP) | Florida</span><br>
+                                  <p class="text-link"><a href="/contests/rttr148/Week03-Holy-Bull-Stakes-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="race-name-header">
+                                  Robert B. Lewis Stakes (Tier 4)<br />
+                                  <span class="track-name-state">Santa Anita Park (SA) | California</span><br>
+                                  <p class="text-link"><a
+                                      href="/contests/rttr148/Week03-Robert-B-Lewis-Stakes-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
+                                </td>
+                              </tr>
+                            </table>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+              <a id="week2"></a>
+              <table class="TableStandard">
+                <tr class="TableHeader">
+                  <th class="text-align-center">Week #2, Jan. 29, 2022</th>
+                </tr>
+                <tr>
+                  <td class="accordion-td-cell">
+                    <div class="accordion" id="accordionRTTR148week2races">
+                      <div class="accordion-item">
+                        <h4 class="accordion-header" id="headingRTTR148week2races">
+                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseRTTR148week2races" aria-expanded="false"
+                            aria-controls="collapseRTTR148week2races">
+                            Week 2 Races
+                          </button>
+                        </h4>
+                        <div id="collapseRTTR148week2races" class="accordion-collapse collapse"
+                          aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week2races">
+                          <div class="accordion-body accordion-td-cell">
+                            <table class="TableStandard">
+                              <tr>
+                                <td class="race-buttons">
+                                  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
+                                      href="/contests/rttr148/Week02-RTTR-Entries.pdf" target="_blank"
+                                      role="button">RTTR&nbsp;Entries</a>&nbsp;
+                                    <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week02-RTTR-Results.pdf"
+                                      target="_blank" role="button">RTTR&nbsp;Results</a>
+                                  </p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="race-name-header">
+                                  Southwest Stakes (Tier 4)<br />
+                                  <span class="track-name-state">Oaklawn Park (OP) | Arkansas</span><br />
+                                  <p class="text-link"><a href="/contests/rttr148/Week02-Southwest-Stakes-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
+                                </td>
+                              </tr>
+                            </table>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+              <a id="week1"></a>
+              <table class="TableStandard">
+                <tr class="TableHeader">
+                  <th class="text-align-center">Week #1, Jan. 22, 2022</th>
+                </tr>
+                <tr>
+                  <td class="accordion-td-cell">
+                    <div class="accordion" id="accordionRTTR148week1races">
+                      <div class="accordion-item">
+                        <h4 class="accordion-header" id="headingRTTR148week1races">
+                          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#collapseRTTR148week1races" aria-expanded="false"
+                            aria-controls="collapseRTTR148week1races">
+                            Week 1 Races
+                          </button>
+                        </h4>
+                        <div id="collapseRTTR148week1races" class="accordion-collapse collapse"
+                          aria-labelledby="headingOne" data-bs-parent="#accordionRTTR148week1races">
+                          <div class="accordion-body accordion-td-cell">
+                            <table class="TableStandard">
+                              <tr>
+                                <td class="race-buttons">
+                                  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
+                                      href="/contests/rttr148/Week01-RTTR-Entries.pdf" target="_blank"
+                                      role="button">RTTR&nbsp;Entries</a>&nbsp;
+                                    <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week01-RTTR-Results.pdf"
+                                      target="_blank" role="button">RTTR&nbsp;Results</a>
+                                  </p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td class="race-name-header">
+                                  Lecomte Stakes (Tier 4)<br />
+                                  <span class="track-name-state">Fair Grounds (FG) | Louisiana</span><br>
+                                  <p class="text-link"><a href="/contests/rttr148/Week01-Lecomte-Stakes-Results.pdf"
+                                      target="_blank">Equibase Results</a></p>
+                                </td>
+                              </tr>
+                            </table>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </center>
+            <!--Need to leave this in until a reliable CSS method is available-->
           </div>
-</div> <!--row #4-->
-<a id="schedule"></a>
 
-<br/>
-<div class="row">
-  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive" style="max-width: 250px; border: 0;" /></a>
+        </div>
+        <!--end left column-->
+        <div class="col-lg-4">
+          <!--begin middle column-->
 
-<!--#include virtual="/iframe-spinner2.html" -->   
+          <!--#include virtual="/modules/rttr148-leading-horses.html"-->
 
-    <div class="iframe-container">
-      <iframe class="responsive-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" onload="document.getElementById('spinner2').style.display='none';"></iframe>
+        </div>
+        <!--end middle column-->
+
+        <div class="col-lg-4">
+          <!--begin right column-->
+
+          <!--#include virtual="/modules/rttr148-horses-by-stable.html"-->
+
+        </div>
+        <!--end right column-->
+
+      </div>
+      <!--end row #1-->
+
+      <div class="accordion" id="accordionRTTR148data">
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingTwo">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+              RTTR Leaders / Trainer & Jockey Combos
+            </button>
+          </h2>
+          <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+            data-bs-parent="#accordionRTTR148data">
+            <div class="accordion-body">
+              <div class="row">
+                <div class="col-lg-4">
+                  <!--begin left column-->
+
+                  <!--#include virtual="/modules/rttr148-leading-trainers.html"-->
+
+                </div>
+                <!--end left column-->
+
+                <div class="col-lg-4">
+                  <!--begin middle column-->
+
+                  <!--#include virtual="/modules/rttr148-leading-jockeys.html"-->
+
+                </div>
+                <!--end middle column-->
+
+                <div class="col-lg-4">
+                  <!--begin right column-->
+
+                  <!--#include virtual="/modules/rttr148-trainer-jockey-combo-by-stable.html"-->
+
+                </div>
+                <!--end right column-->
+
+              </div>
+              <!--end row-->
+
+            </div>
+          </div>
+        </div>
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingOne">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+              Trainers & Jockeys by Stable / Contest Notes
+            </button>
+          </h2>
+          <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
+            data-bs-parent="#accordionRTTR148data">
+            <div class="accordion-body">
+
+              <div class="row">
+                <div class="col-lg-4">
+                  <!--begin left column-->
+
+                  <!--#include virtual="/modules/rttr148-trainers-by-stable.html"-->
+
+                </div>
+                <!--end left column-->
+
+                <div class="col-lg-4">
+                  <!--begin middle column-->
+
+                  <!--#include virtual="/modules/rttr148-jockeys-by-stable.html"-->
+
+                </div>
+                <!--end middle column-->
+
+                <div class="col-lg-4">
+                  <!--begin right column-->
+
+                  <!--#include virtual="/modules/rttr148-contest-notes.html"-->
+
+                </div>
+                <!--end right column-->
+
+              </div>
+              <!--end row-->
+
+            </div>
+          </div>
+        </div>
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingThree">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              How to Play / RTTR Scoring
+            </button>
+          </h2>
+          <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+            data-bs-parent="#accordionRTTR148data">
+            <div class="accordion-body">
+
+              <div class="row">
+                <div class="col-lg-4">
+                  <!--begin left column-->
+
+                  <!--#include virtual="/contests/how-to-play-rttr.html" -->
+
+                </div>
+                <!--end left column-->
+
+                <div class="col-lg-4">
+                  <!--begin middle column-->
+
+                  <!--#include virtual="/contests/rttr-scoring-table.html" -->
+
+                </div>
+                <!--end middle column-->
+
+                <!--div class="col-lg-4"-->
+                <!--begin right column-->
+
+
+                <!--/div-->
+                <!--end right column-->
+
+              </div>
+              <!--end row-->
+
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <a id="leaderboard"></a>
+      <br />
+      <br />
+      <div class="row">
+        <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
+          target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
+            style="max-width: 250px; border: 0;" /></a>
+
+        <!--#include virtual="/iframe-spinner.html" -->
+
+        <div class="iframe-container">
+          <iframe class="responsive-iframe"
+            src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
+            onload="document.getElementById('spinner').style.display='none';"></iframe>
+        </div>
+      </div>
+      <!--row #4-->
+      <a id="schedule"></a>
+
+      <br />
+      <div class="row">
+        <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false"
+          target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
+            style="max-width: 250px; border: 0;" /></a>
+
+        <!--#include virtual="/iframe-spinner2.html" -->
+
+        <div class="iframe-container">
+          <iframe class="responsive-iframe"
+            src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false"
+            onload="document.getElementById('spinner2').style.display='none';"></iframe>
+        </div>
+        <table class="TableStandard">
+          <tr>
+            <td style="background-color: #6d9eeb; font-weight: bold;">Horse in an RTTR148 Stable at Race Time.</td>
+          </tr>
+        </table>
+      </div>
+      <!--row #5-->
+
+      <!-- FOOTER -->
+
+      <!--#include virtual="/footer-page.html" -->
+
     </div>
-    <table class="TableStandard">
-      <tr>
-        <td style="background-color: #6d9eeb; font-weight: bold;">Horse in an RTTR148 Stable at Race Time.</td>
-      </tr>
-    </table>
-  </div> <!--row #5-->
+    <!--container-->
 
-<!-- FOOTER -->
-
-<!--#include virtual="/footer-page.html" -->    
-
-</div> <!--container-->
-
-<!--#include virtual="/footer.html" -->    
+    <!--#include virtual="/footer.html" -->
 
 
-</main>
+  </main>
 
 </body>
+
 </html>
