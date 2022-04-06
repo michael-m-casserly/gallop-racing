@@ -1,111 +1,154 @@
 <!doctype html>
 <html lang="en">
-  <head>
-      <!--#include virtual="/banner-head.html" -->
 
-      <title>Contests | Gallop Racing</title>
+<head>
+  <!--#include virtual="/banner-head.html" -->
 
-<style>
-  p {
-    text-align: center;
-  }
-</style>
+  <title>Contests | Gallop Racing</title>
+
+  <style>
+    p {
+      text-align: center;
+    }
+  </style>
 
 </head>
 
 <body class="bodyTag">
   <header>
-    <!--#include virtual="/banner.html" -->    
-    </header>
-    
-    <!--End Banner-->
-    
-    <!--Begin Main Content Section-->
-    <main class="container container-round-border">
+    <!--#include virtual="/banner.html" -->
+  </header>
 
-      <nav aria-label="breadcrumb">
-        <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
-          <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Contests</span></li>
-        </ol>
-      </nav>
+  <!--End Banner-->
 
-      <div class="text-align-center"><h3>Contests</h3></div>
-      <div class="text-align-center"><h5>Kentucky Derby (RTTR)</h5></div>
-      <div class="text-align-center"><h5>Breeders' Cup (RTTBC)</h5></div>
+  <!--Begin Main Content Section-->
+  <main class="container container-round-border">
 
-        <div class="container marketing">
-      
- <div class="row"> <!--row 1-->
-  <div class="col-lg-4"> <!--begin left column-->
-      <div class="round-border"><h5>RTTBC 2022</h5>
-        <p>Begins in June 2022</p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttbc2022/index.shtml" role="button">Go</a></p>
-      </div>
-    </div> <!--end left column-->     
-    
-    <div class="col-lg-4"> <!--begin middle column-->
-        <div class="round-border"><h5>RTTR 148</h5>
-          <p>January to May 2022</p>
-          <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttr148/index.shtml" role="button">Go</a></p>
-        </div>
-      </div> <!--end middle column-->     
-  
-      <div class="col-lg-4"> <!--begin right column-->
-          <div class="round-border"><h5>RTTBC 2021</h5>
-            <p>June to November 2021</p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttbc2021.shtml" role="button">Go</a></p>
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Contests</span></li>
+      </ol>
+    </nav>
+
+    <div class="text-align-center">
+      <h3>Contests</h3>
+    </div>
+    <div class="text-align-center">
+      <h5>Kentucky Derby (RTTR)</h5>
+    </div>
+    <div class="text-align-center">
+      <h5>Breeders' Cup (RTTBC)</h5>
+    </div>
+
+    <div class="container marketing">
+
+      <div class="row">
+        <!--row 1-->
+        <div class="col-lg-4">
+          <!--begin left column-->
+          <div class="round-border">
+            <h5>RTTBC 2022</h5>
+            <p>Begins in June 2022</p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
+                href="/contests/rttbc2022/index.shtml" role="button">Go</a></p>
           </div>
-        </div> <!--end right column-->     
-</div> <!--end row 1-->
-
-<div class="row"> <!--row 2-->
-  <div class="col-lg-4"> <!--begin left column-->
-      <div class="round-border"><h5>RTTR 147</h5>
-        <p>February to May 2021</p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttr147.shtml" role="button">Go</a></p>
-      </div>
-    </div> <!--end left column-->     
-    <div class="col-lg-4"> <!--begin middle column-->
-        <div class="round-border"><h5>Champions</h5>
-          <p>2006 to present</p>
-          <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/champions.shtml" role="button">Go</a></p>
         </div>
-      </div> <!--end middle column-->     
-      <div class="col-lg-4"> <!--begin right column-->
-        <div class="round-border"><h5>Legend</h5>
-          <p>Definitions from Stable Sheets, etc.</p>
-          <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/legend.shtml" role="button">Go</a></p>
+        <!--end left column-->
+
+        <div class="col-lg-4">
+          <!--begin middle column-->
+          <div class="round-border">
+            <h5>RTTR 148</h5>
+            <p>January to May 2022</p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/index.shtml"
+                role="button">Go</a></p>
+          </div>
         </div>
-      </div> <!--end right column-->     
-      
-</div> <!--end row 2-->
+        <!--end middle column-->
 
-<div class="row"> <!--row 3-->
-  <div class="col-lg-4"> <!--begin left column-->
-      <div class="round-border"><h5>Strategies</h5>
-        <p>Variable Drafting, etc.</p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/strategies.shtml" role="button">Go</a></p>
+        <div class="col-lg-4">
+          <!--begin right column-->
+          <div class="round-border">
+            <h5>RTTBC 2021</h5>
+            <p>June to November 2021</p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttbc2021.shtml"
+                role="button">Go</a></p>
+          </div>
+        </div>
+        <!--end right column-->
       </div>
-    </div> <!--end left column-->     
-      
-</div> <!--end row 3-->
+      <!--end row 1-->
+
+      <div class="row">
+        <!--row 2-->
+        <div class="col-lg-4">
+          <!--begin left column-->
+          <div class="round-border">
+            <h5>RTTR 147</h5>
+            <p>February to May 2021</p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr147.shtml"
+                role="button">Go</a></p>
+          </div>
+        </div>
+        <!--end left column-->
+        <div class="col-lg-4">
+          <!--begin middle column-->
+          <div class="round-border">
+            <h5>Champions</h5>
+            <p>2006 to present</p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/champions.shtml"
+                role="button">Go</a></p>
+          </div>
+        </div>
+        <!--end middle column-->
+        <div class="col-lg-4">
+          <!--begin right column-->
+          <div class="round-border">
+            <h5>Legend</h5>
+            <p>Definitions from Stable Sheets, etc.</p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/legend.shtml"
+                role="button">Go</a></p>
+          </div>
+        </div>
+        <!--end right column-->
+
+      </div>
+      <!--end row 2-->
+
+      <div class="row">
+        <!--row 3-->
+        <div class="col-lg-4">
+          <!--begin left column-->
+          <div class="round-border">
+            <h5>Strategies</h5>
+            <p>Variable Drafting, etc.</p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/strategies.shtml"
+                role="button">Go</a></p>
+          </div>
+        </div>
+        <!--end left column-->
+
+      </div>
+      <!--end row 3-->
 
 
-<br/>
-<br/>
+      <br />
+      <br />
 
-<!-- FOOTER -->
+      <!-- FOOTER -->
 
-<!--#include virtual="/footer-page.html" -->    
+      <!--#include virtual="/footer-page.html" -->
 
-</div> <!--container-->
+    </div>
+    <!--container-->
 
-<!--#include virtual="/footer.html" -->    
+    <!--#include virtual="/footer.html" -->
 
 
-</main>
+  </main>
 
 
 </body>
+
 </html>
