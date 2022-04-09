@@ -138,8 +138,8 @@
                                 <td class="race-buttons">
                                   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/Week12-RTTR-Entries.pdf" target="_blank"
-                                      role="button">RTTR&nbsp;Entries</a>
-                                    <&nbsp; <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week12-RTTR-Results.pdf"
+                                      role="button">RTTR&nbsp;Entries</a>&nbsp;
+                                      <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week12-RTTR-Results.pdf"
                                       target="_blank" role="button">RTTR&nbsp;Results</a>
                                   </p>
                                 </td>
