@@ -1,0 +1,36 @@
+<div class="round-border"><h5>Nominations</h5>
+<center>
+    <select class="form-select" aria-label="" onchange="javascript:handleSelectNominations(this)" style="max-width: 240px;">
+        <option selected>Select US Track</option>
+        <option value="type=Track&trk=AQU&cy=USA">Aqueduct (AQU)</option>
+        <option value="type=Track&trk=BEL&cy=USA">Belmont (BEL)</option>
+        <option value="type=Track&trk=CD&cy=USA">Churchill Downs (CD)</option>
+        <option value="type=Track&trk=CT&cy=USA">Charles Town (CT)</option>
+        <option value="type=Track&trk=DEL&cy=USA">Delaware (DEL)</option>
+        <option value="type=Track&trk=DMR&cy=USA">Del Mar (DMR)</option>
+        <option value="type=Track&trk=FG&cy=USA">Fair Grounds (FG)</option>
+        <option value="type=Track&trk=GP&cy=USA">Gulfstream (GP)</option>
+        <option value="type=Track&trk=IND&cy=USA">Horseshoe Indianapolis (IND)</option>
+        <option value="type=Track&trk=KEE&cy=USA">Keeneland (KEE)</option>
+        <option value="type=Track&trk=LRC&cy=USA">Los Alamitos (LRC)</option>
+        <option value="type=Track&trk=MTH&cy=USA">Monmouth (MTH)</option>
+        <option value="type=Track&trk=MNR&cy=USA">Mountaineer (MNR)</option>
+        <option value="type=Track&trk=OP&cy=USA">Oaklawn Park (OP)</option>
+        <option value="type=Track&trk=PRX&cy=USA">Parx (PRX)</option>
+        <option value="type=Track&trk=PIM&cy=USA">Pimlico (PIM)</option>
+        <option value="type=Track&trk=PRM&cy=USA">Prairie Meadows (PRM)</option>
+        <option value="type=Track&trk=RP&cy=USA">Remington Park (RP)</option>
+        <option value="type=Track&trk=SA&cy=USA">Santa Anita (SA)</option>
+        <option value="type=Track&trk=SAR&cy=USA">Saratoga (SAR)</option>
+        <option value="type=Track&trk=TAM&cy=USA">Tampa Bay Downs (TAM)</option>
+        <option value="type=Track&trk=TDN&cy=USA">Thistledown (TDN)</option>
+    </select>
+  </center>
+<script>
+    function handleSelectNominations(elm)
+    {
+       //window.location = elm.value;
+       window.open('https://www.equibase.com/profiles/Results.cfm?' + elm.value, '_blank');
+    }
+</script>
+</div>

@@ -1,204 +1,297 @@
 <!doctype html>
 <html lang="en">
-  <head>
-      <!--#include virtual="/banner-head.html" -->
 
-    <title>Road to the Breeders' Cup 2022 | Gallop Racing</title>
+<head>
+  <!--#include virtual="/banner-head.html" -->
+
+  <title>Road to the Breeders' Cup 2022 | Gallop Racing</title>
 
 </head>
 
 <body class="bodyTag">
   <header>
-    <!--#include virtual="/banner.html" -->    
-    </header>
-        
-    <!--End Banner-->
-    
-    <!--Begin Main Content Section-->
-    <main class="container container-round-border">
+    <!--#include virtual="/banner.html" -->
+  </header>
 
-      <nav aria-label="breadcrumb">
-        <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
-          <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
-          <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">RTTBC 2022</span></li>
-        </ol>
-      </nav>
+  <!--End Banner-->
 
-  <div class="text-align-center"><h3>Road to the Breeders' Cup 2022</h3></div>
+  <!--Begin Main Content Section-->
+  <main class="container container-round-border">
 
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
+        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">RTTBC 2022</span></li>
+      </ol>
+    </nav>
 
-<div class="container marketing">
-
-<div class="row">
-  <div class="col-lg-4"> <!--begin left column-->
-    
-      <div class="round-border"><h5>Upcoming Races</h5>
-
-<!--Placeholder Message-->
-<p>The RTTBC2022 Contest will start on Belmont Stakes Weekend, June 2022.</p>
+    <div class="text-align-center">
+      <h3>Road to the Breeders' Cup 2022</h3>
+    </div>
 
 
-<!-- Replace these 2 links with a direct link to 2 pages, one with the Previews for each week, and the other with the Results for each week. All of the PDFs will be stored there.-->
+    <div class="container marketing">
 
-        <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/race-previews/rttbc21/Week23-Race-Previews.pdf" target="_blank" role="button" onclick="captureOutboundLink('/pdf/race-previews/rttbc21/Week23-Race-Previews.pdf');">Race Previews &raquo;</a></p>
+      <div class="row">
+        <div class="col-lg-4">
+          <!--begin left column-->
+
+          <div class="round-border">
+            <h5>Upcoming Races</h5>
+
+            <!--Placeholder Message-->
+            <p>The RTTBC2022 Contest will start on Belmont Stakes Weekend, June 2022.</p>
+
+
+            <!-- Replace these 2 links with a direct link to 2 pages, one with the Previews for each week, and the other with the Results for each week. All of the PDFs will be stored there.-->
+
+            <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/race-previews/rttbc21/Week23-Race-Previews.pdf" target="_blank" role="button" onclick="captureOutboundLink('/pdf/race-previews/rttbc21/Week23-Race-Previews.pdf');">Race Previews &raquo;</a></p>
         <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/race-results/rttbc21/Week23-Race-Results.pdf" target="_blank" role="button" onclick="captureOutboundLink('/pdf/race-previews/rttbc21/Week23-Race-Previews.pdf');">Race Results &raquo;</a></p>
         <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC21-AllStables.pdf" target="_blank" role="button" onclick="captureOutboundLink('/pdf/RTTBC21-AllStables.pdf');">View All Stables &raquo;</a></p-->
-      </div>
-  
-      <!--div class="round-border"><h5>Calendar</h5>
+          </div>
+
+          <!--div class="round-border"><h5>Calendar</h5>
       <iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0" height="344" width="100%" scrolling="no"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a></div-->
 
-    <div class="round-border"><h5>Resources</h5>
-      <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.breederscup.com/contenders" target="_blank" role="button" onclick="captureOutboundLink('https://www.breederscup.com/contenders');">BC Contenders &raquo;</a></p>
-      <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://members.breederscup.com/documents/points/Points.pdf" target="_blank" role="button" onclick="captureOutboundLink('https://members.breederscup.com/documents/points/Points.pdf');">BCCS Points Leaders (PDF) &raquo;</a></p-->
-      <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://members.breederscup.com/Points/PointsLeaderboard" target="_blank" role="button" onclick="captureOutboundLink('https://members.breederscup.com/Points/PointsLeaderboard');">BCCS Divisional Leaders &raquo;</a></p>
-      <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www1.drf.com/drfLeaderBoard.do?category=beyer" target="_blank" role="button" onclick="captureOutboundLink('https://www1.drf.com/drfLeaderBoard.do?category=beyer');">DRF Beyer Leaders &raquo;</a></p>
-      <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.horseracingnation.com/p/stakes-schedule" target="_blank" role="button" onclick="captureOutboundLink('https://www.horseracingnation.com/p/stakes-schedule');">HRN Stakes Tracker &raquo;</a></p>
-      <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://youtu.be/k-895WUX6zk" target="_blank" role="button" onclick="captureOutboundLink('https://youtu.be/k-895WUX6zk');">League Demo on YouTube &raquo;</a></p>
-      <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.bloodhorse.com/horse-racing/thoroughbred-breeding/sire-lists" target="_blank" role="button" onclick="captureOutboundLink('https://www.bloodhorse.com/horse-racing/thoroughbred-breeding/sire-lists');">Sire Lists &raquo;</a></p>
-      </div>
+          <div class="round-border">
+            <h5>Resources</h5>
+            <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.breederscup.com/contenders"
+                target="_blank" role="button"
+                onclick="captureOutboundLink('https://www.breederscup.com/contenders');">BC Contenders &raquo;</a></p>
+            <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://members.breederscup.com/documents/points/Points.pdf" target="_blank" role="button" onclick="captureOutboundLink('https://members.breederscup.com/documents/points/Points.pdf');">BCCS Points Leaders (PDF) &raquo;</a></p-->
+            <p class="module-button-wrapper"><a class="btn btn-secondary"
+                href="https://members.breederscup.com/Points/PointsLeaderboard" target="_blank" role="button"
+                onclick="captureOutboundLink('https://members.breederscup.com/Points/PointsLeaderboard');">BCCS
+                Divisional Leaders &raquo;</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary"
+                href="https://www1.drf.com/drfLeaderBoard.do?category=beyer" target="_blank" role="button"
+                onclick="captureOutboundLink('https://www1.drf.com/drfLeaderBoard.do?category=beyer');">DRF Beyer
+                Leaders &raquo;</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary"
+                href="https://www.horseracingnation.com/p/stakes-schedule" target="_blank" role="button"
+                onclick="captureOutboundLink('https://www.horseracingnation.com/p/stakes-schedule');">HRN Stakes Tracker
+                &raquo;</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://youtu.be/k-895WUX6zk"
+                target="_blank" role="button" onclick="captureOutboundLink('https://youtu.be/k-895WUX6zk');">League Demo
+                on YouTube &raquo;</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary"
+                href="https://www.bloodhorse.com/horse-racing/thoroughbred-breeding/sire-lists" target="_blank"
+                role="button"
+                onclick="captureOutboundLink('https://www.bloodhorse.com/horse-racing/thoroughbred-breeding/sire-lists');">Sire
+                Lists &raquo;</a></p>
+          </div>
 
-      <div class="round-border"><h5>More Resources</h5>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://live.drf.com/" target="_blank" role="button" onclick="captureOutboundLink('https://live.drf.com/');">DRF Live &raquo;</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.equibase.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/');">Equibase &raquo;</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/i/lists/1458447606745640963" target="_blank" role="button" onclick="captureOutboundLink('https://twitter.com/i/lists/1458447606745640963');">Gallop List on Twitter &raquo;</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttbc2022?f=live" target="_blank" role="button" onclick="captureOutboundLink('https://twitter.com/hashtag/rttbc2022?f=live');">#rttbc2022 on Twitter &raquo;</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.equibase.com/yearbook/FutureRaces.cfm" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/yearbook/FutureRaces.cfm');">Equibase Future Races &raquo;</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.breederscup.com/races/how-it-works" target="_blank" role="button" onclick="captureOutboundLink('https://www.breederscup.com/races/how-it-works');">Breeders' Cup Info &raquo;</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://paulickreport.com/" target="_blank" role="button" onclick="captureOutboundLink('https://paulickreport.com/');">Paulick Report &raquo;</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.pedigreequery.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.pedigreequery.com/');">Pedigree Query &raquo;</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://news.tvg.com/" target="_blank" role="button" onclick="captureOutboundLink('https://news.tvg.com/');">TVG News &raquo;</a></p>
+          <div class="round-border">
+            <h5>More Resources</h5>
+            <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://live.drf.com/" target="_blank"
+                role="button" onclick="captureOutboundLink('https://live.drf.com/');">DRF Live &raquo;</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.equibase.com/"
+                target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/');">Equibase
+                &raquo;</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary"
+                href="https://twitter.com/i/lists/1458447606745640963" target="_blank" role="button"
+                onclick="captureOutboundLink('https://twitter.com/i/lists/1458447606745640963');">Gallop List on Twitter
+                &raquo;</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary"
+                href="https://twitter.com/hashtag/rttbc2022?f=live" target="_blank" role="button"
+                onclick="captureOutboundLink('https://twitter.com/hashtag/rttbc2022?f=live');">#rttbc2022 on Twitter
+                &raquo;</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary"
+                href="https://www.equibase.com/yearbook/FutureRaces.cfm" target="_blank" role="button"
+                onclick="captureOutboundLink('https://www.equibase.com/yearbook/FutureRaces.cfm');">Equibase Future
+                Races &raquo;</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary"
+                href="https://www.breederscup.com/races/how-it-works" target="_blank" role="button"
+                onclick="captureOutboundLink('https://www.breederscup.com/races/how-it-works');">Breeders' Cup Info
+                &raquo;</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://paulickreport.com/"
+                target="_blank" role="button" onclick="captureOutboundLink('https://paulickreport.com/');">Paulick
+                Report &raquo;</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.pedigreequery.com/"
+                target="_blank" role="button" onclick="captureOutboundLink('https://www.pedigreequery.com/');">Pedigree
+                Query &raquo;</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://news.tvg.com/" target="_blank"
+                role="button" onclick="captureOutboundLink('https://news.tvg.com/');">TVG News &raquo;</a></p>
+          </div>
+
         </div>
-    
-</div> <!--end left column-->
+        <!--end left column-->
 
-<div class="col-lg-4"> <!--begin middle column-->
-    <a id="Twitter"></a>
-    <div class="round-border"><h5>News</h5>
-      <a class="twitter-timeline" height="1022" href="https://twitter.com/gallopracingllc?ref_src=twsrc%5Etfw" style="width: 100%;">Tweets by gallopracingllc</a> <script async src="https://platform.twitter.com/widgets.js"></script></div>
+        <div class="col-lg-4">
+          <!--begin middle column-->
+          <a id="Twitter"></a>
+          <div class="round-border">
+            <h5>News</h5>
+            <a class="twitter-timeline" height="1022" href="https://twitter.com/gallopracingllc?ref_src=twsrc%5Etfw"
+              style="width: 100%;">Tweets by gallopracingllc</a>
+            <script async src="https://platform.twitter.com/widgets.js"></script>
+          </div>
 
-</div> <!--end middle column-->
+        </div>
+        <!--end middle column-->
 
-<div class="col-lg-4"> <!--begin right column-->
-  <div class="round-border"><h5>Contest Info</h5>
+        <div class="col-lg-4">
+          <!--begin right column-->
+          <div class="round-border">
+            <h5>Contest Info</h5>
 
-<!--Placeholder Message-->
-<p>Links to the RTTBC2022 Leaderboard, Calendar, Horses, and Rules will be available here when the contest begins.</p>
+            <!--Placeholder Message-->
+            <p>Links to the RTTBC2022 Leaderboard, Calendar, Horses, and Rules will be available here when the contest
+              begins.</p>
 
-    
-    <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/1rF5XDSimVU-WiNxoOcyi2WVC8nyuDVUYhdwDTyk5jbc/pubhtml?gid=0&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/1rF5XDSimVU-WiNxoOcyi2WVC8nyuDVUYhdwDTyk5jbc/pubhtml?gid=0&single=true');">Leaderboard &raquo;</a></p>
+
+            <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/1rF5XDSimVU-WiNxoOcyi2WVC8nyuDVUYhdwDTyk5jbc/pubhtml?gid=0&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/1rF5XDSimVU-WiNxoOcyi2WVC8nyuDVUYhdwDTyk5jbc/pubhtml?gid=0&single=true');">Leaderboard &raquo;</a></p>
     
     <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=agenda" target="_blank" role="button" onclick="captureOutboundLink('https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=agenda');">Calendar</a>&nbsp;
     <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/1rF5XDSimVU-WiNxoOcyi2WVC8nyuDVUYhdwDTyk5jbc/pubhtml?gid=249132506&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/1rF5XDSimVU-WiNxoOcyi2WVC8nyuDVUYhdwDTyk5jbc/pubhtml?gid=249132506&single=true');">Horses</a></p>
 
     <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/1rF5XDSimVU-WiNxoOcyi2WVC8nyuDVUYhdwDTyk5jbc/pubhtml?gid=2036485040&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/1rF5XDSimVU-WiNxoOcyi2WVC8nyuDVUYhdwDTyk5jbc/pubhtml?gid=2036485040&single=true');">Schedule</a>&nbsp;
     <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/1rF5XDSimVU-WiNxoOcyi2WVC8nyuDVUYhdwDTyk5jbc/pubhtml?gid=2095985959&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-1rF5XDSimVU-WiNxoOcyi2WVC8nyuDVUYhdwDTyk5jbc/pubhtml?gid=2095985959&single=true');">Rules</a></p-->
-    </div>
-  
-    <div class="round-border"><h5>Nominations</h5>
-      <p class="module-button-wrapper"><a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=AQU&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=AQU&cy=USA');">AQU</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=BEL&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=BEL&cy=USA');">BEL</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=CD&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=CD&cy=USA');">CD</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=CT&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=CT&cy=USA');">CT</a></p>
+          </div>
 
-      <p class="module-button-wrapper"><a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=DEL&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=DEL&cy=USA');">DEL</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=DMR&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=DMR&cy=USA');">DMR</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=EMD&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=EMD&cy=USA');">EMD</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=FG&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=FG&cy=USA');">FG</a></p>
-      
-      <p class="module-button-wrapper"><a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=GP&cy=USA');">GP</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=IND&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=IND&cy=USA');">IND</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=IND&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=KEE&cy=USA');">KEE</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=LRC&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=LRC&cy=USA');">LRC</a></p>
+          <!--#include virtual="/contests/rttbc-scoring-table.html" -->
 
-      <p class="module-button-wrapper"><a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=LRL&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=LRL&cy=USA');">LRL</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=MNR&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=MNR&cy=USA');">MNR</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=MTH&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=MTH&cy=USA');">MTH</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=OP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=OP&cy=USA');">OP</a></p>
+          <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
 
-      <p class="module-button-wrapper"><a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=PIM&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=PIM&cy=USA');">PIM</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=PRX&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=PRM&cy=USA');">PRM</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=PRM&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=PRX&cy=USA');">PRX</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=RP&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=RP&cy=USA');">RP</a></p>
+          <div class="round-border">
+            <h5>Stakes Calendar</h5>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn-nominations"
+                href="https://www.nyra.com/aqueduct/racing/stakes-schedule/" target="_blank" role="button"
+                onclick="captureOutboundLink('https://www.nyra.com/aqueduct/racing/stakes-schedule/');">AQU</a>&nbsp;
+              <a class="btn btn-secondary btn-nominations" href="https://www.nyra.com/belmont/racing/stakes-schedule/"
+                target="_blank" role="button"
+                onclick="captureOutboundLink('https://www.nyra.com/belmont/racing/stakes-schedule/');">BEL</a>&nbsp;
+              <a class="btn btn-secondary btn-nominations"
+                href="https://www.churchilldowns.com/horsemen/stakes/schedule/" target="_blank" role="button"
+                onclick="captureOutboundLink('https://www.churchilldowns.com/horsemen/stakes/schedule/');">CD</a>&nbsp;
+              <a class="btn btn-secondary btn-nominations"
+                href="https://www.hollywoodcasinocharlestown.com/racing/horsemans-info" target="_blank" role="button"
+                onclick="captureOutboundLink('https://www.hollywoodcasinocharlestown.com/racing/horsemans-info');">CT</a>
+            </p>
 
-      <p class="module-button-wrapper"><a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SA&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SA&cy=USA');">SA</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SAR&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=SAR&cy=USA');">SAR</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TAM&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TAM&cy=USA');">TAM</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TDN&cy=USA" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/profiles/Results.cfm?type=Track&trk=TDN&cy=USA');">TDN</a></p>
-      </div>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn-nominations"
+                href="https://delawarepark.com/racing/horsemen/" target="_blank" role="button"
+                onclick="captureOutboundLink('https://delawarepark.com/racing/horsemen/');">DEL</a>&nbsp;
+              <a class="btn btn-secondary btn-nominations" href="https://www.dmtc.com/racing/stakes" target="_blank"
+                role="button" onclick="captureOutboundLink('https://www.dmtc.com/racing/stakes');">DMR</a>&nbsp;
+              <a class="btn btn-secondary btn-nominations" href="https://emeralddowns.com/stakes-nominations/"
+                target="_blank" role="button"
+                onclick="captureOutboundLink('https://emeralddowns.com/stakes-nominations/');">EMD</a>&nbsp;
+              <a class="btn btn-secondary btn-nominations"
+                href="https://www.fairgroundsracecourse.com/racing-information/horsemen-information/" target="_blank"
+                role="button"
+                onclick="captureOutboundLink('https://www.fairgroundsracecourse.com/racing-information/horsemen-information/');">FG</a>
+            </p>
 
-      <div class="round-border"><h5>Stakes Calendar</h5>
-        <p class="module-button-wrapper"><a class="btn btn-secondary btn-nominations" href="https://www.nyra.com/aqueduct/racing/stakes-schedule/" target="_blank" role="button" onclick="captureOutboundLink('https://www.nyra.com/aqueduct/racing/stakes-schedule/');">AQU</a>&nbsp;
-        <a class="btn btn-secondary btn-nominations" href="https://www.nyra.com/belmont/racing/stakes-schedule/" target="_blank" role="button" onclick="captureOutboundLink('https://www.nyra.com/belmont/racing/stakes-schedule/');">BEL</a>&nbsp;
-        <a class="btn btn-secondary btn-nominations" href="https://www.churchilldowns.com/horsemen/stakes/schedule/" target="_blank" role="button" onclick="captureOutboundLink('https://www.churchilldowns.com/horsemen/stakes/schedule/');">CD</a>&nbsp;
-        <a class="btn btn-secondary btn-nominations" href="https://www.hollywoodcasinocharlestown.com/racing/horsemans-info" target="_blank" role="button" onclick="captureOutboundLink('https://www.hollywoodcasinocharlestown.com/racing/horsemans-info');">CT</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn-nominations"
+                href="https://www.gulfstreampark.com/racing/horsemen/stakes" target="_blank" role="button"
+                onclick="captureOutboundLink('https://www.gulfstreampark.com/racing/horsemen/stakes');">GP</a>&nbsp;
+              <a class="btn btn-secondary btn-nominations"
+                href="https://www.caesars.com/horseshoe-indianapolis/racing/racing-info/racing-stats" target="_blank"
+                role="button"
+                onclick="captureOutboundLink('https://www.caesars.com/horseshoe-indianapolis/racing/racing-info/racing-stats');">IND</a>&nbsp;
+              <a class="btn btn-secondary btn-nominations"
+                href="https://www.keeneland.com/racing/horsemen/2022-spring-meet-stakes-schedule-old" target="_blank"
+                role="button"
+                onclick="captureOutboundLink('https://www.keeneland.com/racing/horsemen/2022-spring-meet-stakes-schedule-old');">KEE</a>&nbsp;
+              <a class="btn btn-secondary btn-nominations" href="https://losalamitos.com/TB/DefaultTB.aspx"
+                target="_blank" role="button"
+                onclick="captureOutboundLink('https://losalamitos.com/TB/DefaultTB.aspx');">LRC</a>
+            </p>
 
-        <p class="module-button-wrapper"><a class="btn btn-secondary btn-nominations" href="https://delawarepark.com/racing/horsemen/" target="_blank" role="button" onclick="captureOutboundLink('https://delawarepark.com/racing/horsemen/');">DEL</a>&nbsp;
-        <a class="btn btn-secondary btn-nominations" href="https://www.dmtc.com/racing/stakes" target="_blank" role="button" onclick="captureOutboundLink('https://www.dmtc.com/racing/stakes');">DMR</a>&nbsp;
-        <a class="btn btn-secondary btn-nominations" href="https://emeralddowns.com/stakes-nominations/" target="_blank" role="button" onclick="captureOutboundLink('https://emeralddowns.com/stakes-nominations/');">EMD</a>&nbsp;
-        <a class="btn btn-secondary btn-nominations" href="https://www.fairgroundsracecourse.com/racing-information/horsemen-information/" target="_blank" role="button" onclick="captureOutboundLink('https://www.fairgroundsracecourse.com/racing-information/horsemen-information/');">FG</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn-nominations"
+                href="https://www.laurelpark.com/horsemen/stakes-schedule" target="_blank" role="button"
+                onclick="captureOutboundLink('https://www.laurelpark.com/horsemen/stakes-schedule');">LRL</a>&nbsp;
+              <a class="btn btn-secondary btn-nominations" href="https://www.cnty.com/mountaineer/racing/"
+                target="_blank" role="button"
+                onclick="captureOutboundLink('https://www.cnty.com/mountaineer/racing/');">MNR</a>&nbsp;
+              <a class="btn btn-secondary btn-nominations" href="https://www.monmouthpark.com/stakes-schedule/"
+                target="_blank" role="button"
+                onclick="captureOutboundLink('https://www.monmouthpark.com/stakes-schedule/');">MTH</a>&nbsp;
+              <a class="btn btn-secondary btn-nominations" href="https://oaklawn.com/racing/calendar/" target="_blank"
+                role="button" onclick="captureOutboundLink('https://oaklawn.com/racing/calendar/');">OP</a>
+            </p>
 
-        <p class="module-button-wrapper"><a class="btn btn-secondary btn-nominations" href="https://www.gulfstreampark.com/racing/horsemen/stakes" target="_blank" role="button" onclick="captureOutboundLink('https://www.gulfstreampark.com/racing/horsemen/stakes');">GP</a>&nbsp;
-        <a class="btn btn-secondary btn-nominations" href="https://www.caesars.com/horseshoe-indianapolis/racing/racing-info/racing-stats" target="_blank" role="button" onclick="captureOutboundLink('https://www.caesars.com/horseshoe-indianapolis/racing/racing-info/racing-stats');">IND</a>&nbsp;
-        <a class="btn btn-secondary btn-nominations" href="https://www.keeneland.com/racing/horsemen/2022-spring-meet-stakes-schedule-old" target="_blank" role="button" onclick="captureOutboundLink('https://www.keeneland.com/racing/horsemen/2022-spring-meet-stakes-schedule-old');">KEE</a>&nbsp;
-        <a class="btn btn-secondary btn-nominations" href="https://losalamitos.com/TB/DefaultTB.aspx" target="_blank" role="button" onclick="captureOutboundLink('https://losalamitos.com/TB/DefaultTB.aspx');">LRC</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn-nominations"
+                href="https://www.pimlico.com/horsemen/stakes-schedule" target="_blank" role="button"
+                onclick="captureOutboundLink('https://www.pimlico.com/horsemen/stakes-schedule');">PIM</a>&nbsp;
+              <a class="btn btn-secondary btn-nominations"
+                href="https://www.prairiemeadows.com/racing/horsemens-info/thoroughbred-racing" target="_blank"
+                role="button"
+                onclick="captureOutboundLink('https://www.prairiemeadows.com/racing/horsemens-info/thoroughbred-racing');">PRM</a>&nbsp;
+              <a class="btn btn-secondary btn-nominations" href="https://www.parxracing.com/stakes_schedule.php"
+                target="_blank" role="button"
+                onclick="captureOutboundLink('https://www.parxracing.com/stakes_schedule.php');">PRX</a>&nbsp;
+              <a class="btn btn-secondary btn-nominations" href="https://www.remingtonpark.com/thoroughbred-stakes-2/"
+                target="_blank" role="button"
+                onclick="captureOutboundLink('https://www.remingtonpark.com/thoroughbred-stakes-2/');">RP</a>
+            </p>
 
-        <p class="module-button-wrapper"><a class="btn btn-secondary btn-nominations" href="https://www.laurelpark.com/horsemen/stakes-schedule" target="_blank" role="button" onclick="captureOutboundLink('https://www.laurelpark.com/horsemen/stakes-schedule');">LRL</a>&nbsp;
-        <a class="btn btn-secondary btn-nominations" href="https://www.cnty.com/mountaineer/racing/" target="_blank" role="button" onclick="captureOutboundLink('https://www.cnty.com/mountaineer/racing/');">MNR</a>&nbsp;
-        <a class="btn btn-secondary btn-nominations" href="https://www.monmouthpark.com/stakes-schedule/" target="_blank" role="button" onclick="captureOutboundLink('https://www.monmouthpark.com/stakes-schedule/');">MTH</a>&nbsp;
-        <a class="btn btn-secondary btn-nominations" href="https://oaklawn.com/racing/calendar/" target="_blank" role="button" onclick="captureOutboundLink('https://oaklawn.com/racing/calendar/');">OP</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn-nominations"
+                href="https://www.santaanita.com/stakes-schedule/" target="_blank" role="button"
+                onclick="captureOutboundLink('https://www.santaanita.com/stakes-schedule/');">SA</a>&nbsp;
+              <a class="btn btn-secondary btn-nominations" href="https://www.nyra.com/saratoga/racing/stakes-schedule/"
+                target="_blank" role="button"
+                onclick="captureOutboundLink('https://www.nyra.com/saratoga/racing/stakes-schedule/');">SAR</a>&nbsp;
+              <a class="btn btn-secondary btn-nominations" href="http://www.tampabaydowns.com/racing/horsemen/"
+                target="_blank" role="button"
+                onclick="captureOutboundLink('http://www.tampabaydowns.com/racing/horsemen/');">TAM</a>&nbsp;
+              <a class="btn btn-secondary btn-nominations" href="https://www.jackentertainment.com/thistledown/racing/"
+                target="_blank" role="button"
+                onclick="captureOutboundLink('https://www.jackentertainment.com/thistledown/racing/');">TDN</a>
+            </p>
 
-        <p class="module-button-wrapper"><a class="btn btn-secondary btn-nominations" href="https://www.pimlico.com/horsemen/stakes-schedule" target="_blank" role="button" onclick="captureOutboundLink('https://www.pimlico.com/horsemen/stakes-schedule');">PIM</a>&nbsp;
-        <a class="btn btn-secondary btn-nominations" href="https://www.prairiemeadows.com/racing/horsemens-info/thoroughbred-racing" target="_blank" role="button" onclick="captureOutboundLink('https://www.prairiemeadows.com/racing/horsemens-info/thoroughbred-racing');">PRM</a>&nbsp;
-        <a class="btn btn-secondary btn-nominations" href="https://www.parxracing.com/stakes_schedule.php" target="_blank" role="button" onclick="captureOutboundLink('https://www.parxracing.com/stakes_schedule.php');">PRX</a>&nbsp;
-        <a class="btn btn-secondary btn-nominations" href="https://www.remingtonpark.com/thoroughbred-stakes-2/" target="_blank" role="button" onclick="captureOutboundLink('https://www.remingtonpark.com/thoroughbred-stakes-2/');">RP</a></p>
+          </div>
 
-        <p class="module-button-wrapper"><a class="btn btn-secondary btn-nominations" href="https://www.santaanita.com/stakes-schedule/" target="_blank" role="button" onclick="captureOutboundLink('https://www.santaanita.com/stakes-schedule/');">SA</a>&nbsp;
-        <a class="btn btn-secondary btn-nominations" href="https://www.nyra.com/saratoga/racing/stakes-schedule/" target="_blank" role="button" onclick="captureOutboundLink('https://www.nyra.com/saratoga/racing/stakes-schedule/');">SAR</a>&nbsp;
-        <a class="btn btn-secondary btn-nominations" href="http://www.tampabaydowns.com/racing/horsemen/" target="_blank" role="button" onclick="captureOutboundLink('http://www.tampabaydowns.com/racing/horsemen/');">TAM</a>&nbsp;
-        <a class="btn btn-secondary btn-nominations" href="https://www.jackentertainment.com/thistledown/racing/" target="_blank" role="button" onclick="captureOutboundLink('https://www.jackentertainment.com/thistledown/racing/');">TDN</a></p>
+          <div class="round-border">
+            <h5>Television</h5>
 
-    </div>
+            <!--Placeholder Message-->
+            <p>Info regarding any network coverage of the RTTBC races will be shown here.</p>
 
-    <div class="round-border"><h5>Television</h5>
-
-      <!--Placeholder Message-->
-      <p>Info regarding any network coverage of the RTTBC races will be shown here.</p>
-      
-      <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs" target="_blank" role="button" onclick="captureOutboundLink('https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs');">BC Challenge Series &raquo;</a></p>
+            <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs" target="_blank" role="button" onclick="captureOutboundLink('https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs');">BC Challenge Series &raquo;</a></p>
         <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.nyra.com/saratoga/racing/tv-schedule" target="_blank" role="button" onclick="captureOutboundLink('https://www.nyra.com/saratoga/racing/tv-schedule');">Saratoga &raquo;</a></p>
         <p style="text-align: left;">All <b>Del Mar</b> Racing is shown on TVG:<br/><i>Verizon Fios Channel 815<br/>DirectTV Channel 602</i><br/><a href="https://www.tvg.com/promos/watch/channel-finder/" target="_blank" onclick="captureOutboundLink('https://www.tvg.com/promos/watch/channel-finder/');">TVG Channel Finder</a><br/>Most other tracks are also on TVG, when not on NBC, NBCSN, FS1 or FS2.<br/>TVG is also shown on MSG or MSG+ from 12-7PM EST Wed. thru Sun.</p-->
+          </div>
+
+        </div>
+        <!--end right column-->
+
+        <a id="schedule"></a>
+      </div>
+      <!--row #1-->
+
+      <br />
+      <div class="row">
+        <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false"
+          target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
+            style="max-width: 250px; border: 0;" /></a>
+
+        <!--#include virtual="/iframe-spinner.html" -->
+
+        <div class="iframe-container">
+          <iframe class="responsive-iframe"
+            src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false"
+            onload="document.getElementById('spinner').style.display='none';"></iframe>
+
+        </div>
+      </div>
+      <!--row #2-->
+      <br />
+      <!-- FOOTER -->
+
+      <!--#include virtual="/footer-page.html" -->
+
     </div>
+    <!--container-->
 
-</div> <!--end right column-->
+    <!--#include virtual="/footer.html" -->
 
-<a id="schedule"></a>
-      </div> <!--row #1-->
 
-<br/>
-<div class="row">      
-  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive" style="max-width: 250px; border: 0;" /></a>
-  
-  <!--#include virtual="/iframe-spinner.html" -->   
+  </main>
 
-  <div class="iframe-container">
-    <iframe class="responsive-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" onload="document.getElementById('spinner').style.display='none';"></iframe>
 
-  </div>
-</div> <!--row #2-->
-<br/>
-<!-- FOOTER -->
-
-<!--#include virtual="/footer-page.html" -->    
-
-</div> <!--container-->
-
-<!--#include virtual="/footer.html" -->    
-
-  
-</main>
-
-      
 </body>
+
 </html>
