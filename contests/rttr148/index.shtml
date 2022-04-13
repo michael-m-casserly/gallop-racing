@@ -56,7 +56,7 @@
                   <th class="text-align-center">Week #13, Apr. 16, 2022</th>
                 </tr>
                 <tr>
-            <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week13-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a>!<!--&nbsp;
+            <td class="race-buttons"><p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttr148/Week13-RTTR-Entries.pdf" target="_blank" role="button">RTTR&nbsp;Entries</a><!--&nbsp;
               <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week13-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a--></p></td>
         </tr>
                 <tr>
@@ -64,7 +64,7 @@
                     Lexington Stakes (Tier 3)<br />
                     <span class="track-name-state">Keeneland (KEE) | Kentucky</span>
                     <br>
-          Race #9, Post Time 5:16PM EST>
+          Race #9, Post Time 5:16PM EST
                     <p><a class="btn btn-secondary" href="https://www.equibase.com/static/entry/KEE041622USA9-EQB.html" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/static/entry/KEE041622USA9-EQB.html');">Equibase Entries</a></p>
                     <!--p class="text-link"><a href="/contests/rttr148/Week13-Lexington-Stakes-Results.pdf" target="_blank">Equibase Results</a></p-->
                   </td>
