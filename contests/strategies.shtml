@@ -29,7 +29,7 @@
       <div class="container marketing">
 
         <br/>
-        <h5>Variable Drafting</h5>
+        <center><h4>Variable Drafting (RTTR Only)</h4></center>
 
         <p>The final 2 Supplemental Drafts in the RTTR contest will be "variable". Meaning stables can select anywhere between 0 and 5 horses to add to their stable, over 2 separate selection periods.</p>
 
@@ -51,8 +51,27 @@
 
         <!--#include virtual="/contests/rttr-scoring-table.html" -->
         
-        <p><center><img src="/images/sample-supp-draft-schedule.png" alt="Sample Supplemental Draft Schedule" title="Sample Supplemental Draft Schedule" /></center></p>
+        <p><center><h5>RTTR Variable Supplemental Draft Sample Schedule</h5><img src="/images/sample-supp-draft-schedule.png" alt="Sample Supplemental Draft Schedule" title="Sample Supplemental Draft Schedule" /></center></p>
         
+        <center><h4>Road to the Breeder's Cup Contest (RTTBC)</h4></center>
+
+        <p>The RTTBC contest is a lot longer and encompasses more divisions than the RTTR contest (which is restricted to 3-year-old horses on the dirt). The RTTBC contest covers all 7 dirt divisions leading into the Breeders' Cup. The 7 divisions include:
+          <ul>
+            <li>Classic (<i>3YO and Up, longer distance</i>)</li>
+            <li>Distaff (<i>3YO and Up, FEMALE, longer distance</i>)</li>
+            <li>Dirt Mile (<i>3YO and Up, middle distance</i>)</li>
+            <li>Sprint (<i>3YO and Up, short distance</i>)</li>
+            <li>Filly & Mare Sprint (<i>3YO and Up, FEMALE, short distance</i>)</li>
+            <li>Juveline (<i>2 Year-Olds</i>)</li>
+            <li>Juveline Fillies (<i>2 Year-Olds, FEMALE</i>)</li>
+          </ul>
+        </p>
+
+        <p>Since the RTTBC Contest covers over 100 graded stakes races, it would be impossible to draft a runner for every race.</p>
+
+        <p>The most common approach is to draft runners for the Grade 1 races. The logic being, these are the horses most likely to move onto the Breeders' Cup. In addition, if they happen to lose a Grade 1 race, then they are very likely to come back and run in a lesser Grade 2 or Grade 3 race. Whereas if a horse were to lose a Grade 3 race, it would be unlikely to see them move onto the higher level Grade 2 and Grade 1 races.</p>
+
+
         <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/index.shtml" role="button">Contests</a></p>
 
 <!-- FOOTER -->
