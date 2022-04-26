@@ -53,8 +53,8 @@
     <iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 390px; width: 100%; overflow: hidden;"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div>
 
       <!--#include virtual="/contests/how-to-play-rttr.html" --> 
+      <!--#include virtual="/contests/how-to-play-rttbc.html" --> 
 
-      <!--#include virtual="/modules/stakes-nominations-rttr.html" -->
 
 
 </div> <!--end middle column-->
@@ -87,11 +87,12 @@
           <div class="round-border"><h5>Television</h5>
             <p style="text-align: center;">All <b>RTTR</b> Racing is shown on TVG:<br/><i>Verizon Fios Channel 815<br/>DirectTV Channel 602</i><br/><a href="https://www.tvg.com/promos/watch/channel-finder/" target="_blank" onclick="captureOutboundLink('https://www.tvg.com/promos/watch/channel-finder/');">TVG Channel Finder</a><br/>Sometimes racing can also be found on NBC, NBCSN, FS1, FS2, MSG or MSG+.</p>
             
-            
             <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs" target="_blank" role="button" onclick="captureOutboundLink('https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs');">BC Challenge Series &raquo;</a></p>
                     <p style="text-align: left;">All <b>Del Mar</b> Racing is shown on TVG:<br/><i>Verizon Fios Channel 815<br/>DirectTV Channel 602</i><br/><a href="https://www.tvg.com/promos/watch/channel-finder/" target="_blank" onclick="captureOutboundLink('https://www.tvg.com/promos/watch/channel-finder/');">TVG Channel Finder</a><br/>Most other tracks are also on TVG, when not on NBC, NBCSN, FS1 or FS2.<br/>TVG is also shown on MSG or MSG+ from 12-7PM EST Wed. thru Sun.</p-->
         </div>
       
+        <!--#include virtual="/modules/stakes-nominations-rttr.html" -->
+
 
 </div> <!--end right column-->
 

@@ -128,6 +128,17 @@
             <script async src="https://platform.twitter.com/widgets.js"></script>
           </div>
 
+          <div class="round-border">
+            <h5>Television</h5>
+
+            <!--Placeholder Message-->
+            <p>Info regarding any network coverage of the RTTBC races will be shown here.</p>
+
+            <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs" target="_blank" role="button" onclick="captureOutboundLink('https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs');">BC Challenge Series &raquo;</a></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.nyra.com/saratoga/racing/tv-schedule" target="_blank" role="button" onclick="captureOutboundLink('https://www.nyra.com/saratoga/racing/tv-schedule');">Saratoga &raquo;</a></p>
+        <p style="text-align: left;">All <b>Del Mar</b> Racing is shown on TVG:<br/><i>Verizon Fios Channel 815<br/>DirectTV Channel 602</i><br/><a href="https://www.tvg.com/promos/watch/channel-finder/" target="_blank" onclick="captureOutboundLink('https://www.tvg.com/promos/watch/channel-finder/');">TVG Channel Finder</a><br/>Most other tracks are also on TVG, when not on NBC, NBCSN, FS1 or FS2.<br/>TVG is also shown on MSG or MSG+ from 12-7PM EST Wed. thru Sun.</p-->
+          </div>
+
         </div>
         <!--end middle column-->
 
@@ -150,6 +161,8 @@
     <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/1rF5XDSimVU-WiNxoOcyi2WVC8nyuDVUYhdwDTyk5jbc/pubhtml?gid=2095985959&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-1rF5XDSimVU-WiNxoOcyi2WVC8nyuDVUYhdwDTyk5jbc/pubhtml?gid=2095985959&single=true');">Rules</a></p-->
           </div>
 
+          <!--#include virtual="/contests/how-to-play-rttbc.html" -->
+
           <!--#include virtual="/contests/rttbc-scoring-table.html" -->
 
           <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
@@ -166,16 +179,16 @@
               <a class="btn btn-secondary btn-nominations"
                 href="https://www.hollywoodcasinocharlestown.com/racing/horsemans-info" target="_blank" role="button"
                 onclick="captureOutboundLink('https://www.hollywoodcasinocharlestown.com/racing/horsemans-info');">CT</a>&nbsp;
-              <a class="btn btn-secondary btn-nominations"
-                href="https://delawarepark.com/racing/horsemen/" target="_blank" role="button"
+              <a class="btn btn-secondary btn-nominations" href="https://delawarepark.com/racing/horsemen/"
+                target="_blank" role="button"
                 onclick="captureOutboundLink('https://delawarepark.com/racing/horsemen/');">DEL</a>
             </p>
 
             <p class="module-button-wrapper">
               <a class="btn btn-secondary btn-nominations" href="https://www.dmtc.com/racing/stakes" target="_blank"
                 role="button" onclick="captureOutboundLink('https://www.dmtc.com/racing/stakes');">DMR</a>&nbsp;
-                <a class="btn btn-secondary btn-nominations"
-                href="https://www.gulfstreampark.com/racing/horsemen/stakes" target="_blank" role="button"
+              <a class="btn btn-secondary btn-nominations" href="https://www.gulfstreampark.com/racing/horsemen/stakes"
+                target="_blank" role="button"
                 onclick="captureOutboundLink('https://www.gulfstreampark.com/racing/horsemen/stakes');">GP</a>&nbsp;
               <a class="btn btn-secondary btn-nominations"
                 href="https://www.caesars.com/horseshoe-indianapolis/racing/racing-info/racing-stats" target="_blank"
@@ -191,7 +204,7 @@
               <a class="btn btn-secondary btn-nominations" href="https://losalamitos.com/TB/DefaultTB.aspx"
                 target="_blank" role="button"
                 onclick="captureOutboundLink('https://losalamitos.com/TB/DefaultTB.aspx');">LRC</a>&nbsp;
-                <a class="btn btn-secondary btn-nominations" href="https://www.cnty.com/mountaineer/racing/"
+              <a class="btn btn-secondary btn-nominations" href="https://www.cnty.com/mountaineer/racing/"
                 target="_blank" role="button"
                 onclick="captureOutboundLink('https://www.cnty.com/mountaineer/racing/');">MNR</a>&nbsp;
               <a class="btn btn-secondary btn-nominations" href="https://www.monmouthpark.com/stakes-schedule/"
@@ -212,8 +225,8 @@
               <a class="btn btn-secondary btn-nominations" href="https://www.remingtonpark.com/thoroughbred-stakes-2/"
                 target="_blank" role="button"
                 onclick="captureOutboundLink('https://www.remingtonpark.com/thoroughbred-stakes-2/');">RP</a>&nbsp;
-                <a class="btn btn-secondary btn-nominations"
-                href="https://www.santaanita.com/stakes-schedule/" target="_blank" role="button"
+              <a class="btn btn-secondary btn-nominations" href="https://www.santaanita.com/stakes-schedule/"
+                target="_blank" role="button"
                 onclick="captureOutboundLink('https://www.santaanita.com/stakes-schedule/');">SA</a>
             </p>
 
@@ -226,17 +239,6 @@
                 onclick="captureOutboundLink('https://www.jackentertainment.com/thistledown/racing/');">TDN</a>
             </p>
 
-          </div>
-
-          <div class="round-border">
-            <h5>Television</h5>
-
-            <!--Placeholder Message-->
-            <p>Info regarding any network coverage of the RTTBC races will be shown here.</p>
-
-            <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs" target="_blank" role="button" onclick="captureOutboundLink('https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs');">BC Challenge Series &raquo;</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.nyra.com/saratoga/racing/tv-schedule" target="_blank" role="button" onclick="captureOutboundLink('https://www.nyra.com/saratoga/racing/tv-schedule');">Saratoga &raquo;</a></p>
-        <p style="text-align: left;">All <b>Del Mar</b> Racing is shown on TVG:<br/><i>Verizon Fios Channel 815<br/>DirectTV Channel 602</i><br/><a href="https://www.tvg.com/promos/watch/channel-finder/" target="_blank" onclick="captureOutboundLink('https://www.tvg.com/promos/watch/channel-finder/');">TVG Channel Finder</a><br/>Most other tracks are also on TVG, when not on NBC, NBCSN, FS1 or FS2.<br/>TVG is also shown on MSG or MSG+ from 12-7PM EST Wed. thru Sun.</p-->
           </div>
 
         </div>
