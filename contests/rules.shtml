@@ -387,7 +387,7 @@
                   <tr>
                     <td class="table-data-number">RBC-003</td>
                     <td>The "RTTBC Points" columns in the "Race Schedule" tab will serve as the final source for the Race Schedule and Point Scoring Scheme. It is initially sourced from the link below.<br/> 
-                    Any subsequent updates to the content on <a href="https://www.members.breederscup.com/Points/PointsSystem" target="_blank">https://www.members.breederscup.com/Points/PointsSystem</a> will NOT be valid for this game, unless determined otherwise by the League Commissioner and agreed upon by League Participants.</td>
+                    Any subsequent updates to the content on <a href="https://www.members.breederscup.com/Points/PointsSystem" target="_blank" style="word-break: break-all;">https://www.members.breederscup.com/Points/PointsSystem</a> will NOT be valid for this game, unless determined otherwise by the League Commissioner and agreed upon by League Participants.</td>
                   </tr>
                   <tr>
                     <td class="table-data-number">RBC-004</td>
@@ -430,8 +430,8 @@
                     </tr>
                     <tr>
                       <td class="table-data-number">RTR-003</td>
-                      <td>The "RTTR Points" columns in the "Race Schedule" tab will serve as the final source for the Race Schedule and Point Scoring Scheme. It is initially sourced from this link: <a href="https://www.kentuckyderby.com/horses/prep-races" target="_blank">https://www.kentuckyderby.com/horses/prep-races</a>.<br/>
-                      This will supercede any conflicts that may arise based on Graded Race Point Scales (for example, some races are listed as a Grade 3, but may have different point structure (the Lexington is good example of this in 2021)) Any subsequent updates to the content on <a href="https://www.kentuckyderby.com/horses/prep-races" target="_blank">https://www.kentuckyderby.com/horses/prep-races</a> will NOT be valid for this game, unless determined otherwise by the League Commissioner and agreed upon by League Participants.</td>
+                      <td>The "RTTR Points" columns in the "Race Schedule" tab will serve as the final source for the Race Schedule and Point Scoring Scheme. It is initially sourced from this link: <a href="https://www.kentuckyderby.com/horses/prep-races" target="_blank" style="word-break: break-all;">https://www.kentuckyderby.com/horses/prep-races</a>.<br/>
+                      This will supercede any conflicts that may arise based on Graded Race Point Scales (for example, some races are listed as a Grade 3, but may have different point structure (the Lexington is good example of this in 2021)) Any subsequent updates to the content on <a href="https://www.kentuckyderby.com/horses/prep-races" target="_blank" style="word-break: break-all;">https://www.kentuckyderby.com/horses/prep-races</a> will NOT be valid for this game, unless determined otherwise by the League Commissioner and agreed upon by League Participants.</td>
                     </tr>
                   </table>
                 </center>
