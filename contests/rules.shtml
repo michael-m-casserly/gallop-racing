@@ -40,15 +40,24 @@
         <h4>All Contests</h4>
       </center>
 
-<style>
-  .accordion-body {
-    padding: 0px;
-    margin: 0px;
-  }
-  .TableStandard {
-    max-width: 100% !important;
-  }
-</style>
+      <style>
+        .accordion-body {
+          padding: 0px;
+          margin: 0px;
+        }
+
+        .TableStandard {
+          max-width: 100% !important;
+        }
+
+        .TableHeader {
+          padding: 0px !important;
+        }
+
+        th {
+          height: 20px !important;
+        }
+      </style>
 
       <div class="accordion" id="accordionRulesAllContests">
         <div class="accordion-item">
@@ -56,32 +65,34 @@
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesAllContestsFinancial" aria-expanded="false"
               aria-controls="collapseRulesAllContestsFinancial">
-              Financial
+              Financial (FIN)
             </button>
           </h2>
           <div id="collapseRulesAllContestsFinancial" class="accordion-collapse collapse"
             aria-labelledby="headingRulesAllContestsFinancial" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
               <center>
-              <table class="TableStandard">
-                <tr>
-                    <th class="TableHeader text-align-center" style="width: 30%;">Rule #</th>
-                    <th class="table-data-number TableHeader">Rule Description</th>  
-                </tr>
-                <tr>
-                  <td class="table-data-number">FIN-001</td>
-                  <td>The entry fee is listed in your stable sheet. Prize structure will be determined based on the final number of participants.</td>
-                </tr>
-                <tr>
-                  <td class="table-data-number">FIN-002</td>
-                  <td>Entries should be paid before the due date mentioned on the Race Schedule.</td>
-                </tr>
-                <tr>
-                  <td class="table-data-number">FIN-003</td>
-                  <td>If the Kentucky Derby OR Breeders' Cup does not end up being run (at all for the current Calendar Year), then every player will be refunded their Entry Fee. There will be no partial or pro-rated prizes.</td>
-                </tr>
-              </table>
-            </center>
+                <table class="TableStandard">
+                  <tr>
+                    <th class="TableHeader text-align-center">FIN-001</th>
+                  </tr>
+                  <tr>
+                    <td>The entry fee is listed in your stable sheet. Prize structure will be determined based on the final number of participants.</td>
+                  </tr>
+                  <tr>
+                    <th class="TableHeader text-align-center">FIN-002</th>
+                  </tr>
+                  <tr>
+                    <td>Entries should be paid before the due date mentioned on the Race Schedule.</td>
+                  </tr>
+                  <tr>
+                    <th class="TableHeader text-align-center">FIN-003</th>
+                  </tr>
+                  <tr>
+                    <td>If the Kentucky Derby OR Breeders' Cup does not end up being run (at all for the current Calendar Year), then every player will be refunded their Entry Fee. There will be no partial or pro-rated prizes.</td>
+                  </tr>
+                </table>
+              </center>
             </div>
           </div>
         </div>
@@ -91,7 +102,7 @@
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesAllContestsFormat" aria-expanded="false"
               aria-controls="collapseRulesAllContestsFormat">
-              Format
+              Format (FOR)
             </button>
           </h2>
           <div id="collapseRulesAllContestsFormat" class="accordion-collapse collapse"
@@ -100,28 +111,32 @@
               <center>
                 <table class="TableStandard">
                   <tr>
-                      <th class="TableHeader text-align-center" style="width: 30%;">Rule #</th>
-                      <th class="table-data-number TableHeader">Rule Description</th>  
+                    <th class="TableHeader text-align-center">FOR-001</th>
                   </tr>
                   <tr>
-                    <td class="table-data-number">FOR-001</td>
                     <td>During all drafting activities, Individual Stables will be private to the Stable Owner and League Commissioner (see Rule #MIS-001 for additional information on this).</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">FOR-002</td>
+                    <th class="TableHeader text-align-center">FOR-002</th>
+                  </tr>
+                  <tr>
                     <td>If a jockey were to contract Covid-19 during the RTTR/RTTBC contest, and need to miss time, it will be considered the same as if he were injured. There will be no options for replacements.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">FOR-003</td>
+                    <th class="TableHeader text-align-center">FOR-003</th>
+                  </tr>
+                  <tr>
                     <td>If a Trainer is suspended, but his horses still run under an Assistant Trainer's name, any winners will NOT be eligible for RTTR/RTTBC Trainer points. Only horses entered in the Trainer's name are eligible for Trainer points.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">FOR-004</td>
+                    <th class="TableHeader text-align-center">FOR-004</th>
+                  </tr>
+                  <tr>
                     <td>All Supplemental Draft picks are FINAL once the respective draft period ends. If a horse gets injured, scratched, etc. you cannot swap him out for another horse.</td>
                   </tr>
                 </table>
               </center>
-  
+
             </div>
           </div>
         </div>
@@ -131,7 +146,7 @@
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesAllContestsMiscellaneous" aria-expanded="false"
               aria-controls="collapseRulesAllContestsMiscellaneous">
-              Miscellaneous
+              Miscellaneous (MIS)
             </button>
           </h2>
           <div id="collapseRulesAllContestsMiscellaneous" class="accordion-collapse collapse"
@@ -140,15 +155,15 @@
               <center>
                 <table class="TableStandard">
                   <tr>
-                      <th class="TableHeader text-align-center" style="width: 30%;">Rule #</th>
-                      <th class="table-data-number TableHeader">Rule Description</th>  
+                    <th class="TableHeader text-align-center">MIS-001</th>
                   </tr>
                   <tr>
-                    <td class="table-data-number">MIS-001</td>
                     <td>The League Commissioner will also be a participant in the game. In order to avoid any conflicts of interest, he will set his Power Horses each week before he looks at any other player's stables. He will also draft all of his horses before he views anyone else's stables. In addition, he will notify the league members in any case that applies to Rule #PWH-002, where he needs to switch a Power Horse in his stable due to an early scratch on a Sunday race.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">MIS-002</td>
+                    <th class="TableHeader text-align-center">MIS-002</th>
+                  </tr>
+                  <tr>
                     <td>If any situation arises during the game, and is not covered by any of the rules mentioned here, it will be raised by the League Commissioner and brought before the League Membership for a vote. Majority will win, Ties will lose.</td>
                   </tr>
                 </table>
@@ -162,7 +177,7 @@
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesAllContestsPowerHorses" aria-expanded="false"
               aria-controls="collapseRulesAllContestsPowerHorses">
-              Power Horses
+              Power Horses (PWH)
             </button>
           </h2>
           <div id="collapseRulesAllContestsPowerHorses" class="accordion-collapse collapse"
@@ -171,27 +186,33 @@
               <center>
                 <table class="TableStandard">
                   <tr>
-                      <th class="TableHeader text-align-center" style="width: 30%;">Rule #</th>
-                      <th class="table-data-number TableHeader">Rule Description</th>  
+                    <th class="TableHeader text-align-center">PWH-001</th>
                   </tr>
                   <tr>
-                    <td class="table-data-number">PWH-001</td>
                     <td>Power Horses must be selected by a pre-determined deadline on the day of the first race that week (typically Saturday). Your 3 Power Horses will be locked in for the weekend at that point. See exception in Rule #PWH-002.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">PWH-002</td>
-                    <td>One exception to Rule #PWH-001: If there is a Sunday race, and one of your Power Horses from that Sunday race becomes an early scratch (by Noon on Sunday, local track time), then you can contact <a href="mailto:support@gallop-racing.com" target="_blank">support@gallop-racing.com</a> directly to swap that Power Horse with another entry in that race if applicable.</td>
+                    <th class="TableHeader text-align-center">PWH-002</th>
                   </tr>
                   <tr>
-                    <td class="table-data-number">PWH-003</td>
+                    <td>One exception to Rule #PWH-001: If there is a Sunday race, and one of your Power Horses from that Sunday race becomes an early scratch (by Noon on Sunday, local track time), then you can contact <a href="mailto:support@gallop-racing.com" target="_blank">support@gallop-racing.com</a> directly to swap that Power Horse with another entry that day if applicable.</td>
+                  </tr>
+                  <tr>
+                    <th class="TableHeader text-align-center">PWH-003</th>
+                  </tr>
+                  <tr>
                     <td>Late scratches (scratches that occur after the Power Horse selection deadline) will not be considered in Power Horse selection. You will not be able to switch any Power Horses after selection window closes on Race Day.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">PWH-004</td>
+                    <th class="TableHeader text-align-center">PWH-004</th>
+                  </tr>
+                  <tr>
                     <td>Stable Power Horse Selections will remain private throughout the selection window of the contest each week in order to protect the integrity of the Power Horse selection process. In other words, we do not want to allow players to gain an advantage or disadvantage based on the timing of when they submit their Power Horses for any given week.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">PWH-005</td>
+                    <th class="TableHeader text-align-center">PWH-005</th>
+                  </tr>
+                  <tr>
                     <td>The maximum amount of Power Horses you can select in any given week will be 3. The lone exception to this will be Breeders' Cup Weekend, where you can select 7.</td>
                   </tr>
                 </table>
@@ -205,7 +226,7 @@
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesAllContestsSchedule" aria-expanded="false"
               aria-controls="collapseRulesAllContestsSchedule">
-              Schedule
+              Schedule (SCH)
             </button>
           </h2>
           <div id="collapseRulesAllContestsSchedule" class="accordion-collapse collapse"
@@ -214,19 +235,21 @@
               <center>
                 <table class="TableStandard">
                   <tr>
-                      <th class="TableHeader text-align-center" style="width: 30%;">Rule #</th>
-                      <th class="table-data-number TableHeader">Rule Description</th>  
+                    <th class="TableHeader text-align-center">SCH-001</th>
                   </tr>
                   <tr>
-                    <td class="table-data-number">SCH-001</td>
                     <td>If any race is cancelled or rescheduled due to Covid (or any other reason, weather, etc.), it will simply fall into the Race Schedule where it lands, and will be added to the list of races for that given week. This should not impact any Supplemental Draft Dates, assuming the race is rescheduled for a Saturday, but if this happens to become an issue then we will vote on a solution.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">SCH-002</td>
+                    <th class="TableHeader text-align-center">SCH-002</th>
+                  </tr>
+                  <tr>
                     <td>If a cancelled race ends up not being rescheduled, then RTTR/RTTBC will simply follow the guidance set forth by the Industry. If the Industry chooses a different race for those horses to have the opportunity to earn those missed points in, then we will add that race (and the respective points) to our RTTR/RTTBC Race Schedule.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">SCH-003</td>
+                    <th class="TableHeader text-align-center">SCH-003</th>
+                  </tr>
+                  <tr>
                     <td>Race Schedule is tentative (final scheduled dates will apply to the contest).</td>
                   </tr>
                 </table>
@@ -240,7 +263,7 @@
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesAllContestsScoring" aria-expanded="false"
               aria-controls="collapseRulesAllContestsScoring">
-              Scoring
+              Scoring (SCR)
             </button>
           </h2>
           <div id="collapseRulesAllContestsScoring" class="accordion-collapse collapse"
@@ -249,39 +272,51 @@
               <center>
                 <table class="TableStandard">
                   <tr>
-                      <th class="TableHeader text-align-center" style="width: 30%;">Rule #</th>
-                      <th class="table-data-number TableHeader">Rule Description</th>  
+                    <th class="TableHeader text-align-center">SCR-001</th>
                   </tr>
                   <tr>
-                    <td class="table-data-number">SCR-001</td>
                     <td>Your entire Stable is eligible to score points in every race without any action required on your part.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">SCR-002</td>
+                    <th class="TableHeader text-align-center">SCR-002</th>
+                  </tr>
+                  <tr>
                     <td>By a pre-determined time each week, you may select 3 of your horses to act as "Power Horses" for that week. If any of these 3 Power Horses score points in a race that weekend, you will earn 2x those points. "Week" is used to determine race groupings, please refer to the Race Schedule Sheet for more details.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">SCR-003</td>
+                    <th class="TableHeader text-align-center">SCR-003</th>
+                  </tr>
+                  <tr>
                     <td>If you don't select any Power Horses, then you will only earn the regular amount of points for any winners.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">SCR-004</td>
+                    <th class="TableHeader text-align-center">SCR-004</th>
+                  </tr>
+                  <tr>
                     <td>In cases where a Dead Heat (DH) occurs for Win, Place and Show finishes in Graded Stakes, those horses that finish in a DH will be awarded the total applicable points for that Win, Place or Show position. We will follow exactly what the official Kentucky Derby OR Breeders Cup Points System awards to each horse as the base value, and then that would be multiplied if a Power Horse is selected. On Kentucky Derby OR Breeder's Cup Weekend (when RTKD or BC Points no longer apply), in the case of a DH, both horses will be awarded full points for that position, and the next runner would be placed according to that. For example, if there is a 2-horse DH for the Win, then the 2 horses that finish in 1st will be awarded full Win points, there will be no Place points awarded, and the horse that finishes behind the 2 horses in the DH would be awarded Show points. Same logic applies if there are DH for Place and/or Show Positions as well. In the rare event that there are more than 3 horses involved in a DH, then every horse would be awarded full points for their position, and there would be no points awarded for any of the subsequent positions. Same goes for Winning Sire/Trainer/Jockey, each one would be awarded full points for any Win. Lastly, in case of any discrepancy or confusion, we will ultimately follow whatever the Road to the Kentucky Derby OR Breeders' Cup points process awards the horses, since we are following those points systems.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">SCR-005</td>
+                    <th class="TableHeader text-align-center">SCR-005</th>
+                  </tr>
+                  <tr>
                     <td>Any "Split-Division" races will be considered 2 different races. In years past, only the Southwest Stakes has done this. I'm not sure when the decision is made to split races, but I'm putting this rule in place to confirm that if any of the listed races end up becoming a split-division race, then we will simply score it as 2 separate races. This will not impact Power Horse selection either, you can still only select 3 per week.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">SCR-006</td>
+                    <th class="TableHeader text-align-center">SCR-006</th>
+                  </tr>
+                  <tr>
                     <td>All Horses, Trainers, and Jockeys that are officially entered into a race are eligible to score RTTR/RTTBC points. This contest will not consider any external situations (such as Bob Baffert's entries not being eligible for Derby Points), in RTTR/RTTBC contest scoring. If players choose to draft a horse/trainer/jockey who is currently involved in pending litigation, then they accept the inherent risk of those selections no longer being available at some point during the contest. There will be no subsitutions available once the contest begins.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">SCR-007</td>
+                    <th class="TableHeader text-align-center">SCR-007</th>
+                  </tr>
+                  <tr>
                     <td>The "Official" race results will be used for our contest. These are the race day results that are used to determine the FINAL payouts at the track (including the placement of any "For Purse Only" runners). If a horse subsequently becomes disqualified from a race at a later date (due to a drug violation, etc.), this will NOT change the results of our contest.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">SCR-008</td>
+                    <th class="TableHeader text-align-center">SCR-008</th>
+                  </tr>
+                  <tr>
                     <td>Coupled Entries will not be treated as such for scoring purposes. You will only earn points for the placing of the actual horse in your stable, and not his coupled entry.</td>
                   </tr>
                 </table>
@@ -295,7 +330,7 @@
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesAllContestsSetup" aria-expanded="false"
               aria-controls="collapseRulesAllContestsSetup">
-              Setup
+              Setup (SET)
             </button>
           </h2>
           <div id="collapseRulesAllContestsSetup" class="accordion-collapse collapse"
@@ -304,16 +339,17 @@
               <center>
                 <table class="TableStandard">
                   <tr>
-                      <th class="TableHeader text-align-center" style="width: 30%;">Rule #</th>
-                      <th class="table-data-number TableHeader">Rule Description</th>  
+                    <th class="TableHeader text-align-center">SET-001</th>
                   </tr>
                   <tr>
-                    <td class="table-data-number">SET-001</td>
                     <td>Please fill out all of the highlighted text items (Column B) on your individual "Stable Entry" Google Sheet (link to be provided), and submit it with your entry fee before the deadline listed on the Race Schedule.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">SET-002</td>
-                    <td>Each player will select a Winning Time for this year's Kentucky Derby OR Breeder's Cup Classic. This will be used in case of any tiebreaker at the end of the year. The Player with the closest time (to the millisecond) without going over, will be considered the winner. If multiple players select the same winning time, and are involved in a tiebreaker, then they will split the winnings.</td>
+                    <th class="TableHeader text-align-center">SET-002</th>
+                  </tr>
+                  <tr>
+                    <td>Each player will select a Winning Time for this year's Kentucky Derby OR Breeder's Cup Classic. This will be used in case of any tiebreaker at the end of the year. The Player with the closest time (to the millisecond) without going over, will be considered the winner. If multiple players select the same winning time, and are involved in a tiebreaker, then they will split the winnings.
+                    </td>
                   </tr>
                 </table>
               </center>
@@ -326,7 +362,7 @@
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesAllContestsTimeline" aria-expanded="false"
               aria-controls="collapseRulesAllContestsTimeline">
-              Timeline
+              Timeline (TIM)
             </button>
           </h2>
           <div id="collapseRulesAllContestsTimeline" class="accordion-collapse collapse"
@@ -335,15 +371,15 @@
               <center>
                 <table class="TableStandard">
                   <tr>
-                      <th class="TableHeader text-align-center" style="width: 30%;">Rule #</th>
-                      <th class="table-data-number TableHeader">Rule Description</th>  
+                    <th class="TableHeader text-align-center">TIM-001</th>
                   </tr>
                   <tr>
-                    <td class="table-data-number">TIM-001</td>
                     <td>After a pre-determined deadline on Race Day (typically Saturday), your Stable Entry sheet will be locked. It will be unlocked again after a pre-determined time the following week to allow you to select your 3 Power Horses for that coming week.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">TIM-002</td>
+                    <th class="TableHeader text-align-center">TIM-002</th>
+                  </tr>
+                  <tr>
                     <td>All references to time are implied Eastern Standard Time (EST), unless stated otherwise.</td>
                   </tr>
                 </table>
@@ -354,7 +390,7 @@
 
       </div>
 
-      <br/><br/>
+      <br /><br />
       <center>
         <h4>Contest Specific</h4>
       </center>
@@ -364,7 +400,7 @@
           <h2 class="accordion-header" id="headingRulesRTTBC">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesRTTBC" aria-expanded="false" aria-controls="collapseRulesRTTBC">
-              RTTBC
+              RTTBC (RBC)
             </button>
           </h2>
           <div id="collapseRulesRTTBC" class="accordion-collapse collapse" aria-labelledby="headingRulesRTTBC"
@@ -373,28 +409,34 @@
               <center>
                 <table class="TableStandard">
                   <tr>
-                      <th class="TableHeader text-align-center" style="width: 30%;">Rule #</th>
-                      <th class="table-data-number TableHeader">Rule Description</th>  
+                    <th class="TableHeader text-align-center">RBC-001</th>
                   </tr>
                   <tr>
-                    <td class="table-data-number">RBC-001</td>
                     <td>Select 7 Horses, 2 Trainers, 2 Jockeys and 2 Sires before the deadline listed on the Race Schedule. This is considered your "Stable". The Race Schedule will consist of the Graded Stakes races on Dirt in the United States. We will be excluding any Turf or Synthetic track races from that list.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">RBC-002</td>
+                    <th class="TableHeader text-align-center">RBC-002</th>
+                  </tr>
+                  <tr>
                     <td>There will be 6 Supplemental Draft Periods. Please refer to the Race Schedule Sheet for the exact dates. During this time, you can add 5 horses to your Stable each time, except for Draft #6, where you will only add 3 horses.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">RBC-003</td>
-                    <td>The "RTTBC Points" columns in the "Race Schedule" tab will serve as the final source for the Race Schedule and Point Scoring Scheme. It is initially sourced from the link below.<br/> 
+                    <th class="TableHeader text-align-center">RBC-003</th>
+                  </tr>
+                  <tr>
+                    <td>The "RTTBC Points" columns in the "Race Schedule" tab will serve as the final source for the Race Schedule and Point Scoring Scheme. It is initially sourced from the link below.<br />
                     Any subsequent updates to the content on <a href="https://www.members.breederscup.com/Points/PointsSystem" target="_blank" style="word-break: break-all;">https://www.members.breederscup.com/Points/PointsSystem</a> will NOT be valid for this game, unless determined otherwise by the League Commissioner and agreed upon by League Participants.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">RBC-004</td>
+                    <th class="TableHeader text-align-center">RBC-004</th>
+                  </tr>
+                  <tr>
                     <td>All-Weather (or Synthetic) Tracks will NOT count as Dirt Races.</td>
                   </tr>
                   <tr>
-                    <td class="table-data-number">RBC-005</td>
+                    <th class="TableHeader text-align-center">RBC-005</th>
+                  </tr>
+                  <tr>
                     <td>"Off-the-Turf" races will NOT count as Dirt Races. This includes "Main Track Only" entries or MTOs.</td>
                   </tr>
                 </table>
@@ -402,13 +444,14 @@
             </div>
           </div>
         </div>
+        </div>
 
         <div class="accordion" id="accordionRulesRTTR">
           <div class="accordion-item">
             <h2 class="accordion-header" id="headingRulesRTTR">
               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseRulesRTTR" aria-expanded="false" aria-controls="collapseRulesRTTR">
-                RTTR
+                RTTR (RTR)
               </button>
             </h2>
             <div id="collapseRulesRTTR" class="accordion-collapse collapse" aria-labelledby="headingRulesRTTR"
@@ -417,20 +460,22 @@
                 <center>
                   <table class="TableStandard">
                     <tr>
-                        <th class="TableHeader text-align-center" style="width: 30%;">Rule #</th>
-                        <th class="table-data-number TableHeader">Rule Description</th>  
+                      <th class="TableHeader text-align-center">RTR-001</th>
                     </tr>
                     <tr>
-                      <td class="table-data-number">RTR-001</td>
                       <td>Select 5 Horses, 2 Trainers and 2 Jockeys before the deadline listed on the Race Schedule. This is considered your "Stable". The Race Schedule will consist of the Official Kentucky Derby Prep Race "America" list. This includes the UAE Derby (in Dubai), which is classified as an American race. We will be excluding the Europe and Japan races from that list.</td>
                     </tr>
                     <tr>
-                      <td class="table-data-number">RTR-002</td>
+                      <th class="TableHeader text-align-center">RTR-002</th>
+                    </tr>
+                    <tr>
                       <td>There will be 3 Supplemental Draft Periods. Please refer to the Race Schedule Sheet for the exact dates. During this time, you can add up to 5 horses to your Stable. 1st Supp Draft will be 5 horses. For the 2nd Supp Draft you can choose to do this in any order you like, from 0 horses in the 2nd Draft to 5 horses in the 3rd Draft, or 5 horses in the 2nd Draft and 0 horses in the 3rd Draft, or any combination in between.</td>
                     </tr>
                     <tr>
-                      <td class="table-data-number">RTR-003</td>
-                      <td>The "RTTR Points" columns in the "Race Schedule" tab will serve as the final source for the Race Schedule and Point Scoring Scheme. It is initially sourced from this link: <a href="https://www.kentuckyderby.com/horses/prep-races" target="_blank" style="word-break: break-all;">https://www.kentuckyderby.com/horses/prep-races</a>.<br/>
+                      <th class="TableHeader text-align-center">RTR-003</th>
+                    </tr>
+                    <tr>
+                      <td>The "RTTR Points" columns in the "Race Schedule" tab will serve as the final source for the Race Schedule and Point Scoring Scheme. It is initially sourced from this link: <a href="https://www.kentuckyderby.com/horses/prep-races" target="_blank" style="word-break: break-all;">https://www.kentuckyderby.com/horses/prep-races</a>.<br />
                       This will supercede any conflicts that may arise based on Graded Race Point Scales (for example, some races are listed as a Grade 3, but may have different point structure (the Lexington is good example of this in 2021)) Any subsequent updates to the content on <a href="https://www.kentuckyderby.com/horses/prep-races" target="_blank" style="word-break: break-all;">https://www.kentuckyderby.com/horses/prep-races</a> will NOT be valid for this game, unless determined otherwise by the League Commissioner and agreed upon by League Participants.</td>
                     </tr>
                   </table>
@@ -438,6 +483,7 @@
               </div>
             </div>
           </div>
+        </div>
 
 
           <!-- FOOTER -->
