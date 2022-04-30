@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+      <!--#include virtual="/banner-head.html" -->
+
+      <title>About | Gallop Racing</title>
+
+      <link rel="canonical" href="https://www.gallop-racing.com/about.shtml" />
+
+</head>
+
+<body class="bodyTag">
+  <header>
+    <!--#include virtual="/banner.html" -->    
+    </header>
+    
+    <!--End Banner-->
+    
+    <!--Begin Main Content Section-->
+    <main class="container container-round-border">
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+          <!--li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li-->
+          <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">About</span></li>
+        </ol>
+      </nav>
+   
+      <div class="text-align-center"><h3>About Gallop Racing LLC</h3></div>
+  
+      <div class="container marketing">
+
+        <p>Gallop Racing LLC is a private company based in New York. Our mission is "<i>Horse Racing for Everyone, Everywhere</i>". The company is currently experimenting with 2 "traditional" fantasy style contests for the sport of thoroughbred horse racing. These are "season" long contests that consist of drafts and weekly scoring events.</p>
+
+        <p>Anyone can register for a stable and play along in the contest for fun. There is a global Leaderboard where stables would be listed. There is also an option to create your own Leaderboard where you would compete privately amongst your family and friends.</p>
+        
+        <p>There is no cost to register a stable, and there are no prizes to be paid out by Gallop Racing. We are merely facilitating the game in the hopes that it could create a broader audience of fans for horse racing. Our hope is that by creating a contest in which casual racing fans can enjoy the sport with their family and friends, more people can experience how truly exciting a horse race can be!</p>
+
+        <br/>
+        
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/index.shtml" role="button">Contests</a></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rules.shtml" role="button">Rules</a></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/strategies.shtml" role="button">Strategies</a></p>
+
+<!-- FOOTER -->
+
+<!--#include virtual="/footer-page.html" -->    
+
+</div> <!--container-->
+
+<!--#include virtual="/footer.html" -->    
+
+
+</main>
+
+
+</body>
+</html>
