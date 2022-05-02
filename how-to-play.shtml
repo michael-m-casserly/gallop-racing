@@ -30,13 +30,6 @@
   
       <div class="container marketing">
 
-        <center><h4>All Contests</h4></center>
-        <p>Stables can have the same horses, trainers and jockeys as other player's stables. The opportunity to separate comes with the "Power Horses" you select each week. Those horses will earn you 2x points.</p>
-
-        <p>All horses, trainers, jockeys and sires (RTTBC only) in your stable are eligible to score points every week. There is no "starting" or "sitting/benching" of entries in your stable.</p>
-        
-        <p>As the contest goes on, the races are worth more points. So even if you stumble out of the gate, you can make up a lot of ground down the stretch!</p>
-
         <div class="accordion" id="accordionHowToPlay">
           <div class="accordion-item">
             <h2 class="accordion-header" id="headingHowToPlayRTTR">
@@ -117,7 +110,14 @@
           </div>
 
           </div>
-
+          <br/>
+          <center><h4>All Contests</h4></center>
+          <p>Stables can have the same horses, trainers and jockeys as other player's stables. The opportunity to separate comes with the "Power Horses" you select each week. Those horses will earn you 2x points.</p>
+  
+          <p>All horses, trainers, jockeys and sires (RTTBC only) in your stable are eligible to score points every week. There is no "starting" or "sitting/benching" of entries in your stable.</p>
+          
+          <p>As the contest goes on, the races are worth more points. So even if you stumble out of the gate, you can make up a lot of ground down the stretch!</p>
+  
           <br/>
 
         <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttr148/index.shtml" role="button">Road to the Roses 148</a></p>
