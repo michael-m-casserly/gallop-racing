@@ -95,9 +95,6 @@
               <!--Need to leave this in until a reliable CSS method is available-->
               <a id="week13"></a>
               <table class="TableStandard">
-                <tr class="TableHeader">
-                  <th class="text-align-center">Week #13, Apr. 16, 2022</th>
-                </tr>
                 <tr>
                   <td class="accordion-td-cell">
                     <div class="accordion" id="accordionRTTR148week13races">
@@ -106,7 +103,7 @@
                           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseRTTR148week13races" aria-expanded="false"
                             aria-controls="collapseRTTR148week13races">
-                            Week 13 Races
+                            Week #13, Apr. 16, 2022
                           </button>
                         </h4>
                         <div id="collapseRTTR148week13races" class="accordion-collapse collapse"
@@ -144,9 +141,6 @@
 
               <a id="week12"></a>
               <table class="TableStandard">
-                <tr class="TableHeader">
-                  <th class="text-align-center">Week #12, Apr. 9, 2022</th>
-                </tr>
                 <tr>
                   <td class="accordion-td-cell">
                     <div class="accordion" id="accordionRTTR148week12races">
@@ -155,7 +149,7 @@
                           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseRTTR148week12races" aria-expanded="false"
                             aria-controls="collapseRTTR148week12races">
-                            Week 12 Races
+                            Week #12, Apr. 9, 2022
                           </button>
                         </h4>
                         <div id="collapseRTTR148week12races" class="accordion-collapse collapse"
@@ -208,9 +202,6 @@
 
               <a id="week11"></a>
               <table class="TableStandard">
-                <tr class="TableHeader">
-                  <th class="text-align-center">Week #11, Apr. 2, 2022</th>
-                </tr>
                 <tr>
                   <td class="accordion-td-cell">
                     <div class="accordion" id="accordionRTTR148week11races">
@@ -219,7 +210,7 @@
                           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseRTTR148week11races" aria-expanded="false"
                             aria-controls="collapseRTTR148week11races">
-                            Week 11 Races
+                            Week #11, Apr. 2, 2022
                           </button>
                         </h4>
                         <div id="collapseRTTR148week11races" class="accordion-collapse collapse"
@@ -272,9 +263,6 @@
 
               <a id="week10"></a>
               <table class="TableStandard">
-                <tr class="TableHeader">
-                  <th class="text-align-center">Week #10, Mar. 26-27, 2022</th>
-                </tr>
                 <tr>
                   <td class="accordion-td-cell">
                     <div class="accordion" id="accordionRTTR148week10races">
@@ -283,7 +271,7 @@
                           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseRTTR148week10races" aria-expanded="false"
                             aria-controls="collapseRTTR148week10races">
-                            Week 10 Races
+                            Week #10, Mar. 26-27, 2022
                           </button>
                         </h4>
                         <div id="collapseRTTR148week10races" class="accordion-collapse collapse"
@@ -335,9 +323,6 @@
               </table>
               <a id="week8"></a>
               <table class="TableStandard">
-                <tr class="TableHeader">
-                  <th class="text-align-center">Week #8, Mar. 12, 2022</th>
-                </tr>
                 <tr>
                   <td class="accordion-td-cell">
                     <div class="accordion" id="accordionRTTR148week8races">
@@ -346,7 +331,7 @@
                           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseRTTR148week8races" aria-expanded="false"
                             aria-controls="collapseRTTR148week8races">
-                            Week 8 Races
+                            Week #8, Mar. 12, 2022
                           </button>
                         </h4>
                         <div id="collapseRTTR148week8races" class="accordion-collapse collapse"
@@ -382,9 +367,6 @@
               </table>
               <a id="week7"></a>
               <table class="TableStandard">
-                <tr class="TableHeader">
-                  <th class="text-align-center">Week #7, Mar. 5, 2022</th>
-                </tr>
                 <tr>
                   <td class="accordion-td-cell">
                     <div class="accordion" id="accordionRTTR148week7races">
@@ -393,7 +375,7 @@
                           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseRTTR148week7races" aria-expanded="false"
                             aria-controls="collapseRTTR148week7races">
-                            Week 7 Races
+                            Week #7, Mar. 5, 2022
                           </button>
                         </h4>
                         <div id="collapseRTTR148week7races" class="accordion-collapse collapse"
@@ -455,9 +437,6 @@
               </table>
               <a id="week6"></a>
               <table class="TableStandard">
-                <tr class="TableHeader">
-                  <th class="text-align-center">Week #6, Feb. 26, 2022</th>
-                </tr>
                 <tr>
                   <td class="accordion-td-cell">
                     <div class="accordion" id="accordionRTTR148week6races">
@@ -466,7 +445,7 @@
                           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseRTTR148week6races" aria-expanded="false"
                             aria-controls="collapseRTTR148week6races">
-                            Week 6 Races
+                            Week #6, Feb. 26, 2022
                           </button>
                         </h4>
                         <div id="collapseRTTR148week6races" class="accordion-collapse collapse"
@@ -503,9 +482,6 @@
 
               <a id="week5"></a>
               <table class="TableStandard">
-                <tr class="TableHeader">
-                  <th class="text-align-center">Week #5, Feb. 19, 2022</th>
-                </tr>
                 <tr>
                   <td class="accordion-td-cell">
                     <div class="accordion" id="accordionRTTR148week5races">
@@ -514,7 +490,7 @@
                           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseRTTR148week5races" aria-expanded="false"
                             aria-controls="collapseRTTR148week5races">
-                            Week 5 Races
+                            Week #5, Feb. 19, 2022
                           </button>
                         </h4>
                         <div id="collapseRTTR148week5races" class="accordion-collapse collapse"
@@ -550,9 +526,6 @@
               </table>
               <a id="week4"></a>
               <table class="TableStandard">
-                <tr class="TableHeader">
-                  <th class="text-align-center">Week #4, Feb. 12, 2022</th>
-                </tr>
                 <tr>
                   <td class="accordion-td-cell">
                     <div class="accordion" id="accordionRTTR148week4races">
@@ -561,7 +534,7 @@
                           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseRTTR148week4races" aria-expanded="false"
                             aria-controls="collapseRTTR148week4races">
-                            Week 4 Races
+                            Week #4, Feb. 12, 2022
                           </button>
                         </h4>
                         <div id="collapseRTTR148week4races" class="accordion-collapse collapse"
@@ -606,9 +579,6 @@
               </table>
               <a id="week3"></a>
               <table class="TableStandard">
-                <tr class="TableHeader">
-                  <th class="text-align-center">Week #3, Feb. 5-6, 2022</th>
-                </tr>
                 <tr>
                   <td class="accordion-td-cell">
                     <div class="accordion" id="accordionRTTR148week3races">
@@ -617,7 +587,7 @@
                           <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseRTTR148week3races" aria-expanded="false"
                             aria-controls="collapseRTTR148week3races">
-                            Week 3 Races
+                            Week #3, Feb. 5-6, 2022
                           </button>
                         </h4>
                         <div id="collapseRTTR148week3races" class="accordion-collapse collapse"
