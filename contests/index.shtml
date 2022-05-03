@@ -17,11 +17,13 @@
 </head>
 
 <body class="bodyTag">
-  <header>
-    <!--#include virtual="/banner.html" -->
-  </header>
+    <!--Begin Banner-->
+<!--#include virtual="/banner.html" -->
+<!--End Banner-->
 
-  <!--End Banner-->
+
+  
+
 
   <!--Begin Main Content Section-->
   <main class="container container-round-border">
