@@ -86,7 +86,6 @@
           <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.equibase.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/');">Equibase &raquo;</a></p>
           <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://paulickreport.com/" target="_blank" role="button" onclick="captureOutboundLink('https://paulickreport.com/');">Paulick Report &raquo;</a></p>
           <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.pedigreequery.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.pedigreequery.com/');">Pedigree Query &raquo;</a></p>
-          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://news.tvg.com/" target="_blank" role="button" onclick="captureOutboundLink('https://news.tvg.com/');">TVG News &raquo;</a></p>
           </div>    
 
           <div class="round-border"><h5>Television</h5>

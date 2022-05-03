@@ -113,8 +113,6 @@
             <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.pedigreequery.com/"
                 target="_blank" role="button" onclick="captureOutboundLink('https://www.pedigreequery.com/');">Pedigree
                 Query &raquo;</a></p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://news.tvg.com/" target="_blank"
-                role="button" onclick="captureOutboundLink('https://news.tvg.com/');">TVG News &raquo;</a></p>
           </div>
 
         </div>
@@ -189,9 +187,9 @@
             <p class="module-button-wrapper">
               <a class="btn btn-secondary btn-nominations" href="https://www.dmtc.com/racing/stakes" target="_blank"
                 role="button" onclick="captureOutboundLink('https://www.dmtc.com/racing/stakes');">DMR</a>&nbsp;
-              <a class="btn btn-secondary btn-nominations" href="https://www.gulfstreampark.com/racing/horsemen/stakes"
+              <a class="btn btn-secondary btn-nominations" href="https://www.gulfstreampark.com/racing-information"
                 target="_blank" role="button"
-                onclick="captureOutboundLink('https://www.gulfstreampark.com/racing/horsemen/stakes');">GP</a>&nbsp;
+                onclick="captureOutboundLink('https://www.gulfstreampark.com/racing-information');">GP</a>&nbsp;
               <a class="btn btn-secondary btn-nominations"
                 href="https://www.caesars.com/horseshoe-indianapolis/racing/racing-info/racing-stats" target="_blank"
                 role="button"
