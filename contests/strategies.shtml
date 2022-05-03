@@ -63,7 +63,7 @@
           
                   <!--#include virtual="/contests/rttr-scoring-table.html" -->
                   
-                  <p><center><h5>RTTR Variable Supplemental Draft Sample Schedule</h5><img src="/images/sample-supp-draft-schedule.png" alt="Sample Supplemental Draft Schedule" title="Sample Supplemental Draft Schedule" style="max-width: 500px;" /></center></p>
+                  <center><h5>RTTR Variable Supplemental Draft Sample Schedule</h5><img src="/images/sample-supp-draft-schedule.png" alt="Sample Supplemental Draft Schedule" title="Sample Supplemental Draft Schedule" style="max-width: 600px;" /></center>
                   
               </div>
             </div>
