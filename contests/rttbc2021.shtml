@@ -37,7 +37,7 @@
 <div class="row">
   <div class="col-lg-4"> <!--begin left column-->
     <div class="round-border"><h5>Final Standings</h5>
-      <table class="TableStandard" border="1">
+      <table class="TableStandard">
         <tr>
             <th class="TableHeader" style="width: 5%;">#</th>
             <th class="TableHeader text-align-left" style="width: 90%;">Stable Name</th>

@@ -63,7 +63,7 @@
       </center>
 
       <div class="accordion" id="accordionRulesAllContests">
-        <div class="accordion-item">
+        <!--div class="accordion-item">
           <h2 class="accordion-header" id="headingRulesAllContestsFinancial">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesAllContestsFinancial" aria-expanded="false"
@@ -101,7 +101,7 @@
               </center>
             </div>
           </div>
-        </div>
+        </div-->
 
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingRulesAllContestsFormat">
