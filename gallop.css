@@ -213,6 +213,7 @@ td {
 
 .table-data-number {
   text-align: center !important;
+  padding-left: 0px !important;
 }
 
 .drafted-player {
