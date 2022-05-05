@@ -32,8 +32,9 @@
     
       <div class="round-border"><h5>Sign Up for RTTBC 2022</h5>
 
-        <p>Register by <b>Sunday, Jun 5th, 9PM EST.</b><br/>Draft begins <b>Monday, Jun 6th, 9AM EST.</b></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="/register/index.shtml" role="button">Register</a></p>
+        <p><center>Register by<br/><b>Sunday, June 5th, 9PM EST.</b><br/>
+        Draft begins<br/><b>Monday, June 6th, 9AM EST.</b></center></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/forms/d/e/1FAIpQLSe2GwysYayxRZN_aZm9EPkqttAGHQN3yWYEsWg4-CalcnS0Fg/viewform?usp=sf_link" role="button" target="_blank">Register &raquo;</a></p>
         
       </div>
 
