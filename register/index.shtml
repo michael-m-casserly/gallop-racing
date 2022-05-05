@@ -33,7 +33,9 @@
       <!--Not needed since the form title will serve this purpose-->
       <!--h3>Sign Up for Gallop Racing Contests</h3-->
  <br/>
-      
+
+ <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/forms/d/e/1FAIpQLSe2GwysYayxRZN_aZm9EPkqttAGHQN3yWYEsWg4-CalcnS0Fg/viewform?usp=sf_link" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/forms/d/e/1FAIpQLSe2GwysYayxRZN_aZm9EPkqttAGHQN3yWYEsWg4-CalcnS0Fg/viewform?usp=sf_link');">Launch Form &raquo;</a></p>
+
  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe2GwysYayxRZN_aZm9EPkqttAGHQN3yWYEsWg4-CalcnS0Fg/viewform?embedded=true" onload="window.parent.scrollTo(0,0)" style="border: 0; width: 100%; height: 2483px; "></iframe>
       </center>
 
