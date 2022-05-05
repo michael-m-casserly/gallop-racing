@@ -99,12 +99,12 @@
                 <use xlink:href="#twitter" />
               </svg> Gallop Twitter List &raquo;</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary"
-                href="https://twitter.com/hashtag/rttbc2022?f=live" target="_blank" role="button"
-                onclick="captureOutboundLink('https://twitter.com/hashtag/rttbc2022?f=live');"><svg class="bi"
+                href="https://twitter.com/hashtag/rttbc22?f=live" target="_blank" role="button"
+                onclick="captureOutboundLink('https://twitter.com/hashtag/rttbc22?f=live');"><svg class="bi"
                   width="24" height="24" role="img" aria-label="Twitter">
                   <title id="twitter-label-mouseover">Twitter</title>
                   <use xlink:href="#twitter" />
-                </svg> #rttbc2022 News &raquo;</a></p>
+                </svg> #rttbc22 News &raquo;</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary"
                 href="https://www.equibase.com/yearbook/FutureRaces.cfm" target="_blank" role="button"
                 onclick="captureOutboundLink('https://www.equibase.com/yearbook/FutureRaces.cfm');">Equibase Future
