@@ -268,6 +268,17 @@
             onload="document.getElementById('spinner').style.display='none';"></iframe>
 
         </div>
+        <table class="TableStandard">
+          <tr>
+            <td style="background-color: #6d9eeb">Horse in an RTTBC22 Stable at Race Time.</td>
+          </tr>
+          <tr>
+            <td style="background-color: orange;">Previous Breeders' Cup Winner.</td>
+          </tr>
+          <tr>
+            <td style="background-color: lawngreen;">Breeders' Cup "Win And You're In" Winner.</td>
+          </tr>
+        </table>      
       </div>
       <!--row #2-->
       <br />
