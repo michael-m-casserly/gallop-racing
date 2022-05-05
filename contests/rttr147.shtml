@@ -1,390 +1,427 @@
 <!doctype html>
 <html lang="en">
-  <head>
-      <!--#include virtual="/banner-head.html" -->
+
+<head>
+  <!--#include virtual="/banner-head.html" -->
 
 
-    <title>Road to the Roses, Derby 147 | Gallop Racing</title>
+  <title>Road to the Roses, Derby 147 | Gallop Racing</title>
 
 </head>
 
 <body class="bodyTag">
-      <!--Begin Banner-->
-<!--#include virtual="/banner.html" -->
-<!--End Banner-->
-    
-
-        
-    
-
-    
-    <!--Begin Main Content Section-->
-    <main class="container container-round-border">
-
-      <nav aria-label="breadcrumb">
-        <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
-          <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
-          <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">RTTR 147</span></li>
-        </ol>
-      </nav>
-
-      <div class="text-align-center"><h3>Road to the Roses<br/>Derby 147</h3></div>
-  
-      <div class="container marketing">
-          
-    <div class="row">
-      <div class="col-lg-4"> <!--begin left column-->
-    
-  <div class="round-border"><h5>Final Standings</h5>
-    <table class="TableStandard">
-      <tr>
-          <th class="TableHeader" style="width: 5%;">#</th>
-          <th class="TableHeader text-align-left" style="width: 90%;">Stable Name</th>
-          <th class="TableHeader" style="width: 5%;">Points</th>
-      </tr>
-      <tr>
-          <td rowspan="2" class="leaderboard-data-number">1</td>
-          <td class="leaderboard-data-stable">Bumruggles Stables (WIN)</td>
-          <td rowspan="2" class="leaderboard-data-number">2458</td>
-      </tr>
-      <tr>
-        <td class="leaderboard-data-player">Greg Schaefer | Rockville Center, NY</td>
-    </tr>
-    <tr>
-      <td rowspan="2" class="leaderboard-data-number">2</td>
-      <td class="leaderboard-data-stable">Bazooka Double Duece Stables (PLACE)</td>
-      <td rowspan="2" class="leaderboard-data-number">2234</td>
-  </tr>
-  <tr>
-    <td class="leaderboard-data-player">Seamus Gormley | Valley Stream, NY</td>
-</tr>
-<tr>
-  <td rowspan="2" class="leaderboard-data-number">3</td>
-  <td class="leaderboard-data-stable">Shinebox Stables</td>
-  <td rowspan="2" class="leaderboard-data-number">2226</td>
-</tr>
-<tr>
-<td class="leaderboard-data-player">Ray Carolan | Port Washington, NY</td>
-</tr>
-<tr>
-  <td rowspan="2" class="leaderboard-data-number">4</td>
-  <td class="leaderboard-data-stable">Moonshine Mullon</td>
-  <td rowspan="2" class="leaderboard-data-number">2215</td>
-</tr>
-<tr>
-<td class="leaderboard-data-player">Kevin Mullon | Long Beach, NY</td>
-</tr>
-<tr>
-  <td rowspan="2" class="leaderboard-data-number">5</td>
-  <td class="leaderboard-data-stable">Colonial Inn</td>
-  <td rowspan="2" class="leaderboard-data-number">2069</td>
-</tr>
-<tr>
-<td class="leaderboard-data-player">Dan Euerle | Clarksville, IN</td>
-</tr>
-<tr>
-  <td rowspan="2" class="leaderboard-data-number">6</td>
-  <td class="leaderboard-data-stable">2015 Champion Stables</td>
-  <td rowspan="2" class="leaderboard-data-number">1981</td>
-</tr>
-<tr>
-<td class="leaderboard-data-player">Kathryn Rodgers | South Ozone Park, NY</td>
-</tr>
-<tr>
-  <td rowspan="2" class="leaderboard-data-number">7</td>
-  <td class="leaderboard-data-stable">Schrute Farms</td>
-  <td rowspan="2" class="leaderboard-data-number">1957</td>
-</tr>
-<tr>
-<td class="leaderboard-data-player">Michael Casserly | Rockaway, NY</td>
-</tr>
-  <tr>
-    <td rowspan="2" class="leaderboard-data-number">8</td>
-    <td class="leaderboard-data-stable">Papanick Stables</td>
-    <td rowspan="2" class="leaderboard-data-number">1922</td>
-  </tr>
-  <tr>
-  <td class="leaderboard-data-player">Paul Henderson | Bayside, NY</td>
-  </tr>
-  <tr>
-    <td rowspan="2" class="leaderboard-data-number">9</td>
-    <td class="leaderboard-data-stable">Crack the Whip Stables</td>
-    <td rowspan="2" class="leaderboard-data-number">1888</td>
-  </tr>
-  <tr>
-  <td class="leaderboard-data-player">Michael Triunfo | Manhasset, NY</td>
-  </tr>
-  <tr>
-    <td rowspan="2" class="leaderboard-data-number">10</td>
-    <td class="leaderboard-data-stable">We All Had Pony</td>
-    <td rowspan="2" class="leaderboard-data-number">1866</td>
-  </tr>
-  <tr>
-  <td class="leaderboard-data-player">Poopmans | Canada</td>
-  </tr>
-  <tr>
-    <td rowspan="2" class="leaderboard-data-number">11</td>
-    <td class="leaderboard-data-stable">Winstrol Stables</td>
-    <td rowspan="2" class="leaderboard-data-number">1848</td>
-  </tr>
-  <tr>
-  <td class="leaderboard-data-player">John Casey | "The Rock"</td>
-  </tr>
-  <tr>
-    <td rowspan="2" class="leaderboard-data-number">12</td>
-    <td class="leaderboard-data-stable">Khartoum</td>
-    <td rowspan="2" class="leaderboard-data-number">1786</td>
-  </tr>
-  <tr>
-  <td class="leaderboard-data-player">Kevin Walsh | Port Washington, NY</td>
-  </tr>
-  <tr>
-    <td rowspan="2" class="leaderboard-data-number">13</td>
-    <td class="leaderboard-data-stable">Second City Stables</td>
-    <td rowspan="2" class="leaderboard-data-number">1677</td>
-  </tr>
-  <tr>
-  <td class="leaderboard-data-player">Michael Walsh | Western Springs, IL</td>
-  </tr>
-  <tr>
-    <td rowspan="2" class="leaderboard-data-number">14</td>
-    <td class="leaderboard-data-stable">Handsome Dans</td>
-    <td rowspan="2" class="leaderboard-data-number">1664</td>
-  </tr>
-  <tr>
-  <td class="leaderboard-data-player">Dan O'Connell | Bellerose Village, NY</td>
-  </tr>
-  <tr>
-    <td rowspan="2" class="leaderboard-data-number">15</td>
-    <td class="leaderboard-data-stable">Horse Face Stables</td>
-    <td rowspan="2" class="leaderboard-data-number">1659</td>
-  </tr>
-  <tr>
-  <td class="leaderboard-data-player">Rich Henderson | Rockaway, NY</td>
-  </tr>
-  <tr>
-    <td rowspan="2" class="leaderboard-data-number">16</td>
-    <td class="leaderboard-data-stable">Jazzy Fresh</td>
-    <td rowspan="2" class="leaderboard-data-number">1619</td>
-  </tr>
-  <tr>
-  <td class="leaderboard-data-player">Johnny Drama | Forest Hills, NY</td>
-  </tr>
-  <tr>
-    <td rowspan="2" class="leaderboard-data-number">17</td>
-    <td class="leaderboard-data-stable">Go for Goggles</td>
-    <td rowspan="2" class="leaderboard-data-number">1550</td>
-  </tr>
-  <tr>
-  <td class="leaderboard-data-player">Goggles | RVC</td>
-  </tr>
-      </table>
-    <!--img src="/images/leaderboard-rttr147.png" alt="RTTR147 Leaderboard" style="max-width: 362px; border: 0;"/-->
-  </div>
-
-  </div> <!--end left column-->
-
-  <div class="col-lg-4"> <!--begin middle column-->
-
-<div class="round-border"><h5>RTTR147 Info</h5>
-  <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=0&single=true" target="_blank" role="button">Leaderboard</a></p>
-<p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=249132506&single=true" target="_blank" role="button">Horses</a></p>
-<p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=2036485040&single=true" target="_blank" role="button">Schedule</a></p>
-<p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/presentation/d/16U1QbNcjxJhd65WnAsgt9wQmJ7ZwfA8PZvT4_vX1lag/edit?usp=sharing" target="_blank" role="button">View All Stables PDF</a></p>
-<p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttr147?f=live" target="_blank" role="button">#rttr147 on Twitter &raquo;</a></p>
-</div>
-
-<div class="round-border"><h5>Leading Trainers</h5>
-  <table class="TableStandard">
-    <tr>
-        <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
-        <th class="table-data-number TableHeader">Points</th>  
-    </tr>
-    <tr class="drafted-player">
-        <td>Bob Baffert</td>
-        <td class="table-data-number">230</td>
-    </tr>
-    <tr class="drafted-player">
-      <td>Todd Pletcher</td>
-      <td class="table-data-number">140</td>
-    </tr>
-    <tr class="drafted-player">
-      <td>Brad Cox</td>
-      <td class="table-data-number">112</td>
-    </tr>
-    <tr class="drafted-player">
-      <td>Steven Asmussen</td>
-      <td class="table-data-number">70</td>
-    </tr>
-    <tr class="non-drafted-player">
-      <td>*Leandro Mora</td>
-      <td class="table-data-number">70</td>
-    </tr>
-    <tr class="non-drafted-player">
-      <td>*Wesley Ward</td>
-      <td class="table-data-number">70</td>
-    </tr>
-    <tr class="non-drafted-player">
-      <td>*Charles Appleby</td>
-      <td class="table-data-number">70</td>
-    </tr>
-    <tr class="non-drafted-player">
-      <td>*John Sadler</td>
-      <td class="table-data-number">70</td>
-    </tr>
-    <tr class="non-drafted-player">
-      <td>*Shug McGaughey</td>
-      <td class="table-data-number">35</td>
-    </tr>
-    <tr class="non-drafted-player">
-      <td>*James Jerkens</td>
-      <td class="table-data-number">35</td>
-    </tr>
-    <tr class="non-drafted-player">
-      <td>*Mark Casse</td>
-      <td class="table-data-number">35</td>
-    </tr>
-    <tr class="non-drafted-player">
-      <td>*Kenneth McPeek</td>
-      <td class="table-data-number">14</td>
-    </tr>
-    <tr class="non-drafted-player">
-      <td>*Michael McCarthy</td>
-      <td class="table-data-number">7</td>
-    </tr>
-    <tr class="non-drafted-player">
-      <td>*William Morey</td>
-      <td class="table-data-number">7</td>
-    </tr>
-    <tr class="non-drafted-player">
-      <td colspan="2">*Not drafted by any stable.</td>
-    </tr>
-</table>
-</div>
-
-</div> <!--end middle column-->
-<div class="col-lg-4"> <!--begin right column-->
-
-<!--a name="Schedule"></a-->
-
-<div class="round-border"><h5>Leading Horses</h5>
-  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTR147_Season_Leaders-Horses.pdf" target="_blank" role="button" onclick="captureOutboundLink('/pdf/RTTR147_Season_Leaders-Horses.pdf');">View PDF</a></p>
-</div>
-
-<div class="round-border"><h5>Leading Jockeys</h5>
-      <table class="TableStandard">
-        <tr>
-            <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
-            <th class="table-data-number TableHeader">Points</th>  
-        </tr>
-        <tr class="drafted-player">
-          <td>John R. Velazquez</td>
-          <td class="table-data-number">160</td>
-        </tr>
-          <tr class="drafted-player">
-            <td>Joel Rosario</td>
-            <td class="table-data-number">105</td>
-        </tr>
-        <tr class="drafted-player">
-          <td>Luis Saez</td>
-          <td class="table-data-number">77</td>
-      </tr>
-      <tr class="drafted-player">
-        <td>Irad Ortiz, Jr.</td>
-        <td class="table-data-number">70</td>
-      </tr>
-        <tr class="non-drafted-player">
-          <td>*Ricardo Santana Jr</td>
-          <td class="table-data-number">70</td>
-        </tr>
-        <tr class="non-drafted-player">
-          <td>*Drayden Van Dyke</td>
-          <td class="table-data-number">70</td>
-        </tr>
-        <tr class="non-drafted-player">
-          <td>*William Buick</td>
-          <td class="table-data-number">70</td>
-        </tr>
-        <tr class="non-drafted-player">
-          <td>*Umberto Rispoli</td>
-          <td class="table-data-number">70</td>
-        </tr>
-        <tr class="non-drafted-player">
-          <td>*Kendrick Carmouche</td>
-          <td class="table-data-number">70</td>
-        </tr>
-        <tr class="drafted-player">
-          <td>Jose L. Ortiz</td>
-          <td class="table-data-number">35</td>
-        </tr>
-      <tr class="drafted-player">
-        <td>Florent Geroux</td>
-        <td class="table-data-number">35</td>
-      </tr>
-      <tr class="drafted-player">
-        <td>Mike E Smith</td>
-        <td class="table-data-number">35</td>
-      </tr>
-      <tr class="non-drafted-player">
-        <td>*Trevor McCarthy</td>
-        <td class="table-data-number">35</td>
-      </tr>
-      <tr class="non-drafted-player">
-        <td>*Jose C. Ferrer</td>
-        <td class="table-data-number">35</td>
-      </tr>
-      <tr class="non-drafted-player">
-        <td>*Brian Joseph Hernandez</td>
-        <td class="table-data-number">14</td>
-      </tr>
-      <tr class="non-drafted-player">
-        <td>*Kyle Frey</td>
-        <td class="table-data-number">7</td>
-      </tr>
-      <tr class="non-drafted-player">
-        <td>*Santiago Gonzalez</td>
-        <td class="table-data-number">7</td>
-      </tr>
-    <tr class="drafted-player">
-        <td>Javier Castellano</td>
-        <td class="table-data-number">0</td>
-      </tr>
-      <tr class="drafted-player">
-        <td>Tyler Gafflione</td>
-        <td class="table-data-number">0</td>
-      </tr>
-      <tr class="non-drafted-player">
-        <td colspan="2">*Not drafted by any stable.</td>
-      </tr>
-    </table>
-  </div>
-
-</div> <!--end right column-->
-
-</div> <!--row #1-->
-<br/>
-<div class="row">      
-  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive" style="max-width: 250px; border: 0;" /></a>
-
-  <!--#include virtual="/iframe-spinner.html" -->   
-
-  <div class="iframe-container">
-    <iframe class="responsive-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false" onload="document.getElementById('spinner').style.display='none';"></iframe>
-  </div>
-</div> <!--row #2-->
-<br/>
-<!-- FOOTER -->
-
-<!--#include virtual="/footer-page.html" -->    
-
-</div> <!--container-->
-
-<!--#include virtual="/footer.html" -->    
+  <!--Begin Banner-->
+  <!--#include virtual="/banner.html" -->
+  <!--End Banner-->
 
 
-</main>
 
-      
+
+
+
+  <!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
+        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">RTTR 147</span></li>
+      </ol>
+    </nav>
+
+    <div class="text-align-center">
+      <h3>Road to the Roses<br />Derby 147</h3>
+    </div>
+
+    <div class="container marketing">
+
+      <div class="row">
+        <div class="col-lg-4">
+          <!--begin left column-->
+
+          <div class="round-border">
+            <h5>Final Standings</h5>
+            <table class="TableStandard">
+              <tr>
+                <th class="TableHeader" style="width: 5%;">#</th>
+                <th class="TableHeader text-align-left" style="width: 90%;">Stable Name</th>
+                <th class="TableHeader" style="width: 5%;">Points</th>
+              </tr>
+              <tr>
+                <td rowspan="2" class="leaderboard-data-number">1</td>
+                <td class="leaderboard-data-stable">Bumruggles Stables (WIN)</td>
+                <td rowspan="2" class="leaderboard-data-number">2458</td>
+              </tr>
+              <tr>
+                <td class="leaderboard-data-player">Greg Schaefer | Rockville Center, NY</td>
+              </tr>
+              <tr>
+                <td rowspan="2" class="leaderboard-data-number">2</td>
+                <td class="leaderboard-data-stable">Bazooka Double Duece Stables (PLACE)</td>
+                <td rowspan="2" class="leaderboard-data-number">2234</td>
+              </tr>
+              <tr>
+                <td class="leaderboard-data-player">Seamus Gormley | Valley Stream, NY</td>
+              </tr>
+              <tr>
+                <td rowspan="2" class="leaderboard-data-number">3</td>
+                <td class="leaderboard-data-stable">Shinebox Stables</td>
+                <td rowspan="2" class="leaderboard-data-number">2226</td>
+              </tr>
+              <tr>
+                <td class="leaderboard-data-player">Ray Carolan | Port Washington, NY</td>
+              </tr>
+              <tr>
+                <td rowspan="2" class="leaderboard-data-number">4</td>
+                <td class="leaderboard-data-stable">Moonshine Mullon</td>
+                <td rowspan="2" class="leaderboard-data-number">2215</td>
+              </tr>
+              <tr>
+                <td class="leaderboard-data-player">Kevin Mullon | Long Beach, NY</td>
+              </tr>
+              <tr>
+                <td rowspan="2" class="leaderboard-data-number">5</td>
+                <td class="leaderboard-data-stable">Colonial Inn</td>
+                <td rowspan="2" class="leaderboard-data-number">2069</td>
+              </tr>
+              <tr>
+                <td class="leaderboard-data-player">Dan Euerle | Clarksville, IN</td>
+              </tr>
+              <tr>
+                <td rowspan="2" class="leaderboard-data-number">6</td>
+                <td class="leaderboard-data-stable">2015 Champion Stables</td>
+                <td rowspan="2" class="leaderboard-data-number">1981</td>
+              </tr>
+              <tr>
+                <td class="leaderboard-data-player">Kathryn Rodgers | South Ozone Park, NY</td>
+              </tr>
+              <tr>
+                <td rowspan="2" class="leaderboard-data-number">7</td>
+                <td class="leaderboard-data-stable">Schrute Farms</td>
+                <td rowspan="2" class="leaderboard-data-number">1957</td>
+              </tr>
+              <tr>
+                <td class="leaderboard-data-player">Michael Casserly | Rockaway, NY</td>
+              </tr>
+              <tr>
+                <td rowspan="2" class="leaderboard-data-number">8</td>
+                <td class="leaderboard-data-stable">Papanick Stables</td>
+                <td rowspan="2" class="leaderboard-data-number">1922</td>
+              </tr>
+              <tr>
+                <td class="leaderboard-data-player">Paul Henderson | Bayside, NY</td>
+              </tr>
+              <tr>
+                <td rowspan="2" class="leaderboard-data-number">9</td>
+                <td class="leaderboard-data-stable">Crack the Whip Stables</td>
+                <td rowspan="2" class="leaderboard-data-number">1888</td>
+              </tr>
+              <tr>
+                <td class="leaderboard-data-player">Michael Triunfo | Manhasset, NY</td>
+              </tr>
+              <tr>
+                <td rowspan="2" class="leaderboard-data-number">10</td>
+                <td class="leaderboard-data-stable">We All Had Pony</td>
+                <td rowspan="2" class="leaderboard-data-number">1866</td>
+              </tr>
+              <tr>
+                <td class="leaderboard-data-player">Poopmans | Canada</td>
+              </tr>
+              <tr>
+                <td rowspan="2" class="leaderboard-data-number">11</td>
+                <td class="leaderboard-data-stable">Winstrol Stables</td>
+                <td rowspan="2" class="leaderboard-data-number">1848</td>
+              </tr>
+              <tr>
+                <td class="leaderboard-data-player">John Casey | "The Rock"</td>
+              </tr>
+              <tr>
+                <td rowspan="2" class="leaderboard-data-number">12</td>
+                <td class="leaderboard-data-stable">Khartoum</td>
+                <td rowspan="2" class="leaderboard-data-number">1786</td>
+              </tr>
+              <tr>
+                <td class="leaderboard-data-player">Kevin Walsh | Port Washington, NY</td>
+              </tr>
+              <tr>
+                <td rowspan="2" class="leaderboard-data-number">13</td>
+                <td class="leaderboard-data-stable">Second City Stables</td>
+                <td rowspan="2" class="leaderboard-data-number">1677</td>
+              </tr>
+              <tr>
+                <td class="leaderboard-data-player">Michael Walsh | Western Springs, IL</td>
+              </tr>
+              <tr>
+                <td rowspan="2" class="leaderboard-data-number">14</td>
+                <td class="leaderboard-data-stable">Handsome Dans</td>
+                <td rowspan="2" class="leaderboard-data-number">1664</td>
+              </tr>
+              <tr>
+                <td class="leaderboard-data-player">Dan O'Connell | Bellerose Village, NY</td>
+              </tr>
+              <tr>
+                <td rowspan="2" class="leaderboard-data-number">15</td>
+                <td class="leaderboard-data-stable">Horse Face Stables</td>
+                <td rowspan="2" class="leaderboard-data-number">1659</td>
+              </tr>
+              <tr>
+                <td class="leaderboard-data-player">Rich Henderson | Rockaway, NY</td>
+              </tr>
+              <tr>
+                <td rowspan="2" class="leaderboard-data-number">16</td>
+                <td class="leaderboard-data-stable">Jazzy Fresh</td>
+                <td rowspan="2" class="leaderboard-data-number">1619</td>
+              </tr>
+              <tr>
+                <td class="leaderboard-data-player">Johnny Drama | Forest Hills, NY</td>
+              </tr>
+              <tr>
+                <td rowspan="2" class="leaderboard-data-number">17</td>
+                <td class="leaderboard-data-stable">Go for Goggles</td>
+                <td rowspan="2" class="leaderboard-data-number">1550</td>
+              </tr>
+              <tr>
+                <td class="leaderboard-data-player">Goggles | RVC</td>
+              </tr>
+            </table>
+            <!--img src="/images/leaderboard-rttr147.png" alt="RTTR147 Leaderboard" style="max-width: 362px; border: 0;"/-->
+          </div>
+
+        </div>
+        <!--end left column-->
+
+        <div class="col-lg-4">
+          <!--begin middle column-->
+
+          <div class="round-border">
+            <h5>RTTR147 Info</h5>
+            <p class="module-button-wrapper"><a class="btn btn-secondary"
+                href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=0&single=true"
+                target="_blank" role="button">Leaderboard</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary"
+                href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=249132506&single=true"
+                target="_blank" role="button">Horses</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary"
+                href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=2036485040&single=true"
+                target="_blank" role="button">Schedule</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary"
+                href="https://docs.google.com/presentation/d/16U1QbNcjxJhd65WnAsgt9wQmJ7ZwfA8PZvT4_vX1lag/edit?usp=sharing"
+                target="_blank" role="button">View All Stables PDF</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary"
+                href="https://twitter.com/hashtag/rttr147?f=live" target="_blank" role="button"><svg class="bi"
+                  width="24" height="24" role="img" aria-label="Twitter">
+                  <title id="twitter-label-mouseover">Twitter</title>
+                  <use xlink:href="#twitter" />
+                </svg> #rttr147 News &raquo;</a></p>
+          </div>
+
+          <div class="round-border">
+            <h5>Leading Trainers</h5>
+            <table class="TableStandard">
+              <tr>
+                <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
+                <th class="table-data-number TableHeader">Points</th>
+              </tr>
+              <tr class="drafted-player">
+                <td>Bob Baffert</td>
+                <td class="table-data-number">230</td>
+              </tr>
+              <tr class="drafted-player">
+                <td>Todd Pletcher</td>
+                <td class="table-data-number">140</td>
+              </tr>
+              <tr class="drafted-player">
+                <td>Brad Cox</td>
+                <td class="table-data-number">112</td>
+              </tr>
+              <tr class="drafted-player">
+                <td>Steven Asmussen</td>
+                <td class="table-data-number">70</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*Leandro Mora</td>
+                <td class="table-data-number">70</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*Wesley Ward</td>
+                <td class="table-data-number">70</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*Charles Appleby</td>
+                <td class="table-data-number">70</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*John Sadler</td>
+                <td class="table-data-number">70</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*Shug McGaughey</td>
+                <td class="table-data-number">35</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*James Jerkens</td>
+                <td class="table-data-number">35</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*Mark Casse</td>
+                <td class="table-data-number">35</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*Kenneth McPeek</td>
+                <td class="table-data-number">14</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*Michael McCarthy</td>
+                <td class="table-data-number">7</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*William Morey</td>
+                <td class="table-data-number">7</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td colspan="2">*Not drafted by any stable.</td>
+              </tr>
+            </table>
+          </div>
+
+        </div>
+        <!--end middle column-->
+        <div class="col-lg-4">
+          <!--begin right column-->
+
+          <!--a name="Schedule"></a-->
+
+          <div class="round-border">
+            <h5>Leading Horses</h5>
+            <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTR147_Season_Leaders-Horses.pdf"
+                target="_blank" role="button"
+                onclick="captureOutboundLink('/pdf/RTTR147_Season_Leaders-Horses.pdf');">View PDF</a></p>
+          </div>
+
+          <div class="round-border">
+            <h5>Leading Jockeys</h5>
+            <table class="TableStandard">
+              <tr>
+                <th class="TableHeader text-align-left" style="width: 75%;">Name</th>
+                <th class="table-data-number TableHeader">Points</th>
+              </tr>
+              <tr class="drafted-player">
+                <td>John R. Velazquez</td>
+                <td class="table-data-number">160</td>
+              </tr>
+              <tr class="drafted-player">
+                <td>Joel Rosario</td>
+                <td class="table-data-number">105</td>
+              </tr>
+              <tr class="drafted-player">
+                <td>Luis Saez</td>
+                <td class="table-data-number">77</td>
+              </tr>
+              <tr class="drafted-player">
+                <td>Irad Ortiz, Jr.</td>
+                <td class="table-data-number">70</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*Ricardo Santana Jr</td>
+                <td class="table-data-number">70</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*Drayden Van Dyke</td>
+                <td class="table-data-number">70</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*William Buick</td>
+                <td class="table-data-number">70</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*Umberto Rispoli</td>
+                <td class="table-data-number">70</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*Kendrick Carmouche</td>
+                <td class="table-data-number">70</td>
+              </tr>
+              <tr class="drafted-player">
+                <td>Jose L. Ortiz</td>
+                <td class="table-data-number">35</td>
+              </tr>
+              <tr class="drafted-player">
+                <td>Florent Geroux</td>
+                <td class="table-data-number">35</td>
+              </tr>
+              <tr class="drafted-player">
+                <td>Mike E Smith</td>
+                <td class="table-data-number">35</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*Trevor McCarthy</td>
+                <td class="table-data-number">35</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*Jose C. Ferrer</td>
+                <td class="table-data-number">35</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*Brian Joseph Hernandez</td>
+                <td class="table-data-number">14</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*Kyle Frey</td>
+                <td class="table-data-number">7</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td>*Santiago Gonzalez</td>
+                <td class="table-data-number">7</td>
+              </tr>
+              <tr class="drafted-player">
+                <td>Javier Castellano</td>
+                <td class="table-data-number">0</td>
+              </tr>
+              <tr class="drafted-player">
+                <td>Tyler Gafflione</td>
+                <td class="table-data-number">0</td>
+              </tr>
+              <tr class="non-drafted-player">
+                <td colspan="2">*Not drafted by any stable.</td>
+              </tr>
+            </table>
+          </div>
+
+        </div>
+        <!--end right column-->
+
+      </div>
+      <!--row #1-->
+      <br />
+      <div class="row">
+        <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false"
+          target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
+            style="max-width: 250px; border: 0;" /></a>
+
+        <!--#include virtual="/iframe-spinner.html" -->
+
+        <div class="iframe-container">
+          <iframe class="responsive-iframe"
+            src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpP4EuHVsSFm9ITLS0qMTvFgBP3AkMUQvLVrT-iqtbIDfVsNVp5raeT5ARxnTFnGD8yLtebNLi5wNn/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false"
+            onload="document.getElementById('spinner').style.display='none';"></iframe>
+        </div>
+      </div>
+      <!--row #2-->
+      <br />
+      <!-- FOOTER -->
+
+      <!--#include virtual="/footer-page.html" -->
+
+    </div>
+    <!--container-->
+
+    <!--#include virtual="/footer.html" -->
+
+
+  </main>
+
+
 </body>
+
 </html>
