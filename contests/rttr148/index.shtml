@@ -41,7 +41,7 @@
     </div>
 
     <!--Add back the # symbol when the counter is rest-->
-    <!--#include virtual="/countdown-timer.html" -->
+    <!--include virtual="/countdown-timer.html" -->
 
     <div class="container marketing">
 
