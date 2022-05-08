@@ -223,7 +223,7 @@
                 class="bi" width="16" height="16" role="img" aria-label="PDF">
                 <title id="pdf-label-mouseover">PDF</title>
                 <use xlink:href="#file-earmark-pdf" />
-              </svg> All Stables</a></p>
+              </svg> View All Stables</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary"
                 href="https://twitter.com/hashtag/rttr147?f=live" target="_blank" role="button"><svg class="bi"
                   width="24" height="24" role="img" aria-label="Twitter">
