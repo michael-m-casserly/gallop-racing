@@ -68,7 +68,11 @@
                           <title id="pdf-label-mouseover">PDF</title>
                           <use xlink:href="#file-earmark-pdf" />
                         </svg> RTTR&nbsp;Entries</a>&nbsp;
-                      <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week14-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a-->
+                      <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week14-RTTR-Results.pdf" target="_blank" role="button"><svg class="bi"
+                        width="16" height="16" role="img" aria-label="PDF">
+                        <title id="pdf-label-mouseover">PDF</title>
+                        <use xlink:href="#file-earmark-pdf" />
+                      </svg> RTTR&nbsp;Results</a>
                     </p>
                   </td>
                 </tr>
@@ -76,7 +80,10 @@
                   <td class="race-name-header">
                     Kentucky Derby (Championship Tier)<br />
                     <span class="track-name-state">Churchill Downs (CD) | Kentucky</span>
-                    <p class="text-link"><a href="/contests/rttr148/Week14-Kentucky-Derby-Results.pdf" target="_blank">Equibase Results</a></p>
+                    <p class="text-link"><a href="/contests/rttr148/Week14-Kentucky-Derby-Results.pdf" target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
+                      <title id="pdf-label-mouseover">PDF</title>
+                      <use xlink:href="#file-earmark-pdf" />
+                    </svg></p>
                   </td>
                 </tr>
               </table>
@@ -88,7 +95,7 @@
           </div>
 
           <div class="round-border" style="padding-left: 0px; padding-right: 0px;">
-            <h5>Completed Races</h5>
+            <h5>Prep Races</h5>
             <center>
               <!--Need to leave this in until a reliable CSS method is available-->
               <a id="week13"></a>
