@@ -4,16 +4,16 @@
 <head>
   <!--#include virtual="/banner-head.html" -->
 
-  <title>Road to the Roses, Derby 148 | Gallop Racing</title>
+  <title>Road to the Roses, Derby 149 | Gallop Racing</title>
 
-  <!--Special P style for RTTR 148 page only-->
+  <!--Special P style for RTTR 149 page only-->
   <style>
     p {
       text-align: center;
     }
   </style>
 
-  <link rel="canonical" href="https://www.gallop-racing.com/contests/rttr148/index.shtml" />
+  <link rel="canonical" href="https://www.gallop-racing.com/contests/rttr149/index.shtml" />
 
 </head>
 
@@ -32,12 +32,12 @@
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
         <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
-        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">RTTR 148</span></li>
+        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">RTTR 149</span></li>
       </ol>
     </nav>
 
     <div class="text-align-center">
-      <h3>Road to the Roses<br />Derby 148</h3>
+      <h3>Road to the Roses<br />Derby 149</h3>
     </div>
 
     <!--Add back the # symbol when the counter is rest-->
@@ -49,12 +49,20 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/rttr148-contest-info.html" -->
+          <!--#include virtual="/modules/rttr149-contest-info.html" -->
 
           <div class="round-border">
-            <h5>Championship Week</h5>
+            <h5>Upcoming Races</h5>
             <center>
               <!--Need to leave this in until a reliable CSS method is available-->
+              <table class="TableStandard">
+                <tr class="TableHeader">
+                  <th class="text-align-center">Supp. Draft #3, May 2-7, 2022</th>
+                </tr>
+                <tr>
+                  <td class="race-name-header"><i>Add remaining 0-5 Horses to your stable (from Draft #2).</i></td>
+                </tr>
+              </table>
               <a id="week14"></a>
               <table class="TableStandard">
                 <tr class="TableHeader">
@@ -67,7 +75,8 @@
                           width="16" height="16" role="img" aria-label="PDF">
                           <title id="pdf-label-mouseover">PDF</title>
                           <use xlink:href="#file-earmark-pdf" />
-                        </svg> RTTR&nbsp;Entries</a>&nbsp;
+                        </svg> RTTR&nbsp;Entries</a>
+                      <!--&nbsp;
                       <a class="btn btn-secondary btn-half" href="/contests/rttr148/Week14-RTTR-Results.pdf" target="_blank" role="button">RTTR&nbsp;Results</a-->
                     </p>
                   </td>
@@ -76,7 +85,13 @@
                   <td class="race-name-header">
                     Kentucky Derby (Championship Tier)<br />
                     <span class="track-name-state">Churchill Downs (CD) | Kentucky</span>
-                    <p class="text-link"><a href="/contests/rttr148/Week14-Kentucky-Derby-Results.pdf" target="_blank">Equibase Results</a></p>
+                    <br>
+                    Race #12, Post Time 6:57PM EST
+                    <p><a class="btn btn-secondary" href="https://www.equibase.com/static/entry/CD050722USA12-EQB.html"
+                        target="_blank" role="button"
+                        onclick="captureOutboundLink('https://www.equibase.com/static/entry/CD050722USA12-EQB.html');">Equibase
+                        Entries &raquo;</a></p>
+                    <!--p class="text-link"><a href="/contests/rttr148/Week14-Kentucky-Derby-Results.pdf" target="_blank">Equibase Results</a></p-->
                   </td>
                 </tr>
               </table>
@@ -877,7 +892,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
 
-          <!--#include virtual="/modules/rttr148-leading-horses.html"-->
+          <!--#include virtual="/modules/rttr149-leading-horses.html"-->
 
         </div>
         <!--end middle column-->
@@ -885,7 +900,7 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/rttr148-horses-by-stable.html"-->
+          <!--#include virtual="/modules/rttr149-horses-by-stable.html"-->
 
         </div>
         <!--end right column-->
@@ -908,7 +923,7 @@
                 <div class="col-lg-4">
                   <!--begin left column-->
 
-                  <!--#include virtual="/modules/rttr148-leading-trainers.html"-->
+                  <!--#include virtual="/modules/rttr149-leading-trainers.html"-->
 
                 </div>
                 <!--end left column-->
@@ -916,7 +931,7 @@
                 <div class="col-lg-4">
                   <!--begin middle column-->
 
-                  <!--#include virtual="/modules/rttr148-leading-jockeys.html"-->
+                  <!--#include virtual="/modules/rttr149-leading-jockeys.html"-->
 
                 </div>
                 <!--end middle column-->
@@ -924,7 +939,7 @@
                 <div class="col-lg-4">
                   <!--begin right column-->
 
-                  <!--#include virtual="/modules/rttr148-trainer-jockey-combo-by-stable.html"-->
+                  <!--#include virtual="/modules/rttr149-trainer-jockey-combo-by-stable.html"-->
 
                 </div>
                 <!--end right column-->
@@ -950,7 +965,7 @@
                 <div class="col-lg-4">
                   <!--begin left column-->
 
-                  <!--#include virtual="/modules/rttr148-trainers-by-stable.html"-->
+                  <!--#include virtual="/modules/rttr149-trainers-by-stable.html"-->
 
                 </div>
                 <!--end left column-->
@@ -958,7 +973,7 @@
                 <div class="col-lg-4">
                   <!--begin middle column-->
 
-                  <!--#include virtual="/modules/rttr148-jockeys-by-stable.html"-->
+                  <!--#include virtual="/modules/rttr149-jockeys-by-stable.html"-->
 
                 </div>
                 <!--end middle column-->
@@ -966,7 +981,7 @@
                 <div class="col-lg-4">
                   <!--begin right column-->
 
-                  <!--#include virtual="/modules/rttr148-contest-notes.html"-->
+                  <!--#include virtual="/modules/rttr149-contest-notes.html"-->
 
                 </div>
                 <!--end right column-->
@@ -1025,7 +1040,7 @@
       <br />
       <br />
       <div class="row">
-        <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
+        <a href=""
           target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
             style="max-width: 250px; border: 0;" /></a>
 
@@ -1033,7 +1048,7 @@
 
         <div class="iframe-container">
           <iframe class="responsive-iframe"
-            src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"
+            src=""
             onload="document.getElementById('spinner').style.display='none';"></iframe>
         </div>
       </div>
@@ -1042,7 +1057,7 @@
 
       <br />
       <div class="row">
-        <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false"
+        <a href=""
           target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
             style="max-width: 250px; border: 0;" /></a>
 
@@ -1050,12 +1065,12 @@
 
         <div class="iframe-container">
           <iframe class="responsive-iframe"
-            src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false"
+            src=""
             onload="document.getElementById('spinner2').style.display='none';"></iframe>
         </div>
         <table class="TableStandard">
           <tr>
-            <td style="background-color: #6d9eeb; font-weight: bold;">Horse in an RTTR148 Stable at Race Time.</td>
+            <td style="background-color: #6d9eeb; font-weight: bold;">Horse in an RTTR149 Stable at Race Time.</td>
           </tr>
         </table>
       </div>
