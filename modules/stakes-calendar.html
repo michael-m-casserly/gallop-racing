@@ -1,73 +1,36 @@
-<div class="round-border">
-    <h5>Stakes Calendar</h5>
-    <p class="module-button-wrapper">
-      <a class="btn btn-secondary btn-nominations" href="https://www.nyra.com/belmont/racing/stakes-schedule/"
-        target="_blank" role="button"
-        onclick="captureOutboundLink('https://www.nyra.com/belmont/racing/stakes-schedule/');">BEL</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations"
-        href="https://www.churchilldowns.com/horsemen/stakes/schedule/" target="_blank" role="button"
-        onclick="captureOutboundLink('https://www.churchilldowns.com/horsemen/stakes/schedule/');">CD</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations"
-        href="https://www.hollywoodcasinocharlestown.com/racing/horsemans-info" target="_blank" role="button"
-        onclick="captureOutboundLink('https://www.hollywoodcasinocharlestown.com/racing/horsemans-info');">CT</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://delawarepark.com/racing/horsemen/"
-        target="_blank" role="button"
-        onclick="captureOutboundLink('https://delawarepark.com/racing/horsemen/');">DEL</a>
-    </p>
-
-    <p class="module-button-wrapper">
-      <a class="btn btn-secondary btn-nominations" href="https://www.dmtc.com/racing/stakes" target="_blank"
-        role="button" onclick="captureOutboundLink('https://www.dmtc.com/racing/stakes');">DMR</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.gulfstreampark.com/racing-information"
-        target="_blank" role="button"
-        onclick="captureOutboundLink('https://www.gulfstreampark.com/racing-information');">GP</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations"
-        href="https://www.caesars.com/horseshoe-indianapolis/racing/racing-info/racing-stats" target="_blank"
-        role="button"
-        onclick="captureOutboundLink('https://www.caesars.com/horseshoe-indianapolis/racing/racing-info/racing-stats');">IND</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations"
-        href="https://www.keeneland.com/racing/horsemen/2022-spring-meet-stakes-schedule-old" target="_blank"
-        role="button"
-        onclick="captureOutboundLink('https://www.keeneland.com/racing/horsemen/2022-spring-meet-stakes-schedule-old');">KEE</a>
-    </p>
-
-    <p class="module-button-wrapper">
-      <a class="btn btn-secondary btn-nominations" href="https://losalamitos.com/TB/DefaultTB.aspx"
-        target="_blank" role="button"
-        onclick="captureOutboundLink('https://losalamitos.com/TB/DefaultTB.aspx');">LRC</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.cnty.com/mountaineer/racing/"
-        target="_blank" role="button"
-        onclick="captureOutboundLink('https://www.cnty.com/mountaineer/racing/');">MNR</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.monmouthpark.com/stakes-schedule/"
-        target="_blank" role="button"
-        onclick="captureOutboundLink('https://www.monmouthpark.com/stakes-schedule/');">MTH</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://oaklawn.com/racing/calendar/" target="_blank"
-        role="button" onclick="captureOutboundLink('https://oaklawn.com/racing/calendar/');">OP</a>
-    </p>
-
-    <p class="module-button-wrapper">
-      <a class="btn btn-secondary btn-nominations"
-        href="https://www.prairiemeadows.com/racing/horsemens-info/thoroughbred-racing" target="_blank"
-        role="button"
-        onclick="captureOutboundLink('https://www.prairiemeadows.com/racing/horsemens-info/thoroughbred-racing');">PRM</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.parxracing.com/stakes_schedule.php"
-        target="_blank" role="button"
-        onclick="captureOutboundLink('https://www.parxracing.com/stakes_schedule.php');">PRX</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.remingtonpark.com/thoroughbred-stakes-2/"
-        target="_blank" role="button"
-        onclick="captureOutboundLink('https://www.remingtonpark.com/thoroughbred-stakes-2/');">RP</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.santaanita.com/stakes-schedule/"
-        target="_blank" role="button"
-        onclick="captureOutboundLink('https://www.santaanita.com/stakes-schedule/');">SA</a>
-    </p>
-
-    <p class="module-button-wrapper">
-      <a class="btn btn-secondary btn-nominations" href="https://www.nyra.com/saratoga/racing/stakes-schedule/"
-        target="_blank" role="button"
-        onclick="captureOutboundLink('https://www.nyra.com/saratoga/racing/stakes-schedule/');">SAR</a>&nbsp;
-      <a class="btn btn-secondary btn-nominations" href="https://www.jackentertainment.com/thistledown/racing/"
-        target="_blank" role="button"
-        onclick="captureOutboundLink('https://www.jackentertainment.com/thistledown/racing/');">TDN</a>
-    </p>
-
-  </div>
+  <div class="round-border"><h5>Stakes Calendar</h5>
+    <center>
+        <select class="form-select" aria-label="" onchange="javascript:handleSelectStakesCalendar(this)" style="max-width: 240px;">
+            <option selected>Select US Track</option>
+            <!--option value="type=Track&trk=AQU&cy=USA">Aqueduct (AQU)</option-->
+            <option value="https://www.nyra.com/belmont/racing/stakes-schedule/">Belmont (BEL)</option>
+            <option value="https://www.churchilldowns.com/horsemen/stakes/schedule/">Churchill Downs (CD)</option>
+            <option value="https://www.hollywoodcasinocharlestown.com/racing/horsemans-info">Charles Town (CT)</option>
+            <option value="https://delawarepark.com/racing/horsemen/">Delaware (DEL)</option>
+            <option value="https://www.dmtc.com/racing/stakes">Del Mar (DMR)</option>
+            <!--option value="type=Track&trk=FG&cy=USA">Fair Grounds (FG)</option-->
+            <option value="https://www.gulfstreampark.com/racing-information">Gulfstream (GP)</option>
+            <option value="https://www.caesars.com/horseshoe-indianapolis/racing/racing-info/racing-stats">Horseshoe Indianapolis (IND)</option>
+            <option value="https://www.keeneland.com/racing/horsemen/2022-spring-meet-stakes-schedule-old">Keeneland (KEE)</option>
+            <option value="https://losalamitos.com/TB/DefaultTB.aspx">Los Alamitos (LRC)</option>
+            <option value="https://www.monmouthpark.com/stakes-schedule/">Monmouth (MTH)</option>
+            <option value="https://www.cnty.com/mountaineer/racing/">Mountaineer (MNR)</option>
+            <option value="https://oaklawn.com/racing/calendar/">Oaklawn Park (OP)</option>
+            <option value="https://www.parxracing.com/stakes_schedule.php">Parx (PRX)</option>
+            <!--option value="type=Track&trk=PIM&cy=USA">Pimlico (PIM)</option-->
+            <option value="https://www.prairiemeadows.com/racing/horsemens-info/thoroughbred-racing">Prairie Meadows (PRM)</option>
+            <option value="https://www.remingtonpark.com/thoroughbred-stakes-2/">Remington Park (RP)</option>
+            <option value="https://www.santaanita.com/stakes-schedule/">Santa Anita (SA)</option>
+            <option value="https://www.nyra.com/saratoga/racing/stakes-schedule/">Saratoga (SAR)</option>
+            <!--option value="type=Track&trk=TAM&cy=USA">Tampa Bay Downs (TAM)</option-->
+            <option value="https://www.jackentertainment.com/thistledown/racing/">Thistledown (TDN)</option>
+        </select>
+      </center>
+    <script>
+        function handleSelectStakesCalendar(elm)
+        {
+           //window.location = elm.value;
+           window.open(elm.value, '_blank');
+        }
+    </script>
+    </div>  

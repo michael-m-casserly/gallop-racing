@@ -43,7 +43,7 @@
             <h5>Upcoming Races</h5>
 
             <!--Placeholder Message-->
-            <p>The rttbc22 Contest will start on Belmont Stakes Weekend, June 2022.</p>
+            <p>The RTTBC22 Contest will start on Belmont Stakes Weekend, June 2022.</p>
 
 
             <!-- Replace these 2 links with a direct link to 2 pages, one with the Previews for each week, and the other with the Results for each week. All of the PDFs will be stored there.-->
@@ -69,6 +69,7 @@
 
           <!--#include virtual="/modules/twitter.html" -->
           <!--#include virtual="/modules/television.html" -->
+          <!--#include virtual="/modules/stakes-calendar.html" -->
 
         </div>
         <!--end middle column-->
@@ -84,8 +85,6 @@
 
           <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
 
-          <!--#include virtual="/modules/stakes-calendar.html" -->
-
         </div>
         <!--end right column-->
 
@@ -95,7 +94,7 @@
 
       <br />
       <div class="row">
-        <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false"
+        <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSAq7Rxp7pZUrUrLsjcQZx_PlIZ-HnhBBfpjZ01FNLpinOHjvUrIaLfv382kwas0XXuvSDkJlh3drrv/pubhtml?gid=1411863973&single=true&amp;widget=true&amp;headers=false"
           target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
             style="max-width: 250px; border: 0;" /></a>
 
@@ -103,7 +102,7 @@
 
         <div class="iframe-container">
           <iframe class="responsive-iframe"
-            src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false"
+            src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSAq7Rxp7pZUrUrLsjcQZx_PlIZ-HnhBBfpjZ01FNLpinOHjvUrIaLfv382kwas0XXuvSDkJlh3drrv/pubhtml?gid=1411863973&single=true&amp;widget=true&amp;headers=false"
             onload="document.getElementById('spinner').style.display='none';"></iframe>
 
         </div>
