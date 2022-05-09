@@ -1,118 +1,95 @@
 <!doctype html>
 <html lang="en">
-  <head>
-      <!--#include virtual="/banner-head.html" -->
 
-    <title>Gallop Racing</title>
+<head>
+  <!--#include virtual="/banner-head.html" -->
 
-    <link rel="canonical" href="https://www.gallop-racing.com/index.shtml" />
-    
+  <title>Gallop Racing</title>
+
+  <link rel="canonical" href="https://www.gallop-racing.com/index.shtml" />
+
 </head>
 
 <body class="bodyTag">
 
-<!--Begin Banner-->
-<!--#include virtual="/banner.html" -->
-<!--End Banner-->
-    
+  <!--Begin Banner-->
+  <!--#include virtual="/banner.html" -->
+  <!--End Banner-->
 
 
 
-    <!--Begin Main Content Section-->
-    <main class="container container-round-border">
 
-<br/>
-<a id="Entries-Results"></a>
-<div class="text-align-center"><h3>Fantasy Horse Racing (BETA)</h3></div>
+  <!--Begin Main Content Section-->
+  <main class="container container-round-border">
 
-<div class="container marketing">
+    <br />
+    <a id="Entries-Results"></a>
+    <div class="text-align-center">
+      <h3>Fantasy Horse Racing (BETA)</h3>
+    </div>
 
-  <div class="row">
-  <div class="col-lg-4"> <!--begin left column-->
-    
-      <div class="round-border"><h5>Sign Up for RTTBC 2022</h5>
+    <div class="container marketing">
 
-        <p><center>Register by<br/><b>Sunday, June 5th, 9PM EST.</b><br/>
-        Draft begins<br/><b>Monday, June 6th, 9AM EST.</b></center></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/forms/d/e/1FAIpQLSe2GwysYayxRZN_aZm9EPkqttAGHQN3yWYEsWg4-CalcnS0Fg/viewform?usp=sf_link" role="button" target="_blank">Register &raquo;</a></p>
-        
-      </div>
+      <div class="row">
+        <div class="col-lg-4">
+          <!--begin left column-->
 
-      <div class="round-border"><h5>Current Contest</h5>
+          <!--#include virtual="/modules/register.html" -->
 
-        <!--Placeholder Message-->
-        <!--p>RTTR 148 will start with the Lecomte Stakes on Jan. 22, 2022.</p-->
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttr148/index.shtml" role="button">Road to the Roses 148</a></p>
-        
-      </div>
+          <div class="round-border">
+            <h5>Upcoming Contest</h5>
 
-      <div class="round-border"><h5><svg class="bi" width="24" height="24" role="img" aria-label="Twitter"><title id="twitter-label-mouseover">Twitter</title><use xlink:href="#twitter"/></svg> News</h5>
-        <a class="twitter-timeline" height="706" href="https://twitter.com/gallopracingllc?ref_src=twsrc%5Etfw" style="width: 100%;">Tweets by gallopracingllc</a> <script async src="https://platform.twitter.com/widgets.js"></script>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/gallopracingllc" target="_blank" role="button" onclick="captureOutboundLink('https://twitter.com/gallopracingllc');">Follow @gallopracingllc &raquo;</a></p>
-      </div>
+            <!--Placeholder Message-->
+            <p style="text-align:center;">Starting Belmont Stakes Weekend</p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttbc22/index.shtml"
+                role="button">Road to the Breeders' Cup '22</a></p>
 
-</div> <!--end left column-->
+          </div>
 
-<div class="col-lg-4"> <!--begin middle column-->
-  
-  <div class="round-border"><h5>Calendar</h5>
-    <iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 390px; width: 100%; overflow: hidden;"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div>
+          <!--#include virtual="/modules/twitter.html" -->
 
-      <!--#include virtual="/contests/how-to-play-rttr.html" --> 
-      <!--#include virtual="/contests/how-to-play-rttbc.html" --> 
-
-
-
-</div> <!--end middle column-->
-
-<div class="col-lg-4"> <!--begin right column-->
-                 
-        <div class="round-border"><h5>Resources</h5>
-          <!-- Hide the 2 Derby Points related buttons for Derby 148, since the omission of Baffert's horses can be misleading
-            <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.kentuckyderby.com/horses" target="_blank" role="button" onclick="captureOutboundLink('https://www.kentuckyderby.com/horses');">Derby Horses &raquo;</a></p>
-          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.kentuckyderby.com/horses/leaderboard" target="_blank" role="button" onclick="captureOutboundLink('https://www.kentuckyderby.com/horses/leaderboard');">Derby Points Leaderboard &raquo;</a></p>
-          -->
-          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.kentuckyderby.com/horses/prep-races" target="_blank" role="button" onclick="captureOutboundLink('https://www.kentuckyderby.com/horses/prep-races');">Derby Prep Schedule &raquo;</a></p>
-          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www1.drf.com/drfLeaderBoard.do?category=beyer" target="_blank" role="button" onclick="captureOutboundLink('https://www1.drf.com/drfLeaderBoard.do?category=beyer');">DRF Beyer Leaders &raquo;</a></p>
-          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.drf.com/derby-watch" target="_blank" role="button" onclick="captureOutboundLink('https://www.drf.com/derby-watch');">DRF Derby Watch &raquo;</a></p>
-          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.equibase.com/virtualstable" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/virtualstable');">Equibase Virtual Stable &raquo;</a></p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.horseracingnation.com/p/stakes-schedule" target="_blank" role="button" onclick="captureOutboundLink('https://www.horseracingnation.com/p/stakes-schedule');">HRN Stakes Tracker &raquo;</a></p>
-            <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://youtu.be/k-895WUX6zk" target="_blank" role="button" onclick="captureOutboundLink('https://youtu.be/k-895WUX6zk');">League Demo on YouTube &raquo;</a></p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.bloodhorse.com/horse-racing/triple-crown/nominations/2022" target="_blank" role="button" onclick="captureOutboundLink('https://www.bloodhorse.com/horse-racing/triple-crown/nominations/2022');">Triple Crown Nominations &raquo;</a></p-->
         </div>
+        <!--end left column-->
 
-        <div class="round-border"><h5>More Resources</h5>
-          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.bloodhorse.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.bloodhorse.com/');">BloodHorse Magazine &raquo;</a></p>
-          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.drf.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.drf.com/');">Daily Racing Form &raquo;</a></p>
-          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.equibase.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.equibase.com/');">Equibase &raquo;</a></p>
-          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://paulickreport.com/" target="_blank" role="button" onclick="captureOutboundLink('https://paulickreport.com/');">Paulick Report &raquo;</a></p>
-          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://www.pedigreequery.com/" target="_blank" role="button" onclick="captureOutboundLink('https://www.pedigreequery.com/');">Pedigree Query &raquo;</a></p>
-          </div>    
+        <div class="col-lg-4">
+          <!--begin middle column-->
 
-          <div class="round-border"><h5>Television</h5>
-            <p style="text-align: center;">All <b>RTTR</b> Racing is shown on TVG:<br/><i>Verizon Fios Channel 815<br/>DirectTV Channel 602</i><br/><a href="https://www.tvg.com/promos/watch/channel-finder/" target="_blank" onclick="captureOutboundLink('https://www.tvg.com/promos/watch/channel-finder/');">TVG Channel Finder</a><br/>Sometimes racing can also be found on NBC, NBCSN, FS1, FS2, MSG or MSG+.</p>
-            
-            <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs" target="_blank" role="button" onclick="captureOutboundLink('https://breederscup.calreplyapp.com/breeders-cup?utm_source=website&utm_medium=release&utm_campaign=2021cs');">BC Challenge Series &raquo;</a></p>
-                    <p style="text-align: left;">All <b>Del Mar</b> Racing is shown on TVG:<br/><i>Verizon Fios Channel 815<br/>DirectTV Channel 602</i><br/><a href="https://www.tvg.com/promos/watch/channel-finder/" target="_blank" onclick="captureOutboundLink('https://www.tvg.com/promos/watch/channel-finder/');">TVG Channel Finder</a><br/>Most other tracks are also on TVG, when not on NBC, NBCSN, FS1 or FS2.<br/>TVG is also shown on MSG or MSG+ from 12-7PM EST Wed. thru Sun.</p-->
+          <!--#include virtual="/modules/calendar.html" -->
+          <!--#include virtual="/contests/how-to-play-rttr.html" -->
+          <!--#include virtual="/contests/how-to-play-rttbc.html" -->
+
         </div>
-      
-        <!--#include virtual="/modules/stakes-nominations-rttr.html" -->
+        <!--end middle column-->
+
+        <div class="col-lg-4">
+          <!--begin right column-->
+
+          <!--#include virtual="/modules/resources.html" -->
+          <!--#include virtual="/modules/resources-rttr.html" -->
+          <!--#include virtual="/modules/resources-rttbc.html" -->
+          <!--#include virtual="/modules/television.html" -->
+
+          <!--#include virtual="/modules/stakes-nominations-rttr.html" -->
 
 
-</div> <!--end right column-->
+        </div>
+        <!--end right column-->
 
-</div> <!--row #1-->
+      </div>
+      <!--row #1-->
 
-<!-- FOOTER -->
+      <!-- FOOTER -->
 
-<!--#include virtual="/footer-page.html" -->    
+      <!--#include virtual="/footer-page.html" -->
 
-    </div> <!--container-->
+    </div>
+    <!--container-->
 
-<!--#include virtual="/footer.html" -->    
+    <!--#include virtual="/footer.html" -->
 
 
-</main>
-   
+  </main>
+
 </body>
+
 </html>

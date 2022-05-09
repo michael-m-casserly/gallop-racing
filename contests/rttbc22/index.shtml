@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!--#include virtual="/banner-head.html" -->
+
+  <title>Road to the Breeders' Cup 2022 | Gallop Racing</title>
+
+</head>
+
+<body class="bodyTag">
+  <!--Begin Banner-->
+  <!--#include virtual="/banner.html" -->
+  <!--End Banner-->
+
+
+
+
+
+  <!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
+        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">RTTBC 2022</span></li>
+      </ol>
+    </nav>
+
+    <div class="text-align-center">
+      <h3>Road to the Breeders' Cup 2022</h3>
+    </div>
+
+
+    <div class="container marketing">
+
+      <div class="row">
+        <div class="col-lg-4">
+          <!--begin left column-->
+
+          <div class="round-border">
+            <h5>Upcoming Races</h5>
+
+            <!--Placeholder Message-->
+            <p>The rttbc22 Contest will start on Belmont Stakes Weekend, June 2022.</p>
+
+
+            <!-- Replace these 2 links with a direct link to 2 pages, one with the Previews for each week, and the other with the Results for each week. All of the PDFs will be stored there.-->
+
+            <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/race-previews/rttbc21/Week23-Race-Previews.pdf" target="_blank" role="button" onclick="captureOutboundLink('/pdf/race-previews/rttbc21/Week23-Race-Previews.pdf');">Race Previews &raquo;</a></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/race-results/rttbc21/Week23-Race-Results.pdf" target="_blank" role="button" onclick="captureOutboundLink('/pdf/race-previews/rttbc21/Week23-Race-Previews.pdf');">Race Results &raquo;</a></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC21-AllStables.pdf" target="_blank" role="button" onclick="captureOutboundLink('/pdf/RTTBC21-AllStables.pdf');">View All Stables &raquo;</a></p-->
+          </div>
+
+          <!--div class="round-border"><h5>Calendar</h5>
+      <iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0" height="344" width="100%" scrolling="no"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a></div-->
+
+
+<!--#include virtual="/modules/resources-rttbc.html" -->
+
+<!--#include virtual="/modules/resources.html" -->
+
+        </div>
+        <!--end left column-->
+
+        <div class="col-lg-4">
+          <!--begin middle column-->
+
+          <!--#include virtual="/modules/twitter.html" -->
+          <!--#include virtual="/modules/television.html" -->
+
+        </div>
+        <!--end middle column-->
+
+        <div class="col-lg-4">
+          <!--begin right column-->
+
+          <!--#include virtual="/modules/rttbc22-contest-info.html" -->
+
+          <!--#include virtual="/contests/how-to-play-rttbc.html" -->
+
+          <!--#include virtual="/contests/rttbc-scoring-table.html" -->
+
+          <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
+
+          <!--#include virtual="/modules/stakes-calendar.html" -->
+
+        </div>
+        <!--end right column-->
+
+        <a id="schedule"></a>
+      </div>
+      <!--row #1-->
+
+      <br />
+      <div class="row">
+        <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false"
+          target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
+            style="max-width: 250px; border: 0;" /></a>
+
+        <!--#include virtual="/iframe-spinner.html" -->
+
+        <div class="iframe-container">
+          <iframe class="responsive-iframe"
+            src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false"
+            onload="document.getElementById('spinner').style.display='none';"></iframe>
+
+        </div>
+        <table class="TableStandard">
+          <tr>
+            <td style="background-color: #6d9eeb">Horse in an RTTBC22 Stable at Race Time.</td>
+          </tr>
+          <tr>
+            <td style="background-color: orange;">Previous Breeders' Cup Winner.</td>
+          </tr>
+          <tr>
+            <td style="background-color: lawngreen;">Breeders' Cup "Win And You're In" Winner.</td>
+          </tr>
+        </table>      
+      </div>
+      <!--row #2-->
+      <br />
+      <!-- FOOTER -->
+
+      <!--#include virtual="/footer-page.html" -->
+
+    </div>
+    <!--container-->
+
+    <!--#include virtual="/footer.html" -->
+
+
+  </main>
+
+
+</body>
+
+</html>
