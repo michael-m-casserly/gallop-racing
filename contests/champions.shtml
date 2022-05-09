@@ -46,6 +46,24 @@
         <!--Need to find a way to center this table with CSS, same with the border-->
         <table class="TableStandard">
           <tr class="TableHeader">
+            <td colspan="2" class="text-align-center">RTTR 148 (2022)</td>
+          </tr>
+          <tr>
+            <td class="drafted-player">2015 Champion Stables (WIN)</td>
+            <td>Kathryn&nbsp;Rodgers<br />South&nbsp;Ozone&nbsp;Park, NY</td>
+          </tr>
+          <tr>
+            <td class="drafted-player">We All Had Pony (PLACE)</td>
+            <td>Casey&nbsp;Hutchings<br />Canada</td>
+          </tr>
+          <tr>
+            <td class="drafted-player">Moonshine Mullon (SHOW)</td>
+            <td>Kevin&nbsp;Mullon<br />Long&nbsp;Beach, NY</td>
+          </tr>
+          <tr>
+            <td colspan="2">&nbsp;</td>
+          </tr>
+          <tr class="TableHeader">
             <td colspan="2" class="text-align-center">RTTBC '21 (2021)</td>
           </tr>
           <tr>
