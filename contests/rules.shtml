@@ -55,8 +55,13 @@
 
     <div class="container marketing">
 
-      <p>Contest rules can be broken down into 3 Sections: 1) Applies to All Contests, 2) Applies to RTTR Only, and 3)
-        Applies to RTTBC Only. These rules are grouped accordingly below.</p>
+      <p>Contest rules can be broken down into 3 Sections:
+        <ol>
+          <li>Applies to All Contests</li>
+          <li>Applies to RTTBC Only</li>
+          <li>Applies to RTTR Only</li>
+        </ol>
+        These rules are grouped accordingly below.</p>
 
       <center>
         <h4>All Contests</h4>
