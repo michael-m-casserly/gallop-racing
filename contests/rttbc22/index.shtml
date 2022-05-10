@@ -6,6 +6,13 @@
 
   <title>Road to the Breeders' Cup 2022 | Gallop Racing</title>
 
+    <!--Special P style for RTTBC 22 page only-->
+    <style>
+      p {
+        text-align: center;
+      }
+    </style>
+  
   <link rel="canonical" href="https://www.gallop-racing.com/contests/rttbc22/index.shtml" />
 
 </head>
@@ -38,9 +45,8 @@
           <!--begin left column-->
 
           <!--#include virtual="/modules/rttbc22-races-upcoming.html" -->
+          <!--#include virtual="/modules/rttbc22-contest-info.html" -->
           <!--#include virtual="/modules/resources-rttbc.html" -->
-
-          <!--#include virtual="/modules/resources.html" -->
 
         </div>
         <!--end left column-->
@@ -51,20 +57,17 @@
           <!--#include virtual="/modules/twitter.html" -->
           <!--#include virtual="/modules/television.html" -->
           <!--#include virtual="/modules/stakes-calendar.html" -->
-
+          <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
+        
         </div>
         <!--end middle column-->
 
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/rttbc22-contest-info.html" -->
-
+          <!--#include virtual="/modules/resources.html" -->
           <!--#include virtual="/contests/how-to-play-rttbc.html" -->
-
           <!--#include virtual="/contests/rttbc-scoring-table.html" -->
-
-          <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
 
         </div>
         <!--end right column-->
