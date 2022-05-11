@@ -111,25 +111,33 @@
             <p>February to May 2021</p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttr147.shtml"
                 role="button">Go to Contest</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+                href="https://twitter.com/hashtag/rttr147?f=live" role="button" target="_blank"><svg class="bi"
+                  width="20" height="20" role="img" aria-label="Twitter">
+                  <title id="twitter-label-mouseover">Twitter</title>
+                  <use xlink:href="#twitter" />
+                </svg> #rttr147 News &raquo;</a></p>
           </div>
         </div>
         <!--end left column-->
         <div class="col-lg-4">
           <!--begin middle column-->
           <div class="round-border">
-            <h5>Champions</h5>
+            <h5>Stats</h5>
             <p>2006 to present</p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/champions.shtml"
-                role="button">Go</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+                href="/contests/all-time-leaders.shtml" role="button">All-Time Leaders</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/champions.shtml"
+                role="button">Champions</a></p>
           </div>
         </div>
         <!--end middle column-->
         <div class="col-lg-4">
           <!--begin right column-->
           <div class="round-border">
-            <h5>How to Play</h5>
-            <p>RTTR, RTTBC</p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/how-to-play.shtml"
+            <h5>Legend</h5>
+            <p>Definitions from Stable Sheets, etc.</p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/legend.shtml"
                 role="button">Go</a></p>
           </div>
         </div>
@@ -143,30 +151,24 @@
         <div class="col-lg-4">
           <!--begin left column-->
           <div class="round-border">
-            <h5>Legend</h5>
-            <p>Definitions from Stable Sheets, etc.</p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/legend.shtml"
-                role="button">Go</a></p>
+            <h5>Contest Details</h5>
+            <!--p>RTTR, RTTBC</p-->
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/how-to-play.shtml"
+                role="button">How to Play</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rules.shtml"
+                role="button">Rules</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/strategies.shtml"
+                role="button">Strategies</a></p>
           </div>
         </div>
         <!--end left column-->
         <div class="col-lg-4">
           <!--begin middle column-->
-          <div class="round-border">
-            <h5>Rules</h5>
-            <p>Contest Rules</p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rules.shtml"
-                role="button">Go</a></p>
-          </div>
+
         </div>
         <!--end middle column-->
         <div class="col-lg-4">
-          <div class="round-border">
-            <h5>Strategies</h5>
-            <p>Variable Drafting, etc.</p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/strategies.shtml"
-                role="button">Go</a></p>
-          </div>
+
         </div>
         <!--end right column-->
 
