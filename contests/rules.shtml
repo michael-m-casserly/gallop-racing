@@ -400,6 +400,12 @@
                     <td>Coupled Entries will not be treated as such for scoring purposes. You will only earn points for
                       the placing of the actual horse in your stable, and not his coupled entry.</td>
                   </tr>
+                  <tr>
+                    <th class="TableHeader text-align-center">SCR-009</th>
+                  </tr>
+                  <tr>
+                    <td>2x "Power Points" are for Horses ONLY. There are no Power Points for Trainers, Jockeys, or Sires.</td>
+                  </tr>
                 </table>
               </center>
             </div>
