@@ -83,7 +83,7 @@
             <td style="background-color: orange;">Previous Breeders' Cup Winner.</td>
           </tr>
           <tr>
-            <td style="background-color: lawngreen;">Breeders' Cup "Win And You're In" Winner.</td>
+            <td style="background-color: #018786; color: #FFFFFF;">Breeders' Cup "Win And You're In" Winner.</td>
           </tr>
         </table>
       </div>
