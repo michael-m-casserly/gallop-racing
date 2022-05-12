@@ -40,34 +40,62 @@
           <th class="text-align-center" colspan="2">Stable Sheet, Column A</th>
         </tr>
         <tr>
+          <td class="drafted-player">Also Eligible</td>
+          <td>Horse has been added to the Also Eligible (AE) list for an upcoming RTTR/BC race.</td>
+        </tr>
+        <tr>
+          <td class="drafted-player">Deceased</td>
+          <td>Horse is recently deceased.</td>
+        </tr>
+        <tr>
           <td class="drafted-player">Did Not Enter</td>
-          <td>Horse was Nominated for a Stakes race, but Did Not Enter.</td>
+          <td>Horse was nominated for a stakes race, but did not enter.</td>
+        </tr>
+        <tr>
+          <td class="drafted-player">DNF</td>
+          <td>Horse did not finish their last stakes race.</td>
         </tr>
         <tr>
           <td class="drafted-player">Entered</td>
-          <td>Horse is Entered into an upcoming RTTR race.</td>
+          <td>Horse is entered into an upcoming RTTR/BC race.</td>
         </tr>
         <tr>
           <td class="drafted-player">*Entered</td>
-          <td>RTTR Horse is Entered into a non-RTTR race.</td>
+          <td>RTTR/BC Horse is entered into a non-RTTR/BC race.</td>
+        </tr>
+        <tr>
+          <td class="drafted-player">Injured</td>
+          <td>Horse is currently injured.</td>
+        </tr>
+        <tr>
+          <td class="drafted-player">Layoff</td>
+          <td>Horse is currently resting / not training.</td>
         </tr>
         <tr>
           <td class="drafted-player">Nominated</td>
-          <td>Horse is Nominated for an upcoming Stakes race.</td>
+          <td>Horse is nominated for an upcoming stakes race.</td>
         </tr>
         <tr>
           <td class="drafted-player">OFF TRAIL</td>
-          <td>Horse is no longer considering the Kentucky Derby.</td>
+          <td>Horse is no longer considering the Kentucky Derby / Breeders' Cup.</td>
+        </tr>
+        <tr>
+          <td class="drafted-player">Pre-Entered</td>
+          <td>Horse has been pre-entered into a Breeders' Cup race.</td>
+        </tr>
+        <tr>
+          <td class="drafted-player">Retired</td>
+          <td>Horse has been retired.</td>
         </tr>
         <tr>
           <td class="drafted-player">SCR</td>
-          <td>Horse scratched from their last Stakes race.</td>
+          <td>Horse scratched from their last stakes race.</td>
         </tr>
       </table>
       <br/>
       <table class="TableStandard">
         <tr class="TableHeader">
-          <th class="text-align-center" colspan="2">Stable Sheet, Column E</th>
+          <th class="text-align-center" colspan="2">Stable Sheet, Column E (RTTR Only)</th>
         </tr>
       <tr>
         <td class="drafted-player" style="width: 25%;">Early</td>
