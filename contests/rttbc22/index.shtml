@@ -45,7 +45,6 @@
           <!--begin left column-->
 
           <!--#include virtual="/modules/rttbc22-races-upcoming.html" -->
-          <!--#include virtual="/modules/rttbc22-contest-info.html" -->
           <!--#include virtual="/modules/resources-rttbc.html" -->
 
         </div>
@@ -54,8 +53,8 @@
         <div class="col-lg-4">
           <!--begin middle column-->
 
+          <!--#include virtual="/modules/rttbc22-contest-info.html" -->
           <!--#include virtual="/modules/twitter.html" -->
-          <!--#include virtual="/modules/television.html" -->
           <!--#include virtual="/modules/stakes-calendar.html" -->
           <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
         
@@ -65,17 +64,182 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
+          <!--#include virtual="/modules/calendar.html" -->
           <!--#include virtual="/modules/resources.html" -->
-          <!--#include virtual="/contests/how-to-play-rttbc.html" -->
-          <!--#include virtual="/contests/rttbc-scoring-table.html" -->
+          <!--#include virtual="/modules/television.html" -->
 
         </div>
         <!--end right column-->
 
-        <a id="schedule"></a>
       </div>
       <!--row #1-->
 
+      <div class="accordion" id="accordionRTTBC22data">
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingZero">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
+              Leading Horses / Horses by Stable
+            </button>
+          </h2>
+          <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero"
+            data-bs-parent="#accordionRTTBC22data">
+            <div class="accordion-body">
+
+              <div class="row">
+                <div class="col-sm-4">
+                  <!--begin left column-->
+
+                  <!--#include virtual="/modules/rttbc22-leading-horses.html"-->
+
+                </div>
+                <!--end left column-->
+
+                <div class="col-sm-8">
+                  <!--begin middle column-->
+
+                  <!--#include virtual="/modules/rttbc22-horses-by-stable.html"-->
+
+                </div>
+                <!--end right column-->
+
+              </div>
+              <!--end row-->
+
+            </div>
+          </div>
+        </div>
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingOne">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+              Trainers, Jockeys & Sires by Stable
+            </button>
+          </h2>
+          <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
+            data-bs-parent="#accordionRTTBC22data">
+            <div class="accordion-body">
+
+              <div class="row">
+                <div class="col-lg-4">
+                  <!--begin left column-->
+
+                  <!--#include virtual="/modules/rttbc22-trainers-by-stable.html"-->
+
+                </div>
+                <!--end left column-->
+
+                <div class="col-lg-4">
+                  <!--begin middle column-->
+
+                  <!--#include virtual="/modules/rttbc22-jockeys-by-stable.html"-->
+
+                </div>
+                <!--end middle column-->
+
+                <div class="col-lg-4">
+                  <!--begin right column-->
+
+                  <!--#include virtual="/modules/rttbc22-sires-by-stable.html"-->
+
+                </div>
+                <!--end right column-->
+
+              </div>
+              <!--end row-->
+
+            </div>
+          </div>
+        </div>
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingTwo">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+              Leading Trainers, Jockeys & Sires
+            </button>
+          </h2>
+          <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+            data-bs-parent="#accordionRTTBC22data">
+            <div class="accordion-body">
+
+              <div class="row">
+                <div class="col-lg-4">
+                  <!--begin left column-->
+
+                  <!--#include virtual="/modules/rttbc22-leading-trainers.html"-->
+
+                </div>
+                <!--end left column-->
+
+                <div class="col-lg-4">
+                  <!--begin middle column-->
+
+                  <!--#include virtual="/modules/rttbc22-leading-jockeys.html"-->
+
+                </div>
+                <!--end middle column-->
+
+                <div class="col-lg-4">
+                  <!--begin right column-->
+
+                  <!--#include virtual="/modules/rttbc22-leading-sires.html"-->
+
+                </div>
+                <!--end right column-->
+
+              </div>
+              <!--end row-->
+
+            </div>
+          </div>
+        </div>
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingThree">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              How to Play / RTTBC Scoring / Contest Notes
+            </button>
+          </h2>
+          <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+            data-bs-parent="#accordionRTTBC22data">
+            <div class="accordion-body">
+
+              <div class="row">
+                <div class="col-lg-4">
+                  <!--begin left column-->
+
+                  <!--#include virtual="/contests/how-to-play-rttbc.html" -->
+
+                </div>
+                <!--end left column-->
+
+                <div class="col-lg-4">
+                  <!--begin middle column-->
+
+                  <!--#include virtual="/contests/rttbc-scoring-table.html" -->
+
+                </div>
+                <!--end middle column-->
+
+                <div class="col-lg-4">
+                <!--begin right column-->
+
+                  <!--#include virtual="/modules/rttbc22-contest-notes.html"-->
+
+                </div>
+                <!--end right column-->
+
+              </div>
+              <!--end row-->
+
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+
+<a id="schedule"></a>
       <br />
       <div class="row">
         <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSAq7Rxp7pZUrUrLsjcQZx_PlIZ-HnhBBfpjZ01FNLpinOHjvUrIaLfv382kwas0XXuvSDkJlh3drrv/pubhtml?gid=1411863973&single=true&amp;widget=true&amp;headers=false"
