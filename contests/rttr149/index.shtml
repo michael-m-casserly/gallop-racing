@@ -49,7 +49,7 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/rttr149-contest-info.html" -->
+          <!--#include virtual="/modules/rttr149/contest-info.html" -->
 
           <div class="round-border">
             <h5>Upcoming Races</h5>
@@ -892,7 +892,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
 
-          <!--#include virtual="/modules/rttr149-leading-horses.html"-->
+          <!--#include virtual="/modules/rttr149/leading-horses.html"-->
 
         </div>
         <!--end middle column-->
@@ -900,7 +900,7 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/rttr149-horses-by-stable.html"-->
+          <!--#include virtual="/modules/rttr149/horses-by-stable.html"-->
 
         </div>
         <!--end right column-->
@@ -923,7 +923,7 @@
                 <div class="col-lg-4">
                   <!--begin left column-->
 
-                  <!--#include virtual="/modules/rttr149-leading-trainers.html"-->
+                  <!--#include virtual="/modules/rttr149/leading-trainers.html"-->
 
                 </div>
                 <!--end left column-->
@@ -931,7 +931,7 @@
                 <div class="col-lg-4">
                   <!--begin middle column-->
 
-                  <!--#include virtual="/modules/rttr149-leading-jockeys.html"-->
+                  <!--#include virtual="/modules/rttr149/leading-jockeys.html"-->
 
                 </div>
                 <!--end middle column-->
@@ -939,7 +939,7 @@
                 <div class="col-lg-4">
                   <!--begin right column-->
 
-                  <!--#include virtual="/modules/rttr149-trainer-jockey-combo-by-stable.html"-->
+                  <!--#include virtual="/modules/rttr149/trainer-jockey-combo-by-stable.html"-->
 
                 </div>
                 <!--end right column-->
@@ -965,7 +965,7 @@
                 <div class="col-lg-4">
                   <!--begin left column-->
 
-                  <!--#include virtual="/modules/rttr149-trainers-by-stable.html"-->
+                  <!--#include virtual="/modules/rttr149/trainers-by-stable.html"-->
 
                 </div>
                 <!--end left column-->
@@ -973,7 +973,7 @@
                 <div class="col-lg-4">
                   <!--begin middle column-->
 
-                  <!--#include virtual="/modules/rttr149-jockeys-by-stable.html"-->
+                  <!--#include virtual="/modules/rttr149/jockeys-by-stable.html"-->
 
                 </div>
                 <!--end middle column-->
@@ -981,7 +981,7 @@
                 <div class="col-lg-4">
                   <!--begin right column-->
 
-                  <!--#include virtual="/modules/rttr149-contest-notes.html"-->
+                  <!--#include virtual="/modules/rttr149/contest-notes.html"-->
 
                 </div>
                 <!--end right column-->
@@ -1007,7 +1007,7 @@
                 <div class="col-lg-4">
                   <!--begin left column-->
 
-                  <!--#include virtual="/contests/how-to-play-rttr.html" -->
+                  <!--#include virtual="/modules/how-to-play-rttr.html" -->
 
                 </div>
                 <!--end left column-->
@@ -1015,7 +1015,7 @@
                 <div class="col-lg-4">
                   <!--begin middle column-->
 
-                  <!--#include virtual="/contests/rttr-scoring-table.html" -->
+                  <!--#include virtual="/modules/rttr-scoring-table.html" -->
 
                 </div>
                 <!--end middle column-->

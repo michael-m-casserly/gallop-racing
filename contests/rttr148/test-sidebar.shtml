@@ -112,7 +112,7 @@
 
   <div class="col-lg-4"> <!--begin left column-->
 
-    <!--#include virtual="/modules/rttr148-contest-info.html" -->  
+    <!--#include virtual="/modules/rttr148/contest-info.html" -->  
     
     <a id="twitter"></a>
       <div class="round-border"><h5>Contest News</h5>
@@ -284,16 +284,16 @@
           </center>
     </div>
      
-    <!--#include virtual="/contests/how-to-play-rttr.html" -->  
+    <!--#include virtual="/modules/how-to-play-rttr.html" -->  
   
-    <!--#include virtual="/contests/rttr-scoring-table.html" -->    
+    <!--#include virtual="/modules/rttr-scoring-table.html" -->    
     
    
       </div><!--end middle column-->
 
   <div class="col-lg-4"> <!--begin right column-->
   
-    <!--#include virtual="/modules/rttr148-horses-by-stable.html"-->
+    <!--#include virtual="/modules/rttr148/horses-by-stable.html"-->
       
   </div><!--end right column-->
 
@@ -313,13 +313,13 @@
         <div class="row">
           <div class="col-lg-4"> <!--begin left column-->
             
-            <!--#include virtual="/modules/rttr148-trainers-by-stable.html"-->
+            <!--#include virtual="/modules/rttr148/trainers-by-stable.html"-->
         
           </div> <!--end left column-->
         
           <div class="col-lg-4"> <!--begin middle column-->
         
-            <!--#include virtual="/modules/rttr148-jockeys-by-stable.html"-->
+            <!--#include virtual="/modules/rttr148/jockeys-by-stable.html"-->
         
           </div> <!--end middle column-->
         
@@ -358,21 +358,21 @@
         <div class="row">
           <div class="col-lg-4"> <!--begin left column-->
         
-            <!--#include virtual="/modules/rttr148-leading-horses.html"-->
+            <!--#include virtual="/modules/rttr148/leading-horses.html"-->
         
           </div> <!--end left column-->
         
           <div class="col-lg-4"> <!--begin middle column-->
         
-            <!--#include virtual="/modules/rttr148-leading-trainers.html"-->
+            <!--#include virtual="/modules/rttr148/leading-trainers.html"-->
           
-              <!--#include virtual="/modules/rttr148-leading-jockeys.html"-->
+              <!--#include virtual="/modules/rttr148/leading-jockeys.html"-->
         
           </div> <!--end middle column-->
         
           <div class="col-lg-4"> <!--begin right column-->
          
-                <!--#include virtual="/modules/rttr148-trainer-jockey-combo-by-stable.html"-->
+                <!--#include virtual="/modules/rttr148/trainer-jockey-combo-by-stable.html"-->
         
           </div> <!--end right column-->
         

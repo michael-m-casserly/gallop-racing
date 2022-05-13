@@ -55,8 +55,8 @@
           <!--begin middle column-->
 
           <!--#include virtual="/modules/calendar.html" -->
-          <!--include virtual="/contests/how-to-play-rttr.html" -->
-          <!--#include virtual="/contests/how-to-play-rttbc.html" -->
+          <!--include virtual="/modules/how-to-play-rttr.html" -->
+          <!--#include virtual="/modules/how-to-play-rttbc.html" -->
           <!--#include virtual="/modules/resources-rttbc.html" -->
 
         </div>

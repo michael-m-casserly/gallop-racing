@@ -44,7 +44,7 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/rttbc22-races-upcoming.html" -->
+          <!--#include virtual="/modules/rttbc22/races-upcoming.html" -->
           <!--#include virtual="/modules/resources-rttbc.html" -->
 
         </div>
@@ -53,7 +53,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
 
-          <!--#include virtual="/modules/rttbc22-contest-info.html" -->
+          <!--#include virtual="/modules/rttbc22/contest-info.html" -->
           <!--#include virtual="/modules/twitter.html" -->
           <!--#include virtual="/modules/stakes-calendar.html" -->
           <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
@@ -90,7 +90,7 @@
                 <div class="col-sm-4">
                   <!--begin left column-->
 
-                  <!--#include virtual="/modules/rttbc22-leading-horses.html"-->
+                  <!--#include virtual="/modules/rttbc22/leading-horses.html"-->
 
                 </div>
                 <!--end left column-->
@@ -98,7 +98,7 @@
                 <div class="col-sm-8">
                   <!--begin middle column-->
 
-                  <!--#include virtual="/modules/rttbc22-horses-by-stable.html"-->
+                  <!--#include virtual="/modules/rttbc22/horses-by-stable.html"-->
 
                 </div>
                 <!--end right column-->
@@ -124,7 +124,7 @@
                 <div class="col-lg-4">
                   <!--begin left column-->
 
-                  <!--#include virtual="/modules/rttbc22-trainers-by-stable.html"-->
+                  <!--#include virtual="/modules/rttbc22/trainers-by-stable.html"-->
 
                 </div>
                 <!--end left column-->
@@ -132,7 +132,7 @@
                 <div class="col-lg-4">
                   <!--begin middle column-->
 
-                  <!--#include virtual="/modules/rttbc22-jockeys-by-stable.html"-->
+                  <!--#include virtual="/modules/rttbc22/jockeys-by-stable.html"-->
 
                 </div>
                 <!--end middle column-->
@@ -140,7 +140,7 @@
                 <div class="col-lg-4">
                   <!--begin right column-->
 
-                  <!--#include virtual="/modules/rttbc22-sires-by-stable.html"-->
+                  <!--#include virtual="/modules/rttbc22/sires-by-stable.html"-->
 
                 </div>
                 <!--end right column-->
@@ -166,7 +166,7 @@
                 <div class="col-lg-4">
                   <!--begin left column-->
 
-                  <!--#include virtual="/modules/rttbc22-leading-trainers.html"-->
+                  <!--#include virtual="/modules/rttbc22/leading-trainers.html"-->
 
                 </div>
                 <!--end left column-->
@@ -174,7 +174,7 @@
                 <div class="col-lg-4">
                   <!--begin middle column-->
 
-                  <!--#include virtual="/modules/rttbc22-leading-jockeys.html"-->
+                  <!--#include virtual="/modules/rttbc22/leading-jockeys.html"-->
 
                 </div>
                 <!--end middle column-->
@@ -182,7 +182,7 @@
                 <div class="col-lg-4">
                   <!--begin right column-->
 
-                  <!--#include virtual="/modules/rttbc22-leading-sires.html"-->
+                  <!--#include virtual="/modules/rttbc22/leading-sires.html"-->
 
                 </div>
                 <!--end right column-->
@@ -208,7 +208,7 @@
                 <div class="col-lg-4">
                   <!--begin left column-->
 
-                  <!--#include virtual="/contests/how-to-play-rttbc.html" -->
+                  <!--#include virtual="/modules/how-to-play-rttbc.html" -->
 
                 </div>
                 <!--end left column-->
@@ -216,7 +216,7 @@
                 <div class="col-lg-4">
                   <!--begin middle column-->
 
-                  <!--#include virtual="/contests/rttbc-scoring-table.html" -->
+                  <!--#include virtual="/modules/rttbc-scoring-table.html" -->
 
                 </div>
                 <!--end middle column-->
@@ -224,7 +224,7 @@
                 <div class="col-lg-4">
                 <!--begin right column-->
 
-                  <!--#include virtual="/modules/rttbc22-contest-notes.html"-->
+                  <!--#include virtual="/modules/rttbc22/contest-notes.html"-->
 
                 </div>
                 <!--end right column-->

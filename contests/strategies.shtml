@@ -63,7 +63,7 @@
           
                   <p>RTTR Points in the Kentucky Derby itself are worth a lot more, so there is definitely some thoughtful consideration required by each stable on their best combination. The most common is 3 then 2, or 4 then 1, or all 5 up front. Rarely are 4 or 5 left until Derby Week. But it all depends on each stable, their current position, stable strength, etc. This is where the RTTR Contest gets interesting!</p>
           
-                  <!--#include virtual="/contests/rttr-scoring-table.html" -->
+                  <!--#include virtual="/modules/rttr-scoring-table.html" -->
                   
                   <center><h5>RTTR Variable Supplemental Draft Sample Schedule</h5><img src="/images/sample-supp-draft-schedule.png" alt="Sample Supplemental Draft Schedule" title="Sample Supplemental Draft Schedule" style="max-width: 600px;" /></center>
                   
@@ -95,7 +95,7 @@
           
                   <p>The most common approach is to draft runners for the Grade 1 races. The logic being, these are the horses most likely to move onto the Breeders' Cup. In addition, if they happen to lose a Grade 1 race, then they are very likely to come back and run in a lesser Grade 2 or Grade 3 race. Whereas if a horse were to lose a Grade 3 race, it would be unlikely to see them move onto the higher level Grade 2 and Grade 1 races.</p>
           
-                  <!--#include virtual="/contests/rttbc-scoring-table.html" -->
+                  <!--#include virtual="/modules/rttbc-scoring-table.html" -->
                   
               </div>
             </div>

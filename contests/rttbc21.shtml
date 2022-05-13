@@ -36,7 +36,7 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/rttbc21-final-standings.html" -->
+          <!--#include virtual="/modules/rttbc21/final-standings.html" -->
 
         </div>
         <!--end left column-->
@@ -44,9 +44,9 @@
         <div class="col-lg-4">
           <!--begin middle column-->
 
-          <!--#include virtual="/modules/rttbc21-contest-info.html" -->
-          <!--#include virtual="/modules/rttbc21-leading-horses.html" -->
-          <!--#include virtual="/modules/rttbc21-leading-sires.html" -->
+          <!--#include virtual="/modules/rttbc21/contest-info.html" -->
+          <!--#include virtual="/modules/rttbc21/leading-horses.html" -->
+          <!--#include virtual="/modules/rttbc21/leading-sires.html" -->
 
         </div>
         <!--end middle column-->
@@ -54,8 +54,8 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/rttbc21-leading-trainers.html" -->
-          <!--#include virtual="/modules/rttbc21-leading-jockeys.html" -->
+          <!--#include virtual="/modules/rttbc21/leading-trainers.html" -->
+          <!--#include virtual="/modules/rttbc21/leading-jockeys.html" -->
 
         </div>
         <!--end right column-->
