@@ -84,7 +84,7 @@
           </h2>
           <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero"
             data-bs-parent="#accordionRTTBC22data">
-            <div class="accordion-body">
+            <div class="accordion-body accordion-td-cell">
 
               <div class="row">
                 <div class="col-sm-4">
@@ -118,7 +118,7 @@
           </h2>
           <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
             data-bs-parent="#accordionRTTBC22data">
-            <div class="accordion-body">
+            <div class="accordion-body accordion-td-cell">
 
               <div class="row">
                 <div class="col-lg-4">
@@ -160,7 +160,7 @@
           </h2>
           <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
             data-bs-parent="#accordionRTTBC22data">
-            <div class="accordion-body">
+            <div class="accordion-body accordion-td-cell">
 
               <div class="row">
                 <div class="col-lg-4">
@@ -202,7 +202,7 @@
           </h2>
           <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
             data-bs-parent="#accordionRTTBC22data">
-            <div class="accordion-body">
+            <div class="accordion-body accordion-td-cell">
 
               <div class="row">
                 <div class="col-lg-4">
@@ -256,13 +256,13 @@
         </div>
         <table class="TableStandard">
           <tr>
-            <td style="background-color: #6d9eeb">Horse in an RTTBC22 Stable at Race Time.</td>
+            <td class="table-legend-horse-in-stable">Horse in an RTTBC22 Stable.</td>
           </tr>
           <tr>
-            <td style="background-color: orange;">Previous Breeders' Cup Winner.</td>
+            <td class="table-legend-bc-previous-winner">Previous Breeders' Cup Winner. (Not in RTTBC22 Stable)</td>
           </tr>
           <tr>
-            <td style="background-color: #018786; color: #FFFFFF;">Breeders' Cup "Win And You're In" Winner.</td>
+            <td class="table-legend-bc-wayi">Breeders' Cup "Win And You're In" Winner. (Not in RTTBC22 Stable)</td>
           </tr>
         </table>
       </div>

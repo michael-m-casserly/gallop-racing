@@ -344,3 +344,18 @@ p.module-button-wrapper {
 td.race-buttons {
   padding-top: 10px;
 }
+
+.table-legend-horse-in-stable {
+  background-color: #073763; 
+  font-weight: bold; 
+  color: #ffffff;
+}
+
+.table-legend-bc-wayi {
+  background-color: #018786; 
+  color: #FFFFFF;
+}
+
+.table-legend-bc-previous-winner {
+  background-color: orange;
+}

@@ -77,13 +77,13 @@
         </div>
         <table class="TableStandard">
           <tr>
-            <td style="background-color: #6d9eeb">Horse in an RTTBC21 Stable at Race Time.</td>
+            <td class="table-legend-horse-in-stable">Horse in an RTTBC21 Stable at Race Time.</td>
           </tr>
           <tr>
-            <td style="background-color: orange;">Previous Breeders' Cup Winner.</td>
+            <td class="table-legend-bc-previous-winner">Previous Breeders' Cup Winner.</td>
           </tr>
           <tr>
-            <td style="background-color: #018786; color: #FFFFFF;">Breeders' Cup "Win And You're In" Winner.</td>
+            <td class="table-legend-bc-wayi">Breeders' Cup "Win And You're In" Winner.</td>
           </tr>
         </table>
       </div>
