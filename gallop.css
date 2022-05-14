@@ -352,10 +352,12 @@ td.race-buttons {
 }
 
 .table-legend-bc-wayi {
-  background-color: #018786; 
+  background-color: #018786;
+  font-weight: bold; 
   color: #FFFFFF;
 }
 
 .table-legend-bc-previous-winner {
   background-color: orange;
+  font-weight: bold; 
 }
