@@ -58,7 +58,7 @@
                 role="button">Go to Contest</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn"
                 href="https://twitter.com/hashtag/rttbc22?f=live" role="button" target="_blank"><svg class="bi"
-                  width="20" height="20" role="img" aria-label="Twitter">
+                  width="16" height="16" role="img" aria-label="Twitter">
                   <title id="twitter-label-mouseover">Twitter</title>
                   <use xlink:href="#twitter" />
                 </svg> #rttbc22 News &raquo;</a></p>
@@ -75,7 +75,7 @@
                 role="button">Go to Contest</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn"
                 href="https://twitter.com/hashtag/rttr148?f=live" role="button" target="_blank"><svg class="bi"
-                  width="20" height="20" role="img" aria-label="Twitter">
+                  width="16" height="16" role="img" aria-label="Twitter">
                   <title id="twitter-label-mouseover">Twitter</title>
                   <use xlink:href="#twitter" />
                 </svg> #rttr148 News &raquo;</a></p>
@@ -92,7 +92,7 @@
                 role="button">Go to Contest</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn"
                 href="https://twitter.com/hashtag/rttbc2021?f=live" role="button" target="_blank"><svg class="bi"
-                  width="20" height="20" role="img" aria-label="Twitter">
+                  width="16" height="16" role="img" aria-label="Twitter">
                   <title id="twitter-label-mouseover">Twitter</title>
                   <use xlink:href="#twitter" />
                 </svg> #rttbc2021 News &raquo;</a></p>
@@ -113,7 +113,7 @@
                 role="button">Go to Contest</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn"
                 href="https://twitter.com/hashtag/rttr147?f=live" role="button" target="_blank"><svg class="bi"
-                  width="20" height="20" role="img" aria-label="Twitter">
+                  width="16" height="16" role="img" aria-label="Twitter">
                   <title id="twitter-label-mouseover">Twitter</title>
                   <use xlink:href="#twitter" />
                 </svg> #rttr147 News &raquo;</a></p>
