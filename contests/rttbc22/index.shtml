@@ -44,8 +44,8 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
+          <!--#include virtual="/modules/calendar.html" -->
           <!--#include virtual="/modules/rttbc22/races-upcoming.html" -->
-          <!--#include virtual="/modules/resources-rttbc.html" -->
 
         </div>
         <!--end left column-->
@@ -64,7 +64,7 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/calendar.html" -->
+          <!--#include virtual="/modules/resources-rttbc.html" -->          
           <!--#include virtual="/modules/resources.html" -->
           <!--#include virtual="/modules/television.html" -->
 
@@ -254,7 +254,7 @@
             onload="document.getElementById('spinner').style.display='none';"></iframe>
 
         </div>
-        <table class="TableStandard">
+        <table class="TableStandard" style="max-width: 550px;">
           <tr>
             <td class="table-legend-horse-in-stable">Horse in an RTTBC22 Stable.</td>
           </tr>
