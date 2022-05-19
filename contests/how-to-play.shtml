@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!--#include virtual="/banner-head.html" -->
+
+  <title>How to Play | Gallop Racing</title>
+
+  <link rel="canonical" href="https://www.gallop-racing.com/contests/how-to-play.shtml" />
+
+</head>
+
+<body class="bodyTag">
+  <!--Begin Banner-->
+  <!--#include virtual="/banner.html" -->
+  <!--End Banner-->
+
+
+
+
+
+
+  <!--Begin Main Content Section-->
+  <main class="container container-round-border">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
+        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">How To Play</span></li>
+      </ol>
+    </nav>
+
+    <div class="text-align-center">
+      <h3>How to Play</h3>
+    </div>
+
+    <div class="container marketing">
+
+      <p>Gallop currently offers two separate contests. One is the "Road to the Roses", or RTTR, and the other is the
+        "Road to the Breeders' Cup", or RTTBC. RTTR runs from January into May, and RTTBC runs from June into November.
+        These contests function like <i>traditional</i> fantasy sports (as opposed to <i>daily</i> fantasy sports). The
+        focus here is on a season-long contest, with weekly scoring events. These type of contests tend to work best
+        when you can participate amongst family and friends and compete against each other.</p>
+      <p>Specific details on each contest can be found below, along with some details that apply to all contests.</p>
+
+      <div class="accordion" id="accordionHowToPlay">
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingHowToPlayRTTR">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseHowToPlayRTTR" aria-expanded="false" aria-controls="collapseHowToPlayRTTR">
+              Contest #1<br />Road to the Roses (RTTR)
+            </button>
+          </h2>
+          <div id="collapseHowToPlayRTTR" class="accordion-collapse collapse" aria-labelledby="headingHowToPlayRTTR"
+            data-bs-parent="#accordionHowToPlay">
+            <div class="accordion-body">
+              <h4>Kentucky Derby</h4>
+              <p>In mid-January you'll draft <b>5 horses, 2 trainers, and 2 jockeys</b> whom you think have a good
+                chance at winning the Kentucky Derby.</p>
+
+              <p>There will be 7 races from late January thru mid-February where you can earn points.</p>
+
+              <p>The 2nd draft of <b>5 horses</b> will take place in mid-February.</p>
+
+              <p>There will be 10 races following that draft up until the next draft at the end of March.</p>
+
+              <p>The draft at the end of March is a variable draft, meaning you can take anywhere from <b>0-5
+                  horses</b>.</p>
+
+              <p>There will be 7 races following that draft leading up to the Derby.</p>
+
+              <p>The week of the Derby, you can use any of those <b>0-5 horse</b> selections that you didn't use at the
+                end of March to complete your stable.</p>
+
+              <p>Come Derby Day, you'll end up with <b>15 horses, 2 trainers and 2 jockeys</b> in your stable.</p>
+
+              <p>Horse points are awarded for the Top 4 finishers in each race. Trainer and Jockey points are only
+                awarded to the Winner.</p>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingHowToPlayRTTBC">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseHowToPlayRTTBC" aria-expanded="false" aria-controls="collapseHowToPlayRTTBC">
+              Contest #2<br />Road to the Breeders' Cup (RTTBC)
+            </button>
+          </h2>
+          <div id="collapseHowToPlayRTTBC" class="accordion-collapse" aria-labelledby="headingHowToPlayRTTBC"
+            data-bs-parent="#accordionHowToPlay">
+            <div class="accordion-body">
+              <h4>Breeders' Cup (7 Dirt Divisions)</h4>
+              <p>In early June you'll draft <b>7 horses, 2 trainers, 2 jockeys, and 2 sires</b> whom you think have a
+                good chance of succeeding in the 7 Breeders' Cup Dirt Divisions.</p>
+
+              <p>There will be 14 races in June where you can earn points.</p>
+
+              <p>The 1st Supplemental Draft of <b>5 horses</b> will take place in late June, early July.</p>
+
+              <p>There will be 17 races following that draft.</p>
+
+              <p>The 2nd Supplemental Draft of <b>5 horses</b> will take place in mid-late July.</p>
+
+              <p>There will be 18 races following that draft.</p>
+
+              <p>The 3rd Supplemental Draft of <b>5 horses</b> will take place in mid-August.</p>
+
+              <p>There will be 14 races following that draft.</p>
+
+              <p>The 4th Supplemental Draft of <b>5 horses</b> will take place in late August, early September. You will
+                also add on <b>1 trainer, 1 jockey, and 1 sire</b> during this draft.</p>
+
+              <p>There will be 20 races following that draft.</p>
+
+              <p>The 5th Supplemental Draft of <b>5 horses</b> will take place in early October.</p>
+
+              <p>There will be 21 races following that draft up until the next draft in early November.</p>
+
+              <p>The week of the Breeders' Cup, you will add on <b>3 Horses</b> to complete your stable.</p>
+
+              <p>Come Breeders' Cup weekend, you'll end up with <b>35 horses, 3 trainers, 3 jockeys and 3 sires</b> in
+                your stable.</p>
+
+              <p>Horse points are awarded for the Top 3 finishers in each race. Trainer, Jockey and Sire points are only
+                awarded to the Winner.</p>
+
+            </div>
+          </div>
+        </div>
+
+      </div>
+      <br />
+      <center>
+        <h4>All Contests</h4>
+      </center>
+      <p>Stables can have the same horses, trainers and jockeys as other player's stables. The opportunity to separate
+        comes with the "Power Horses" you select each week. Those horses will earn you 2x points.</p>
+
+      <p>All horses, trainers, jockeys and sires (RTTBC only) in your stable are eligible to score points every week.
+        There is no "starting" or "sitting/benching" of entries in your stable.</p>
+
+      <p>As the contest goes on, the races are worth more points. So even if you stumble out of the gate, you can make
+        up a lot of ground down the stretch!</p>
+
+      <br />
+
+      <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttr148/index.shtml"
+          role="button">Road to the Roses 148</a></p>
+      <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttbc22/index.shtml"
+          role="button">Breeders' Cup 2022</a></p>
+      <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rules.shtml" role="button">Rules</a>
+      </p>
+      <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/strategies.shtml"
+          role="button">Strategies</a></p>
+
+      <!-- FOOTER -->
+
+      <!--#include virtual="/footer-page.html" -->
+
+    </div>
+    <!--container-->
+
+    <!--#include virtual="/footer.html" -->
+
+
+  </main>
+
+
+</body>
+
+</html>
