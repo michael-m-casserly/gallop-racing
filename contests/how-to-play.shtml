@@ -46,6 +46,7 @@
       <p>Specific details on each contest can be found below, along with some details that apply to all contests.</p>
 
       <div class="accordion" id="accordionHowToPlay">
+        <a id="kentuckyderby"></a>
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingHowToPlayRTTR">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
@@ -94,7 +95,7 @@
             </div>
           </div>
         </div>
-
+<a id="breederscup"></a>
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingHowToPlayRTTBC">
             <button class="accordion-button" type="button" data-bs-toggle="collapse"
