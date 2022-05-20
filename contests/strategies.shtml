@@ -77,7 +77,7 @@
                 RTTBC Approach
               </button>
             </h2>
-            <div id="collapseRTTBC" class="accordion-collapse collapse" aria-labelledby="headingRTTBC"
+            <div id="collapseRTTBC" class="accordion-collapse collapse show" aria-labelledby="headingRTTBC"
               data-bs-parent="#accordionStrategiesdata">
               <div class="accordion-body">
                   <p>The RTTBC contest is a lot longer and encompasses more divisions than the RTTR contest (which is restricted to 3-year-old horses on the dirt). The RTTBC contest covers all 7 dirt divisions leading into the Breeders' Cup. The 7 divisions include:</p>

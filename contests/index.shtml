@@ -12,6 +12,12 @@
     }
   </style>
 
+  <script>
+    function handleSelectContest(elm) {
+      window.location = elm.value;
+    }
+  </script>
+
   <link rel="canonical" href="https://www.gallop-racing.com/contests/index.shtml" />
 
 </head>
@@ -38,12 +44,6 @@
     <div class="text-align-center">
       <h3>Contests</h3>
     </div>
-    <div class="text-align-center">
-      <h5>Kentucky Derby (RTTR)</h5>
-    </div>
-    <div class="text-align-center">
-      <h5>Breeders' Cup (RTTBC)</h5>
-    </div>
 
     <div class="container marketing">
 
@@ -52,16 +52,25 @@
         <div class="col-lg-4">
           <!--begin left column-->
           <div class="round-border">
-            <h5>RTTBC 2022</h5>
-            <p>June to November 2022</p>
+            <h5>Breeders' Cup</h5>
+            <p>June to November</p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttbc22/index.shtml"
-                role="button">Go to Contest</a></p>
+                role="button">RTTBC '22</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn"
                 href="https://twitter.com/hashtag/rttbc22?f=live" role="button" target="_blank"><svg class="bi"
                   width="16" height="16" role="img" aria-label="Twitter">
                   <title id="twitter-label-mouseover">Twitter</title>
                   <use xlink:href="#twitter" />
                 </svg> #rttbc22 News &raquo;</a></p>
+            <p>
+              <center>
+                <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
+                  style="max-width: 240px;">
+                  <option selected>Select Previous Contest</option>
+                  <option value="/contests/rttbc21.shtml">RTTBC '21</option>
+                </select>
+              </center>
+            </p>
           </div>
         </div>
         <!--end left column-->
@@ -69,114 +78,51 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           <div class="round-border">
-            <h5>RTTR 148</h5>
-            <p>January to May 2022</p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttr148/index.shtml"
-                role="button">Go to Contest</a></p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-                href="https://twitter.com/hashtag/rttr148?f=live" role="button" target="_blank"><svg class="bi"
-                  width="16" height="16" role="img" aria-label="Twitter">
-                  <title id="twitter-label-mouseover">Twitter</title>
-                  <use xlink:href="#twitter" />
-                </svg> #rttr148 News &raquo;</a></p>
-          </div>
-        </div>
-        <!--end middle column-->
-
-        <div class="col-lg-4">
-          <!--begin right column-->
-          <div class="round-border">
-            <h5>RTTBC 2021</h5>
-            <p>June to November 2021</p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttbc21.shtml"
-                role="button">Go to Contest</a></p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-                href="https://twitter.com/hashtag/rttbc2021?f=live" role="button" target="_blank"><svg class="bi"
-                  width="16" height="16" role="img" aria-label="Twitter">
-                  <title id="twitter-label-mouseover">Twitter</title>
-                  <use xlink:href="#twitter" />
-                </svg> #rttbc2021 News &raquo;</a></p>
-          </div>
-        </div>
-        <!--end right column-->
-      </div>
-      <!--end row 1-->
-
-      <div class="row">
-        <!--row 2-->
-        <div class="col-lg-4">
-          <!--begin left column-->
-          <div class="round-border">
-            <h5>RTTR 147</h5>
-            <p>February to May 2021</p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttr147.shtml"
-                role="button">Go to Contest</a></p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-                href="https://twitter.com/hashtag/rttr147?f=live" role="button" target="_blank"><svg class="bi"
-                  width="16" height="16" role="img" aria-label="Twitter">
-                  <title id="twitter-label-mouseover">Twitter</title>
-                  <use xlink:href="#twitter" />
-                </svg> #rttr147 News &raquo;</a></p>
-          </div>
-        </div>
-        <!--end left column-->
-        <div class="col-lg-4">
-          <!--begin middle column-->
-          <div class="round-border">
-            <h5>Stats</h5>
-            <p>2006 to present</p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-                href="/contests/all-time-leaders.shtml" role="button">All-Time Leaders</a></p>
+            <h5>Stats / Info</h5>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/all-time-leaders.shtml"
+                role="button">All-Time Leaders</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/champions.shtml"
                 role="button">Champions</a></p>
-          </div>
-        </div>
-        <!--end middle column-->
-        <div class="col-lg-4">
-          <!--begin right column-->
-          <div class="round-border">
-            <h5>Legend</h5>
-            <p>Definitions from Stable Sheets, etc.</p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/legend.shtml"
-                role="button">Go</a></p>
-          </div>
-        </div>
-        <!--end right column-->
-
-      </div>
-      <!--end row 2-->
-
-      <div class="row">
-        <!--row 3-->
-        <div class="col-lg-4">
-          <!--begin left column-->
-          <div class="round-border">
-            <h5>Contest Details</h5>
-            <!--p>RTTR, RTTBC</p-->
             <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/how-to-play.shtml"
                 role="button">How to Play</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/legend.shtml"
+                role="button">Legend</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rules.shtml"
                 role="button">Rules</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/strategies.shtml"
                 role="button">Strategies</a></p>
           </div>
         </div>
-        <!--end left column-->
-        <div class="col-lg-4">
-          <!--begin middle column-->
-
-        </div>
         <!--end middle column-->
-        <div class="col-lg-4">
 
+        <div class="col-lg-4">
+          <!--begin right column-->
+          <div class="round-border">
+            <h5>Kentucy Derby</h5>
+            <p>January to May</p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttr148/index.shtml"
+                role="button">RTTR 148</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+                href="https://twitter.com/hashtag/rttr148?f=live" role="button" target="_blank"><svg class="bi"
+                  width="16" height="16" role="img" aria-label="Twitter">
+                  <title id="twitter-label-mouseover">Twitter</title>
+                  <use xlink:href="#twitter" />
+                </svg> #rttr148 News &raquo;</a></p>
+            <p>
+              <center>
+                <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
+                  style="max-width: 240px;">
+                  <option selected>Select Previous Contest</option>
+                  <option value="/contests/rttr147.shtml">RTTR 147</option>
+                </select>
+              </center>
+            </p>
+          </div>
         </div>
         <!--end right column-->
-
       </div>
-      <!--end row 3-->
+      <!--end row 1-->
 
-
-      <br />
       <br />
 
       <!-- FOOTER -->

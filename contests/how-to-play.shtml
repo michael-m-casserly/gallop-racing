@@ -37,8 +37,10 @@
     <div class="container marketing">
 
       <p>Gallop currently offers two separate contests. One is the "Road to the Roses", or RTTR, and the other is the
-        "Road to the Breeders' Cup", or RTTBC. RTTR runs from January into May, and RTTBC runs from June into November.
-        These contests function like <i>traditional</i> fantasy sports (as opposed to <i>daily</i> fantasy sports). The
+        "Road to the Breeders' Cup", or RTTBC.</p>
+      <p>RTTR runs from January into May, and RTTBC runs from June into November. Players can participate in
+        either/or/both of the contests. One contest doesn't have any dependency on the other.</p>
+      <p>These contests function like <i>traditional</i> fantasy sports (as opposed to <i>daily</i> fantasy sports). The
         focus here is on a season-long contest, with weekly scoring events. These type of contests tend to work best
         when you can participate amongst family and friends and compete against each other.</p>
       <p>Specific details on each contest can be found below, along with some details that apply to all contests.</p>
@@ -55,6 +57,11 @@
             data-bs-parent="#accordionHowToPlay">
             <div class="accordion-body">
               <h4>Kentucky Derby</h4>
+
+              <p>The scope of the RTTR contest will be all of the <a
+                  href="https://www.kentuckyderby.com/horses/prep-races" target="_blank">Kentucky Derby Prep Races</a>
+                (America circuit) beginning after the 1st week in January. This amounts to ~25 races.</p>
+
               <p>In mid-January you'll draft <b>5 horses, 2 trainers, and 2 jockeys</b> whom you think have a good
                 chance at winning the Kentucky Derby.</p>
 
@@ -62,7 +69,7 @@
 
               <p>The 2nd draft of <b>5 horses</b> will take place in mid-February.</p>
 
-              <p>There will be 10 races following that draft up until the next draft at the end of March.</p>
+              <p>There will be 10 races following that draft up until the end of March.</p>
 
               <p>The draft at the end of March is a variable draft, meaning you can take anywhere from <b>0-5
                   horses</b>.</p>
@@ -77,6 +84,13 @@
               <p>Horse points are awarded for the Top 4 finishers in each race. Trainer and Jockey points are only
                 awarded to the Winner.</p>
 
+              <p>For additional information, please visit our <a href="/contests/strategies.shtml">Strategies</a>
+                section.</p>
+
+              <p>This table below provides a summary of how the RTTR scoring works.</p>
+
+              <!--#include virtual="/modules/rttr-scoring-table.html"-->
+
             </div>
           </div>
         </div>
@@ -88,12 +102,41 @@
               Contest #2<br />Road to the Breeders' Cup (RTTBC)
             </button>
           </h2>
-          <div id="collapseHowToPlayRTTBC" class="accordion-collapse" aria-labelledby="headingHowToPlayRTTBC"
-            data-bs-parent="#accordionHowToPlay">
+          <div id="collapseHowToPlayRTTBC" class="accordion-collapse collapse show"
+            aria-labelledby="headingHowToPlayRTTBC" data-bs-parent="#accordionHowToPlay">
             <div class="accordion-body">
               <h4>Breeders' Cup (7 Dirt Divisions)</h4>
+
+              <p>The scope of the RTTBC contest will be all of the Graded Stakes races on Dirt in the United States
+                beginning with the Belmont Stakes Saturday in June. This amounts to ~114 races.</p>
+
+              <p>The races are spread out amongst various tracks:
+              <ul style="margin: 20px;">
+                <li>Saratoga (22)</li>
+                <li>Belmont (19)</li>
+                <li>Keeneland (14), <i>including the 7 Breeders' Cup races</i></li>
+                <li>Del Mar (12)</li>
+                <li>Churchill Downs (11)</li>
+                <li>Santa Anita (9)</li>
+                <li>Monmouth (6)</li>
+                <li>Parx (5)</li>
+                <li>7 tracks with 2 races</li>
+                <li>2 tracks with 1 race</li>
+              </ul>
+              </p>
+
               <p>In early June you'll draft <b>7 horses, 2 trainers, 2 jockeys, and 2 sires</b> whom you think have a
-                good chance of succeeding in the 7 Breeders' Cup Dirt Divisions.</p>
+                good chance of succeeding in the 7 Breeders' Cup Dirt Divisions, which include:
+              <ul style="margin: 20px;">
+                <li><b>Classic</b> (<i>3YO and Up, longer distance</i>)</li>
+                <li><b>Distaff</b> (<i>3YO and Up, FEMALE, longer distance</i>)</li>
+                <li><b>Dirt Mile</b> (<i>3YO and Up, middle distance</i>)</li>
+                <li><b>Sprint</b> (<i>3YO and Up, short distance</i>)</li>
+                <li><b>Filly & Mare Sprint</b> (<i>3YO and Up, FEMALE, short distance</i>)</li>
+                <li><b>Juveline</b> (<i>2 Year-Olds</i>)</li>
+                <li><b>Juveline Fillies</b> (<i>2 Year-Olds, FEMALE</i>)</li>
+              </ul>
+              </p>
 
               <p>There will be 14 races in June where you can earn points.</p>
 
@@ -126,6 +169,13 @@
               <p>Horse points are awarded for the Top 3 finishers in each race. Trainer, Jockey and Sire points are only
                 awarded to the Winner.</p>
 
+              <p>For additional information, please visit our <a href="/contests/strategies.shtml">Strategies</a>
+                section.</p>
+
+              <p>This table below provides a summary of how the RTTBC scoring works.</p>
+
+              <!--#include virtual="/modules/rttbc-scoring-table.html"-->
+
             </div>
           </div>
         </div>
@@ -146,10 +196,8 @@
 
       <br />
 
-      <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttr148/index.shtml"
-          role="button">Road to the Roses 148</a></p>
-      <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttbc22/index.shtml"
-          role="button">Breeders' Cup 2022</a></p>
+      <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/index.shtml"
+          role="button">Contests</a></p>
       <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rules.shtml" role="button">Rules</a>
       </p>
       <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/strategies.shtml"
