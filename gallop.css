@@ -57,13 +57,14 @@ h3 {
 
 /*Begin New Code for X Close Button*/
        /* hide close when burger shown */
-       .navbar-toggler.collapsed .close-icon {
+/*       .navbar-toggler.collapsed .close-icon {
         display: none;
      }
      .navbar-toggler:not(.collapsed) .navbar-toggler-icon {
         display: inline;
      }
-    /*End New Code for X Close Button*/
+*/
+     /*End New Code for X Close Button*/
     
     li.nav-item, .dropdown, .active {
       /*border: 1px solid gray; 

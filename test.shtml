@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!--#include virtual="/banner-head.html" -->
+
+  <title>Gallop Racing</title>
+
+  <link rel="canonical" href="https://www.gallop-racing.com/index.shtml" />
+
+</head>
+
+<body class="bodyTag">
+
+  <!--Begin Banner-->
+  <!--#include virtual="/banner-test.html" -->
+  <!--End Banner-->
+
+
+
+
+  <!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
+    <br />
+    <a id="Entries-Results"></a>
+    <div class="text-align-center">
+      <h3>Fantasy Horse Racing (BETA)</h3>
+    </div>
+
+    <div class="container marketing">
+
+      <div class="row">
+        <div class="col-lg-4">
+          <!--begin left column-->
+
+          <!--#include virtual="/modules/register.html" -->
+
+          <div class="round-border">
+            <h5>Upcoming Contest</h5>
+
+            <!--Placeholder Message-->
+            <p style="text-align:center;">Starting Belmont Stakes Weekend</p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttbc22/index.shtml"
+                role="button">Road to the Breeders' Cup '22</a></p>
+
+          </div>
+
+          <!--#include virtual="/modules/twitter.html" -->
+
+        </div>
+        <!--end left column-->
+
+        <div class="col-lg-4">
+          <!--begin middle column-->
+
+          <!--#include virtual="/modules/calendar.html" -->
+          <!--include virtual="/modules/how-to-play-rttr.html" -->
+          <!--#include virtual="/modules/how-to-play-rttbc.html" -->
+          <!--#include virtual="/modules/resources-rttbc.html" -->
+
+        </div>
+        <!--end middle column-->
+
+        <div class="col-lg-4">
+          <!--begin right column-->
+
+          <!--#include virtual="/modules/resources.html" -->
+          <!--include virtual="/modules/resources-rttr.html" -->
+          <!--#include virtual="/modules/television.html" -->
+
+          <!--include virtual="/modules/stakes-nominations-rttr.html" -->
+          <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
+          <!--#include virtual="/modules/stakes-calendar.html" -->
+
+
+        </div>
+        <!--end right column-->
+
+      </div>
+      <!--row #1-->
+
+      <!-- FOOTER -->
+
+      <!--#include virtual="/footer-page.html" -->
+
+    </div>
+    <!--container-->
+
+    <!--#include virtual="/footer.html" -->
+
+
+  </main>
+
+</body>
+
+</html>
