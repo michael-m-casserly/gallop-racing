@@ -53,7 +53,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
 
-          <!--#include virtual="/modules/rttbc22/contest-info.html" -->
+          <!--#include virtual="/modules/rttbc22/contest-info.shtml" -->
           <!--#include virtual="/modules/twitter.html" -->
           <!--#include virtual="/modules/stakes-calendar.html" -->
           <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
