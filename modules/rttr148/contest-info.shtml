@@ -10,7 +10,7 @@
         <use xlink:href="#google" />
       </svg> Leaderboard</a>
 
-<!--#include virtual="/modules/rttr148/stables-menu.html"-->
+<!--include virtual="/modules/rttr148/stables-menu.html"-->
     </p>
 
   <script>
