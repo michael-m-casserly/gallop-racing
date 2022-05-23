@@ -87,7 +87,7 @@
             <div class="accordion-body accordion-td-cell">
 
               <div class="row">
-                <div class="col-sm-4">
+                <div class="col">
                   <!--begin left column-->
 
                   <!--#include virtual="/modules/rttbc22/leading-horses.html"-->
@@ -95,8 +95,8 @@
                 </div>
                 <!--end left column-->
 
-                <div class="col-sm-8">
-                  <!--begin middle column-->
+                <div class="col">
+                  <!--begin right column-->
 
                   <!--#include virtual="/modules/rttbc22/horses-by-stable.html"-->
 
