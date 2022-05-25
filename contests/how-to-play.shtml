@@ -6,6 +6,13 @@
 
   <title>How to Play | Gallop Racing</title>
 
+    <!--Special TD style for How to Play page only-->
+    <style>
+      td {
+        text-align: center !important;
+      }
+    </style>
+  
   <link rel="canonical" href="https://www.gallop-racing.com/contests/how-to-play.shtml" />
 
 </head>
@@ -68,19 +75,41 @@
               <p>In mid-January you'll draft <b>5 horses, 2 trainers, and 2 jockeys</b> whom you think have a good
                 chance at winning the Kentucky Derby.</p>
 
-              <p>There will be 7 races from late January thru mid-February where you can earn points.</p>
+                <p>There will be 7 races late-January / early-February where you can earn points. Then the Supplemental Drafts are broken out as follows:</p>
 
-              <p>The 2nd draft of <b>5 horses</b> will take place in mid-February.</p>
-
-              <p>There will be 10 races following that draft up until the end of March.</p>
-
-              <p>The draft at the end of March is a variable draft, meaning you can take anywhere from <b>0-5
-                  horses</b>.</p>
-
-              <p>There will be 7 races following that draft leading up to the Derby.</p>
-
-              <p>The week of the Derby, you can use any of those <b>0-5 horse</b> selections that you didn't use at the
-                end of March to complete your stable.</p>
+                <p>
+                <center>
+                <table class="TableStandard">
+                  <tr class="TableHeader" style="text-align: center;">
+                      <th>Supp. Draft</th>
+                      <th>Date</th>
+                      <th>Horses</th>
+                      <th>Races Following Draft</th>
+                  </tr>
+                  <tr>
+                    <td>1</td>
+                    <td>mid-February</td>
+                    <td>5</td>
+                    <td>10</td>
+                  </tr>
+                  <tr>
+                    <td>2</td>
+                    <td>late-March*</td>
+                    <td>0-5</td>
+                    <td>7</td>
+                  </tr>
+                  <tr>
+                    <td>3</td>
+                    <td>early-May</td>
+                    <td>0-5</td>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <td colspan="4">*The draft at the end of March is a variable draft, meaning you can take anywhere from <b>0-5 horses</b>. The week of the Derby, you can use any of those <b>0-5 horse</b> selections that you didn't use at the end of March to complete your stable.</td>
+                  </tr>
+                </table>
+                </center>
+              </p>
 
               <p>Come Derby Day, you'll end up with <b>15 horses, 2 trainers and 2 jockeys</b> in your stable.</p>
 
@@ -129,42 +158,116 @@
               </p>
 
               <p>In early June you'll draft <b>7 horses, 2 trainers, 2 jockeys, and 2 sires</b> whom you think have a
-                good chance of succeeding in the 7 Breeders' Cup Dirt Divisions, which include:
-              <ul style="margin: 20px;">
-                <li><b>Classic</b> (<i>3YO and Up, longer distance</i>)</li>
-                <li><b>Distaff</b> (<i>3YO and Up, FEMALE, longer distance</i>)</li>
-                <li><b>Dirt Mile</b> (<i>3YO and Up, middle distance</i>)</li>
-                <li><b>Sprint</b> (<i>3YO and Up, short distance</i>)</li>
-                <li><b>Filly & Mare Sprint</b> (<i>3YO and Up, FEMALE, short distance</i>)</li>
-                <li><b>Juveline</b> (<i>2 Year-Olds</i>)</li>
-                <li><b>Juveline Fillies</b> (<i>2 Year-Olds, FEMALE</i>)</li>
-              </ul>
+                good chance of succeeding in the 7 Breeders' Cup Dirt Divisions, which include:</p>
+
+              <p>
+                <center>
+              <table class="TableStandard">
+                <tr class="TableHeader" style="text-align: center;">
+                    <th>Division</th>
+                    <th>Age</th>
+                    <th>Gender</th>
+                    <th>Distance</th>
+                </tr>
+                <tr>
+                  <td>Classic</td>
+                  <td>3YO and up</td>
+                  <td>Open</td>
+                  <td>10 Furlongs (Long)</td>
+                </tr>
+                <tr>
+                  <td>Distaff</td>
+                  <td>3YO and up</td>
+                  <td>Female</td>
+                  <td>9 Furlongs (Long)</td>
+                </tr>
+                <tr>
+                  <td>Dirt Mile</td>
+                  <td>3YO and up</td>
+                  <td>Open</td>
+                  <td>8 Furlongs (Middle)</td>
+                </tr>
+                <tr>
+                  <td>Sprint</td>
+                  <td>3YO and up</td>
+                  <td>Open</td>
+                  <td>6 Furlongs (Short)</td>
+                </tr>
+                <tr>
+                  <td>Filly & Mare Sprint</td>
+                  <td>3YO and up</td>
+                  <td>Female</td>
+                  <td>7 Furlongs (Short)</td>
+                </tr>
+                <tr>
+                  <td>Juveline</td>
+                  <td>2YO</td>
+                  <td>Open</td>
+                  <td>8.5 Furlongs (Long)</td>
+                </tr>
+                <tr>
+                  <td>Juveline Fillies</td>
+                  <td>2YO</td>
+                  <td>Female</td>
+                  <td>8.5 Furlongs (Long)</td>
+                </tr>
+              </table>
+            </center>
+            </p>
+
+              <p>There will be 14 races in June where you can earn points. Then the Supplemental Drafts are broken out as follows:</p>
+
+              <p>
+              <center>
+              <table class="TableStandard">
+                <tr class="TableHeader" style="text-align: center;">
+                    <th>Supp. Draft</th>
+                    <th>Date</th>
+                    <th>Horses</th>
+                    <th>Races Following Draft</th>
+                </tr>
+                <tr>
+                  <td>1</td>
+                  <td>late-June</td>
+                  <td>5</td>
+                  <td>17</td>
+                </tr>
+                <tr>
+                  <td>2</td>
+                  <td>mid/late-July</td>
+                  <td>5</td>
+                  <td>19</td>
+                </tr>
+                <tr>
+                  <td>3</td>
+                  <td>mid-August</td>
+                  <td>5</td>
+                  <td>15</td>
+                </tr>
+                <tr>
+                  <td>4</td>
+                  <td>early-September</td>
+                  <td>5*</td>
+                  <td>20</td>
+                </tr>
+                <tr>
+                  <td>5</td>
+                  <td>early-October</td>
+                  <td>5</td>
+                  <td>22</td>
+                </tr>
+                <tr>
+                  <td>6</td>
+                  <td>early-November</td>
+                  <td>3</td>
+                  <td>7</td>
+                </tr>
+                <tr>
+                  <td colspan="4">*You will also add on <b>1 trainer, 1 jockey, and 1 sire</b> during Supplemental Draft #4.</td>
+                </tr>
+              </table>
+              </center>
               </p>
-
-              <p>There will be 14 races in June where you can earn points.</p>
-
-              <p>The 1st Supplemental Draft of <b>5 horses</b> will take place in late June, early July.</p>
-
-              <p>There will be 17 races following that draft.</p>
-
-              <p>The 2nd Supplemental Draft of <b>5 horses</b> will take place in mid-late July.</p>
-
-              <p>There will be 18 races following that draft.</p>
-
-              <p>The 3rd Supplemental Draft of <b>5 horses</b> will take place in mid-August.</p>
-
-              <p>There will be 14 races following that draft.</p>
-
-              <p>The 4th Supplemental Draft of <b>5 horses</b> will take place in late August, early September. You will
-                also add on <b>1 trainer, 1 jockey, and 1 sire</b> during this draft.</p>
-
-              <p>There will be 20 races following that draft.</p>
-
-              <p>The 5th Supplemental Draft of <b>5 horses</b> will take place in early October.</p>
-
-              <p>There will be 21 races following that draft up until the next draft in early November.</p>
-
-              <p>The week of the Breeders' Cup, you will add on <b>3 Horses</b> to complete your stable.</p>
 
               <p>Come Breeders' Cup weekend, you'll end up with <b>35 horses, 3 trainers, 3 jockeys and 3 sires</b> in
                 your stable.</p>
