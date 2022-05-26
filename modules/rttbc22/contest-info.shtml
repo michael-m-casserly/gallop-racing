@@ -52,6 +52,9 @@
     <a class="btn btn-secondary btn-half" href="/contests/strategies.shtml" role="button">Strategies</a>
   </p>
 
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/data-disclaimer.shtml"
+    role="button">Data Disclaimer</a></p>
+
   <!--p style="font-size: 12px; text-align: justify; padding: 5px 20px 0px 20px;">*Cannot view other player's stables
     during Drafts or Power Horse selection windows. However, you can always use the "All Stables" button above to see
     any stable at any time (without Power Horse Access).</p-->

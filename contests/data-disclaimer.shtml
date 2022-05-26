@@ -53,7 +53,7 @@
       <p>
         <ul>
           <li>Trainer changes may not be current, depending on when the change took place. In other words, the horse has <i>not</i> entered into a US Dirt Graded Stakes race since the trainer change took effect.</li>
-          <li>Horses may have ran in a non-Graded Stakes races since the last race listed on the sheet. For example:
+          <li>Horses may have ran in non-Graded Stakes races since the last race listed on the sheet. For example:
               <ul>
               <li>An Allowance Race</li>
               <li>A Listed or "Black-Type" stakes race (non-graded)</li>
@@ -64,7 +64,7 @@
             </ul>
           </li>
           <li>Races like those mentioned above may not be reflected in Gallop.</li>
-          <li>The "Trainer Count" column in the "Horses" sheet is just for estimation purposes. It will never reflect the exact number of horses in any trainer's stable at any given time.</li>
+          <li>The "Trainer Count" column in the "Horses" sheet is just for estimation purposes. <i>It will never reflect the exact number of horses in any trainer's stable at any given time.</i></li>
           <li>The list of horses may also include some Turf and International horses. So players should not assume that every horse on that list will run in a Gallop contest race, such as RTTR or RTTBC.</li>
           <li>It is also possible that some horses on that list may be retired, deceased, or no longer in training.</li>
         </ul>
