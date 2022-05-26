@@ -33,15 +33,17 @@
       <div class="text-align-center"><h3>Data Disclaimer</h3></div>
   
       <div class="container marketing">
-        
+      
+      <p><i>Last Updated: May 26, 2022</i></p>
+
       <p>All data throughout Gallop is currently sourced from Equibase. The data can be found within the "Horses" sheet, which can be accessed via a button on each contest page.</p>
 
-      <p><img src="/images/horses-button.png" style="height: 360px; max-width: 441px; border: none;"/></p>
+      <p><img src="/images/horses-button.png" style="max-height: 360px; max-width: 441px; border: none;"/></p>
 
       <p>The data from the "Horses" sheet will then trickle down into the individual "Stable Entry" sheets.</p>
 
-      <p><img src="/images/stable-entry-sheet-data-headings1.png" style="height: 46px; max-width: 670px; border:none"/><br/>
-        <img src="/images/stable-entry-sheet-data-headings2.png" style="height: 44px; max-width: 597px; border:none"/>
+      <p><img src="/images/stable-entry-sheet-data-headings1.png" style="max-height: 46px; max-width: 670px; border:none"/><br/>
+        <img src="/images/stable-entry-sheet-data-headings2.png" style="max-height: 44px; max-width: 597px; border:none"/>
       </p>
 
       <p>The Equibase data are sourced manually, and will be current as of the horse's last <b>Graded Stakes</b> entry on a <b>United States Dirt Track</b> (in most cases).</p>
@@ -52,12 +54,14 @@
         <ul>
           <li>Trainer changes may not be current, depending on when the change took place. In other words, the horse has <i>not</i> entered into a US Dirt Graded Stakes race since the trainer change took effect.</li>
           <li>Horses may have ran in a non-Graded Stakes races since the last race listed on the sheet. For example:
+              <ul>
               <li>An Allowance Race</li>
               <li>A Listed or "Black-Type" stakes race (non-graded)</li>
               <li>An international race</li>
               <li>A turf race</li>
               <li>A synthetic or "all-weather" track race</li>
               <li>Any other type of race that is not US Dirt Graded Stakes</li>
+            </ul>
           </li>
           <li>Races like those mentioned above may not be reflected in Gallop.</li>
           <li>The "Trainer Count" column in the "Horses" sheet is just for estimation purposes. It will never reflect the exact number of horses in any trainer's stable at any given time.</li>

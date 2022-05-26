@@ -10,7 +10,13 @@
     <style>
       td {
         text-align: center !important;
+        padding-right: 10px !important;
       }
+      .TableHeader {
+        text-align: center !important;
+        vertical-align: bottom !important;
+      }
+
     </style>
   
   <link rel="canonical" href="https://www.gallop-racing.com/contests/how-to-play.shtml" />
@@ -65,7 +71,7 @@
           </h2>
           <div id="collapseHowToPlayRTTR" class="accordion-collapse collapse" aria-labelledby="headingHowToPlayRTTR"
             data-bs-parent="#accordionHowToPlay">
-            <div class="accordion-body">
+            <div class="accordion-body accordion-td-cell">
               <h4>Kentucky Derby</h4>
 
               <p>The scope of the RTTR contest will be all of the <a
@@ -80,7 +86,7 @@
                 <p>
                 <center>
                 <table class="TableStandard">
-                  <tr class="TableHeader" style="text-align: center;">
+                  <tr class="TableHeader">
                       <th>Supp. Draft</th>
                       <th>Date</th>
                       <th>Horses</th>
@@ -136,8 +142,8 @@
           </h2>
           <div id="collapseHowToPlayRTTBC" class="accordion-collapse collapse show"
             aria-labelledby="headingHowToPlayRTTBC" data-bs-parent="#accordionHowToPlay">
-            <div class="accordion-body">
-              <h4>Breeders' Cup (7 Dirt Divisions)</h4>
+            <div class="accordion-body accordion-td-cell">
+              <h4>Breeders' Cup<br/>(7 Dirt Divisions)</h4>
 
               <p>The scope of the RTTBC contest will be all of the Graded Stakes races on Dirt in the United States
                 beginning with the Belmont Stakes Saturday in June. This amounts to ~114 races.</p>
@@ -163,7 +169,7 @@
               <p>
                 <center>
               <table class="TableStandard">
-                <tr class="TableHeader" style="text-align: center;">
+                <tr class="TableHeader">
                     <th>Division</th>
                     <th>Age</th>
                     <th>Gender</th>
@@ -173,43 +179,43 @@
                   <td>Classic</td>
                   <td>3YO and up</td>
                   <td>Open</td>
-                  <td>10 Furlongs (Long)</td>
+                  <td>10 Furlongs</td>
                 </tr>
                 <tr>
                   <td>Distaff</td>
                   <td>3YO and up</td>
                   <td>Female</td>
-                  <td>9 Furlongs (Long)</td>
+                  <td>9 Furlongs</td>
                 </tr>
                 <tr>
                   <td>Dirt Mile</td>
                   <td>3YO and up</td>
                   <td>Open</td>
-                  <td>8 Furlongs (Middle)</td>
+                  <td>8 Furlongs</td>
                 </tr>
                 <tr>
                   <td>Sprint</td>
                   <td>3YO and up</td>
                   <td>Open</td>
-                  <td>6 Furlongs (Short)</td>
+                  <td>6 Furlongs</td>
                 </tr>
                 <tr>
                   <td>Filly & Mare Sprint</td>
                   <td>3YO and up</td>
                   <td>Female</td>
-                  <td>7 Furlongs (Short)</td>
+                  <td>7 Furlongs</td>
                 </tr>
                 <tr>
                   <td>Juveline</td>
-                  <td>2YO</td>
+                  <td>2 Year Olds</td>
                   <td>Open</td>
-                  <td>8.5 Furlongs (Long)</td>
+                  <td>8.5 Furlongs</td>
                 </tr>
                 <tr>
                   <td>Juveline Fillies</td>
-                  <td>2YO</td>
+                  <td>2 Year Olds</td>
                   <td>Female</td>
-                  <td>8.5 Furlongs (Long)</td>
+                  <td>8.5 Furlongs</td>
                 </tr>
               </table>
             </center>
@@ -220,7 +226,7 @@
               <p>
               <center>
               <table class="TableStandard">
-                <tr class="TableHeader" style="text-align: center;">
+                <tr class="TableHeader">
                     <th>Supp. Draft</th>
                     <th>Date</th>
                     <th>Horses</th>
