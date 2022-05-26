@@ -83,6 +83,8 @@
                 role="button">All-Time Leaders</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/champions.shtml"
                 role="button">Champions</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/data-disclaimer.shtml"
+                role="button">Data Disclaimer</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/how-to-play.shtml"
                 role="button">How to Play</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/legend.shtml"
