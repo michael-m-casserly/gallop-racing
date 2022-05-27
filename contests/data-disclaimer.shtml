@@ -34,8 +34,6 @@
   
       <div class="container marketing">
       
-      <p><i>Last Updated: May 26, 2022</i></p>
-
       <p>All data throughout Gallop is currently sourced from Equibase. The data can be found within the "Horses" sheet, which can be accessed via a button on each contest page.</p>
 
       <p><img src="/images/horses-button.png" style="max-height: 360px; max-width: 441px; border: none;"/></p>
