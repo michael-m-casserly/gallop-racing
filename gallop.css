@@ -116,7 +116,7 @@ h3 {
 
   /* this is used to force the breadcrumb separator to be white */
   .breadcrumb-item+.breadcrumb-item::before {
-    color: #fff !important;
+    color: #000 !important;
   }
 
   .btn-nominations{
@@ -313,11 +313,11 @@ border-bottom: #FFF !important;
 	border: 2px solid black; 
 	border-radius:5px;
 	padding-left: 20px !important;
-  background-color: #344f7c;
+  background-color: #c9daf8;
 }
 
 span.PageTitleBreadCrumb { 
-  color: #FFF;
+  color: #000;
   /*color: #5e183e; */
   text-align: left; 
   font: 10pt "Tahoma";
@@ -325,7 +325,7 @@ span.PageTitleBreadCrumb {
 }
 
 a.PageTitleBreadCrumb { 
-  color: #FFF;
+  color: #000;
   /*color: #5e183e; */
   text-align: left; 
   font: 10pt "Tahoma";
@@ -334,7 +334,7 @@ a.PageTitleBreadCrumb {
   
 a.PageTitleBreadCrumb:link {
   text-decoration: underline;
-  color: #FFF;
+  color: #000;
   /*color: #0000CC; */
   }
 
