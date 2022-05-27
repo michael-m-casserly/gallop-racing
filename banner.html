@@ -63,19 +63,26 @@
     <a href="/index.shtml" class="d-flex align-items-center mb-3 mb-lg-0 me-lg-auto text-dark text-decoration-none">
       <img src="/images/logo-gallop.png" alt="Gallop Racing LLC" style="max-height:36px; max-width:51px; border: 0;">
       <span class="fs-4"><img src="/images/gallop-title-text.png" alt="Gallop Racing LLC"
-          style="max-height:53px; max-width:200px; padding-right: 0px; padding-left: 10px; border: 0;" /></span>
+          style="max-height:53px; max-width:200px; padding-right: 0px; padding-left: 10px; border: 0;" /></span><span style="font-size: 11px;">BETA</span>
     </a>
     </div>
 </header>
 
 <style>
+  .nav-item {
+    border: 1px;
+    border-color: #c9daf8;
+    border-style: solid;
+    border-radius: 5px;
+  }
   .nav-link {
     color: #FFFFFF !important;
     font-weight: bold !important;
   }
   .navbar-toggler {
-    color: #FFFFFF !important;
+    color: #c9daf8 !important;
     font-weight: bold !important;
+    border: 1px solid !important;
   }
   .navbar-toggler-icon {
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.95%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
@@ -84,7 +91,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark" aria-label="Tenth navbar example" style="padding-top:0rem !important; padding-bottom:0rem !important; margin-bottom: 0px !important; ">
   <div class="container d-flex flex-wrap"
-  style="background-color: #344f7c; border: 2px solid black; border-radius:5px;">
+  style="background-color: #344f7c; border: 2px solid black; border-radius:5px; text-align: center;">
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample08">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -162,7 +169,7 @@
         </center>
       </form>
 
-    <form class="col-12 col-lg-auto mb-3 mb-lg-0" method="GET" action="http://www.google.com/custom">
+    <!-- KEEP THIS IN CASE WE WANT TO MOVE THE SEARCH BAR BACK INTO THE TOGGLER...form class="col-12 col-lg-auto mb-3 mb-lg-0" method="GET" action="http://www.google.com/custom">
       <center>
         <input type="search" class="form-control" placeholder="Search..." aria-label="Search" name="q"
           style="max-width: 240px;">
@@ -171,9 +178,19 @@
         <input type="hidden" name="domains" value="www.gallop-racing.com">
         <input type="hidden" name="sitesearch" value="www.gallop-racing.com">
       </center>
-    </form>
+    </form-->
   
   
     </div>
+    <form method="GET" action="http://www.google.com/custom">
+      <center>
+        <input type="search" class="form-control" placeholder="Search..." aria-label="Search" name="q"
+          style="max-width: 180px;">
+        <input type="hidden" name="cof"
+          VALUE="S:https://www.gallop-racing.com;VLC:#5e183e;AH:center;LH:95;LC:black;L:http://www.gallop-racing.com/images/banner_google.gif;ALC:#5e183e;LW:708;T:black;AWFID:0cc56407884f14f7;">
+        <input type="hidden" name="domains" value="www.gallop-racing.com">
+        <input type="hidden" name="sitesearch" value="www.gallop-racing.com">
+      </center>
+    </form>
   </div>
 </nav>
