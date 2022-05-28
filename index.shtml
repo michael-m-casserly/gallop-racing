@@ -46,7 +46,8 @@
 
           </div>
 
-          <!--#include virtual="/modules/twitter.html" -->
+          <!--include virtual="/modules/how-to-play-rttr.html" -->
+          <!--#include virtual="/modules/how-to-play-rttbc.html" -->
 
         </div>
         <!--end left column-->
@@ -55,10 +56,6 @@
           <!--begin middle column-->
 
           <!--#include virtual="/modules/calendar.html" -->
-          <!--include virtual="/modules/how-to-play-rttr.html" -->
-          <!--#include virtual="/modules/how-to-play-rttbc.html" -->
-          <!--#include virtual="/modules/resources-rttbc.html" -->
-          <!--#include virtual="/modules/television.html" -->
 
         </div>
         <!--end middle column-->
@@ -66,12 +63,7 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/resources.html" -->
-          <!--include virtual="/modules/resources-rttr.html" -->
-          <!--include virtual="/modules/stakes-nominations-rttr.html" -->
-          <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
-          <!--#include virtual="/modules/stakes-calendar.html" -->
-
+          <!--#include virtual="/modules/twitter.html" -->
 
         </div>
         <!--end right column-->

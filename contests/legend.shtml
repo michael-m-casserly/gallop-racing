@@ -40,8 +40,8 @@
           <th class="text-align-center" colspan="2">Stable Sheet, Column A</th>
         </tr>
         <tr>
-          <td class="drafted-player">Also Eligible</td>
-          <td>Horse has been added to the Also Eligible (AE) list for an upcoming RTTR/BC race.</td>
+          <td class="drafted-player">Also-Eligible</td>
+          <td>Horse has been added to the Also-Eligible (AE) list for an upcoming RTTR/BC race.</td>
         </tr>
         <tr>
           <td class="drafted-player">Deceased</td>
@@ -49,7 +49,7 @@
         </tr>
         <tr>
           <td class="drafted-player">Did Not Enter</td>
-          <td>Horse was nominated for a stakes race, but did not enter.</td>
+          <td>Horse was nominated for a stakes race but did not enter.</td>
         </tr>
         <tr>
           <td class="drafted-player">DNF</td>
@@ -107,7 +107,7 @@
       </tr>
       <tr>
         <td class="drafted-player">Supp.</td>
-        <td>Horse was not Nominated during the Early or Late phase, but was supplemented with a $200,000 payment.</td>
+        <td>Horse was not Nominated during the Early or Late phase but was supplemented with a $200,000 payment.</td>
       </tr>
       <tr>
         <td class="drafted-player">[Blank]</td>

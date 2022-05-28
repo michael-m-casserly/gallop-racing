@@ -49,16 +49,17 @@
 
     <div class="container marketing">
 
-      <p>Gallop currently offers two separate contests. One is the <i>Road to the Roses</i>, or "RTTR", and the other is the
-        <i>Road to the Breeders' Cup</i>, or "RTTBC".</p>
+      <p>Gallop currently offers two separate contests. One is the <i>Road to the Roses</i>, or "RTTR" the other is the
+        <i>Road to the Breeders' Cup</i> or "RTTBC"</p>
+
       <p>RTTR runs from January into May, and RTTBC runs from June into November. Players can participate in
         either/or/both of the contests. One contest doesn't have any dependency on the other.</p>
+
       <p>These contests function like <i>traditional</i> fantasy sports (as opposed to <i>daily</i> fantasy sports). The
-        focus here is on a season-long contest, with weekly scoring events. These type of contests tend to work best
-        when you can participate amongst family and friends and compete against each other.</p>
-      <p>Race "Nominations" are typically published no less than 2 weeks prior to a race. This will contain a list of horses who are eligible to enter into a race (pending any "late" nominees). Race "Entries" are then published the week of the race, typically no less than 3 days prior to the race. Both the Nominations and the Entries will be made available on the contest page. You may also go directly to <a href="https://www.equibase.com" target="_blank">Equibase.com</a> to find these.</p>
-      <p>All Supplemental Drafting periods are planned with the Nominations schedule in mind, to ensure that participants will have as much advanced access as possible to potential runners in a future race.</p>
-      <p>Specific details on each contest can be found below, along with some details that apply to all contests.</p>
+        focus here is on a season-long competition with weekly scoring events. These contests work best
+        when you can participate and compete amongst family and friends.</p>
+
+      <p>Please find specific details on each contest below.</p>
 
       <div class="accordion" id="accordionHowToPlay">
         <a id="kentuckyderby"></a>
@@ -76,12 +77,12 @@
 
               <p>The scope of the RTTR contest will be all of the <a
                   href="https://www.kentuckyderby.com/horses/prep-races" target="_blank">Kentucky Derby Prep Races</a>
-                (America circuit) beginning after the 1st week in January. This amounts to ~25 races.</p>
+                (America circuit) beginning after the 1st week in January, amounting to ~25 races.</p>
 
-              <p>In mid-January you'll draft <b>5 horses, 2 trainers, and 2 jockeys</b> whom you think have a good
+              <p>In mid-January, you'll draft <b>five horses, two trainers, and two jockeys</b> who you think have a good
                 chance at winning the Kentucky Derby.</p>
 
-                <p>There will be 7 races late-January / early-February where you can earn points. Then the Supplemental Drafts are broken out as follows:</p>
+                <p>There will be seven races late-January / early-February where you can earn points. Then the Supplemental Drafts are broken out as follows:</p>
 
                 <p>
                 <center>
@@ -111,21 +112,20 @@
                     <td>1</td>
                   </tr>
                   <tr>
-                    <td colspan="4">*The draft at the end of March is a variable draft, meaning you can take anywhere from <b>0-5 horses</b>. The week of the Derby, you can use any of those <b>0-5 horse</b> selections that you didn't use at the end of March to complete your stable.</td>
+                    <td colspan="4">*The draft at the end of March is variable, meaning you can take anywhere from <b>0-5 horses</b>. The week of the Derby, you can use any of those <b>0-5 horse</b> selections that you didn't use at the end of March to complete your stable.</td>
                   </tr>
                 </table>
                 </center>
               </p>
 
-              <p>Come Derby Day, you'll end up with <b>15 horses, 2 trainers and 2 jockeys</b> in your stable.</p>
+              <p>By Derby Day, each stable will have <b>fifteen horses, two trainers, and two jockeys</b>.</p>
 
-              <p>Horse points are awarded for the Top 4 finishers in each race. Trainer and Jockey points are only
-                awarded to the Winner.</p>
+              <p>The Top 4 finishers in each race will earn horse points. Only the winning horse will earn trainer and jockey points.</p>
 
               <p>For additional information, please visit our <a href="/contests/strategies.shtml">Strategies</a>
                 section.</p>
 
-              <p>This table below provides a summary of how the RTTR scoring works.</p>
+              <p>The table below provides a summary of how the RTTR scoring works.</p>
 
               <!--#include virtual="/modules/rttr-scoring-table.html"-->
 
@@ -145,10 +145,9 @@
             <div class="accordion-body accordion-td-cell">
               <h4>Breeders' Cup<br/>(7 Dirt Divisions)</h4>
 
-              <p>The scope of the RTTBC contest will be all of the Graded Stakes races on Dirt in the United States
-                beginning with the Belmont Stakes Saturday in June. This amounts to ~114 races.</p>
+              <p>The scope of the RTTBC contest will be all of the Graded Stakes races on Dirt in the United States, starting with the Belmont Stakes Saturday in June, amounting to ~114 races.</p>
 
-              <p>The races are spread out amongst various tracks:
+              <p>The races spread out amongst various tracks:
               <ul style="margin: 20px;">
                 <li>Saratoga (22)</li>
                 <li>Belmont (19)</li>
@@ -158,12 +157,12 @@
                 <li>Santa Anita (9)</li>
                 <li>Monmouth (6)</li>
                 <li>Parx (5)</li>
-                <li>7 tracks with 2 races</li>
-                <li>2 tracks with 1 race</li>
+                <li>Seven tracks with two races</li>
+                <li>Two tracks with one race</li>
               </ul>
               </p>
 
-              <p>In early June you'll draft <b>7 horses, 2 trainers, 2 jockeys, and 2 sires</b> whom you think have a
+              <p>In early June, you'll draft <b>seven horses, two trainers, two jockeys, and two sires</b> whom you think have a
                 good chance of succeeding in the 7 Breeders' Cup Dirt Divisions, which include:</p>
 
               <p>
@@ -206,14 +205,14 @@
                   <td>7 Furlongs</td>
                 </tr>
                 <tr>
-                  <td>Juveline</td>
-                  <td>2 Year Olds</td>
+                  <td>Juvenile</td>
+                  <td>2-Year-Olds</td>
                   <td>Open</td>
                   <td>8.5 Furlongs</td>
                 </tr>
                 <tr>
-                  <td>Juveline Fillies</td>
-                  <td>2 Year Olds</td>
+                  <td>Juvenile Fillies</td>
+                  <td>2-Year-Olds</td>
                   <td>Female</td>
                   <td>8.5 Furlongs</td>
                 </tr>
@@ -269,22 +268,20 @@
                   <td>7</td>
                 </tr>
                 <tr>
-                  <td colspan="4">*You will also add on <b>1 trainer, 1 jockey, and 1 sire</b> during Supplemental Draft #4.</td>
+                  <td colspan="4">*You will also add <b>one trainer, one jockey, and one sire</b> during Supplemental Draft #4.</td>
                 </tr>
               </table>
               </center>
               </p>
 
-              <p>Come Breeders' Cup weekend, you'll end up with <b>35 horses, 3 trainers, 3 jockeys and 3 sires</b> in
-                your stable.</p>
+              <p>By Breeders' Cup weekend, each stable will have <b>thirty-five horses, three trainers, three jockeys, and three sires</b>.</p>
 
-              <p>Horse points are awarded for the Top 3 finishers in each race. Trainer, Jockey and Sire points are only
-                awarded to the Winner.</p>
+              <p>The Top 3 finishers in each race will earn horse points. Only the winning horse will earn trainer, jockey, and sire points.</p>
 
               <p>For additional information, please visit our <a href="/contests/strategies.shtml">Strategies</a>
                 section.</p>
 
-              <p>This table below provides a summary of how the RTTBC scoring works.</p>
+              <p>The table below provides a summary of how the RTTBC scoring works.</p>
 
               <!--#include virtual="/modules/rttbc-scoring-table.html"-->
 
@@ -297,14 +294,16 @@
       <center>
         <h4>All Contests</h4>
       </center>
-      <p>Stables can have the same horses, trainers and jockeys as other player's stables. The opportunity to separate
-        comes with the "Power Horses" you select each week. Those horses will earn you 2x points.</p>
+      <p>Stables can have the same horses, trainers, and jockeys as other players' stables. The opportunity to separate comes with the "Power Horses" you select each week. Those horses will earn you 2x points.</p>
 
-      <p>All horses, trainers, jockeys and sires (RTTBC only) in your stable are eligible to score points every week.
-        There is no "starting" or "sitting/benching" of entries in your stable.</p>
+      <p>All horses, trainers, jockeys, and sires (RTTBC only) in your stable are eligible to score points every week. There is no "starting" or "sitting/benching" of entries in your stable.</p>
 
-      <p>As the contest goes on, the races are worth more points. So even if you stumble out of the gate, you can make
-        up a lot of ground down the stretch!</p>
+      <p>Race "Nominations" are typically published two weeks before a race. Nominations contain a list of horses eligible to enter a race (pending any "late" nominees). Race "Entries" are then published the week of the race, typically no less than three days before the race. Both Nominations and Entries will be made available on the contest page. You may also go directly to <a href="https://www.equibase.com" target="_blank">Equibase.com</a> to find these.</p>
+
+      <p>All Supplemental Drafting periods are planned around the Nominations schedule to ensure that participants have as much advanced access as possible to potential runners in a future race.</p>
+
+
+      <p>As the contest goes on, the races are worth more points. So even if you stumble out of the gate, you can make up a lot of ground down the stretch!</p>
 
       <br />
 

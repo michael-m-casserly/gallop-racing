@@ -117,71 +117,38 @@
           <ul class="dropdown-menu" aria-labelledby="dropdown_Contests">
             <li><a class="dropdown-item" href="/contests/index.shtml">Contests</a></li>
             <li><a class="dropdown-item" href="/contests/how-to-play.shtml">How to Play</a></li>
+            <li><a class="dropdown-item" href="/contests/resources.shtml">Resources</a></li>
             <li><a class="dropdown-item" href="/contests/rules.shtml">Rules</a></li>
             <li><a class="dropdown-item" href="/contests/strategies.shtml">Strategies</a></li>
           </ul>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link link-light dropdown-toggle" href="#" id="dropdown_Connect" data-bs-toggle="dropdown" aria-expanded="false">Connect</a>
-          <ul class="dropdown-menu" aria-labelledby="dropdown_Connect">
-              
-            <li><a class="dropdown-item" href="/about.shtml">About Us</a></li>
-            <li><a class="dropdown-item" href="/contact.shtml">Contact Us</a></li>
-            <li><a class="dropdown-item" href="https://www.linkedin.com/company/gallop-racing-llc" target="_blank"
-              onclick="captureOutboundLink('https://www.linkedin.com/company/gallop-racing-llc');"><svg class="bi" width="16" height="16" role="img" aria-label="LinkedIn">
-                <title id="linkedin-label-mouseover">LinkedIn</title>
-                <use xlink:href="#linkedin" />
-              </svg> LinkedIn &raquo;</a></li>
-            <li><a class="dropdown-item" href="https://twitter.com/gallopracingllc" target="_blank"
-              onclick="captureOutboundLink('https://twitter.com/gallopracingllc');"><svg class="bi" width="16" height="16" role="img" aria-label="Twitter">
-                <title id="twitter-label-mouseover">Twitter</title>
-                <use xlink:href="#twitter" />
-              </svg> Twitter &raquo;</a></li>
-            <li><a class="dropdown-item" href="https://twitter.com/hashtag/rttbc22?f=live" target="_blank"
-              onclick="captureOutboundLink('https://twitter.com/hashtag/rttbc22?f=live');"><svg class="bi" width="16" height="16" role="img" aria-label="Twitter">
-                <title id="twitter-label-mouseover">Twitter</title>
-                <use xlink:href="#twitter" />
-              </svg> #rttbc22 &raquo;</a></li>
-          </ul>
-        </li>
-        <li class="nav-item dropdown">
           <a class="nav-link link-light dropdown-toggle" href="#" id="dropdown_More" data-bs-toggle="dropdown" aria-expanded="false">More</a>
           <ul class="dropdown-menu" aria-labelledby="dropdown_More">
+            <li><a class="dropdown-item" href="/about.shtml">About Gallop</a></li>
             <li><a class="dropdown-item" href="/contests/all-time-leaders.shtml">All-Time Leaders</a></li>
             <li><a class="dropdown-item" href="/contests/champions.shtml">Champions</a></li>
+            <li><a class="dropdown-item" href="/contact.shtml">Contact Us</a></li>
             <li><a class="dropdown-item" href="/contests/data-disclaimer.shtml">Data Disclaimer</a></li>
             <li><a class="dropdown-item" href="/contests/legend.shtml">Legend</a></li>
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link link-light" href="/contests/rttbc22/index.shtml">BC '22</a>
+          <a class="nav-link link-light" href="/contests/rttbc22/index.shtml">Breeders' Cup '22</a>
         </li>
         <li class="nav-item">
           <a class="nav-link link-light" href="/news.shtml">News</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link link-light" href="https://twitter.com/hashtag/rttbc22?f=live" target="_blank"
+          onclick="captureOutboundLink('https://twitter.com/hashtag/rttbc22?f=live');"><svg class="bi" width="16" height="16" role="img" aria-label="Twitter">
+            <title id="twitter-label-mouseover">Twitter</title>
+            <use xlink:href="#twitter" />
+          </svg> #rttbc22 &raquo;</a></li>
+        <li class="nav-item">
           <a class="nav-link link-light" href="https://docs.google.com/forms/d/e/1FAIpQLSe2GwysYayxRZN_aZm9EPkqttAGHQN3yWYEsWg4-CalcnS0Fg/viewform?usp=sf_link" target="_blank" style="text-transform: uppercase; font-weight: bold;">Register &raquo;</a>
         </li>
       </ul>
-      <form class="col-12 col-lg-auto mb-3 mb-lg-0" style="padding: 10px;">
-        <center>
-          <select class="form-select" aria-label="" onchange="javascript:handleContestLink(this)"
-            style="max-width: 240px;">
-            <option selected>Jump to Contest...</option>
-            <option value="rttbc22/index.shtml">Breeders' Cup 2022</option>
-            <option value="rttr148/index.shtml">Kentucky Derby 2022</option>
-            <option value="rttbc21.shtml">Breeders' Cup 2021</option>
-            <option value="rttr147.shtml">Kentucky Derby 2021</option>
-            <option value="champions.shtml">Champions</option>
-          </select>
-          <script>
-            function handleContestLink(elm) {
-              //window.location = elm.value;
-              window.location = ('https://www.gallop-racing.com/contests/' + elm.value);
-            }
-          </script>
-        </center>
-      </form>
 
     <!-- KEEP THIS IN CASE WE WANT TO MOVE THE SEARCH BAR BACK INTO THE TOGGLER...form class="col-12 col-lg-auto mb-3 mb-lg-0" method="GET" action="http://www.google.com/custom">
       <center>

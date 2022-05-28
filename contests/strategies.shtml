@@ -45,23 +45,23 @@
             <div id="collapseVariableDraft" class="accordion-collapse collapse" aria-labelledby="headingVariableDraft"
               data-bs-parent="#accordionStrategiesdata">
               <div class="accordion-body">
-                  <p>The final 2 Supplemental Drafts in the RTTR contest will be "variable". This means stables can select anywhere between 0 and 5 horses to add to their stable, over 2 separate selection periods.</p>
+                  <p>The final two Supplemental Drafts in the RTTR contest will be <i>variable</i>, meaning stables can select anywhere between zero and five horses to add to their stable over two separate selection periods.</p>
 
                   <p>The first period will be the week of late March / early April. The second period will be the week leading into the Kentucky Derby.</p>
           
-                  <p>While there are many unique factors for each stable to consider when making their selections, in the end it amounts to a balancing act and weighing the pros and cons.</p>
+                  <p>While there are many unique factors for each stable to consider when making their selections, it ultimately amounts to a balancing act and weighing the pros and cons.</p>
           
-                  <p>Here are some high-level pros and cons to each approach:</p>
+                  <p>Here are some high-level pros and cons of each approach:</p>
           
-                  <p><b><i>Drafting a horse in late March / early April (with 7 races left):</i></b></p>
-                  <p><b>PRO:</b> The horse has an opportunity to earn points in those 7 races leading into the Kentucky Derby.</p>
+                  <p><b><i>Drafting a horse in late March / early April (with seven races left):</i></b></p>
+                  <p><b>PRO:</b> The horse has an opportunity to earn points in those seven races leading into the Kentucky Derby.</p>
                   <p><b>CON:</b> The horse misses the board in that race, earns no points, and doesn't make it into the Kentucky Derby.</p>
           
                   <p><b><i>Waiting to draft a horse during Kentucky Derby week:</i></b></p>
-                  <p><b>PRO:</b> You know for certain that the horse will be entered into the Kentucky Derby.</p>
-                  <p><b>CON:</b> You miss out on any opportunity to earn points in those 7 races prior.</p>
+                  <p><b>PRO:</b> You know that the horse entered the Kentucky Derby.</p>
+                  <p><b>CON:</b> You miss out on any opportunity to earn points in those seven races prior.</p>
           
-                  <p>RTTR Points in the Kentucky Derby itself are worth a lot more, so there is definitely some thoughtful consideration required by each stable on their best combination. The most common is 3 then 2, or 4 then 1, or all 5 up front. Rarely are 4 or 5 left until Derby Week. But it all depends on each stable, their current position, stable strength, etc. This is where the RTTR Contest gets interesting!</p>
+                  <p>RTTR Points in the Kentucky Derby are worth a lot more, so each stable requires careful thought on their best combination. The most common is three / two, four / one, or all five upfront. Rarely are four or five left until Derby Week. But it all depends on each stable, their current position, stable strength, etc. Here is where the RTTR Contest gets interesting!</p>
           
                   <!--#include virtual="/modules/rttr-scoring-table.html" -->
                   
@@ -80,20 +80,20 @@
             <div id="collapseRTTBC" class="accordion-collapse collapse show" aria-labelledby="headingRTTBC"
               data-bs-parent="#accordionStrategiesdata">
               <div class="accordion-body">
-                  <p>The RTTBC contest is a lot longer and encompasses more divisions than the RTTR contest (which is restricted to 3-year-old horses on the dirt). The RTTBC contest covers all 7 dirt divisions leading into the Breeders' Cup. The 7 divisions include:</p>
+                  <p>The RTTBC contest is longer and encompasses more divisions than the RTTR contest (restricted to 3-year-old horses on the dirt). The RTTBC contest covers all seven dirt divisions leading into the Breeders' Cup. The seven divisions include:</p>
                   <ul style="margin: 20px;">
                       <li><b>Classic</b></li>
                       <li><b>Distaff</b></li>
                       <li><b>Dirt Mile</b></li>
                       <li><b>Sprint</b></li>
                       <li><b>Filly & Mare Sprint</b></li>
-                      <li><b>Juveline</b></li>
-                      <li><b>Juveline Fillies</b></li>
+                      <li><b>Juvenile</b></li>
+                      <li><b>Juvenile Fillies</b></li>
                     </ul>
           
                   <p>Since the RTTBC Contest covers over 100 graded stakes races, it would be impossible to draft a runner for every race.</p>
           
-                  <p>The most common approach is to draft runners for the Grade 1 races. The logic being, these are the horses most likely to move onto the Breeders' Cup. In addition, if they happen to lose a Grade 1 race, then they are very likely to come back and run in a lesser Grade 2 or Grade 3 race. Whereas if a horse were to lose a Grade 3 race, it would be unlikely to see them move onto the higher level Grade 2 and Grade 1 races.</p>
+                  <p>The most common approach is to draft runners for the Grade 1 races. The logic is that these are the horses most likely to move onto the Breeders' Cup. In addition, if they happen to lose a Grade 1, they are very likely to come back and run in a lesser Grade 2 or Grade 3 race. Whereas if a horse were to lose a Grade 3 race, it would be unlikely to see them move onto the higher level Grade 2 and Grade 1 races.</p>
           
                   <!--#include virtual="/modules/rttbc-scoring-table.html" -->
                   

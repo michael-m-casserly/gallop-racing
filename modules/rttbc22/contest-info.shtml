@@ -20,6 +20,12 @@
     }
   </script>
 
+
+<p class="module-button-wrapper"><a class="btn btn-secondary"
+  href="https://members.breederscup.com/Points/PointsLeaderboard" target="_blank" role="button"
+  onclick="captureOutboundLink('https://members.breederscup.com/Points/PointsLeaderboard');">BCCS
+  Divisional Leaders &raquo;</a></p>
+
   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="" role="button" target="_blank"><svg
         class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover">PDF</title>
