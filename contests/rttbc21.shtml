@@ -88,6 +88,11 @@
         </table>
       </div>
       <!--row #2-->
+      <div class="row">
+        <!--#include virtual="/modules/jump-to-contest.html" -->
+      </div>
+      <!--row #3-->
+
       <br />
       <!-- FOOTER -->
 
