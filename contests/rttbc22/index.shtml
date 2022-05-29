@@ -269,7 +269,7 @@
         <!--#include virtual="/modules/jump-to-contest.html" -->
       </div>
       <!--row #3-->
-      <br />
+      
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->
