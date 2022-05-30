@@ -176,6 +176,10 @@ td {
   padding: 10px;
 }
 
+.TableHeaderLink {
+  color:white !important;
+}
+
 .TableStandard {
 	max-width:500px;
 	min-width:250px;

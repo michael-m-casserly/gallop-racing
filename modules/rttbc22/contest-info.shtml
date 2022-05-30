@@ -53,6 +53,11 @@
       </svg><br />Schedule</a>
   </p>
 
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/news.shtml"
+    role="button">News</a>&nbsp;
+  <a class="btn btn-secondary btn-half" href="/contests/resources.shtml" role="button">Resources</a>
+  </p>
+
   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rules.shtml"
       role="button">Rules</a>&nbsp;
     <a class="btn btn-secondary btn-half" href="/contests/strategies.shtml" role="button">Strategies</a>

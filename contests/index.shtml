@@ -89,6 +89,8 @@
                 role="button">How to Play</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/legend.shtml"
                 role="button">Legend</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/resources.shtml"
+                  role="button">Resources</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rules.shtml"
                 role="button">Rules</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/strategies.shtml"

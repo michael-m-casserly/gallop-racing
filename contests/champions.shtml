@@ -11,6 +11,11 @@
     td {
       text-align: center !important;
     }
+    
+    .champions-top-row {
+      padding-top: 10px;
+    }
+
   </style>
 
 <link rel="canonical" href="https://www.gallop-racing.com/contests/champions.shtml" />
@@ -48,122 +53,111 @@
         <!--Need to find a way to center this table with CSS, same with the border-->
         <table class="TableStandard">
           <tr class="TableHeader">
-            <td colspan="2" class="text-align-center">RTTR 148 (2022)</td>
+            <td class="text-align-center"><a class="TableHeaderLink" href="/contests/rttr148/index.shtml">RTTR 148 (2022)</a></td>
           </tr>
           <tr>
-            <td class="drafted-player">2015 Champion Stables (WIN)</td>
-            <td>Kathryn&nbsp;Rodgers<br />South&nbsp;Ozone&nbsp;Park, NY</td>
+            <td class="champions-top-row"><svg class="bi" width="24" height="24" role="img" aria-label="Trophy" style="color: gold;"><title id="trophy-label-mouseover">Trophy</title><use xlink:href="#trophy-fill" /></svg><br/><a href="https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1royW9huwC-DyqK8-F5kibw07d0JO7yBOTT4v2FU1N2Y&sa=D&source=editors&ust=1653927748337962&usg=AOvVaw38aN0yOPPkkZbH_S5AenMb" target="_blank">2015 Champion Stables</a><br/>Kathryn&nbsp;Rodgers<br />South&nbsp;Ozone&nbsp;Park, NY</td>
           </tr>
           <tr>
-            <td class="drafted-player">We All Had Pony (PLACE)</td>
-            <td>Casey&nbsp;Hutchings<br />Canada</td>
+            <td><b>PLACE</b><br/><a href="https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/16BjfxiLgVzx8mif4gM7m4KKvodlb6natLA2o-6LWFWM&sa=D&source=editors&ust=1653927748338518&usg=AOvVaw3G8eC6C8NShIZ3ECWJGdEs" target="_blank">We All Had Pony</a><br/>Casey&nbsp;Hutchings<br />Canada</td>
           </tr>
           <tr>
-            <td class="drafted-player">Moonshine Mullon (SHOW)</td>
-            <td>Kevin&nbsp;Mullon<br />Long&nbsp;Beach, NY</td>
+            <td><b>SHOW</b><br/><a href="https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1rCTTT2vhEE3f5OfPk-LFxLzl4gkKdqQyBHs_j3msXjU&sa=D&source=editors&ust=1653927748339014&usg=AOvVaw3YL4eAZEQE_uafgXnnaWZx" target="_blank">Moonshine Mullon</a><br/>Kevin&nbsp;Mullon<br />Long&nbsp;Beach, NY</td>
           </tr>
           <tr>
-            <td colspan="2">&nbsp;</td>
+            <td>&nbsp;</td>
           </tr>
           <tr class="TableHeader">
-            <td colspan="2" class="text-align-center">RTTBC '21 (2021)</td>
+            <td class="text-align-center"><a class="TableHeaderLink" href="/contests/rttbc21.shtml">RTTBC '21 (2021)</a></td>
           </tr>
           <tr>
-            <td class="drafted-player">Moonshine Mullon (WIN)</td>
-            <td>Kevin&nbsp;Mullon<br />Long&nbsp;Beach, NY</td>
+            <td class="champions-top-row"><svg class="bi" width="24" height="24" role="img" aria-label="Trophy" style="color: gold;"><title id="trophy-label-mouseover">Trophy</title><use xlink:href="#trophy-fill" /></svg><br/><a href="https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/19pUeWrBz7UInsuBJ5by-62nAu0Y9VhBjMxHv4U8XBQg&sa=D&source=editors&ust=1653929351110848&usg=AOvVaw3Sbr8ChZCuEy0A_A8Y95LW" target="_blank">Moonshine Mullon</a><br/>Kevin&nbsp;Mullon<br />Long&nbsp;Beach, NY</td>
           </tr>
           <tr>
-            <td class="drafted-player">Crack the Whip Stables (PLACE)</td>
-            <td>Mike&nbsp;Triunfo<br />Greece</td>
+            <td><b>PLACE</b><br/><a href="https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1bCczUggx_D5epypgtvA_xIJR3Uvl-ZPVCazN1ws0AYE&sa=D&source=editors&ust=1653929351111145&usg=AOvVaw30CqWVJtyvCrbBEq2zhsBW" target="_blank">Crack the Whip Stables</a><br/>Mike&nbsp;Triunfo<br />Greece</td>
           </tr>
           <tr>
-            <td colspan="2">&nbsp;</td>
+            <td>&nbsp;</td>
           </tr>
           <tr class="TableHeader">
-            <td colspan="2" class="text-align-center">RTTR 147 (2021)</td>
+            <td class="text-align-center"><a class="TableHeaderLink" href="/contests/rttr147.shtml">RTTR 147 (2021)</a></td>
           </tr>
           <tr>
-            <td class="drafted-player">Bumruggles Stables (WIN)</td>
-            <td>Greg&nbsp;Schaefer<br />Rockville&nbsp;Center, NY</td>
+            <td class="champions-top-row"><svg class="bi" width="24" height="24" role="img" aria-label="Trophy" style="color: gold;"><title id="trophy-label-mouseover">Trophy</title><use xlink:href="#trophy-fill" /></svg><br/><a href="https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/14iRE6NtRY-zIMV9OrODn_dRXG9OPlwj2CyKsjAXyXCE&sa=D&source=editors&ust=1653929662917496&usg=AOvVaw3lBO6tz_WJhd7NzFXiXVoC" target="_blank">Bumruggles Stables</a><br/>Greg&nbsp;Schaefer<br />Rockville&nbsp;Center, NY</td>
           </tr>
           <tr>
-            <td class="drafted-player">Bazooka Double Deuce Stables (PLACE)</td>
-            <td>James&nbsp;Gormley<br />Valley&nbsp;Stream, NY</td>
+            <td><b>PLACE</b><br/><a href="https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1PE9nP5Kbfnl2pRVQ-QcLCwimqiz4eBQmTBzXWrI_GDA&sa=D&source=editors&ust=1653929662918333&usg=AOvVaw3eOto7FTGPZrncLQ_Z23fh" target="_blank">Bazooka Double Deuce Stables</a><br/>James&nbsp;Gormley<br />Valley&nbsp;Stream, NY</td>
           </tr>
           <tr>
-            <td colspan="2">&nbsp;</td>
+            <td>&nbsp;</td>
           </tr>
           <tr class="TableHeader">
-            <td colspan="2" class="text-align-center">RTTR 142 (2016)</td>
+            <td class="text-align-center">RTTR 142 (2016)</td>
           </tr>
           <tr>
-            <td class="drafted-player">Moonshine Mullon</td>
-            <td>Kevin&nbsp;Mullon<br />Long&nbsp;Beach, NY</td>
+            <td class="champions-top-row"><svg class="bi" width="24" height="24" role="img" aria-label="Trophy" style="color: gold;"><title id="trophy-label-mouseover">Trophy</title><use xlink:href="#trophy-fill" /></svg><br/>Moonshine Mullon<br/>Kevin&nbsp;Mullon<br />Long&nbsp;Beach, NY</td>
           </tr>
           <tr>
-            <td colspan="2">&nbsp;</td>
+            <td>&nbsp;</td>
           </tr>
           <tr class="TableHeader">
-            <td colspan="2" class="text-align-center">RTTR 141 (2015)</td>
+            <td class="text-align-center">RTTR 141 (2015)</td>
           </tr>
           <tr>
-            <td class="drafted-player">Kathryn J Fox Stables</td>
-            <td>Kathryn&nbsp;Rodgers<br />South&nbsp;Ozone&nbsp;Park, NY</td>
+            <td class="champions-top-row"><svg class="bi" width="24" height="24" role="img" aria-label="Trophy" style="color: gold;"><title id="trophy-label-mouseover">Trophy</title><use xlink:href="#trophy-fill" /></svg><br/>Kathryn J Fox Stables<br/>Kathryn&nbsp;Rodgers<br />South&nbsp;Ozone&nbsp;Park, NY</td>
           </tr>
           <tr>
-            <td colspan="2">&nbsp;</td>
+            <td>&nbsp;</td>
           </tr>
           <tr class="TableHeader">
-            <td colspan="2" class="text-align-center">RTTR 138 (2012)</td>
+            <td class="text-align-center">RTTR 138 (2012)</td>
           </tr>
           <tr>
-            <td class="drafted-player">Handsome Dans</td>
-            <td>Dan&nbsp;O'Connell<br />Bellerose&nbsp;Village, NY</td>
+            <td class="champions-top-row"><svg class="bi" width="24" height="24" role="img" aria-label="Trophy" style="color: gold;"><title id="trophy-label-mouseover">Trophy</title><use xlink:href="#trophy-fill" /></svg><br/>Handsome Dans<br/>Dan&nbsp;O'Connell<br />Bellerose&nbsp;Village, NY</td>
           </tr>
           <tr>
-            <td colspan="2">&nbsp;</td>
+            <td>&nbsp;</td>
           </tr>
           <tr class="TableHeader">
-            <td colspan="2" class="text-align-center">RTTR 137 (2011)</td>
+            <td class="text-align-center">RTTR 137 (2011)</td>
           </tr>
           <tr>
-            <td class="drafted-player">Handsome Dans</td>
-            <td>Dan&nbsp;O'Connell<br />Bellerose&nbsp;Village, NY</td>
+            <td class="champions-top-row"><svg class="bi" width="24" height="24" role="img" aria-label="Trophy" style="color: gold;"><title id="trophy-label-mouseover">Trophy</title><use xlink:href="#trophy-fill" /></svg><br/>Handsome Dans<br/>Dan&nbsp;O'Connell<br />Bellerose&nbsp;Village, NY</td>
           </tr>
           <tr>
-            <td colspan="2">&nbsp;</td>
+            <td>&nbsp;</td>
           </tr>
           <tr class="TableHeader">
-            <td colspan="2" class="text-align-center">RTTR 136 (2010)</td>
+            <td class="text-align-center">RTTR 136 (2010)</td>
           </tr>
           <tr>
-            <td class="drafted-player">Handsome Dans</td>
-            <td>Dan&nbsp;O'Connell<br />Bellerose&nbsp;Village, NY</td>
+            <td class="champions-top-row"><svg class="bi" width="24" height="24" role="img" aria-label="Trophy" style="color: gold;"><title id="trophy-label-mouseover">Trophy</title><use xlink:href="#trophy-fill" /></svg><br/>Handsome Dans<br/>Dan&nbsp;O'Connell<br />Bellerose&nbsp;Village, NY</td>
           </tr>
           <tr>
-            <td colspan="2">&nbsp;</td>
+            <td>&nbsp;</td>
           </tr>
           <tr class="TableHeader">
-            <td colspan="2" class="text-align-center">RTTR 133 (2007)</td>
+            <td class="text-align-center">RTTR 133 (2007)</td>
           </tr>
           <tr>
-            <td class="drafted-player">Need for Speed Racing, Inc.</td>
-            <td>Joe&nbsp;Masone<br />New York, NY</td>
+            <td class="champions-top-row"><svg class="bi" width="24" height="24" role="img" aria-label="Trophy" style="color: gold;"><title id="trophy-label-mouseover">Trophy</title><use xlink:href="#trophy-fill" /></svg><br/>Need for Speed Racing, Inc.<br/>Joe&nbsp;Masone<br />New York, NY</td>
           </tr>
           <tr>
-            <td colspan="2">&nbsp;</td>
+            <td>&nbsp;</td>
           </tr>
           <tr class="TableHeader">
-            <td colspan="2" class="text-align-center">RTTR 132 (2006)</td>
+            <td class="text-align-center">RTTR 132 (2006)</td>
           </tr>
           <tr>
-            <td class="drafted-player">BIG KEV</td>
-            <td>Kevin&nbsp;Mullon<br />Astoria, NY</td>
+            <td class="champions-top-row"><svg class="bi" width="24" height="24" role="img" aria-label="Trophy" style="color: gold;"><title id="trophy-label-mouseover">Trophy</title><use xlink:href="#trophy-fill" /></svg><br/>BIG KEV<br/>Kevin&nbsp;Mullon<br />Astoria, NY</td>
           </tr>
         </table>
       </center>
-      <br />
-      <br />
+
+      <div class="row">
+        <!--#include virtual="/modules/jump-to-contest.html" -->
+      </div>
+      <!--row #1-->
 
       <!-- FOOTER -->
 
