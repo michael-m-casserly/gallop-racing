@@ -59,7 +59,7 @@
             <p class="module-button-wrapper"><a class="btn btn-secondary btn"
                 href="https://twitter.com/hashtag/rttbc22?f=live" role="button" target="_blank"><svg class="bi"
                   width="16" height="16" role="img" aria-label="Twitter">
-                  <title id="twitter-label-mouseover">Twitter</title>
+                  <title id="twitter-label-mouseover-rttbc22-module-button">Twitter</title>
                   <use xlink:href="#twitter" />
                 </svg> #rttbc22 News &raquo;</a></p>
             <p style="text-align: center;">
@@ -107,7 +107,7 @@
             <p class="module-button-wrapper"><a class="btn btn-secondary btn"
                 href="https://twitter.com/hashtag/rttr148?f=live" role="button" target="_blank"><svg class="bi"
                   width="16" height="16" role="img" aria-label="Twitter">
-                  <title id="twitter-label-mouseover">Twitter</title>
+                  <title id="twitter-label-mouseover-rttr148-module-button">Twitter</title>
                   <use xlink:href="#twitter" />
                 </svg> #rttr148 News &raquo;</a></p>
             <p style="text-align: center;">
