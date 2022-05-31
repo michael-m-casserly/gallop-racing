@@ -84,7 +84,7 @@
 
                 <p>There will be seven races late-January / early-February where you can earn points. Then the Supplemental Drafts are broken out as follows:</p>
 
-                <p style="text-align: center;">
+                <div style="text-align: center; padding-bottom: 10px;">
                 <table class="TableStandard">
                   <tr class="TableHeader">
                       <th>Supp. Draft</th>
@@ -114,7 +114,7 @@
                     <td colspan="4">*The draft at the end of March is variable, meaning you can take anywhere from <b>0-5 horses</b>. The week of the Derby, you can use any of those <b>0-5 horse</b> selections that you didn't use at the end of March to complete your stable.</td>
                   </tr>
                 </table>
-              </p>
+              </div>
 
               <p>By Derby Day, each stable will have <b>fifteen horses, two trainers, and two jockeys</b>.</p>
 
@@ -163,7 +163,7 @@
               <p>In early June, you'll draft <b>seven horses, two trainers, two jockeys, and two sires</b> whom you think have a
                 good chance of succeeding in the seven Breeders' Cup Dirt Divisions, which include:</p>
 
-              <p style="text-align: center;">
+              <div style="text-align: center; padding-bottom: 10px;">
               <table class="TableStandard">
                 <tr class="TableHeader">
                     <th>Division</th>
@@ -214,11 +214,11 @@
                   <td>8.5 Furlongs</td>
                 </tr>
               </table>
-            </p>
+            </div>
 
               <p>There will be fourteen races in June where you can earn points. Then the Supplemental Drafts are broken out as follows:</p>
 
-              <p style="text-align: center;">
+              <div style="text-align: center; padding-bottom: 10px;">
               <table class="TableStandard">
                 <tr class="TableHeader">
                     <th>Supp. Draft</th>
@@ -266,7 +266,7 @@
                   <td colspan="4">*You will also add <b>one trainer, one jockey, and one sire</b> during Supplemental Draft #4.</td>
                 </tr>
               </table>
-              </p>
+            </div>
 
               <p>By Breeders' Cup weekend, each stable will have <b>thirty-five horses, three trainers, three jockeys, and three sires</b>.</p>
 

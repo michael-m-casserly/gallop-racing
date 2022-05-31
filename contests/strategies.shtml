@@ -65,8 +65,8 @@
           
                   <!--#include virtual="/modules/rttr-scoring-table.html" -->
                   
-                  <p style="text-align: center;">
-                  <h5>RTTR Variable Supplemental Draft Sample Schedule</h5><img src="/images/sample-supp-draft-schedule.png" alt="Sample Supplemental Draft Schedule" title="Sample Supplemental Draft Schedule" style="max-width: 600px;" /></p>
+                  <div style="text-align: center;">
+                  <h5>RTTR Variable Supplemental Draft Sample Schedule</h5><img src="/images/sample-supp-draft-schedule.png" alt="Sample Supplemental Draft Schedule" title="Sample Supplemental Draft Schedule" style="max-width: 600px;" /></div>
                   
               </div>
             </div>
