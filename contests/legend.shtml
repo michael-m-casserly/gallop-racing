@@ -32,9 +32,8 @@
 
       <div class="text-align-center"><h3>Legend</h3></div>
   
-      <div class="container marketing">
+      <div class="container marketing" style="text-align: center;">
         
-      <center><!--Need to find a way to center this table with CSS, same with the border-->
       <table class="TableStandard">
         <tr class="TableHeader">
           <th class="text-align-center" colspan="2">Stable Sheet, Column A</th>
@@ -114,7 +113,6 @@
         <td>Horse has yet to be nominated to the Triple Crown.</td>
       </tr>
     </table>  
-</center>
 <br/>
               
 <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/index.shtml" role="button">Contests</a></p>

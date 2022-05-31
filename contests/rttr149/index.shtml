@@ -53,8 +53,6 @@
 
           <div class="round-border">
             <h5>Upcoming Races</h5>
-            <center>
-              <!--Need to leave this in until a reliable CSS method is available-->
               <table class="TableStandard">
                 <tr class="TableHeader">
                   <th class="text-align-center">Supp. Draft #3, May 2-7, 2022</th>
@@ -97,15 +95,10 @@
               </table>
               <p style="font-size: 12px;">Nominations and Results courtesy of <a href="https://www.equibase.com"
                   target="_blank">Equibase.com</a></p>
-            </center>
-            <!--Need to leave this in until a reliable CSS method is available-->
-
           </div>
 
           <div class="round-border" style="padding-left: 0px; padding-right: 0px;">
             <h5>Completed Races</h5>
-            <center>
-              <!--Need to leave this in until a reliable CSS method is available-->
               <a id="week13"></a>
               <table class="TableStandard">
                 <tr>
@@ -883,8 +876,6 @@
                   </td>
                 </tr>
               </table>
-            </center>
-            <!--Need to leave this in until a reliable CSS method is available-->
           </div>
 
         </div>

@@ -62,14 +62,12 @@
                   <title id="twitter-label-mouseover">Twitter</title>
                   <use xlink:href="#twitter" />
                 </svg> #rttbc22 News &raquo;</a></p>
-            <p>
-              <center>
+            <p style="text-align: center;">
                 <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
                   style="max-width: 240px;">
                   <option selected>Select Previous Contest</option>
                   <option value="/contests/rttbc21.shtml">RTTBC '21</option>
                 </select>
-              </center>
             </p>
           </div>
         </div>
@@ -112,14 +110,12 @@
                   <title id="twitter-label-mouseover">Twitter</title>
                   <use xlink:href="#twitter" />
                 </svg> #rttr148 News &raquo;</a></p>
-            <p>
-              <center>
+            <p style="text-align: center;">
                 <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
                   style="max-width: 240px;">
                   <option selected>Select Previous Contest</option>
                   <option value="/contests/rttr147.shtml">RTTR 147</option>
                 </select>
-              </center>
             </p>
           </div>
         </div>

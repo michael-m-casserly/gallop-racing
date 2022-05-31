@@ -63,9 +63,9 @@
         </ol>
         </p>
 
-      <center>
+      <p style="text-align: center;">
         <h4>All Contests</h4>
-      </center>
+      </p>
 
       <div class="accordion" id="accordionRulesAllContests">
         <!--div class="accordion-item">
@@ -79,7 +79,6 @@
           <div id="collapseRulesAllContestsFinancial" class="accordion-collapse collapse"
             aria-labelledby="headingRulesAllContestsFinancial" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
-              <center>
                 <table class="TableStandard">
                   <tr>
                     <th class="TableHeader text-align-center">FIN-001</th>
@@ -103,7 +102,6 @@
                       pro-rated prizes.</td>
                   </tr>
                 </table>
-              </center>
             </div>
           </div>
         </div-->
@@ -119,7 +117,6 @@
           <div id="collapseRulesAllContestsFormat" class="accordion-collapse collapse"
             aria-labelledby="headingRulesAllContestsFormat" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
-              <center>
                 <table class="TableStandard">
                   <tr>
                     <th class="TableHeader text-align-center">FOR-001</th>
@@ -146,8 +143,6 @@
                     <td>All Supplemental Draft picks are FINAL once the respective draft period ends. If a horse gets injured, scratched, etc., you cannot swap him out for another horse.</td>
                   </tr>
                 </table>
-              </center>
-
             </div>
           </div>
         </div>
@@ -163,7 +158,6 @@
           <div id="collapseRulesAllContestsMiscellaneous" class="accordion-collapse collapse"
             aria-labelledby="headingRulesAllContestsMiscellaneous" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
-              <center>
                 <table class="TableStandard">
                   <tr>
                     <th class="TableHeader text-align-center">MIS-001</th>
@@ -178,7 +172,6 @@
                     <td>If any situation arises not covered by any of the rules mentioned here, it will be raised by the League Commissioner and brought before the League Membership for a vote. The majority will win, and ties will lose.</td>
                   </tr>
                 </table>
-              </center>
             </div>
           </div>
         </div>
@@ -194,7 +187,6 @@
           <div id="collapseRulesAllContestsPowerHorses" class="accordion-collapse collapse"
             aria-labelledby="headingRulesAllContestsPowerHorses" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
-              <center>
                 <table class="TableStandard">
                   <tr>
                     <th class="TableHeader text-align-center">PWH-001</th>
@@ -244,7 +236,6 @@
                     <td>The first three choices (from the top-down) will be selected if a stable exceeds the maximum number of Power Horses. Any selections after that will be unchecked. There will be no consideration for M/L odds, race grade, whether the horse entered, etc.</td>
                   </tr>
                 </table>
-              </center>
             </div>
           </div>
         </div>
@@ -260,7 +251,6 @@
           <div id="collapseRulesAllContestsSchedule" class="accordion-collapse collapse"
             aria-labelledby="headingRulesAllContestsSchedule" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
-              <center>
                 <table class="TableStandard">
                   <tr>
                     <th class="TableHeader text-align-center">SCH-001</th>
@@ -281,7 +271,6 @@
                     <td>The Race Schedule is tentative (final scheduled dates will apply to the contest).</td>
                   </tr>
                 </table>
-              </center>
             </div>
           </div>
         </div>
@@ -297,7 +286,6 @@
           <div id="collapseRulesAllContestsScoring" class="accordion-collapse collapse"
             aria-labelledby="headingRulesAllContestsScoring" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
-              <center>
                 <table class="TableStandard">
                   <tr>
                     <th class="TableHeader text-align-center">SCR-001</th>
@@ -358,7 +346,6 @@
                     <td>2x "Power Points" are for horses ONLY. There are no Power Points for trainers, jockeys, or sires.</td>
                   </tr>
                 </table>
-              </center>
             </div>
           </div>
         </div>
@@ -374,7 +361,6 @@
           <div id="collapseRulesAllContestsSetup" class="accordion-collapse collapse"
             aria-labelledby="headingRulesAllContestsSetup" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
-              <center>
                 <table class="TableStandard">
                   <tr>
                     <th class="TableHeader text-align-center">SET-001</th>
@@ -389,7 +375,6 @@
                     <td>Each player will select a Winning Time for this year's Kentucky Derby OR Breeder's Cup Classic, used in case of any tiebreaker at the end of the year. The player with the closest time (to the millisecond without going over) will be considered the winner. If multiple players select the same winning time and are involved in a tiebreaker, they are declared co-winners.</td>
                   </tr>
                 </table>
-              </center>
             </div>
           </div>
         </div>
@@ -405,7 +390,6 @@
           <div id="collapseRulesAllContestsTimeline" class="accordion-collapse collapse"
             aria-labelledby="headingRulesAllContestsTimeline" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
-              <center>
                 <table class="TableStandard">
                   <tr>
                     <th class="TableHeader text-align-center">TIM-001</th>
@@ -420,7 +404,6 @@
                     <td>Any reference to time implies Eastern Standard Time (EST) (unless otherwise stated).</td>
                   </tr>
                 </table>
-              </center>
             </div>
           </div>
         </div>
@@ -428,9 +411,9 @@
       </div>
 
       <br /><br />
-      <center>
+      <p style="text-align: center;">
         <h4>Contest Specific</h4>
-      </center>
+      </p>
 
       <div class="accordion" id="accordionRulesRTTBC">
         <div class="accordion-item">
@@ -443,7 +426,6 @@
           <div id="collapseRulesRTTBC" class="accordion-collapse collapse show" aria-labelledby="headingRulesRTTBC"
             data-bs-parent="#accordionRulesRTTBC">
             <div class="accordion-body">
-              <center>
                 <table class="TableStandard">
                   <tr>
                     <th class="TableHeader text-align-center">RBC-001</th>
@@ -478,7 +460,6 @@
                     <td>"Off-the-Turf" races will NOT count as Dirt Races, including "Main Track Only" entries or MTOs.</td>
                   </tr>
                 </table>
-              </center>
             </div>
           </div>
         </div>
@@ -495,7 +476,6 @@
           <div id="collapseRulesRTTR" class="accordion-collapse collapse" aria-labelledby="headingRulesRTTR"
             data-bs-parent="#accordionRulesRTTR">
             <div class="accordion-body">
-              <center>
                 <table class="TableStandard">
                   <tr>
                     <th class="TableHeader text-align-center">RTR-001</th>
@@ -517,7 +497,6 @@
                     Any subsequent updates to the content on that page mentioned above will NOT be  valid for this game unless determined otherwise by the League Commissioner and agreed upon by League Participants.</td>
                   </tr>
                 </table>
-              </center>
             </div>
           </div>
         </div>

@@ -187,6 +187,7 @@ td {
   background-color: #FFF;
   width: 100%;
   padding: 10px;
+  margin: auto; /* This ensures that the table will center inside of a DIV */
 }
 
 .TableStandard td {
@@ -281,8 +282,9 @@ border-bottom: #FFF !important;
 .scoring-table table, th, td {
   border-width: 2px;
   border: 1px solid #344f7c;
-  border-collapse: collapse; 
-	}
+  border-collapse: collapse;
+  margin: auto; /* This is required to ensure the table will center inside of a DIV */ 
+}
 
 /* End Table Styles*/
 
