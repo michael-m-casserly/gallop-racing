@@ -6,7 +6,7 @@
 
   <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="" target="_blank" role="button"
       onclick="captureOutboundLink('');"><svg class="bi" width="16" height="16" role="img" aria-label="Google">
-        <title id="google-label-mouseover">Google</title>
+        <title id="google-label-mouseover-rttbc22-leaderboard">Google</title>
         <use xlink:href="#google" />
       </svg> Leaderboard</a-->
     
@@ -28,7 +28,7 @@
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="" role="button" target="_blank"><svg
         class="bi" width="16" height="16" role="img" aria-label="PDF">
-        <title id="pdf-label-mouseover">PDF</title>
+        <title id="pdf-label-mouseover-rttbc22-all-stables">PDF</title>
         <use xlink:href="#file-earmark-pdf" />
       </svg><br />All Stables</a>&nbsp;
     <a class="btn btn-secondary btn-half"
@@ -36,19 +36,19 @@
       target="_blank" role="button"
       onclick="captureOutboundLink('https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=month');"><svg
         class="bi" width="16" height="16" role="img" aria-label="Calendar">
-        <title id="calendar-label-mouseover">Calendar</title>
+        <title id="calendar-label-mouseover-rttbc22">Calendar</title>
         <use xlink:href="#calendar-date-fill" />
       </svg><br />Calendar</a>
-  </p-->
+  </p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=249132506&amp;single=true" target="_blank" role="button"
       onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=249132506&amp;single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google">
-        <title id="google-label-mouseover">Google</title>
+        <title id="google-label-mouseover-rttbc22-horses">Google</title>
         <use xlink:href="#google" />
       </svg><br />Horses</a>&nbsp;
     <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSAq7Rxp7pZUrUrLsjcQZx_PlIZ-HnhBBfpjZ01FNLpinOHjvUrIaLfv382kwas0XXuvSDkJlh3drrv/pubhtml?gid=1411863973&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSAq7Rxp7pZUrUrLsjcQZx_PlIZ-HnhBBfpjZ01FNLpinOHjvUrIaLfv382kwas0XXuvSDkJlh3drrv/pubhtml?gid=1411863973&single=true');"><svg
         class="bi" width="16" height="16" role="img" aria-label="Google">
-        <title id="google-label-mouseover">Google</title>
+        <title id="google-label-mouseover-rttbc22-schedule">Google</title>
         <use xlink:href="#google" />
       </svg><br />Schedule</a>
   </p>

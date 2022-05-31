@@ -71,7 +71,7 @@
                     <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
                         href="/contests/rttr148/pdf/Week14-RTTR-Entries.pdf" target="_blank" role="button"><svg class="bi"
                           width="16" height="16" role="img" aria-label="PDF">
-                          <title id="pdf-label-mouseover">PDF</title>
+                          <title id="pdf-label-mouseover-rttr149-week14-rttr-entries">PDF</title>
                           <use xlink:href="#file-earmark-pdf" />
                         </svg> RTTR&nbsp;Entries</a>
                       <!--&nbsp;

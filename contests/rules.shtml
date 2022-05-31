@@ -55,17 +55,17 @@
 
     <div class="container marketing">
 
-      <p>Contest rules are broken into 3 Sections:
+      <div>Contest rules are broken into 3 Sections:
         <ol>
           <li>Applies to All Contests</li>
           <li>Applies to RTTBC Only</li>
           <li>Applies to RTTR Only</li>
         </ol>
-        </p>
+      </div>
 
-      <p style="text-align: center;">
+      <div style="text-align: center;">
         <h4>All Contests</h4>
-      </p>
+      </div>
 
       <div class="accordion" id="accordionRulesAllContests">
         <!--div class="accordion-item">
@@ -410,10 +410,10 @@
 
       </div>
 
-      <br /><br />
-      <p style="text-align: center;">
+      <br />
+      <div style="text-align: center;">
         <h4>Contest Specific</h4>
-      </p>
+      </div>
 
       <div class="accordion" id="accordionRulesRTTBC">
         <div class="accordion-item">

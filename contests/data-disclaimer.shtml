@@ -36,19 +36,19 @@
       
       <p>Gallop data are sourced from Equibase and found within the "Horses" sheet, accessed via a button on each contest page.</p>
 
-      <p><img src="/images/horses-button.png" style="max-height: 360px; max-width: 441px; border: none;"/></p>
+      <p><img src="/images/horses-button.png" style="max-height: 360px; max-width: 441px; border: none;" alt="Horses Button Sample" /></p>
 
       <p>"Horses" sheet data will trickle into the individual "Stable Entry" sheets.</p>
 
-      <p><img src="/images/stable-entry-sheet-data-headings1.png" style="max-height: 46px; max-width: 670px; border:none"/><br/>
-        <img src="/images/stable-entry-sheet-data-headings2.png" style="max-height: 44px; max-width: 597px; border:none"/>
+      <p><img src="/images/stable-entry-sheet-data-headings1.png" style="max-height: 46px; max-width: 670px; border:none" alt="Stable Entry Sheet Sample 1" /><br/>
+        <img src="/images/stable-entry-sheet-data-headings2.png" style="max-height: 44px; max-width: 597px; border:none" alt="Stable Entry Sheet Sample 2" />
       </p>
 
       <p>The Equibase data are sourced manually and will be current as of the horse's last <b>Graded Stakes</b> entry on a <b>United States Dirt Track</b> (in most cases).</p>
 
       <p><i>What does this mean exactly?</i></p>
 
-      <p>
+      <div>
         <ul>
           <li>Trainer changes may not be current, depending on when the change occurs. In other words, the horse has <i>not</i> entered a US Dirt Graded Stakes race since the trainer change took effect.</li>
           <li>Horses may have run in non-Graded Stakes races since the last listed race on the sheet. For example:
@@ -66,7 +66,7 @@
           <li>The list of horses may also include some Turf and International horses. So players should not assume that every horse on that list will run in a Gallop contest race, such as RTTR or RTTBC.</li>
           <li>It is also possible that some horses on that list may be retired, deceased, or no longer in training.</li>
         </ul>
-      </p>
+      </div>
 
       <p><b>So long story short, it is imperative that contest players also do their due diligence to make sure that any horses they are interested in are still in training. You should also confirm who their most recent connections are since that information might not be current within Gallop.</b></p>
 

@@ -73,7 +73,7 @@
           <div id="collapseHowToPlayRTTR" class="accordion-collapse collapse" aria-labelledby="headingHowToPlayRTTR"
             data-bs-parent="#accordionHowToPlay">
             <div class="accordion-body accordion-td-cell">
-              <h4>Kentucky Derby</h4>
+              <div style="text-align: center;"><h4>Kentucky Derby</h4></div>
 
               <p>The scope of the RTTR contest will be all of the <a
                   href="https://www.kentuckyderby.com/horses/prep-races" target="_blank">Kentucky Derby Prep Races</a>
@@ -141,11 +141,11 @@
           <div id="collapseHowToPlayRTTBC" class="accordion-collapse collapse show"
             aria-labelledby="headingHowToPlayRTTBC" data-bs-parent="#accordionHowToPlay">
             <div class="accordion-body accordion-td-cell">
-              <h4>Breeders' Cup<br/>(7 Dirt Divisions)</h4>
+              <div style="text-align: center;"><h4>Breeders' Cup<br/>(7 Dirt Divisions)</h4></div>
 
               <p>The scope of the RTTBC contest will be all of the Graded Stakes races on Dirt in the United States, starting with the Belmont Stakes Saturday in June, amounting to ~114 races.</p>
 
-              <p>The races spread out amongst various tracks:
+              <div>The races spread out amongst various tracks:
               <ul style="margin: 20px;">
                 <li>Saratoga (22)</li>
                 <li>Belmont (19)</li>
@@ -158,7 +158,7 @@
                 <li>Seven tracks with two races</li>
                 <li>Two tracks with one race</li>
               </ul>
-              </p>
+              </div>
 
               <p>In early June, you'll draft <b>seven horses, two trainers, two jockeys, and two sires</b> whom you think have a
                 good chance of succeeding in the seven Breeders' Cup Dirt Divisions, which include:</p>
@@ -285,9 +285,9 @@
 
       </div>
       <br />
-      <p style="text-align: center;">
+      <div style="text-align: center;">
         <h4>All Contests</h4>
-      </p>
+      </div>
       
       <p>Stables can have the same horses, trainers, and jockeys as other players' stables. The opportunity to separate comes with the "Power Horses" you select each week. Those horses will earn you 2x points.</p>
 
