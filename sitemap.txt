@@ -1,12 +1,15 @@
 https://www.gallop-racing.com/
+https://www.gallop-racing.com/index.html
+https://www.gallop-racing.com/index.shtml
 https://www.gallop-racing.com/about.shtml
 https://www.gallop-racing.com/contact.shtml
+https://www.gallop-racing.com/news.shtml
+https://www.gallop-racing.com/contests/
+https://www.gallop-racing.com/contests/index.shtml
 https://www.gallop-racing.com/contests/data-disclaimer.shtml
 https://www.gallop-racing.com/contests/how-to-play.shtml
-https://www.gallop-racing.com/index.shtml
 https://www.gallop-racing.com/contests/all-time-leaders.shtml
 https://www.gallop-racing.com/contests/champions.shtml
-https://www.gallop-racing.com/contests/index.shtml
 https://www.gallop-racing.com/contests/legend.shtml
 https://www.gallop-racing.com/contests/resources.shtml
 https://www.gallop-racing.com/contests/rules.shtml
@@ -16,5 +19,5 @@ https://www.gallop-racing.com/contests/rttr147.shtml
 https://www.gallop-racing.com/contests/rttr148/index.shtml
 https://www.gallop-racing.com/contests/rttr149/index.shtml
 https://www.gallop-racing.com/contests/strategies.shtml
-https://www.gallop-racing.com/news.shtml
+https://www.gallop-racing.com/register/
 https://www.gallop-racing.com/register/index.shtml
