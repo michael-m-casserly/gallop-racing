@@ -13,14 +13,6 @@
       <!--include virtual="/modules/rttbc22/stables-menu.html"-->
     <!--/p-->
 
-  <script>
-    function handleSelectStable(elm) {
-      //window.location = elm.value;
-      window.open('https://docs.google.com/spreadsheets/d/' + elm.value, '_blank');
-    }
-  </script>
-
-
 <p class="module-button-wrapper"><a class="btn btn-secondary"
   href="https://members.breederscup.com/Points/PointsLeaderboard" target="_blank" role="button"
   onclick="captureOutboundLink('https://members.breederscup.com/Points/PointsLeaderboard');">^BCCS

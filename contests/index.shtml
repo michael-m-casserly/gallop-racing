@@ -12,12 +12,6 @@
     }
   </style>
 
-  <script>
-    function handleSelectContest(elm) {
-      window.location = elm.value;
-    }
-  </script>
-
   <link rel="canonical" href="https://www.gallop-racing.com/contests/index.shtml" />
 
 </head>
