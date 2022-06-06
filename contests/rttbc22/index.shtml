@@ -44,8 +44,8 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/calendar.html" -->
           <!--#include virtual="/modules/rttbc22/contest-info.shtml" -->
+          <!--#include virtual="/modules/calendar.html" -->
 
         </div>
         <!--end left column-->

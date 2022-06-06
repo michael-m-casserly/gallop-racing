@@ -19,7 +19,9 @@
   onclick="captureOutboundLink('https://members.breederscup.com/Points/PointsLeaderboard');">^BCCS
   Divisional Leaders &raquo;</a></p>
 
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="" role="button" target="_blank"><svg
+<!--ADD THIS BACK AFTER THE INITIAL DRAFT CLOSES, and the ALL STABLES PDF is GENERATED-->
+
+  <!--p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="" role="button" target="_blank"><svg
         class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc22-all-stables">PDF</title>
         <use xlink:href="#file-earmark-pdf" />
@@ -32,7 +34,7 @@
         <title id="calendar-label-mouseover-rttbc22">Calendar</title>
         <use xlink:href="#calendar-date-fill" />
       </svg><br />Calendar</a>
-  </p>
+  </p-->
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=249132506&amp;single=true" target="_blank" role="button"
       onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=249132506&amp;single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google">
