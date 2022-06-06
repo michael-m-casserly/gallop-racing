@@ -35,10 +35,11 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/register.html" -->
+          <!--ENABLE THIS AGAIN WHEN REGISTRATION FOR THE NEXT CONTEST OPENS-->
+          <!--include virtual="/modules/register.html" -->
 
           <div class="round-border">
-            <h5>Upcoming Contest</h5>
+            <h5>Current Contest</h5>
 
             <!--Placeholder Message-->
             <p style="text-align:center;">Starting Belmont Stakes Weekend</p>

@@ -10,8 +10,9 @@
         <use xlink:href="#google" />
       </svg> Leaderboard</a-->
     
-      <!--include virtual="/modules/rttbc22/stables-menu.html"-->
-    <!--/p-->
+      <!--#include virtual="/modules/rttbc22/stables-menu.html"-->
+    
+      <!--/p-->
 
 <p class="module-button-wrapper"><a class="btn btn-secondary"
   href="https://members.breederscup.com/Points/PointsLeaderboard" target="_blank" role="button"
@@ -58,9 +59,9 @@
   <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/data-disclaimer.shtml"
     role="button">Data Disclaimer</a></p>
 
-  <!--p style="font-size: 12px; text-align: justify; padding: 5px 20px 0px 20px;">*Cannot view other player's stables
+  <p style="font-size: 12px; text-align: justify; padding: 5px 20px 0px 20px;">*Cannot view other players' stables
     during Drafts or Power Horse selection windows. However, you can always use the "All Stables" button above to see
-    any stable at any time (without Power Horse Access).</p-->
+    any stable at any time (without Power Horse Access).</p>
 
   <p style="font-size: 12px; text-align: justify; padding: 5px 20px 0px 20px;">^Breeders' Cup Championship Series</p>
 
