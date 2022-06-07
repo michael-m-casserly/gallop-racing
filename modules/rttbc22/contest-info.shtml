@@ -22,7 +22,7 @@
 <!--ADD THIS BACK AFTER THE INITIAL DRAFT CLOSES, and the ALL STABLES PDF is GENERATED-->
 
   <!--p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="" role="button" target="_blank"><svg
-        class="bi" width="16" height="16" role="img" aria-label="PDF">
+        class="bi" width="20" height="20" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc22-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg><br />All Stables</a>&nbsp;
