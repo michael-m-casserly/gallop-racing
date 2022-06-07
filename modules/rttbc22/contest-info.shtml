@@ -24,7 +24,7 @@
   <!--p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="" role="button" target="_blank"><svg
         class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc22-all-stables">PDF</title>
-        <use xlink:href="#file-earmark-pdf" />
+        <use xlink:href="#filetype-pdf" />
       </svg><br />All Stables</a>&nbsp;
     <a class="btn btn-secondary btn-half"
       href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=month"
