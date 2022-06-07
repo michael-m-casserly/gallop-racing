@@ -122,13 +122,13 @@
                                   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week13-RTTR-Entries.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week13-rttr-entries">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Entries</a>&nbsp;
                                     <a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week13-RTTR-Results.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week13-rttr-results">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Results</a>
                                   </p>
@@ -140,7 +140,7 @@
                                   <span class="track-name-state">Keeneland (KEE) | Kentucky</span>
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week13-Lexington-Stakes-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-lexington">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -176,13 +176,13 @@
                                   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week12-RTTR-Entries.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week12-rttr-entries">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Entries</a>&nbsp;
                                     <a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week12-RTTR-Results.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week12-rttr-results">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Results</a>
                                   </p>
@@ -194,7 +194,7 @@
                                   <span class="track-name-state">Aqueduct (AQU) | New York</span>
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week12-Wood-Memorial-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-wood">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -205,7 +205,7 @@
                                   <span class="track-name-state">Keeneland (KEE) | Kentucky</span>
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week12-Blue-Grass-Stakes-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-bluegrass">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -216,7 +216,7 @@
                                   <span class="track-name-state">Santa Anita Park (SA) | California</span>
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week12-Santa-Anita-Derby-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-saderby">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -252,13 +252,13 @@
                                   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week11-RTTR-Entries.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week11-rttr-entries">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Entries</a>&nbsp;
                                     <a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week11-RTTR-Results.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week11-rttr-results">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Results</a>
                                   </p>
@@ -270,7 +270,7 @@
                                   <span class="track-name-state">Turfway Park (TP) | Kentucky</span><br>
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week11-Jeff-Ruby-Steaks-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-jeffruby">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -281,7 +281,7 @@
                                   <span class="track-name-state">Gulfstream Park (GP) | Florida</span><br>
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week11-Florida-Derby-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-fladerby">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -292,7 +292,7 @@
                                   <span class="track-name-state">Oaklawn Park (OP) | Arkansas</span><br>
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week11-Arkansas-Derby-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-arkderby">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -328,13 +328,13 @@
                                   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week10-RTTR-Entries.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week10-rttr-entries">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Entries</a>&nbsp;
                                     <a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week10-RTTR-Results.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week10-rttr-results">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Results</a>
                                   </p>
@@ -346,7 +346,7 @@
                                   <span class="track-name-state">Meydan Racecourse (MEY) | UAE - Dubai</span>
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week10-UAE-Derby-Results.pdf"
                                       target="_blank">Emirates Racing Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-uaederby">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -357,7 +357,7 @@
                                   <span class="track-name-state">Fair Grounds (FG) | Louisiana</span>
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week10-Louisiana-Derby-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-laderby">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -368,7 +368,7 @@
                                   <span class="track-name-state">Sunland Park (SUN) | New Mexico</span>
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week10-Sunland-Derby-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-sunderby">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -403,13 +403,13 @@
                                   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week08-RTTR-Entries.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week8-rttr-entries">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Entries</a>&nbsp;
                                     <a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week08-RTTR-Results.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week8-rttr-results">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Results</a>
                                   </p>
@@ -421,7 +421,7 @@
                                   <span class="track-name-state">Tampa Bay Downs (TAM) | Florida</span>
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week08-Tampa-Bay-Derby-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-tbderby">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -456,13 +456,13 @@
                                   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week07-RTTR-Entries.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week7-rttr-entries">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Entries</a>&nbsp;
                                     <a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week07-RTTR-Results.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week7-rttr-results">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Results</a>
                                   </p>
@@ -474,7 +474,7 @@
                                   <span class="track-name-state">Aqueduct Racetrack (AQU) | New York</span>
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week07-Gotham-Stakes-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-gotham">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -485,7 +485,7 @@
                                   <span class="track-name-state">Santa Anita Park (SA) | California</span>
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week07-San-Felipe-Stakes-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-sanfelipe">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -497,7 +497,7 @@
                                   <p class="text-link"><a
                                       href="/contests/rttr148/pdf/Week07-Fountain-of-Youth-Stakes-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-foy">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -509,7 +509,7 @@
                                   <p class="text-link"><a
                                       href="/contests/rttr148/pdf/Week07-John-Battaglia-Memorial-Stakes-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-battaglia">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -544,13 +544,13 @@
                                   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week06-RTTR-Entries.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week6-rttr-entries">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Entries</a>&nbsp;
                                     <a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week06-RTTR-Results.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week6-rttr-results">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Results</a>
                                   </p>
@@ -562,7 +562,7 @@
                                   <span class="track-name-state">Oaklawn Park (OP) | Arkansas</span>
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week06-Rebel-Stakes-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-rebel">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -598,13 +598,13 @@
                                   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week05-RTTR-Entries.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week5-rttr-entries">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Entries</a>&nbsp;
                                     <a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week05-RTTR-Results.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week5-rttr-results">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Results</a>
                                   </p>
@@ -616,7 +616,7 @@
                                   <span class="track-name-state">Fair Grounds (FG) | Louisiana</span>
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week05-Risen-Star-Stakes-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-risenstar">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -651,13 +651,13 @@
                                   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week04-RTTR-Entries.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week4-rttr-entries">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Entries</a>&nbsp;
                                     <a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week04-RTTR-Results.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week4-rttr-results">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Results</a>
                                   </p>
@@ -669,7 +669,7 @@
                                   <span class="track-name-state">Tampa Bay Downs (TAM) | Florida</span><br>
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week04-Sam-F-Davis-Stakes-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-samdavis">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -681,7 +681,7 @@
                                   <p class="text-link"><a
                                       href="/contests/rttr148/pdf/Week04-El-Camino-Real-Derby-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-elcaminoreal">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -716,13 +716,13 @@
                                   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week03-RTTR-Entries.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week3-rttr-entries">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Entries</a>&nbsp;
                                     <a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week03-RTTR-Results.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week3-rttr-results">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Results</a>
                                   </p>
@@ -734,7 +734,7 @@
                                   <span class="track-name-state">Aqueduct Racetrack (AQU) | New York</span><br />
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week03-Withers-Stakes-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-withers">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -745,7 +745,7 @@
                                   <span class="track-name-state">Gulfstream Park (GP) | Florida</span><br>
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week03-Holy-Bull-Stakes-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-holybull">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -757,7 +757,7 @@
                                   <p class="text-link"><a
                                       href="/contests/rttr148/pdf/Week03-Robert-B-Lewis-Stakes-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-bobbylew">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -792,13 +792,13 @@
                                   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week02-RTTR-Entries.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week2-rttr-entries">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Entries</a>&nbsp;
                                     <a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week02-RTTR-Results.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week2-rttr-results">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Results</a>
                                   </p>
@@ -810,7 +810,7 @@
                                   <span class="track-name-state">Oaklawn Park (OP) | Arkansas</span><br />
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week02-Southwest-Stakes-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-southwest">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
@@ -845,13 +845,13 @@
                                   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week01-RTTR-Entries.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week1-rttr-entries">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Entries</a>&nbsp;
                                     <a class="btn btn-secondary btn-half"
                                       href="/contests/rttr148/pdf/Week01-RTTR-Results.pdf" target="_blank"
                                       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-week1-rttr-results">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg> RTTR&nbsp;Results</a>
                                   </p>
@@ -863,7 +863,7 @@
                                   <span class="track-name-state">Fair Grounds (FG) | Louisiana</span><br>
                                   <p class="text-link"><a href="/contests/rttr148/pdf/Week01-Lecomte-Stakes-Results.pdf"
                                       target="_blank">Equibase Results</a> <svg class="bi" width="16" height="16" role="img" aria-label="PDF">
-                                        <title id="pdf-label-mouseover">PDF</title>
+                                        <title id="pdf-label-mouseover-lecomte">PDF</title>
                                         <use xlink:href="#file-earmark-pdf" />
                                       </svg></p>
                                 </td>
