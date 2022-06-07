@@ -55,7 +55,10 @@
                   width="16" height="16" role="img" aria-label="Twitter">
                   <title id="twitter-label-mouseover-rttbc22-module-button">Twitter</title>
                   <use xlink:href="#twitter" />
-                </svg> #rttbc22 News &raquo;</a></p>
+                </svg> #rttbc22 News&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+                  <title id="arrow-up-right-circle-rttbc22-news">New Window</title>
+                  <use xlink:href="#arrow-up-right-circle" />
+                </svg></a></p>
             <p style="text-align: center;">
                 <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
                   style="max-width: 240px; margin: auto;">
@@ -103,7 +106,10 @@
                   width="16" height="16" role="img" aria-label="Twitter">
                   <title id="twitter-label-mouseover-rttr148-module-button">Twitter</title>
                   <use xlink:href="#twitter" />
-                </svg> #rttr148 News &raquo;</a></p>
+                </svg> #rttr148 News&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+                  <title id="arrow-up-right-circle-rttr148-news">New Window</title>
+                  <use xlink:href="#arrow-up-right-circle" />
+                </svg></a></p>
             <p style="text-align: center;">
                 <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
                   style="max-width: 240px; margin: auto;">

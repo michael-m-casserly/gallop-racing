@@ -17,7 +17,10 @@
 <p class="module-button-wrapper"><a class="btn btn-secondary"
   href="https://members.breederscup.com/Points/PointsLeaderboard" target="_blank" role="button"
   onclick="captureOutboundLink('https://members.breederscup.com/Points/PointsLeaderboard');">^BCCS
-  Divisional Leaders &raquo;</a></p>
+  Divisional Leaders&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+    <title id="arrow-up-right-circle-bccs-div-leaders">New Window</title>
+    <use xlink:href="#arrow-up-right-circle" />
+  </svg></a></p>
 
 <!--ADD THIS BACK AFTER THE INITIAL DRAFT CLOSES, and the ALL STABLES PDF is GENERATED-->
 
