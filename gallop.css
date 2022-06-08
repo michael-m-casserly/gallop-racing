@@ -275,6 +275,12 @@ border-bottom: #FFF !important;
   margin: auto; /* This is required to ensure the table will center inside of a DIV */ 
 }
 
+/* Use this to remove borders from a table, th, and td */
+.table-no-border {
+  border-width: 0px !important; 
+  border: 0px !important; 
+}
+
 /* End Table Styles*/
 
 /* Scoring Table Special Styles */
