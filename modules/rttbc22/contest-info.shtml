@@ -14,14 +14,6 @@
     
       <!--/p-->
 
-<p class="module-button-wrapper"><a class="btn btn-secondary"
-  href="https://members.breederscup.com/Points/PointsLeaderboard" target="_blank" role="button"
-  onclick="captureOutboundLink('https://members.breederscup.com/Points/PointsLeaderboard');">^BCCS
-  Divisional Leaders&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
-    <title id="arrow-up-right-circle-bccs-div-leaders">New Window</title>
-    <use xlink:href="#arrow-up-right-circle" />
-  </svg></a></p>
-
 <!--ADD THIS BACK AFTER THE INITIAL DRAFT CLOSES, and the ALL STABLES PDF is GENERATED-->
 
   <!--p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="" role="button" target="_blank"><svg
@@ -67,7 +59,5 @@
   <p style="font-size: 12px; text-align: justify; padding: 5px 20px 0px 20px;">*Cannot view other players' stables
     during Drafts or Power Horse selection windows. However, you can always use the "All Stables" button above to see
     any stable at any time (without Power Horse Access).</p>
-
-  <p style="font-size: 12px; text-align: justify; padding: 5px 20px 0px 20px;">^Breeders' Cup Championship Series</p>
 
 </div>
