@@ -57,7 +57,8 @@
           <!--begin middle column-->
 
           <!--#include virtual="/modules/rttbc22/races-upcoming.html" -->
-        
+          <!--include virtual="/modules/resources-rttbc.html" -->
+
         </div>
         <!--end middle column-->
 
@@ -65,6 +66,7 @@
           <!--begin right column-->
 
           <!--#include virtual="/modules/resources-rttbc.html" -->          
+          <!--include virtual="/modules/rttbc22/races-completed.html" -->
           <!--#include virtual="/modules/stakes-calendar.html" -->
           <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
 
