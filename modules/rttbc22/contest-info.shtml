@@ -4,17 +4,7 @@
   <!--Placeholder Message-->
   <!--p>Links to the RTTBC22 Leaderboard, Calendar, Horses, and Rules will be available here when the contest begins.</p-->
 
-  <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="" target="_blank" role="button"
-      onclick="captureOutboundLink('');"><svg class="bi" width="16" height="16" role="img" aria-label="Google">
-        <title id="google-label-mouseover-rttbc22-leaderboard">Google</title>
-        <use xlink:href="#google" />
-      </svg> Leaderboard</a-->
-    
-      <!--#include virtual="/modules/rttbc22/stables-menu.html"-->
-    
-      <!--/p-->
-
-<!--ADD THIS BACK AFTER THE INITIAL DRAFT CLOSES, and the ALL STABLES PDF is GENERATED-->
+  <!--ADD THIS BACK AFTER THE INITIAL DRAFT CLOSES, and the ALL STABLES PDF is GENERATED-->
 
   <!--p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="" role="button" target="_blank"><svg
         class="bi" width="20" height="20" role="img" aria-label="PDF">
@@ -56,7 +46,7 @@
   <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/data-disclaimer.shtml"
     role="button">Data Disclaimer</a></p>
 
-  <p style="font-size: 12px; text-align: justify; padding: 5px 20px 0px 20px;">*Cannot view other players' stables
+  <p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">*Cannot view other players' stables
     during Drafts or Power Horse selection windows. However, you can always use the "All Stables" button above to see
     any stable at any time (without Power Horse Access).</p>
 

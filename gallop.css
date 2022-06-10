@@ -269,7 +269,7 @@ border-bottom: #FFF !important;
 
 /* This will apply to all tables*/
 .scoring-table table, th, td {
-  border-width: 2px;
+  /*border-width: 2px; SEE IF THIS IS CAUSING THE INCONSISTENT BORDER ISSUE GRCW-217 */
   border: 1px solid #344f7c;
   border-collapse: collapse;
   margin: auto; /* This is required to ensure the table will center inside of a DIV */ 
