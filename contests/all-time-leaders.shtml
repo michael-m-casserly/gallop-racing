@@ -54,7 +54,7 @@
           <div class="col-lg-4">
             <!--begin middle column-->
             
-            <!--#include virtual="/modules/all-time-leaders/rttr.html" -->
+            <!--#include virtual="/modules/all-time-leaders/rttbc-horses.html" -->
 
           </div>
           <!--end middle column-->
@@ -62,8 +62,8 @@
           <div class="col-lg-4">
             <!--begin right column-->
 
-            <!--#include virtual="/modules/all-time-leaders/rttbc-horses.html" -->
-
+          <!--#include virtual="/modules/all-time-leaders/rttbc-trainers.html" -->
+  
           </div>
           <!--end right column-->
 
@@ -74,24 +74,23 @@
           <div class="col-lg-4">
             <!--begin left column-->
 
-            <!--#include virtual="/modules/all-time-leaders/rttr-horses.html" -->
-
+            <!--#include virtual="/modules/all-time-leaders/rttbc-jockeys.html" -->
+  
           </div>
           <!--end left column-->
 
           <div class="col-lg-4">
             <!--begin middle column-->
 
-          <!--#include virtual="/modules/all-time-leaders/rttbc-trainers.html" -->
-
-
+          <!--#include virtual="/modules/all-time-leaders/rttbc-sires.html" -->
+          
           </div>
           <!--end middle column-->
 
           <div class="col-lg-4">
             <!--begin right column-->
 
-          <!--#include virtual="/modules/all-time-leaders/rttr-trainers.html" -->
+          <!--#include virtual="/modules/all-time-leaders/rttr.html" -->
 
           </div>
           <!--end right column-->
@@ -103,7 +102,8 @@
           <div class="col-lg-4">
             <!--begin left column-->
 
-            <!--#include virtual="/modules/all-time-leaders/rttbc-jockeys.html" -->
+            <!--#include virtual="/modules/all-time-leaders/rttr-horses.html" -->
+
 
           </div>
           <!--end left column-->
@@ -111,15 +111,15 @@
           <div class="col-lg-4">
             <!--begin middle column-->
 
-          <!--#include virtual="/modules/all-time-leaders/rttr-jockeys.html" -->
-
+          <!--#include virtual="/modules/all-time-leaders/rttr-trainers.html" -->
+          
           </div>
           <!--end middle column-->
 
           <div class="col-lg-4">
             <!--begin right column-->
 
-          <!--#include virtual="/modules/all-time-leaders/rttbc-sires.html" -->
+          <!--#include virtual="/modules/all-time-leaders/rttr-jockeys.html" -->
 
           </div>
           <!--end right column-->
