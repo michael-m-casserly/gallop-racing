@@ -7,6 +7,7 @@ function handleSelectStable(elm) {
 
 function handleSelectContest(elm) {
     window.location = elm.value;
+    elm.value = ''; // Reset drop-down menu after selection
   }
 
 function handleSelectStakesCalendar(elm)
