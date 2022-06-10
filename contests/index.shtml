@@ -62,7 +62,7 @@
             <p style="text-align: center;">
                 <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
                   style="max-width: 240px; margin: auto;">
-                  <option value="" selected>Select Previous RTTBC Contest</option>
+                  <option value="" selected>Previous RTTBC Contests</option>
                   <option value="/contests/rttbc21.shtml">RTTBC '21</option>
                 </select>
             </p>
@@ -113,7 +113,7 @@
             <p style="text-align: center;">
                 <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
                   style="max-width: 240px; margin: auto;">
-                  <option value="" selected>Select Previous RTTR Contest</option>
+                  <option value="" selected>Previous RTTR Contests</option>
                   <option value="/contests/rttr147.shtml">RTTR 147</option>
                 </select>
             </p>
