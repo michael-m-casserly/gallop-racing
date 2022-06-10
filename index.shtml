@@ -36,7 +36,7 @@
           <!--ENABLE THIS AGAIN WHEN REGISTRATION FOR THE NEXT CONTEST OPENS-->
           <!--include virtual="/modules/register.html" -->
 
-          <div class="round-border">
+          <div class="module-no-border">
             <h5>Current Contest</h5>
 
             <!--Placeholder Message-->

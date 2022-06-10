@@ -96,6 +96,13 @@ h3 {
     padding-right: 10px; */
   }
 
+  .module-no-border {
+    padding-bottom:10px;
+    padding-top:10px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
   /*This is used as an add-on style for the main body of the page*/
   .container-round-border {
     border: 2px solid black; 

@@ -51,9 +51,9 @@
     
         <!--begin middle column-->
         <div class="col-lg-4">
-    
-        <p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=0&single=true" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=0&single=true');"><img src="/images/rttbc22-top3.png" style="max-width: 360px;"/></a></p>
-    
+          <div class="module-no-border">
+            <h5>Top Three Stables</h5><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=0&single=true" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=0&single=true');"><img src="/images/rttbc22-top3.png" style="max-width: 360px;"/></a>
+          </div>
         </div>
         <!--end middle column-->
     
