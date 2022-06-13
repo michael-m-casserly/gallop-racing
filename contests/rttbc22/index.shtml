@@ -120,124 +120,7 @@
       <!--row #1-->
 
       <div class="accordion" id="accordionRTTBC22data">
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="headingZero">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-              data-bs-target="#collapseZero" aria-expanded="false" aria-controls="collapseZero">
-              Leading Horses / Horses by Stable
-            </button>
-          </h2>
-          <div id="collapseZero" class="accordion-collapse collapse" aria-labelledby="headingZero"
-            data-bs-parent="#accordionRTTBC22data">
-            <div class="accordion-body accordion-td-cell">
 
-              <div class="row">
-                <div class="col">
-                  <!--begin left column-->
-
-                  <!--#include virtual="/modules/rttbc22/leading-horses.html"-->
-
-                </div>
-                <!--end left column-->
-
-                <div class="col">
-                  <!--begin right column-->
-
-                  <!--#include virtual="/modules/rttbc22/horses-by-stable.html"-->
-
-                </div>
-                <!--end right column-->
-
-              </div>
-              <!--end row-->
-
-            </div>
-          </div>
-        </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="headingOne">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-              data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-              Trainers, Jockeys & Sires by Stable
-            </button>
-          </h2>
-          <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
-            data-bs-parent="#accordionRTTBC22data">
-            <div class="accordion-body accordion-td-cell">
-
-              <div class="row">
-                <div class="col-lg-4">
-                  <!--begin left column-->
-
-                  <!--#include virtual="/modules/rttbc22/trainers-by-stable.html"-->
-
-                </div>
-                <!--end left column-->
-
-                <div class="col-lg-4">
-                  <!--begin middle column-->
-
-                  <!--#include virtual="/modules/rttbc22/jockeys-by-stable.html"-->
-
-                </div>
-                <!--end middle column-->
-
-                <div class="col-lg-4">
-                  <!--begin right column-->
-
-                  <!--#include virtual="/modules/rttbc22/sires-by-stable.html"-->
-
-                </div>
-                <!--end right column-->
-
-              </div>
-              <!--end row-->
-
-            </div>
-          </div>
-        </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="headingTwo">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-              data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-              Leading Trainers, Jockeys & Sires
-            </button>
-          </h2>
-          <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-            data-bs-parent="#accordionRTTBC22data">
-            <div class="accordion-body accordion-td-cell">
-
-              <div class="row">
-                <div class="col-lg-4">
-                  <!--begin left column-->
-
-                  <!--#include virtual="/modules/rttbc22/leading-trainers.html"-->
-
-                </div>
-                <!--end left column-->
-
-                <div class="col-lg-4">
-                  <!--begin middle column-->
-
-                  <!--#include virtual="/modules/rttbc22/leading-jockeys.html"-->
-
-                </div>
-                <!--end middle column-->
-
-                <div class="col-lg-4">
-                  <!--begin right column-->
-
-                  <!--#include virtual="/modules/rttbc22/leading-sires.html"-->
-
-                </div>
-                <!--end right column-->
-
-              </div>
-              <!--end row-->
-
-            </div>
-          </div>
-        </div>
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
@@ -282,36 +165,8 @@
         </div>
 
       </div>
-
-
-<a id="schedule"></a>
-      <br />
-      <div class="row">
-        <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSAq7Rxp7pZUrUrLsjcQZx_PlIZ-HnhBBfpjZ01FNLpinOHjvUrIaLfv382kwas0XXuvSDkJlh3drrv/pubhtml?gid=1411863973&single=true&amp;widget=true&amp;headers=false"
-          target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
-            style="max-width: 250px; border: 0;" /></a>
-
-        <!--#include virtual="/iframe-spinner.html" -->
-
-        <div class="iframe-container">
-          <iframe class="responsive-iframe"
-            src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSAq7Rxp7pZUrUrLsjcQZx_PlIZ-HnhBBfpjZ01FNLpinOHjvUrIaLfv382kwas0XXuvSDkJlh3drrv/pubhtml?gid=1411863973&single=true&amp;widget=true&amp;headers=false"
-            onload="document.getElementById('spinner').style.display='none';"></iframe>
-
-        </div>
-        <table class="TableStandard" style="max-width: 550px;">
-          <tr>
-            <td class="table-legend-horse-in-stable">Horse in an RTTBC22 Stable.</td>
-          </tr>
-          <tr>
-            <td class="table-legend-bc-previous-winner">Previous Breeders' Cup Winner. (Not in RTTBC22 Stable)</td>
-          </tr>
-          <tr>
-            <td class="table-legend-bc-wayi">Breeders' Cup "Win And You're In" Winner. (Not in RTTBC22 Stable)</td>
-          </tr>
-        </table>
-      </div>
       <!--row #2-->
+
       <div class="row">
         <!--#include virtual="/modules/jump-to-contest.html" -->
       </div>

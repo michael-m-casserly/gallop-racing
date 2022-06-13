@@ -15,7 +15,10 @@
       onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=249132506&amp;single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google">
         <title id="google-label-mouseover-rttbc22-horses">Google</title>
         <use xlink:href="#google" />
-      </svg><br />Horses</a>
+      </svg><br />Horses&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+        <title id="arrow-up-right-circle-horses-sheet">New Window</title>
+        <use xlink:href="#arrow-up-right-circle" />
+      </svg></a>
   </p>
 
   <!--THIS ROW IS REDUNDANT FOR NOW; CAN ADD IT BACK IF ANYTHING CHANGES-->
@@ -41,7 +44,12 @@
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rules.shtml"
       role="button">Rules</a>&nbsp;
-    <a class="btn btn-secondary btn-half" href="/contests/strategies.shtml" role="button">Strategies</a>
+    <a class="btn btn-secondary btn-half" href="/contests/rttbc22/schedule.shtml" role="button">Schedule</a>
+  </p>
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttbc22/stats.shtml"
+    role="button">Stats</a>&nbsp;
+  <a class="btn btn-secondary btn-half" href="/contests/strategies.shtml" role="button">Strategies</a>
   </p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/data-disclaimer.shtml"
