@@ -274,6 +274,11 @@ font-size: 14px !important;
 border-bottom: #FFF !important;
 }
 
+.by-stable-table-subject {
+  text-align: center !important;
+  font-weight: bold;
+}
+
 /* This will apply to all tables*/
 .scoring-table table, th, td {
   /*border-width: 2px; SEE IF THIS IS CAUSING THE INCONSISTENT BORDER ISSUE GRCW-217 */
