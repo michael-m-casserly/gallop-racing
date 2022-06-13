@@ -106,7 +106,7 @@
           <!--begin right column-->
 
           <!--#include virtual="/modules/resources-rttbc.html" -->          
-          <!--include virtual="/modules/rttbc22/races-completed.html" -->
+          <!--#include virtual="/modules/rttbc22/races-completed.html" -->
           <div class="round-border">
           <!--#include virtual="/modules/stakes-calendar.html" -->
           <br/>
