@@ -68,6 +68,65 @@
       </div>
 
       <div class="accordion" id="accordionRulesAllContests">
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingRulesAllContestsAutoDraft">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseRulesAllContestsAutoDraft" aria-expanded="false"
+              aria-controls="collapseRulesAllContestsAutoDraft">
+              Auto-Draft (AUT)
+            </button>
+          </h2>
+          <div id="collapseRulesAllContestsAutoDraft" class="accordion-collapse collapse"
+            aria-labelledby="headingRulesAllContestsAutoDraft" data-bs-parent="#accordionRulesAllContests">
+            <div class="accordion-body">
+                <table class="TableStandard">
+                  <tr>
+                    <th class="TableHeader text-align-center">AUT-001</th>
+                  </tr>
+                  <tr>
+                    <td>If a registered player for a contest cannot complete the draft before the deadline, then an "Auto-Draft" process will come into effect. Please find the details of this process outlined in Rules AUT-002 through AUT-004.</td>
+                  </tr>
+                  <tr>
+                    <th class="TableHeader text-align-center">AUT-002</th>
+                  </tr>
+                  <tr>
+                    <td><p><b>Horses</b></p>
+                      <p>
+                        <ol>
+                          <li>Morning Line Favorite in upcoming Grade 1 (G1) race. Go through each G1 race, start with East, and end with West. If the horse is already in the stable, move to the next race.</li>
+                          <li>Morning Line Favorite in upcoming Grade 2 (G2) race. Go through each G2 race, start with East, and end with West. If the horse is already in the stable, move to the next race.</li>
+                          <li>Morning Line Favorite in upcoming Grade 3 (G3) race. Go through each G3 race, start with East, and end with West. If the horse is already in the stable, move to the next race.</li>
+                          <li>Move back to G1, look for 2nd Choice Morning Line, and proceed with the same cadence listed in Steps 1 to 3.</li>
+                        </ol>
+                      </p></td>
+                  </tr>
+                  <tr>
+                    <th class="TableHeader text-align-center">AUT-003</th>
+                  </tr>
+                  <tr>
+                    <td><p><b>Trainer / Jockey / Sire</b></p>
+                    <p>Take the current Top 3 list for the contest, and add whichever one is missing for each (start with the top).</p></td>
+                  </tr>
+                  <tr>
+                    <th class="TableHeader text-align-center">AUT-004</th>
+                  </tr>
+                  <tr>
+                    <td><p><b>Initial Draft Only</b></p>
+                    <p>
+                      <ol>
+                        <li>Horses: The seven Morning Line favorites for the five G1 and two G2 races.</li>
+                        <li>Trainers: The top two actives from the previous contest.</li>
+                        <li>Jockeys: The top two actives from the previous contest.</li>
+                        <li>Sires: The top two actives from the previous contest.</li>
+                        <li>Power Horse Selection: The three shortest prices in the G1s.</li>
+                      </ol>
+                    </p></td>
+                  </tr>
+                </table>
+            </div>
+          </div>
+        </div>
+
         <!--div class="accordion-item">
           <h2 class="accordion-header" id="headingRulesAllContestsFinancial">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
