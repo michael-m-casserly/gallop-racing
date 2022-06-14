@@ -329,15 +329,7 @@ border-bottom: #FFF !important;
   background-color: #c9daf8;
 }
 
-span.PageTitleBreadCrumb { 
-  color: #000;
-  /*color: #5e183e; */
-  text-align: left; 
-  font: 10pt "Tahoma";
-  font-weight:bold
-}
-
-a.PageTitleBreadCrumb { 
+a.PageTitleBreadCrumb, .PageTitleBreadCrumb, span.PageTitleBreadCrumb { 
   color: #000;
   /*color: #5e183e; */
   text-align: left; 

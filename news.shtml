@@ -36,7 +36,7 @@
 
     <div class="container marketing">
 
-      <p>Gallop News sources from Twitter and various email newsletter subscriptions, including BloodHorse Magazine, the Daily Racing Form, and The Paulick Report. The focus of the news content will be whatever is relevant to the current contest. RTTR News will focus on anything related to the Kentucky Derby, and RTTBC News will focus on anything related to the Breeders' Cup Dirt Divisions.</p>
+      <p>Gallop News sources from Twitter and various email newsletter subscriptions, including <i>BloodHorse Magazine</i>, the <i>Daily Racing Form</i>, and the <i>Paulick Report</i>. The focus of the news content will be whatever is relevant to the current contest. RTTR News will focus on anything related to the Kentucky Derby, and RTTBC News will focus on anything related to the Breeders' Cup Dirt Divisions.</p>
 
       <div class="row">
         <div class="col-lg-4">
@@ -60,8 +60,8 @@
 
           <!--#include virtual="/modules/resources-rttbc.html" -->
           <!--#include virtual="/modules/resources-rttr.html" -->
+          <!--#include virtual="/modules/resources-more.html" -->
           <!--#include virtual="/modules/equibase-virtual-stable.html" -->
-          
 
         </div>
         <!--end right column-->

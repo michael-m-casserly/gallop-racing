@@ -49,25 +49,27 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           
-          <!--#include virtual="/modules/television.html" -->
           <!--#include virtual="/modules/resources-rttbc.html" -->
-          <!--#include virtual="/modules/how-to-play-rttbc.html" -->
-
+          <!--#include virtual="/modules/resources-rttr.html" -->
+          <!--#include virtual="/modules/resources-more.html" -->
+          <!--#include virtual="/modules/equibase-virtual-stable.html" -->
+  
         </div>
         <!--end middle column-->
 
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/resources-rttr.html" -->
+          <!--#include virtual="/modules/television.html" -->
+          <!--#include virtual="/modules/how-to-play-rttbc.html" -->
           <!--#include virtual="/modules/how-to-play-rttr.html" -->
           <div class="round-border">
-          <!--include virtual="/modules/stakes-nominations-rttr.html" -->
-          <!--br/-->
-          <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
-          <br/>
-          <!--#include virtual="/modules/stakes-calendar.html" -->
-          </div>
+            <!--include virtual="/modules/stakes-nominations-rttr.html" -->
+            <!--br/-->
+            <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
+            <br/>
+            <!--#include virtual="/modules/stakes-calendar.html" -->
+            </div>
         </div>
         <!--end right column-->
       </div>

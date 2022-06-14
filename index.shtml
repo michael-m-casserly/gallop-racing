@@ -36,14 +36,18 @@
           <!--ENABLE THIS AGAIN WHEN REGISTRATION FOR THE NEXT CONTEST OPENS-->
           <!--include virtual="/modules/register.html" -->
 
-          <div class="module-no-border">
+          <div class="round-border">
             <h5>Current Contest</h5>
 
             <!--Placeholder Message-->
             <!--p style="text-align:center;">Starting Belmont Stakes Weekend</p-->
             <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttbc22/index.shtml"
                 role="button">Road to the Breeders' Cup '22</a></p>
-
+            <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttbc22/schedule.shtml"
+                  role="button">RTTBC '22 Schedule</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rttbc22/stats.shtml"
+                    role="button">RTTBC '22 Stats</a></p>
+    
           </div>
 
           <!--#include virtual="/modules/how-to-play-rttbc.html" -->
