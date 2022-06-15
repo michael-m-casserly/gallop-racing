@@ -73,11 +73,16 @@ h3 {
     }
     div.dropdown-menu{
       border: 2px solid black; 
-    }	
+    }
+
   .btn-secondary{
         width: 240px; /* Adjusted from 250 to account for 10px padding on all td */
-        background-color: #1b95e0 !important;
-            }
+        background-color: #ffffff !important;
+        border-radius: 10px !important;
+        color: blue !important;
+        font-weight: bold !important;       
+    }
+    
   .module-wrapper{
         border: 2px solid black; 
         border-radius:5px; 
