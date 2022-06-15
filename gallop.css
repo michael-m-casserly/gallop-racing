@@ -76,7 +76,7 @@ h3 {
     }
 
   .btn-secondary{
-        width: 240px; /* Adjusted from 250 to account for 10px padding on all td */
+        width: 260px; /* Adjusted from 250 to account for 10px padding on all td */
         background-color: #ffffff !important;
         border-radius: 10px !important;
         color: blue !important;
@@ -125,7 +125,7 @@ h3 {
   }
  
   .btn-half{
-    width: 115px !important; /* Adjusted from 120 to account for 10px padding on all td */
+    width: 125px !important; /* Adjusted from 120 to account for 10px padding on all td */
   }
 
   .text-link {
