@@ -108,6 +108,8 @@
                 role="button">How to Play</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/legend.shtml"
                 role="button">Legend</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/news.shtml"
+                  role="button">News</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/resources.shtml"
                   role="button">Resources</a></p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rules.shtml"
@@ -115,6 +117,9 @@
             <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/strategies.shtml"
                 role="button">Strategies</a></p>
           </div>
+
+          <!--#include virtual="/modules/current-contest.html" -->
+
         </div>
         <!--end middle column-->
 
