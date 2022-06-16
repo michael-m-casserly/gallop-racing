@@ -40,13 +40,15 @@
       <h3>Road to the Roses<br />Derby 149</h3>
     </div>
 
+    <br/>
     <!--Add back the # symbol when the counter is rest-->
     <!--#include virtual="/countdown-timer-rttr.html" -->
-
+    <br/>
+    
     <div class="container marketing">
 
       <p>The Road to the Roses, Derby 149 contest will start in January 2023.</p>
-      
+
       <div class="row">
         <div class="col-lg-4">
           <!--begin left column-->
