@@ -33,6 +33,10 @@
   </p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+    href="/contests/rttr148/stats.shtml" role="button">Stats</a>
+  </p>
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn"
       href="/pdf/RTTR148-All-Stables.pdf" role="button" target="_blank"><svg class="bi"
         width="20" height="20" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttr148-view-all-stables">PDF</title>
