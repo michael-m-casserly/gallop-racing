@@ -483,6 +483,11 @@ td.race-buttons {
   transform: rotate(-135deg);
 }
 
+.upcoming-races-day-row {
+  background-color: #e9ecef;
+  font-style: italic;
+}
+
 /* Color of 3 lines */
 
 .navbar-toggler.collapsed .toggler-icon {
