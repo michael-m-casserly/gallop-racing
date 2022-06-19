@@ -88,8 +88,7 @@
           <!--begin left column-->
 
           <!--#include virtual="/modules/rttbc22/races-upcoming.html" -->
-          <!--#include virtual="/modules/rttbc22/races-completed.html" -->
-
+          
         </div>
         <!--end left column-->
 
@@ -98,7 +97,8 @@
 
           <!--#include virtual="/modules/rttbc22/contest-info.shtml" -->
           <!--#include virtual="/modules/resources-rttbc.html" -->          
-  
+          <!--#include virtual="/modules/rttbc22/races-completed.html" -->
+
         </div>
         <!--end middle column-->
 
