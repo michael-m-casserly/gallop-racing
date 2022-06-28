@@ -360,6 +360,8 @@ p.module-button-wrapper {
 td.race-buttons {
   padding-top: 10px;
   background-color: #e5ecf9;
+  margin-left: 0px !important;
+  padding-left: 0px !important;
 }
 
 .table-legend-horse-in-stable {
