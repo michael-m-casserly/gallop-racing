@@ -80,7 +80,9 @@ h3 {
         background-color: #ffffff !important;
         border-radius: 10px !important;
         color: blue !important;
-        font-weight: bold !important;       
+        font-weight: bold !important;
+        margin-right: 10px;
+        margin-bottom: 10px;       
     }
     
   .module-wrapper{
