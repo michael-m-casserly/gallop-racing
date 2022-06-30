@@ -231,6 +231,10 @@ td {
   font-weight: bold;
 }
 
+.current-stat {
+  font-weight: bold;
+}
+
 .non-drafted-player {
   font-style: italic;
 }
