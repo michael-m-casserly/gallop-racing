@@ -240,6 +240,11 @@ td {
   background-color: #fafafa;
 }
 
+.draft-change-row {
+  font-size: 10px;
+  height: 10px;
+}
+
 .progress-bar-row-container {
   background-color: #e9ecef;
 }
