@@ -126,9 +126,9 @@ h3 {
  
   .btn-half {
     width: 125px !important; /* Adjusted from 120 to account for 10px padding on all td */
-    margin-right: 10px;
-    margin-bottom: 10px;
-    margin-left: 10px;       
+    margin-right: 2px;
+    margin-bottom: 5px;
+    margin-left: 2px;       
 }
 
   .text-link {
