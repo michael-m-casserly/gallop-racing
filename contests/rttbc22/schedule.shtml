@@ -55,7 +55,7 @@
             <td class="table-legend-bc-previous-winner">Previous Breeders' Cup Winner. (Not in RTTBC22 Stable)</td>
           </tr>
           <tr>
-            <td class="table-legend-bc-wayi">Breeders' Cup "Win And You're In" Winner. (Not in RTTBC22 Stable)</td>
+            <td class="table-legend-bc-wayi">Breeders' Cup "Win And You're In" OR<br/>Breeders' Cup "Dirt Dozen" Winner. (Not in RTTBC22 Stable)</td>
           </tr>
         </table>
       </div>
