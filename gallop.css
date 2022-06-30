@@ -81,8 +81,6 @@ h3 {
         border-radius: 10px !important;
         color: blue !important;
         font-weight: bold !important;
-        margin-right: 10px;
-        margin-bottom: 10px;       
     }
     
   .module-wrapper{
@@ -126,9 +124,12 @@ h3 {
     width: 55px !important;
   }
  
-  .btn-half{
+  .btn-half {
     width: 125px !important; /* Adjusted from 120 to account for 10px padding on all td */
-  }
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;       
+}
 
   .text-link {
    font-size: 12px;
