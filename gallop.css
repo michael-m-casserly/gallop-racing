@@ -221,6 +221,10 @@ td {
 	text-align:left !important;
 }
 
+.month-header {
+  font-size: 12px !important;
+}
+
 .table-data-number {
   text-align: center !important;
   padding-left: 5px !important;
