@@ -35,9 +35,9 @@
 
         <br/>
         
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/index.shtml" role="button">Contests</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/rules.shtml" role="button">Rules</a></p>
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/strategies.shtml" role="button">Strategies</a></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/index.shtml" role="button">Contests</a></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rules.shtml" role="button">Rules</a></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/strategies.shtml" role="button">Strategies</a></p>
 
 <!-- FOOTER -->
 
