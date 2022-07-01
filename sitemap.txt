@@ -13,7 +13,8 @@ https://www.gallop-racing.com/contests/champions.shtml
 https://www.gallop-racing.com/contests/legend.shtml
 https://www.gallop-racing.com/contests/resources.shtml
 https://www.gallop-racing.com/contests/rules.shtml
-https://www.gallop-racing.com/contests/rttbc21.shtml
+https://www.gallop-racing.com/contests/rttbc21/index.shtml
+https://www.gallop-racing.com/contests/rttbc21/schedule.shtml
 https://www.gallop-racing.com/contests/rttbc22/index.shtml
 https://www.gallop-racing.com/contests/rttbc22/schedule.shtml
 https://www.gallop-racing.com/contests/rttbc22/stats.shtml

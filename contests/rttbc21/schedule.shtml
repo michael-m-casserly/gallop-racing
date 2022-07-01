@@ -4,9 +4,9 @@
 <head>
   <!--#include virtual="/banner-head.html" -->
 
-  <title>Road to the Breeders' Cup 2021 | Gallop Racing</title>
+  <title>Schedule | Road to the Breeders' Cup 2021 | Gallop Racing</title>
 
-  <link rel="canonical" href="https://www.gallop-racing.com/contests/rttbc21.shtml" />
+  <link rel="canonical" href="https://www.gallop-racing.com/contests/rttbc21/schedule.shtml" />
 
 </head>
 
@@ -22,47 +22,18 @@
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
         <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
-        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">RTTBC 2021</span></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/rttbc21/index.shtml">RTTBC 2021</a></li>
+        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Schedule</span></li>
       </ol>
     </nav>
 
     <div class="text-align-center">
-      <h3>Road to the Breeders' Cup<br/>2021 Contest</h3>
+      <h3>Road to the Breeders' Cup<br/>2021 Schedule</h3>
     </div>
+
 
     <div class="container marketing">
 
-      <div class="row">
-        <div class="col-lg-4">
-          <!--begin left column-->
-
-          <!--#include virtual="/modules/rttbc21/final-standings.html" -->
-
-        </div>
-        <!--end left column-->
-
-        <div class="col-lg-4">
-          <!--begin middle column-->
-
-          <!--#include virtual="/modules/rttbc21/contest-info.html" -->
-          <!--#include virtual="/modules/rttbc21/leading-horses.html" -->
-          <!--#include virtual="/modules/rttbc21/leading-sires.html" -->
-
-        </div>
-        <!--end middle column-->
-
-        <div class="col-lg-4">
-          <!--begin right column-->
-
-          <!--#include virtual="/modules/rttbc21/leading-trainers.html" -->
-          <!--#include virtual="/modules/rttbc21/leading-jockeys.html" -->
-
-        </div>
-        <!--end right column-->
-
-      </div>
-      <!--row #1-->
-      <br />
       <div class="row">
         <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false"
           target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
@@ -74,8 +45,9 @@
           <iframe class="responsive-iframe"
             src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false"
             onload="document.getElementById('spinner').style.display='none';"></iframe>
+
         </div>
-        <table class="TableStandard">
+        <table class="TableStandard" style="max-width: 550px;">
           <tr>
             <td class="table-legend-horse-in-stable">Horse in an RTTBC21 Stable at Race Time.</td>
           </tr>
@@ -87,12 +59,12 @@
           </tr>
         </table>
       </div>
-      <!--row #2-->
+      <!--row #1-->
       <div class="row">
         <!--#include virtual="/modules/jump-to-contest.html" -->
       </div>
-      <!--row #3-->
-
+      <!--row #2-->
+      
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->
@@ -104,7 +76,6 @@
 
 
   </main>
-
 
 
 </body>
