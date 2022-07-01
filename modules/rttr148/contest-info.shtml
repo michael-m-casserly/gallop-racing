@@ -1,6 +1,12 @@
 <div class="round-border">
   <h5>RTTR148 Info</h5>
 
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn btn-half"
+    href="/contests/rttr148/schedule.shtml" role="button">Schedule</a>
+    <a class="btn btn-secondary btn btn-half"
+    href="/contests/rttr148/stats.shtml" role="button">Stats</a>
+  </p>
+
   <p class="module-button-wrapper"><a class="btn btn-secondary"
       href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=0&single=true"
       target="_blank" role="button"
@@ -8,7 +14,10 @@
         class="bi" width="16" height="16" role="img" aria-label="Google">
         <title id="google-label-mouseover-rttr148-leaderboard">Google</title>
         <use xlink:href="#google" />
-      </svg> Leaderboard</a>
+      </svg> Leaderboard&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+        <title id="arrow-up-right-circle-rttr148-leaderboard">New Window</title>
+        <use xlink:href="#arrow-up-right-circle" />
+      </svg></a>
 
 <!--include virtual="/modules/rttr148/stables-menu.html"-->
     </p>
@@ -20,9 +29,12 @@
         class="bi" width="16" height="16" role="img" aria-label="Google">
         <title id="google-label-mouseover-rttr148-horses">Google</title>
         <use xlink:href="#google" />
-      </svg> Horses</a></p>
+      </svg> Horses&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+        <title id="arrow-up-right-circle-rttr148-horses">New Window</title>
+        <use xlink:href="#arrow-up-right-circle" />
+      </svg></a></p>
 
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+  <!--p class="module-button-wrapper"><a class="btn btn-secondary btn"
       href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVjFFOIYISsYFH3H0qY4ZftIe3HCAQ2SXFNiPFivmOzt0EubG-oyBomJg988J043cy2_B8NEqEoqOy/pubhtml?gid=2036485040&single=true"
       target="_blank" role="button"
       onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&single=true');"><svg
@@ -30,11 +42,7 @@
         <title id="google-label-mouseover-rttr148-schedule">Google</title>
         <use xlink:href="#google" />
       </svg> Schedule</a>
-  </p>
-
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-    href="/contests/rttr148/stats.shtml" role="button">Stats</a>
-  </p>
+  </p-->
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"
       href="/pdf/RTTR148-All-Stables.pdf" role="button" target="_blank"><svg class="bi"

@@ -63,10 +63,56 @@
       </div>
       <!--row #1-->
 
+      <div class="accordion" id="accordionRTTR147data">
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingThree">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              How to Play / RTTR Scoring<!-- / Contest Notes-->
+            </button>
+          </h2>
+          <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+            data-bs-parent="#accordionRTTR147data">
+            <div class="accordion-body accordion-td-cell">
+
+              <div class="row">
+                <div class="col-lg-4">
+                  <!--begin left column-->
+
+                  <!--#include virtual="/modules/how-to-play-rttr147.html" -->
+
+                </div>
+                <!--end left column-->
+
+                <div class="col-lg-4">
+                  <!--begin middle column-->
+
+                  <!--#include virtual="/modules/rttr-scoring-table.html" -->
+
+                </div>
+                <!--end middle column-->
+
+                <div class="col-lg-4">
+                <!--begin right column-->
+
+                  <!--include virtual="/modules/rttr148/contest-notes.html"-->
+
+                </div>
+                <!--end right column-->
+
+              </div>
+              <!--end row-->
+
+            </div>
+          </div>
+        </div>
+
+      </div>
+
       <div class="row">
         <!--#include virtual="/modules/jump-to-contest.html" -->
       </div>
-      <!--row #2-->
+      <!--row #3-->
 
       <!-- FOOTER -->
 
