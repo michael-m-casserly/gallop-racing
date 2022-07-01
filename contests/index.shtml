@@ -86,7 +86,7 @@
                 <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
                   style="max-width: 240px; margin: auto;">
                   <option value="" selected>Previous RTTR Contests</option>
-                  <option value="/contests/rttr147.shtml">RTTR 147</option>
+                  <option value="/contests/rttr147/index.shtml">RTTR 147</option>
                 </select>
             </p>
           </div>
