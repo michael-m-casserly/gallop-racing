@@ -106,7 +106,7 @@
 
         <br/>
               
-        <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/index.shtml" role="button">Contests</a></p>
+        <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/index.shtml" role="button">Contests</a></p>
 
 <!-- FOOTER -->
 
