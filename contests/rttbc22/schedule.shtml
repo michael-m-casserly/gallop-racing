@@ -61,7 +61,7 @@
       </div>
       <!--row #1-->
       <div class="row">
-        <!--#include virtual="/modules/jump-to-contest.html" -->
+        <!--#include virtual="/modules/jump-to-schedule.html" -->
       </div>
       <!--row #2-->
       

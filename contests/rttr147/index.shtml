@@ -79,7 +79,7 @@
                 <div class="col-lg-4">
                   <!--begin left column-->
 
-                  <!--#include virtual="/modules/how-to-play-rttr147.html" -->
+                  <!--#include virtual="/modules/rttr147/how-to-play-rttr147.html" -->
 
                 </div>
                 <!--end left column-->

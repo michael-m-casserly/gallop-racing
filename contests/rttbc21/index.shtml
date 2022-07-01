@@ -80,7 +80,7 @@
                 <div class="col-lg-4">
                   <!--begin left column-->
 
-                  <!--#include virtual="/modules/how-to-play-rttbc21.html" -->
+                  <!--#include virtual="/modules/rttbc21/how-to-play-rttbc21.html" -->
 
                 </div>
                 <!--end left column-->
