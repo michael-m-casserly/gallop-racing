@@ -292,7 +292,7 @@
                     <th class="TableHeader text-align-center">PWH-007</th>
                   </tr>
                   <tr>
-                    <td>The first three choices (from the top-down) will be selected if a stable exceeds the maximum number of Power Horses. Any selections after that will be unchecked. There will be no consideration for M/L odds, race grade, whether the horse entered, etc.</td>
+                    <td>The first three choices (from the top-down) are selected if a stable exceeds the maximum number of Power Horses. Any selections after that will be unchecked. There will be no consideration for M/L odds, race-grade, whether the horse entered, etc. The same top-down approach shall apply for entered horses in cases where no Power Horses are selected.</td>
                   </tr>
                 </table>
             </div>
