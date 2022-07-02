@@ -37,7 +37,7 @@
       <h3>Road to the Breeders' Cup<br/>2022 Contest</h3>
     </div>
 
-<!--#include virtual="/countdown-timer-rttbc.html" -->
+<!--include virtual="/countdown-timer-rttbc.html" -->
 
     <div class="container marketing">
 
@@ -142,6 +142,7 @@
                   <!--begin middle column-->
 
                   <!--#include virtual="/modules/rttbc-scoring-table.html" -->
+                  <!--#include virtual="/modules/rttbc22/contest-notes.html"-->
 
                 </div>
                 <!--end middle column-->
@@ -149,7 +150,7 @@
                 <div class="col-lg-4">
                 <!--begin right column-->
 
-                  <!--#include virtual="/modules/rttbc22/contest-notes.html"-->
+                  <!--#include virtual="/modules/rttbc22/auto-draft-log.html"-->
 
                 </div>
                 <!--end right column-->
