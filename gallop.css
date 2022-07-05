@@ -239,6 +239,11 @@ td {
   font-weight: bold;
 }
 
+.top-draft-pick {
+  background-color: yellow;
+  font-weight: bold;
+}
+
 .non-drafted-player {
   font-style: italic;
 }
