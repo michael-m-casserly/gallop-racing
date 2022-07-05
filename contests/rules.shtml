@@ -91,14 +91,13 @@
                   </tr>
                   <tr>
                     <td><p><b>Horses</b></p>
-                      <p>
                         <ol>
                           <li>Morning Line Favorite in upcoming Grade 1 (G1) race. Go through each G1 race, start with East, and end with West. If the horse is already in the stable, move to the next race.</li>
                           <li>Morning Line Favorite in upcoming Grade 2 (G2) race. Go through each G2 race, start with East, and end with West. If the horse is already in the stable, move to the next race.</li>
                           <li>Morning Line Favorite in upcoming Grade 3 (G3) race. Go through each G3 race, start with East, and end with West. If the horse is already in the stable, move to the next race.</li>
                           <li>Move back to G1, look for 2nd Choice Morning Line, and proceed with the same cadence listed in Steps 1 to 3.</li>
                         </ol>
-                      </p></td>
+                    </td>
                   </tr>
                   <tr>
                     <th class="TableHeader text-align-center">AUT-003</th>
@@ -112,7 +111,6 @@
                   </tr>
                   <tr>
                     <td><p><b>Initial Draft Only</b></p>
-                    <p>
                       <ol>
                         <li>Horses: The seven Morning Line favorites for the five G1 and two G2 races.</li>
                         <li>Trainers: The top two actives from the previous contest.</li>
@@ -120,7 +118,7 @@
                         <li>Sires: The top two actives from the previous contest.</li>
                         <li>Power Horse Selection: The three shortest prices in the G1s.</li>
                       </ol>
-                    </p></td>
+                    </td>
                   </tr>
                 </table>
             </div>
