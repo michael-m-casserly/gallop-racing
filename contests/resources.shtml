@@ -52,6 +52,7 @@
           <!--#include virtual="/modules/resources-rttbc.html" -->
           <!--#include virtual="/modules/resources-rttr.html" -->
           <!--#include virtual="/modules/resources-more.html" -->
+          <!--#include virtual="/modules/similar-contests.html" -->
           <!--#include virtual="/modules/equibase-virtual-stable.html" -->
   
         </div>
