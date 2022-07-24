@@ -56,6 +56,7 @@
           <!--#include virtual="/modules/rttbc22/trainers-by-stable.html"-->
           <!--#include virtual="/modules/rttbc22/jockeys-by-stable.html"-->
           <!--#include virtual="/modules/rttbc22/sires-by-stable.html"-->
+          <!--#include virtual="/modules/rttbc22/trainer-jockey-combo-by-stable.html"-->
 
         </div>
         <!--end middle column-->
