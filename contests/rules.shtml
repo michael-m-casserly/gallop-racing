@@ -120,6 +120,13 @@
                       </ol>
                     </td>
                   </tr>
+                  <tr>
+                    <th class="TableHeader text-align-center">AUT-005</th>
+                  </tr>
+                  <tr>
+                    <td><p>If a player partially completes a draft or selects duplicate entries, then the Auto-Draft will be used to fill in those remaining entries.</p>
+                    </td>
+                  </tr>
                 </table>
             </div>
           </div>
