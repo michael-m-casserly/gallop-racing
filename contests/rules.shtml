@@ -127,6 +127,13 @@
                     <td><p>If a player partially completes a draft or selects duplicate entries, then the Auto-Draft will be used to fill in those remaining entries.</p>
                     </td>
                   </tr>
+                  <tr>
+                    <th class="TableHeader text-align-center">AUT-006</th>
+                  </tr>
+                  <tr>
+                    <td><p>The three shortest Morning Line favorites in each race (starting from Grade 1 down) are selected the weekend following a draft where a stable utilizes the Auto-Draft process and does not select any Power Horses.</p>
+                    </td>
+                  </tr>
                 </table>
             </div>
           </div>
