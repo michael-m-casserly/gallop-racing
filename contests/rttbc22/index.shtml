@@ -122,7 +122,7 @@
           <h2 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-              How to Play / RTTBC Scoring / Contest Notes
+              How to Play / RTTBC Scoring / Contest Notes / Auto-Draft Log
             </button>
           </h2>
           <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
@@ -134,6 +134,8 @@
                   <!--begin left column-->
 
                   <!--#include virtual="/modules/how-to-play-rttbc.html" -->
+                  <!--#include virtual="/modules/rttbc-scoring-table.html" -->
+                  <!--#include virtual="/modules/rttbc22/contest-notes.html"-->
 
                 </div>
                 <!--end left column-->
@@ -141,16 +143,16 @@
                 <div class="col-lg-4">
                   <!--begin middle column-->
 
-                  <!--#include virtual="/modules/rttbc-scoring-table.html" -->
-                  <!--#include virtual="/modules/rttbc22/contest-notes.html"-->
+                  <!--#include virtual="/modules/rttbc22/auto-draft-log.html"-->
 
+                  
                 </div>
                 <!--end middle column-->
 
                 <div class="col-lg-4">
                 <!--begin right column-->
 
-                  <!--#include virtual="/modules/rttbc22/auto-draft-log.html"-->
+                  <!--#include virtual="/modules/rttbc22/auto-draft-log-continued.html"-->
 
                 </div>
                 <!--end right column-->
