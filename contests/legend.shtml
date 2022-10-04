@@ -91,7 +91,7 @@
           <td>Horse scratched from their last stakes race.</td>
         </tr>
       </table>
-      <br/>
+      <br>
       <table class="TableStandard">
         <tr class="TableHeader">
           <th class="text-align-center" colspan="2">Stable Sheet, Column E (RTTR Only)</th>
@@ -113,7 +113,7 @@
         <td>Horse has yet to be nominated to the Triple Crown.</td>
       </tr>
     </table>  
-<br/>
+<br>
               
 <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/index.shtml" role="button">Contests</a></p>
 

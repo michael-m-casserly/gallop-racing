@@ -68,7 +68,7 @@
             <!--include virtual="/modules/stakes-nominations-rttr.html" -->
             <!--br/-->
             <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
-            <br/>
+            <br>
             <!--#include virtual="/modules/stakes-calendar.html" -->
             </div>
         </div>

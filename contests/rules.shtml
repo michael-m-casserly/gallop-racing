@@ -295,10 +295,10 @@
                   </tr>
                   <tr>
                     <td>Each week there will be an "Auto-Set" function run after all of the Entries are published. This function will automatically select the three Power Horses for any stables with three or fewer Power Horses entered. These stables will not need to take any action.
-                    <br/><br/>
+                    <br><br>
                     For stables that have four or more horses entered in any given week, they will need to manually select their three Power Horses before the deadline for that week.
-                    <br/><br/>
-                    The Power Horses selection window will vary from week to week, depending on when the final entries from each track are published. At a minimum, you would have all day on Friday to select your Power Horses. In most cases, the Power Horse selection deadline will be sometime on Saturday afternoon (depending on the Post Time of the 1st scoring race.)<br/>
+                    <br><br>
+                    The Power Horses selection window will vary from week to week, depending on when the final entries from each track are published. At a minimum, you would have all day on Friday to select your Power Horses. In most cases, the Power Horse selection deadline will be sometime on Saturday afternoon (depending on the Post Time of the 1st scoring race.)<br>
                     These weekly deadlines will always be available on the <a href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=agenda" target="_blank">calendar</a> and shared via email each week.</td>
                   </tr>
                   <tr>
@@ -382,9 +382,9 @@
                   </tr>
                   <tr>
                     <td>In cases where a Dead Heat (DH) occurs for Win, Place and Show finishes in Graded Stakes, those horses that finish in a DH will be awarded the total applicable points for that Win, Place, or Show position. We will follow what the official Kentucky Derby OR Breeders Cup Points System awards to each horse as the base value, and then that would multiply if a Power Horse is selected.
-                      <br/><br/>
+                      <br><br>
                       In the case of a DH on Kentucky Derby OR Breeder's Cup Weekend (when RTKD or BC Points no longer apply), both horses will be awarded Full points for that position, and the next runner would place according to that. For example, if there is a two-horse DH for the Win, then the two horses that finish in 1st will be awarded Full Win points, there will be no Place points awarded, and the horse finishing behind the two horses in the DH would be awarded Show points.
-                      <br/><br/>
+                      <br><br>
                       The same logic applies if there are DH for Place and or Show Positions. In the rare event more than three horses are involved in a DH, every horse would be awarded Full points for their position, and there would be no points awarded for any of the subsequent placings. The same goes for the Winning Sire/Trainer/Jockey, who would be awarded Full points for any Win. Lastly, in case of any discrepancy or confusion, we will ultimately follow whatever the Road to the Kentucky Derby OR Breeders' Cup points process awards the horses since we are following those points systems.</td>
                   </tr>
                   <tr>
@@ -574,7 +574,7 @@
         </div>
       </div>
 
-      <br/>
+      <br>
               
       <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/index.shtml" role="button">Contests</a></p>
 
