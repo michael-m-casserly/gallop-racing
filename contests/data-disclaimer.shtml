@@ -36,12 +36,12 @@
       
       <p>Gallop data are sourced from Equibase and found within the "Horses" sheet, accessed via a button on each contest page.</p>
 
-      <p><img src="/images/horses-button.png" style="max-height: 360px; max-width: 441px; border: none;" alt="Horses Button Sample" /></p>
+      <p><img src="/images/horses-button.png" style="max-height: 360px; max-width: 441px; border: none;" alt="Horses Button Sample"></p>
 
       <p>"Horses" sheet data will trickle into the individual "Stable Entry" sheets.</p>
 
-      <p><img src="/images/stable-entry-sheet-data-headings1.png" style="max-height: 46px; max-width: 670px; border:none" alt="Stable Entry Sheet Sample 1" /><br>
-        <img src="/images/stable-entry-sheet-data-headings2.png" style="max-height: 44px; max-width: 597px; border:none" alt="Stable Entry Sheet Sample 2" />
+      <p><img src="/images/stable-entry-sheet-data-headings1.png" style="max-height: 46px; max-width: 670px; border:none" alt="Stable Entry Sheet Sample 1"><br>
+        <img src="/images/stable-entry-sheet-data-headings2.png" style="max-height: 44px; max-width: 597px; border:none" alt="Stable Entry Sheet Sample 2">
       </p>
 
       <p>The Equibase data are sourced manually and will be current as of the horse's last <b>Graded Stakes</b> entry on a <b>United States Dirt Track</b> (in most cases).</p>
