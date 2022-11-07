@@ -84,7 +84,8 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/rttbc22/races-upcoming.html" -->
+          <!--include virtual="/modules/rttbc22/races-upcoming.html" -->
+          <!--#include virtual="/modules/rttbc22/races-completed.html" -->
           
         </div>
         <!--end left column-->
@@ -93,7 +94,7 @@
           <!--begin middle column-->
 
           <!--#include virtual="/modules/rttbc22/contest-info.shtml" -->
-          <!--#include virtual="/modules/rttbc22/races-completed.html" -->
+          <!--#include virtual="/modules/resources-rttbc.html" -->          
 
         </div>
         <!--end middle column-->
@@ -102,7 +103,6 @@
           <!--begin right column-->
 
           <!--#include virtual="/modules/calendar.html" -->
-          <!--#include virtual="/modules/resources-rttbc.html" -->          
           
           <!-- ONLY ADD THIS BACK IF IT FITS INTO THE PAGE...div class="round-border"-->
             <!--include virtual="/modules/stakes-calendar.html" -->
