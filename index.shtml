@@ -34,11 +34,14 @@
           <!--begin left column-->
 
           <!--ENABLE THIS AGAIN WHEN REGISTRATION FOR THE NEXT CONTEST OPENS-->
-          <!--include virtual="/modules/register.html" -->
+          <!--#include virtual="/modules/register.html" -->
+          <!--#include virtual="/modules/champions-current.html" -->
 
-          <!--#include virtual="/modules/current-contest.html" -->
-          <!--#include virtual="/modules/how-to-play-rttbc.html" -->
+          <!--ADD THIS BACK FOR RTTR 149 IN JAN 2023-->
+          <!--include virtual="/modules/current-contest.html" -->
+          
           <!--#include virtual="/modules/how-to-play-rttr.html" -->
+          <!--#include virtual="/modules/how-to-play-rttbc.html" -->
 
         </div>
         <!--end left column-->
