@@ -1,0 +1,59 @@
+<div class="round-border">
+    <h5>RTTBC '23 Info</h5>
+
+  <!--Placeholder Message-->
+  <!--p>Links to the RTTBC22 Leaderboard, Calendar, Horses, and Rules will be available here when the contest begins.</p-->
+
+  <!--ADD THIS BACK AFTER THE INITIAL DRAFT CLOSES, and the ALL STABLES PDF is GENERATED-->
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/pdf/RTTBC23-All-Stables.pdf" role="button" target="_blank"><svg
+        class="bi" width="20" height="20" role="img" aria-label="PDF">
+        <title id="pdf-label-mouseover-rttbc23-all-stables">PDF</title>
+        <use xlink:href="#filetype-pdf" />
+      </svg><br>All Stables</a>
+      <a class="btn btn-secondary btn-half" href="[Link to RTTBC23 Horses Sheet]" target="_blank" role="button"
+      onclick="captureOutboundLink('[Link to RTTBC23 Horses Sheet]');"><svg class="bi" width="16" height="16" role="img" aria-label="Google">
+        <title id="google-label-mouseover-rttbc22-horses">Google</title>
+        <use xlink:href="#google" />
+      </svg><br>Horses</a>
+  </p>
+
+  <!--THIS ROW IS REDUNDANT FOR NOW; CAN ADD IT BACK IF ANYTHING CHANGES-->
+  <!--p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
+    href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=month"
+    target="_blank" role="button"
+    onclick="captureOutboundLink('https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=month');"><svg
+      class="bi" width="16" height="16" role="img" aria-label="Calendar">
+      <title id="calendar-label-mouseover-rttbc22">Calendar</title>
+      <use xlink:href="#calendar-date-fill" />
+    </svg><br>Calendar</a>
+    <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSAq7Rxp7pZUrUrLsjcQZx_PlIZ-HnhBBfpjZ01FNLpinOHjvUrIaLfv382kwas0XXuvSDkJlh3drrv/pubhtml?gid=1411863973&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSAq7Rxp7pZUrUrLsjcQZx_PlIZ-HnhBBfpjZ01FNLpinOHjvUrIaLfv382kwas0XXuvSDkJlh3drrv/pubhtml?gid=1411863973&single=true');"><svg
+        class="bi" width="16" height="16" role="img" aria-label="Google">
+        <title id="google-label-mouseover-rttbc22-schedule">Google</title>
+        <use xlink:href="#google" />
+      </svg><br>Schedule</a>
+  </p-->
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/news.shtml"
+    role="button">News</a>
+  <a class="btn btn-secondary btn-half" href="/contests/resources.shtml" role="button">Resources</a>
+  </p>
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rules.shtml"
+      role="button">Rules</a>
+    <a class="btn btn-secondary btn-half" href="/contests/rttbc23/schedule.shtml" role="button">Schedule</a>
+  </p>
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttbc23/stats.shtml"
+    role="button">Stats</a>
+  <a class="btn btn-secondary btn-half" href="/contests/strategies.shtml" role="button">Strategies</a>
+  </p>
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/data-disclaimer.shtml"
+    role="button">Data Disclaimer</a></p>
+
+  <p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">*Cannot view other players' stables
+    during Drafts or Power Horse selection windows. However, you can always use the "All Stables" button above to see
+    any stable at any time (without Power Horse Access).</p>
+
+</div>

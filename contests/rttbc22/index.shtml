@@ -42,59 +42,33 @@
     <div class="container marketing">
 
       <div class="row">
-        <!--begin left column-->
-        <div class="col-lg-4">
-        
-          <!--#include virtual="/modules/rttbc22/top-three-stables-graphic.html" -->
-
-        </div>
-        <!--end left column-->
-    
-        <!--begin middle column-->
-        <div class="col-lg-4">
-
-          <!--#include virtual="/modules/rttbc22/tracker-season-progress.html" -->
-
-        </div>
-        <!--end middle column-->
-    
-        <!--begin right column-->
-        <div class="col-lg-4">
-          <div class="module-no-border" style="padding-bottom: 0px !important; margin-bottom: 0px !important;">
-          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=0&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=0&single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google"><title id="google-label-mouseover-rttbc22-leaderboard">Google Drive</title><use xlink:href="#google" /></svg>&nbsp;Full Leaderboard&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
-            <title id="arrow-up-right-circle-full-leaderboard">New Window</title>
-            <use xlink:href="#arrow-up-right-circle" />
-          </svg></a></p>
-          
-          <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSAq7Rxp7pZUrUrLsjcQZx_PlIZ-HnhBBfpjZ01FNLpinOHjvUrIaLfv382kwas0XXuvSDkJlh3drrv/pubhtml?gid=1411863973&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSAq7Rxp7pZUrUrLsjcQZx_PlIZ-HnhBBfpjZ01FNLpinOHjvUrIaLfv382kwas0XXuvSDkJlh3drrv/pubhtml?gid=1411863973&single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google"><title id="google-label-mouseover-rttbc22-full-schedule">Google Drive</title><use xlink:href="#google" /></svg>&nbsp;Full Schedule&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
-            <title id="arrow-up-right-circle-full-schedule">New Window</title>
-            <use xlink:href="#arrow-up-right-circle" />
-          </svg></a></p>
-
-          <p><!--#include virtual="/modules/rttbc22/stables-menu.html"--></p>
-            </div>
-          
-        </div>
-        <!--end right column-->
-
-      </div>
-      <!--end row-->
-
-      <div class="row">
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--include virtual="/modules/rttbc22/races-upcoming.html" -->
-          <!--#include virtual="/modules/rttbc22/races-completed.html" -->
+          <!--#include virtual="/modules/rttbc22/final-standings.html" -->
           
         </div>
         <!--end left column-->
 
         <div class="col-lg-4">
           <!--begin middle column-->
-
+          
+          <div class="module-no-border" style="padding-bottom: 0px !important; margin-bottom: 0px !important;">
+            <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=0&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=0&single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google"><title id="google-label-mouseover-rttbc22-leaderboard">Google Drive</title><use xlink:href="#google" /></svg>&nbsp;Full Leaderboard&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+              <title id="arrow-up-right-circle-full-leaderboard">New Window</title>
+              <use xlink:href="#arrow-up-right-circle" />
+            </svg></a></p>
+            
+            <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSAq7Rxp7pZUrUrLsjcQZx_PlIZ-HnhBBfpjZ01FNLpinOHjvUrIaLfv382kwas0XXuvSDkJlh3drrv/pubhtml?gid=1411863973&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSAq7Rxp7pZUrUrLsjcQZx_PlIZ-HnhBBfpjZ01FNLpinOHjvUrIaLfv382kwas0XXuvSDkJlh3drrv/pubhtml?gid=1411863973&single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google"><title id="google-label-mouseover-rttbc22-full-schedule">Google Drive</title><use xlink:href="#google" /></svg>&nbsp;Full Schedule&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+              <title id="arrow-up-right-circle-full-schedule">New Window</title>
+              <use xlink:href="#arrow-up-right-circle" />
+            </svg></a></p>
+  
+            <p><!--#include virtual="/modules/rttbc22/stables-menu.html"--></p>
+              </div>
+            
           <!--#include virtual="/modules/rttbc22/contest-info.shtml" -->
-          <!--#include virtual="/modules/resources-rttbc.html" -->          
+          <!--#include virtual="/modules/resources-rttbc.html" -->
 
         </div>
         <!--end middle column-->
@@ -102,14 +76,8 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/calendar.html" -->
+          <!--#include virtual="/modules/rttbc22/races-completed.html" -->
           
-          <!-- ONLY ADD THIS BACK IF IT FITS INTO THE PAGE...div class="round-border"-->
-            <!--include virtual="/modules/stakes-calendar.html" -->
-            <!--br/-->
-            <!--include virtual="/modules/stakes-nominations-rttbc.html" -->
-          <!--/div-->
-
         </div>
         <!--end right column-->
 

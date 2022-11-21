@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!--#include virtual="/banner-head.html" -->
+
+  <title>Road to the Breeders' Cup 2023 | Gallop Racing</title>
+
+    <!--Special P style for RTTBC 22 page only-->
+    <style>
+      p {
+        text-align: center;
+      }
+    </style>
+  
+  <link rel="canonical" href="https://www.gallop-racing.com/contests/rttbc23/index.shtml" />
+
+</head>
+
+<body class="bodyTag">
+  <!--Begin Banner-->
+  <!--#include virtual="/banner.html" -->
+  <!--End Banner-->
+
+  <!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
+        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">RTTBC 2023</span></li>
+      </ol>
+    </nav>
+
+    <div class="text-align-center">
+      <h3>Road to the Breeders' Cup<br>2023 Contest</h3>
+    </div>
+
+<!--include virtual="/countdown-timer-rttbc.html" -->
+
+    <div class="container marketing">
+
+      <div class="row">
+        <!--begin left column-->
+        <div class="col-lg-4">
+        
+          <!--include virtual="/modules/rttbc23/top-three-stables-graphic.html" -->
+
+        </div>
+        <!--end left column-->
+    
+        <!--begin middle column-->
+        <div class="col-lg-4">
+
+          <!--include virtual="/modules/rttbc22/tracker-season-progress.html" -->
+
+        </div>
+        <!--end middle column-->
+    
+        <!--begin right column-->
+        <div class="col-lg-4">
+          <div class="module-no-border" style="padding-bottom: 0px !important; margin-bottom: 0px !important;">
+          <p class="module-button-wrapper"><a class="btn btn-secondary" href="[link to RTTBC23 Leaderboard Sheet]" target="_blank" role="button" onclick="captureOutboundLink('[link to RTTBC23 Leaderboard Sheet]');"><svg class="bi" width="16" height="16" role="img" aria-label="Google"><title id="google-label-mouseover-rttbc22-leaderboard">Google Drive</title><use xlink:href="#google" /></svg>&nbsp;Full Leaderboard&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+            <title id="arrow-up-right-circle-full-leaderboard">New Window</title>
+            <use xlink:href="#arrow-up-right-circle" />
+          </svg></a></p>
+          
+          <p class="module-button-wrapper"><a class="btn btn-secondary" href="[link to RTTBC23 Race Schedule Sheet]" target="_blank" role="button" onclick="captureOutboundLink('[link to RTTBC23 Race Schedule Sheet]');"><svg class="bi" width="16" height="16" role="img" aria-label="Google"><title id="google-label-mouseover-rttbc22-full-schedule">Google Drive</title><use xlink:href="#google" /></svg>&nbsp;Full Schedule&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+            <title id="arrow-up-right-circle-full-schedule">New Window</title>
+            <use xlink:href="#arrow-up-right-circle" />
+          </svg></a></p>
+
+          <p><!--include virtual="/modules/rttbc23/stables-menu.html"--></p>
+            </div>
+          
+        </div>
+        <!--end right column-->
+
+      </div>
+      <!--end row-->
+
+      <div class="row">
+        <div class="col-lg-4">
+          <!--begin left column-->
+
+          <!--include virtual="/modules/rttbc23/races-upcoming.html" -->
+          <!--include virtual="/modules/rttbc23/races-completed.html" -->
+          
+        </div>
+        <!--end left column-->
+
+        <div class="col-lg-4">
+          <!--begin middle column-->
+
+          <!--include virtual="/modules/rttbc23/contest-info.shtml" -->
+          <!--#include virtual="/modules/resources-rttbc.html" -->          
+
+        </div>
+        <!--end middle column-->
+
+        <div class="col-lg-4">
+          <!--begin right column-->
+
+          <!--#include virtual="/modules/calendar.html" -->
+          
+          <!-- ONLY ADD THIS BACK IF IT FITS INTO THE PAGE...div class="round-border"-->
+            <!--include virtual="/modules/stakes-calendar.html" -->
+            <!--br/-->
+            <!--include virtual="/modules/stakes-nominations-rttbc.html" -->
+          <!--/div-->
+
+        </div>
+        <!--end right column-->
+
+      </div>
+      <!--row #1-->
+
+      <div class="accordion" id="accordionRTTBC23data">
+
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingThree">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              How to Play / RTTBC Scoring / Contest Notes / Auto-Draft Log
+            </button>
+          </h2>
+          <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+            data-bs-parent="#accordionRTTBC23data">
+            <div class="accordion-body accordion-td-cell">
+
+              <div class="row">
+                <div class="col-lg-4">
+                  <!--begin left column-->
+
+                  <!--#include virtual="/modules/how-to-play-rttbc.html" -->
+                  <!--#include virtual="/modules/rttbc-scoring-table.html" -->
+                  <!--#include virtual="/modules/rttbc23/contest-notes.html"-->
+
+                </div>
+                <!--end left column-->
+
+                <div class="col-lg-4">
+                  <!--begin middle column-->
+
+                  <!--include virtual="/modules/rttbc23/auto-draft-log.html"-->
+
+                  
+                </div>
+                <!--end middle column-->
+
+                <div class="col-lg-4">
+                <!--begin right column-->
+
+                  <!--include virtual="/modules/rttbc23/auto-draft-log-continued.html"-->
+
+                </div>
+                <!--end right column-->
+
+              </div>
+              <!--end row-->
+
+            </div>
+          </div>
+        </div>
+
+      </div>
+      
+      <div class="row">
+        <!--#include virtual="/modules/jump-to-contest.html" -->
+      </div>
+      <!--row #2-->
+      
+      <!-- FOOTER -->
+
+      <!--#include virtual="/footer-page.html" -->
+
+    </div>
+    <!--container-->
+
+    <!--#include virtual="/footer.html" -->
+
+
+  </main>
+
+
+</body>
+
+</html>
