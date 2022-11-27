@@ -17,4 +17,12 @@
     <a class="btn btn-secondary btn-half" href="/contests/rttbc22/stats.shtml"
     role="button">Stats</a></p>
 
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC22-Leading-Horses-by-Stable.pdf"
+      target="_blank" role="button"
+      onclick="captureOutboundLink('/pdf/RTTBC22-Leading-Horses-by-Stable.pdf');"><svg
+      class="bi" width="20" height="20" role="img" aria-label="PDF">
+      <title id="pdf-label-mouseover-rttbc22-leading-horses-by-stable">PDF</title>
+      <use xlink:href="#filetype-pdf" />
+    </svg> Leading Horses by Stable</a></p>
+
 </div>
