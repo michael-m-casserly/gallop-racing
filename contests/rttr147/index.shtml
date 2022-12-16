@@ -87,7 +87,7 @@
                 <div class="col-lg-4">
                   <!--begin middle column-->
 
-                  <!--#include virtual="/modules/rttr-scoring-table.html" -->
+                  <!--#include virtual="/modules/rttr-scoring-table-pre149.html" -->
 
                 </div>
                 <!--end middle column-->
