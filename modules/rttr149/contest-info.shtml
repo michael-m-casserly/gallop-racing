@@ -1,0 +1,65 @@
+<div class="round-border">
+  <h5>RTTR149 Info</h5>
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn btn-half"
+    href="/contests/rttr149/schedule.shtml" role="button">Schedule</a>
+    <a class="btn btn-secondary btn btn-half"
+    href="/contests/rttr149/stats.shtml" role="button">Stats</a>
+  </p>
+
+  <!--p class="module-button-wrapper"><a class="btn btn-secondary"
+      href="[Insert Leaderboard Link Here]"
+      target="_blank" role="button"
+      onclick="captureOutboundLink('[Insert Leaderboard Link Here]');"><svg
+        class="bi" width="16" height="16" role="img" aria-label="Google">
+        <title id="google-label-mouseover-rttr149-leaderboard">Google</title>
+        <use xlink:href="#google" />
+      </svg> Leaderboard&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+        <title id="arrow-up-right-circle-rttr149-leaderboard">New Window</title>
+        <use xlink:href="#arrow-up-right-circle" />
+      </svg></a-->
+
+<!--include virtual="/modules/rttr149/stables-menu.html"-->
+    <!--/p-->
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+      href="[Insert link to Horses tab on RTTR149 League Sheet]"
+      target="_blank" role="button"
+      onclick="captureOutboundLink('[Insert link to Horses tab on RTTR149 League Sheet]');"><svg
+        class="bi" width="16" height="16" role="img" aria-label="Google">
+        <title id="google-label-mouseover-rttr149-horses">Google</title>
+        <use xlink:href="#google" />
+      </svg> Horses&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+        <title id="arrow-up-right-circle-rttr149-horses">New Window</title>
+        <use xlink:href="#arrow-up-right-circle" />
+      </svg></a></p>
+
+  <!--USE THIS IF A POPUP IS PREFERRED TO A STANDALONE PAGE FOR SCHEDULE-->    
+  <!--p class="module-button-wrapper"><a class="btn btn-secondary btn"
+      href="[Insert Link to Schedule Sheet]"
+      target="_blank" role="button"
+      onclick="captureOutboundLink('[Insert Link to Schedule Sheet]');"><svg
+        class="bi" width="16" height="16" role="img" aria-label="Google">
+        <title id="google-label-mouseover-rttr149-schedule">Google</title>
+        <use xlink:href="#google" />
+      </svg> Schedule</a>
+  </p-->
+
+  <!--p class="module-button-wrapper"><a class="btn btn-secondary btn"
+      href="/pdf/RTTR149-All-Stables.pdf" role="button" target="_blank"><svg class="bi"
+        width="20" height="20" role="img" aria-label="PDF">
+        <title id="pdf-label-mouseover-rttr149-view-all-stables">PDF</title>
+        <use xlink:href="#filetype-pdf" />
+      </svg> View All Stables</a>
+  </p-->
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttr149?f=live"
+      target="_blank" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="Twitter">
+        <title id="twitter-label-mouseover-rttr148-module-button">Twitter</title>
+        <use xlink:href="#twitter" />
+      </svg> #rttr149 News&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+        <title id="arrow-up-right-circle-rttr149-news">New Window</title>
+        <use xlink:href="#arrow-up-right-circle" />
+      </svg></a></p>
+
+</div>

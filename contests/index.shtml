@@ -45,6 +45,31 @@
         <!--row 1-->
         <div class="col-lg-4">
           <!--begin left column-->
+
+          <div class="round-border">
+            <h5>Kentucky Derby</h5>
+            <p>January to May</p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttr149/index.shtml"
+                role="button">RTTR 149</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+                href="https://twitter.com/hashtag/rttr149?f=live" role="button" target="_blank"><svg class="bi"
+                  width="16" height="16" role="img" aria-label="Twitter">
+                  <title id="twitter-label-mouseover-rttr149-module-button">Twitter</title>
+                  <use xlink:href="#twitter" />
+                </svg> #rttr149 News&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+                  <title id="arrow-up-right-circle-rttr149-news">New Window</title>
+                  <use xlink:href="#arrow-up-right-circle" />
+                </svg></a></p>
+            <p style="text-align: center;">
+                <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
+                  style="max-width: 240px; margin: auto;">
+                  <option value="" selected>Previous RTTR Contests</option>
+                  <option value="/contests/rttr148/index.shtml">RTTR 148</option>
+                  <option value="/contests/rttr147/index.shtml">RTTR 147</option>
+                </select>
+            </p>
+          </div>
+
           <div class="round-border">
             <h5>Breeders' Cup</h5>
             <p>June to November</p>
@@ -68,29 +93,6 @@
             </p>
           </div>
           
-          <div class="round-border">
-            <h5>Kentucky Derby</h5>
-            <p>January to May</p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttr148/index.shtml"
-                role="button">RTTR 148</a></p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-                href="https://twitter.com/hashtag/rttr148?f=live" role="button" target="_blank"><svg class="bi"
-                  width="16" height="16" role="img" aria-label="Twitter">
-                  <title id="twitter-label-mouseover-rttr148-module-button">Twitter</title>
-                  <use xlink:href="#twitter" />
-                </svg> #rttr148 News&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
-                  <title id="arrow-up-right-circle-rttr148-news">New Window</title>
-                  <use xlink:href="#arrow-up-right-circle" />
-                </svg></a></p>
-            <p style="text-align: center;">
-                <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
-                  style="max-width: 240px; margin: auto;">
-                  <option value="" selected>Previous RTTR Contests</option>
-                  <option value="/contests/rttr147/index.shtml">RTTR 147</option>
-                </select>
-            </p>
-          </div>
-
         </div>
         <!--end left column-->
 
