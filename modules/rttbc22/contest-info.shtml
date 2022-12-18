@@ -6,10 +6,9 @@
         <title id="pdf-label-mouseover-rttbc22-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg><br>All Stables</a>
-      <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=249132506&amp;single=true" target="_blank" role="button"
-      onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSjVEepYJFkQGW6vCI_36-JULm-IfjB6mbNFrEaGGvS-tf2-U3BNBEFVQQaeLSCJhJdqEiXrT1oC6Da/pubhtml?gid=249132506&amp;single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google">
-        <title id="google-label-mouseover-rttbc22-horses">Google</title>
-        <use xlink:href="#google" />
+      <a class="btn btn-secondary btn-half" href="/pdf/RTTBC22-League-Sheet-Horses.pdf" target="_blank" role="button"><svg class="bi" width="20" height="20" role="img" aria-label="PDF">
+        <title id="pdf-label-mouseover-rttbc22-horses">PDF</title>
+        <use xlink:href="#filetype-pdf" />
       </svg><br>Horses</a>
   </p>
   
