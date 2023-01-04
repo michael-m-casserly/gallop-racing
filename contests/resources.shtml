@@ -65,9 +65,9 @@
           <!--#include virtual="/modules/how-to-play-rttbc.html" -->
           <!--#include virtual="/modules/how-to-play-rttr.html" -->
           <div class="round-border">
-            <!--include virtual="/modules/stakes-nominations-rttr.html" -->
+            <!--#include virtual="/modules/stakes-nominations-rttr.html" -->
             <!--br/-->
-            <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
+            <!--include virtual="/modules/stakes-nominations-rttbc.html" -->
             <br>
             <!--#include virtual="/modules/stakes-calendar.html" -->
             </div>
