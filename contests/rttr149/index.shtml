@@ -54,7 +54,7 @@
           <!--begin left column-->
 
           <!--#include virtual="/modules/register.html" -->
-          <!--#include virtual="/modules/rttr149/upcoming-races.shtml" -->
+          <!--#include virtual="/modules/rttr149/races-upcoming.html" -->
 
         </div>
         <!--end left column-->
