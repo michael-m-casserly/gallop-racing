@@ -61,6 +61,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           <!--#include virtual="/modules/rttr149/contest-info.shtml" -->
+          <!--#include virtual="/modules/how-to-play-rttr.html" -->
           <!--#include virtual="/modules/resources-rttr.html" -->
           
           <!--include virtual="/modules/rttr149/leading-horses.html"-->
