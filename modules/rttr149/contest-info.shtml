@@ -7,10 +7,10 @@
     href="/contests/rttr149/stats.shtml" role="button">Stats</a>
   </p>
 
-  <!--p class="module-button-wrapper"><a class="btn btn-secondary"
-      href="[Insert Leaderboard Link Here]"
+  <p class="module-button-wrapper"><a class="btn btn-secondary"
+      href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQb_28jtX7ej0UmmYBStG975jNA0pyAVUnqn-ldS3I3Na1FoFAumZADJAtHPa9tQp2OmHMzKEEiJSZX/pubhtml?gid=2052581943&single=true"
       target="_blank" role="button"
-      onclick="captureOutboundLink('[Insert Leaderboard Link Here]');"><svg
+      onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQb_28jtX7ej0UmmYBStG975jNA0pyAVUnqn-ldS3I3Na1FoFAumZADJAtHPa9tQp2OmHMzKEEiJSZX/pubhtml?gid=2052581943&single=true');"><svg
         class="bi" width="16" height="16" role="img" aria-label="Google">
         <title id="google-label-mouseover-rttr149-leaderboard">Google</title>
         <use xlink:href="#google" />
@@ -19,8 +19,8 @@
         <use xlink:href="#arrow-up-right-circle" />
       </svg></a-->
 
-<!--include virtual="/modules/rttr149/stables-menu.html"-->
-    <!--/p-->
+<!--#include virtual="/modules/rttr149/stables-menu.html"-->
+    </p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"
       href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQb_28jtX7ej0UmmYBStG975jNA0pyAVUnqn-ldS3I3Na1FoFAumZADJAtHPa9tQp2OmHMzKEEiJSZX/pubhtml?gid=1773939469&amp;single=true&amp;widget=true&amp;headers=false"
@@ -45,13 +45,13 @@
       </svg> Schedule</a>
   </p-->
 
-  <!--p class="module-button-wrapper"><a class="btn btn-secondary btn"
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn"
       href="/pdf/RTTR149-All-Stables.pdf" role="button" target="_blank"><svg class="bi"
         width="20" height="20" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttr149-view-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg> View All Stables</a>
-  </p-->
+  </p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttr149?f=live"
       target="_blank" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="Twitter">

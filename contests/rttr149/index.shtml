@@ -42,7 +42,7 @@
 
     <br>
     <!--Add back the # symbol when the counter is rest-->
-    <!--#include virtual="/countdown-timer-rttr.html" -->
+    <!--include virtual="/countdown-timer-rttr.html" -->
     <br>
     
     <div class="container marketing">
