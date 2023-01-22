@@ -1,26 +1,11 @@
 <div class="round-border">
   <h5>RTTR149 Info</h5>
 
-  <p><!--#include virtual="/modules/rttr149/stables-menu.html"--></p>
-
   <p class="module-button-wrapper"><a class="btn btn-secondary btn btn-half"
     href="/contests/rttr149/schedule.shtml" role="button">Schedule</a>
     <a class="btn btn-secondary btn btn-half"
     href="/contests/rttr149/stats.shtml" role="button">Stats</a>
   </p>
-
-  <p class="module-button-wrapper"><a class="btn btn-secondary"
-      href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQb_28jtX7ej0UmmYBStG975jNA0pyAVUnqn-ldS3I3Na1FoFAumZADJAtHPa9tQp2OmHMzKEEiJSZX/pubhtml?gid=2052581943&single=true"
-      target="_blank" role="button"
-      onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQb_28jtX7ej0UmmYBStG975jNA0pyAVUnqn-ldS3I3Na1FoFAumZADJAtHPa9tQp2OmHMzKEEiJSZX/pubhtml?gid=2052581943&single=true');"><svg
-        class="bi" width="16" height="16" role="img" aria-label="Google">
-        <title id="google-label-mouseover-rttr149-leaderboard">Google</title>
-        <use xlink:href="#google" />
-      </svg> Leaderboard&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
-        <title id="arrow-up-right-circle-rttr149-leaderboard">New Window</title>
-        <use xlink:href="#arrow-up-right-circle" />
-      </svg></a>
-    </p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"
       href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQb_28jtX7ej0UmmYBStG975jNA0pyAVUnqn-ldS3I3Na1FoFAumZADJAtHPa9tQp2OmHMzKEEiJSZX/pubhtml?gid=1773939469&amp;single=true&amp;widget=true&amp;headers=false"

@@ -49,6 +49,35 @@
 
       <!--p>The Road to the Roses, Derby 149 contest will start in January 2023.</p-->
 
+      
+      <div class="row">
+        <div class="col-lg-4">
+          <!--begin left column-->
+
+          <!--#include virtual="/modules/rttr149/top-three-stables-graphic.html" -->
+          
+        </div>
+        <!--end left column-->
+
+        <div class="col-lg-4">
+          <!--begin middle column-->
+          
+          <!--#include virtual="/modules/rttr149/tracker-season-progress.html" -->
+
+        </div>
+        <!--end middle column-->
+
+        <div class="col-lg-4">
+          <!--begin right column-->
+
+          <!--#include virtual="/modules/rttr149/top-row-in-season-buttons.html" -->
+          
+        </div>
+        <!--end right column-->
+
+      </div>
+      <!--row #1-->
+
       <div class="row">
         <div class="col-lg-4">
           <!--begin left column-->
@@ -61,6 +90,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           <!--#include virtual="/modules/rttr149/contest-info.shtml" -->
+          <!--#include virtual="/modules/rttr149/races-completed.html" -->
           <!--include virtual="/modules/how-to-play-rttr.html" -->
           <!--#include virtual="/modules/resources-rttr.html" -->
           <div class="round-border">
@@ -85,7 +115,7 @@
         <!--end right column-->
 
       </div>
-      <!--end row #1-->
+      <!--end row #2-->
 
       <div class="accordion" id="accordionRTTR149data">
         <div class="accordion-item">
