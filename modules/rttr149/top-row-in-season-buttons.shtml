@@ -1,4 +1,8 @@
-<p><!--#include virtual="/modules/rttr149/stables-menu.html"--></p>
+<div class="module-no-border" style="padding-bottom: 0px !important; margin-bottom: 0px !important;">
+    
+<p>    
+    <!--#include virtual="/modules/rttr149/stables-menu.html"-->
+</p>
 
 <p class="module-button-wrapper"><a class="btn btn-secondary"
     href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQb_28jtX7ej0UmmYBStG975jNA0pyAVUnqn-ldS3I3Na1FoFAumZADJAtHPa9tQp2OmHMzKEEiJSZX/pubhtml?gid=2052581943&single=true"
@@ -25,3 +29,4 @@
       <use xlink:href="#arrow-up-right-circle" />
     </svg></a>
   </p>
+</div>
