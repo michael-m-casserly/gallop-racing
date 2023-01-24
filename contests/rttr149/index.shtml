@@ -40,10 +40,10 @@
       <h3>Road to the Roses<br>Derby 149 Contest</h3>
     </div>
 
-    <br>
     <!--Add back the # symbol when the counter is rest-->
+    <!--br-->
     <!--include virtual="/countdown-timer-rttr.html" -->
-    <br>
+    <!--br-->
     
     <div class="container marketing">
 
