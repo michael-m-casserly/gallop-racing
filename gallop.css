@@ -270,6 +270,11 @@ td {
   min-width: 250px;
 }
 
+.stats-table-footnote {
+  font-style: italic;
+  text-align: center;
+}
+
 .race-name-header {
   font-weight: bold;
   text-align: center !important;
