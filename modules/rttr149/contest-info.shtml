@@ -1,7 +1,15 @@
 <div class="round-border">
   <h5>RTTR149 Info</h5>
 
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn btn-half"
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+    href="/contests/rttr149/pdf/20230311_Road_to_Kentucky_Derby_Leaderboard.pdf" role="button" target="_blank"><svg class="bi"
+      width="20" height="20" role="img" aria-label="PDF">
+      <title id="pdf-label-mouseover-rttr149-official-derby-leaderboard">PDF</title>
+      <use xlink:href="#filetype-pdf" />
+    </svg> Official Derby Leaderboard (Weekly)</a>
+</p>
+
+<p class="module-button-wrapper"><a class="btn btn-secondary btn btn-half"
     href="/contests/rttr149/schedule.shtml" role="button">Schedule</a>
     <a class="btn btn-secondary btn btn-half"
     href="/contests/rttr149/stats.shtml" role="button">Stats</a>
