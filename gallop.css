@@ -272,7 +272,7 @@ td {
 
 td.stats-table-footnote {
   font-style: italic;
-  text-align: center;
+  text-align: center !important; /* use this to override .TableStandard td*/
 }
 
 .race-name-header {
@@ -289,8 +289,8 @@ td.stats-table-footnote {
   text-align: left;
 }
 
-.text-align-center, td.text-align-center {
-  text-align: center;
+.text-align-center {
+  text-align: center !important; /* use this to override .TableStandard td*/
 }
 
 .leaderboard-data-number {
