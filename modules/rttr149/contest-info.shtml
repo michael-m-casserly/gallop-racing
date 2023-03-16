@@ -2,12 +2,13 @@
   <h5>RTTR149 Info</h5>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-    href="/contests/rttr149/pdf/20230311_Road_to_Kentucky_Derby_Leaderboard.pdf" role="button" target="_blank"><svg class="bi"
+    href="/contests/rttr149/pdf/20230315_Road_to_Kentucky_Derby_Leaderboard.pdf" role="button" target="_blank"><svg class="bi"
       width="20" height="20" role="img" aria-label="PDF">
       <title id="pdf-label-mouseover-rttr149-official-derby-leaderboard">PDF</title>
       <use xlink:href="#filetype-pdf" />
     </svg> Official Derby Leaderboard (Weekly)</a>
 </p>
+<p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">Official Derby Leaderboard courtesy of <a href="https://twitter.com/DerbyMedia" target="_blank">Churchill Downs PR</a></p>
 
 <p class="module-button-wrapper"><a class="btn btn-secondary btn btn-half"
     href="/contests/rttr149/schedule.shtml" role="button">Schedule</a>
