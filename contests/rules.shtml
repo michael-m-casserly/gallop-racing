@@ -315,11 +315,9 @@
                     <th class="TableHeader text-align-center">SCR-004</th>
                   </tr>
                   <tr>
-                    <td>In cases where a Dead Heat (DH) occurs for Win, Place and Show finishes in Graded Stakes, those horses that finish in a DH will be awarded the total applicable points for that Win, Place, or Show position. We will follow what the official Kentucky Derby OR Breeders Cup Points System awards to each horse as the base value, and then that would multiply if a Power Horse is selected.
-                      <br><br>
-                      In the case of a DH on Kentucky Derby OR Breeder's Cup Weekend (when RTKD or BC Points no longer apply), both horses will be awarded Full points for that position, and the next runner would place according to that. For example, if there is a two-horse DH for the Win, then the two horses that finish in 1st will be awarded Full Win points, there will be no Place points awarded, and the horse finishing behind the two horses in the DH would be awarded Show points.
-                      <br><br>
-                      The same logic applies if there are DH for Place and or Show Positions. In the rare event more than three horses are involved in a DH, every horse would be awarded Full points for their position, and there would be no points awarded for any of the subsequent placings. The same goes for the Winning Sire/Trainer/Jockey, who would be awarded Full points for any Win. Lastly, in case of any discrepancy or confusion, we will ultimately follow whatever the Road to the Kentucky Derby OR Breeders' Cup points process awards the horses since we are following those points systems.</td>
+                    <td>In the event of a dead-heat (tie) those horses will divide equally the points they would have received jointly had one beaten the other.
+                    <br><br>
+                    The same logic applies for any Trainer/Jockey/Sire points on a dead-heat for Win. Those T/J/S points will be divided equally.</td>
                   </tr>
                   <tr>
                     <th class="TableHeader text-align-center">SCR-005</th>
