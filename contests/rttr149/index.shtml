@@ -93,9 +93,6 @@
           <!--#include virtual="/modules/rttr149/races-completed.html" -->
           <!--include virtual="/modules/how-to-play-rttr.html" -->
           <!--#include virtual="/modules/resources-rttr.html" -->
-          <div class="round-border">
-            <!--#include virtual="/modules/stakes-nominations-rttr.html" -->
-          </div>
                     
           <!--include virtual="/modules/rttr149/leading-horses.html"-->
 
@@ -106,6 +103,10 @@
           <!--begin right column-->
 
           <!--#include virtual="/modules/calendar.html" -->
+
+          <div class="round-border">
+            <!--#include virtual="/modules/stakes-nominations-rttr.html" -->
+          </div>
 
           <!--include virtual="/modules/twitter.html" -->
 
