@@ -65,12 +65,12 @@
         <a id="kentuckyderby"></a>
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingHowToPlayRTTR">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseHowToPlayRTTR" aria-expanded="false" aria-controls="collapseHowToPlayRTTR">
               Contest #1<br>Road to the Roses (RTTR)
             </button>
           </h2>
-          <div id="collapseHowToPlayRTTR" class="accordion-collapse collapse show" aria-labelledby="headingHowToPlayRTTR"
+          <div id="collapseHowToPlayRTTR" class="accordion-collapse collapse" aria-labelledby="headingHowToPlayRTTR"
             data-bs-parent="#accordionHowToPlay">
             <div class="accordion-body accordion-td-cell">
               <div style="text-align: center;"><h4>Kentucky Derby</h4></div>
@@ -133,12 +133,12 @@
 <a id="breederscup"></a>
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingHowToPlayRTTBC">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            <button class="accordion-button" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseHowToPlayRTTBC" aria-expanded="false" aria-controls="collapseHowToPlayRTTBC">
               Contest #2<br>Road to the Breeders' Cup (RTTBC)
             </button>
           </h2>
-          <div id="collapseHowToPlayRTTBC" class="accordion-collapse collapse"
+          <div id="collapseHowToPlayRTTBC" class="accordion-collapse collapse show"
             aria-labelledby="headingHowToPlayRTTBC" data-bs-parent="#accordionHowToPlay">
             <div class="accordion-body accordion-td-cell">
               <div style="text-align: center;"><h4>Breeders' Cup<br>(7 Dirt Divisions)</h4></div>
@@ -146,14 +146,14 @@
               <p>The scope of the RTTBC contest will be all of the Graded Stakes races on Dirt in the United States, starting with the Belmont Stakes Saturday in June, amounting to ~115 races.</p>
 
               <div>
-              <p>The races spread out amongst various tracks:</p>
+              <p>The races spread out amongst various tracks (<i>subject to change pending final schedule</i>):</p>
               <ul style="margin: 20px;">
                 <li>Saratoga (22)</li>
                 <li>Belmont (19)</li>
-                <li>Keeneland (14), <i>including the 7 Breeders' Cup races</i></li>
+                <li>Keeneland (7)</li>
                 <li>Del Mar (12)</li>
-                <li>Churchill Downs (11)</li>
-                <li>Santa Anita (10)</li>
+                <li>Churchill Downs (13)</li>
+                <li>Santa Anita (16), <i>including the 7 Breeders' Cup races</i></li>
                 <li>Monmouth (6)</li>
                 <li>Parx (5)</li>
                 <li>Seven tracks with two races</li>

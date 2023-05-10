@@ -47,6 +47,30 @@
           <!--begin left column-->
 
           <div class="round-border">
+            <h5>Breeders' Cup</h5>
+            <p>June to November</p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttbc23/index.shtml"
+                role="button">RTTBC '23</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+                href="https://twitter.com/hashtag/rttbc23?f=live" role="button" target="_blank"><svg class="bi"
+                  width="16" height="16" role="img" aria-label="Twitter">
+                  <title id="twitter-label-mouseover-rttbc23-module-button">Twitter</title>
+                  <use xlink:href="#twitter" />
+                </svg> #rttbc23 News&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+                  <title id="arrow-up-right-circle-rttbc23-news">New Window</title>
+                  <use xlink:href="#arrow-up-right-circle" />
+                </svg></a></p>
+            <p style="text-align: center;">
+                <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
+                  style="max-width: 240px; margin: auto;">
+                  <option value="" selected>Previous RTTBC Contests</option>
+                  <option value="/contests/rttbc22/index.shtml">RTTBC '22</option>
+                  <option value="/contests/rttbc21/index.shtml">RTTBC '21</option>
+                </select>
+            </p>
+          </div>
+          
+          <div class="round-border">
             <h5>Kentucky Derby</h5>
             <p>January to May</p>
             <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttr149/index.shtml"
@@ -70,29 +94,6 @@
             </p>
           </div>
 
-          <div class="round-border">
-            <h5>Breeders' Cup</h5>
-            <p>June to November</p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttbc22/index.shtml"
-                role="button">RTTBC '22</a></p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-                href="https://twitter.com/hashtag/rttbc22?f=live" role="button" target="_blank"><svg class="bi"
-                  width="16" height="16" role="img" aria-label="Twitter">
-                  <title id="twitter-label-mouseover-rttbc22-module-button">Twitter</title>
-                  <use xlink:href="#twitter" />
-                </svg> #rttbc22 News&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
-                  <title id="arrow-up-right-circle-rttbc22-news">New Window</title>
-                  <use xlink:href="#arrow-up-right-circle" />
-                </svg></a></p>
-            <p style="text-align: center;">
-                <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
-                  style="max-width: 240px; margin: auto;">
-                  <option value="" selected>Previous RTTBC Contests</option>
-                  <option value="/contests/rttbc21/index.shtml">RTTBC '21</option>
-                </select>
-            </p>
-          </div>
-          
         </div>
         <!--end left column-->
 

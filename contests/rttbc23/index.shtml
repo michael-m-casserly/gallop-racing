@@ -72,8 +72,9 @@
       <div class="row">
         <div class="col-lg-4">
           <!--begin left column-->
-
+          <!--#include virtual="/modules/register.html" -->
           <!--#include virtual="/modules/rttbc23/races-upcoming.html" -->
+          <!--#include virtual="/modules/rttbc23/contest-info.shtml" --> <!--Move this to middle column once races start up-->
           <!--include virtual="/modules/rttbc23/races-completed.html" -->
           
         </div>
@@ -82,8 +83,14 @@
         <div class="col-lg-4">
           <!--begin middle column-->
 
-          <!--#include virtual="/modules/rttbc23/contest-info.shtml" -->
           <!--#include virtual="/modules/resources-rttbc.html" -->          
+
+          <!--Move this to the right column after the races start.-->
+          <div class="round-border">
+            <!--#include virtual="/modules/stakes-calendar.html" -->
+            <br>
+            <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
+          </div>
 
         </div>
         <!--end middle column-->
@@ -93,12 +100,6 @@
 
           <!--#include virtual="/modules/calendar.html" -->
           
-          <div class="round-border">
-            <!--#include virtual="/modules/stakes-calendar.html" -->
-            <br>
-            <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
-          </div>
-
         </div>
         <!--end right column-->
 

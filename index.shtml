@@ -53,8 +53,8 @@
           <!--begin right column-->
 
           <!--#include virtual="/modules/champions-current.html" -->          
-          <!--#include virtual="/modules/how-to-play-rttr.html" -->
           <!--#include virtual="/modules/how-to-play-rttbc.html" -->
+          <!--#include virtual="/modules/how-to-play-rttr.html" -->
 
         </div>
         <!--end right column-->
