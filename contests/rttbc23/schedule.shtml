@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!--#include virtual="/banner-head.html" -->
+
+  <title>Schedule | Road to the Breeders' Cup 2023 | Gallop Racing</title>
+
+  <link rel="canonical" href="https://www.gallop-racing.com/contests/rttbc23/schedule.shtml">
+
+</head>
+
+<body class="bodyTag">
+  <!--Begin Banner-->
+  <!--#include virtual="/banner.html" -->
+  <!--End Banner-->
+
+  <!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/rttbc23/index.shtml">RTTBC 2023</a></li>
+        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Schedule</span></li>
+      </ol>
+    </nav>
+
+    <div class="text-align-center">
+      <h3>Road to the Breeders' Cup<br>2023 Schedule</h3>
+    </div>
+
+
+    <div class="container marketing">
+
+      <div class="row">
+        <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsJUw7arN6aCYaqWT6eIfwXhBYJ02fHs6dzLLXr-ncIKlghz6qPOdq02WCgV7KeOApRyUcmmAGleC3/pubhtml?gid=1411863973&single=true&amp;widget=true&amp;headers=false"
+          target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
+            style="max-width: 250px; border: 0;"></a>
+
+        <!--#include virtual="/iframe-spinner.html" -->
+
+        <div class="iframe-container">
+          <iframe class="responsive-iframe"
+            src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsJUw7arN6aCYaqWT6eIfwXhBYJ02fHs6dzLLXr-ncIKlghz6qPOdq02WCgV7KeOApRyUcmmAGleC3/pubhtml?gid=1411863973&single=true&amp;widget=true&amp;headers=false"
+            onload="document.getElementById('spinner').style.display='none';"></iframe>
+
+        </div>
+        <table class="TableStandard" style="max-width: 550px;">
+          <tr>
+            <td class="table-legend-horse-in-stable">Horse in an RTTBC23 Stable.</td>
+          </tr>
+          <tr>
+            <td class="table-legend-bc-previous-winner">Previous Breeders' Cup Winner. (Not in RTTBC23 Stable)</td>
+          </tr>
+          <tr>
+            <td class="table-legend-bc-wayi">Breeders' Cup "Win And You're In" OR<br>Breeders' Cup "Dirt Dozen" Winner. (Not in RTTBC23 Stable)</td>
+          </tr>
+        </table>
+      </div>
+      <!--row #1-->
+      <div class="row">
+        <!--#include virtual="/modules/jump-to-schedule.html" -->
+      </div>
+      <!--row #2-->
+      
+      <!-- FOOTER -->
+
+      <!--#include virtual="/footer-page.html" -->
+
+    </div>
+    <!--container-->
+
+    <!--#include virtual="/footer.html" -->
+
+
+  </main>
+
+
+</body>
+
+</html>
