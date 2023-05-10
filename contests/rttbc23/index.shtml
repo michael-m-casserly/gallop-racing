@@ -61,7 +61,7 @@
         <!--begin right column-->
         <div class="col-lg-4">
 
-        <!--#include virtual="/modules/rttbc23/top-row-in-season-buttons.shtml" -->
+        <!--include virtual="/modules/rttbc23/top-row-in-season-buttons.shtml" -->
           
         </div>
         <!--end right column-->
@@ -74,7 +74,7 @@
           <!--begin left column-->
 
           <!--#include virtual="/modules/rttbc23/races-upcoming.html" -->
-          <!--#include virtual="/modules/rttbc23/races-completed.html" -->
+          <!--include virtual="/modules/rttbc23/races-completed.html" -->
           
         </div>
         <!--end left column-->
