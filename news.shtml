@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!--#include virtual="/banner-head.html" -->
+
+  <title>News | Gallop Racing</title>
+
+  <link rel="canonical" href="https://www.gallop-racing.com/news.shtml">
+
+</head>
+
+<body class="bodyTag">
+
+  <!--Begin Banner-->
+  <!--#include virtual="/banner.html" -->
+  <!--End Banner-->
+
+
+
+
+  <!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">News</span></li>
+      </ol>
+    </nav>
+
+    <br>
+    <div class="text-align-center">
+      <h3>Gallop News</h3>
+    </div>
+
+    <div class="container marketing">
+
+      <p>Gallop News sources from Twitter and various email newsletter subscriptions, including <i>BloodHorse Magazine</i>, the <i>Daily Racing Form</i>, and the <i>Paulick Report</i>. The focus of the news content will be whatever is relevant to the current contest. RTTR News will focus on anything related to the Kentucky Derby, and RTTBC News will focus on anything related to the Breeders' Cup Dirt Divisions.</p>
+
+      <div class="row">
+        <div class="col-lg-4">
+          <!--begin left column-->
+
+          <!--#include virtual="/modules/twitter.html" -->
+
+        </div>
+        <!--end left column-->
+
+        <div class="col-lg-4">
+          <!--begin middle column-->
+
+          <!--#include virtual="/modules/resources.html" -->
+
+        </div>
+        <!--end middle column-->
+
+        <div class="col-lg-4">
+          <!--begin right column-->
+
+          <!--#include virtual="/modules/resources-rttbc.html" -->
+          <!--#include virtual="/modules/resources-rttr.html" -->
+          <!--#include virtual="/modules/resources-more.html" -->
+          <!--#include virtual="/modules/equibase-virtual-stable.html" -->
+
+        </div>
+        <!--end right column-->
+
+      </div>
+      <!--row #1-->
+
+      <div class="accordion" id="accordionTwitterInfodata">
+
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingOne">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+              Twitter Information
+            </button>
+          </h2>
+          <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
+            data-bs-parent="#accordionTwitterInfodata">
+            <div class="accordion-body accordion-td-cell">
+
+            <p>The "<i>Mike Casserly, Gallop Racing</i>" Twitter account (<a href="https://twitter.com/gallopracingllc" target="_blank">@gallopracingllc</a>) will serve as the News Feed on the Gallop Racing website. While you do not need to be a Twitter member to view the News Feed, if you decide to dig deeper into any of the links, you may need to create a Twitter account at some stage.</p>
+
+            <p>Typical re-tweet content would include horse-specific updates regarding the next races, trainer/jockey changes, injuries, etc. Weekly <i>Race Preview</i> videos from the DRF, as well as video replays of the RTTBC/RTTR races (from TVG, TwinSpires) would also be regularly re-tweeted.</p>
+
+            <p>Any news items specific to contest administration are tagged with #rttbcXX or #rttrXXX based on the current contest. For example, <i>Road to the Breeders' Cup '22</i> would be #rttbc22. Items include publishing contest-specific updates, such as Nominations, Equibase Entries, RTTR/RTTBC Entries and Results, and weekly Leaderboard updates. These include direct links to the Gallop website and would not require any Twitter account to view. This #rttbc22 list is accessed directly via the link on the banner menu of the website:</p>
+
+            <p><img src="/images/twitter-banner-link-highlight.png" style="max-width: 610px; max-height: 112px;" alt="Twitter Banner" title="Twitter Banner"></p>
+
+            <p>Lastly, if you are a Twitter user and would like to follow the "List" of resources that Gallop utilizes, that can be found here: <a href="https://twitter.com/i/lists/1458447606745640963" target="_blank">Gallop Fantasy Racing</a></p>
+
+            </div>
+          </div>
+        </div>
+
+      </div>
+      
+
+      <!-- FOOTER -->
+
+      <!--#include virtual="/footer-page.html" -->
+
+    </div>
+    <!--container-->
+
+    <!--#include virtual="/footer.html" -->
+
+
+  </main>
+
+</body>
+
+</html>

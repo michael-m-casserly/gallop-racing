@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!--#include virtual="/banner-head.html" -->
+
+  <title>Gallop Racing</title>
+
+  <link rel="canonical" href="https://www.gallop-racing.com/index.shtml">
+</head>
+
+<body class="bodyTag">
+
+  <!--Begin Banner-->
+  <!--#include virtual="/banner.html" -->
+  <!--End Banner-->
+
+
+
+
+  <!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
+    <br>
+    <a id="Entries-Results"></a>
+    <div class="text-align-center">
+      <h3>Fantasy Horse Racing</h3>
+    </div>
+
+    <div class="container marketing">
+
+      <div class="row">
+        <div class="col-lg-4">
+          <!--begin left column-->
+
+          <!--ENABLE THIS AGAIN WHEN REGISTRATION FOR THE NEXT CONTEST OPENS-->
+          <!--include virtual="/modules/register.html" -->
+          <!--#include virtual="/modules/current-contest.html" -->
+          <!--#include virtual="/modules/calendar.html" -->
+
+        </div>
+        <!--end left column-->
+
+        <div class="col-lg-4">
+          <!--begin middle column-->
+
+          <!--#include virtual="/modules/twitter.html" -->
+
+        </div>
+        <!--end middle column-->
+
+        <div class="col-lg-4">
+          <!--begin right column-->
+
+          <!--#include virtual="/modules/champions-current.html" -->          
+          <!--#include virtual="/modules/how-to-play-rttr.html" -->
+          <!--#include virtual="/modules/how-to-play-rttbc.html" -->
+
+        </div>
+        <!--end right column-->
+
+      </div>
+      <!--row #1-->
+
+      <!-- FOOTER -->
+
+      <!--#include virtual="/footer-page.html" -->
+
+    </div>
+    <!--container-->
+
+    <!--#include virtual="/footer.html" -->
+
+
+  </main>
+
+</body>
+
+</html>

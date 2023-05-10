@@ -1,0 +1,18 @@
+<form class="col-12 col-lg-auto mb-3 mb-lg-0" style="padding: 10px;">
+      <select class="form-select" aria-label="" onchange="javascript:handleContestLink(this)"
+        style="max-width: 240px; margin: auto;">
+        <option value="" selected>Jump to Contest...</option>
+        <option value="rttr149/stats.shtml">Kentucky Derby 2023</option>
+        <option value="rttbc22/stats.shtml">Breeders' Cup 2022</option>
+        <option value="rttr148/stats.shtml">Kentucky Derby 2022</option>
+        <option value="rttbc21/index.shtml">Breeders' Cup 2021</option>
+        <option value="rttr147/index.shtml">Kentucky Derby 2021</option>
+        <option value="champions.shtml">Champions</option>
+      </select>
+      <script>
+        function handleContestLink(elm) {
+          //window.location = elm.value;
+          window.location = ('https://www.gallop-racing.com/contests/' + elm.value);
+        }
+      </script>
+</form>

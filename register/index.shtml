@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+      <!--#include virtual="/banner-head.html" -->
+
+    <title>Register | Gallop Racing</title>
+
+    <link rel="canonical" href="https://www.gallop-racing.com/register/index.shtml">
+</head>
+
+<body class="bodyTag">
+<!--Begin Banner-->
+<!--#include virtual="/banner.html" -->
+<!--End Banner-->
+    
+    
+    
+
+    
+    <!--Begin Main Content Section-->
+    <main class="container container-round-border">
+
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+          <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Register</span></li>
+        </ol>
+      </nav>
+   
+  <div class="container marketing" style="margin: 0px; padding: 0px;">
+
+      <!--Not needed since the form title will serve this purpose-->
+      <div class="text-align-center"><h3>Sign Up for Gallop Racing Contests</h3></div>
+  
+      <div class="container marketing">
+
+    <p>There are two registration periods for Gallop contests. The first is before the RTTR contest in January, and the second is before the RTTBC contest in June. You may utilize the registration form below to sign up for the next contest.</p>
+
+ <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/forms/d/e/1FAIpQLSe2GwysYayxRZN_aZm9EPkqttAGHQN3yWYEsWg4-CalcnS0Fg/viewform?usp=sf_link" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/forms/d/e/1FAIpQLSe2GwysYayxRZN_aZm9EPkqttAGHQN3yWYEsWg4-CalcnS0Fg/viewform?usp=sf_link');">Register&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+  <title id="arrow-up-right-circle-register">New Window</title>
+  <use xlink:href="#arrow-up-right-circle" />
+</svg></a></p>
+
+ <!--Will disable the iframe since there are Andriod zoom issues. It's cleaner to just launch a pop-up window for these.-->
+ <!--iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe2GwysYayxRZN_aZm9EPkqttAGHQN3yWYEsWg4-CalcnS0Fg/viewform?embedded=true" onload="window.parent.scrollTo(0,0)" style="border: 0; width: 100%; height: 2483px; margin: auto; "></iframe-->
+
+<br>
+<br>
+</div>
+
+<!-- FOOTER -->
+
+<!--#include virtual="/footer-page.html" -->    
+
+</div> <!--container-->
+
+<!--#include virtual="/footer.html" -->    
+
+
+</main>
+
+
+</body>
+</html>

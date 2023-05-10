@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+  <head>
+      <!--#include virtual="/banner-head.html" -->
+
+      <title>Strategies | Gallop Racing</title>
+
+      <link rel="canonical" href="https://www.gallop-racing.com/contests/strategies.shtml">
+      
+</head>
+
+<body class="bodyTag">
+      <!--Begin Banner-->
+<!--#include virtual="/banner.html" -->
+<!--End Banner-->
+
+    
+<!--Adding this comment to force an updated timestamp on the page in the hopes that it will be forced to re-index in Google Search Console-->
+
+
+
+    <!--Begin Main Content Section-->
+    <main class="container container-round-border">
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+          <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
+          <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Strategies</span></li>
+        </ol>
+      </nav>
+   
+      <div class="text-align-center"><h3>Strategies</h3></div>
+  
+      <div class="container marketing">
+
+        <p>Below you can find details describing some of the nuances in the <i>Road to the Roses</i> (RTTR) and <i>Road to the Breeders' Cup</i> (RTTBC) Contests.</p>
+        <div class="accordion" id="accordionStrategiesdata">
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingVariableDraft">
+              <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapseVariableDraft" aria-expanded="false" aria-controls="collapseVariableDraft">
+                RTTR Variable Drafting
+              </button>
+            </h2>
+            <div id="collapseVariableDraft" class="accordion-collapse collapse show" aria-labelledby="headingVariableDraft"
+              data-bs-parent="#accordionStrategiesdata">
+              <div class="accordion-body accordion-td-cell">
+                  <p>The final two Supplemental Drafts in the RTTR contest will be <i>variable</i>, meaning stables can select anywhere between zero and five horses to add to their stable over two separate selection periods.</p>
+
+                  <p>The first period will be the week of late March / early April. The second period will be the week leading into the Kentucky Derby.</p>
+          
+                  <p>While there are many unique factors for each stable to consider when making their selections, it ultimately amounts to a balancing act and weighing the pros and cons.</p>
+          
+                  <p>Here are some high-level pros and cons of each approach:</p>
+          
+                  <p><b><i>Drafting a horse in late March / early April (with six/seven races left):</i></b></p>
+                  <p><b>PRO:</b> The horse has an opportunity to earn points in those remaining races leading into the Kentucky Derby.</p>
+                  <p><b>CON:</b> The horse misses the board in that race, earns no points, and doesn't make it into the Kentucky Derby.</p>
+          
+                  <p><b><i>Waiting to draft a horse during Kentucky Derby week:</i></b></p>
+                  <p><b>PRO:</b> You know that the horse entered the Kentucky Derby.</p>
+                  <p><b>CON:</b> You miss out on any opportunity to earn points in those races prior.</p>
+          
+                  <p>RTTR Points in the Kentucky Derby are worth a lot more, so each stable requires careful thought on their best combination. The most common is three / two, four / one, or all five upfront. Rarely are four or five left until Derby Week. But it all depends on each stable, their current position, stable strength, etc. Here is where the RTTR Contest gets interesting!</p>
+          
+                  <!--#include virtual="/modules/rttr-scoring-table.html" -->
+                  <br>
+                  <div class="round-border" style="padding-left: 0px; padding-right: 0px; max-width: 600px; margin:auto;">
+                  <h5>RTTR Variable Supplemental Draft Sample Schedule</h5><img src="/images/sample-supp-draft-schedule-2023.png" alt="Sample Supplemental Draft Schedule" title="Sample Supplemental Draft Schedule" style="max-width: 600px;"></div>
+                  
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingRTTBC">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseRTTBC"
+                aria-expanded="false" aria-controls="collapseRTTBC">
+                RTTBC Approach
+              </button>
+            </h2>
+            <div id="collapseRTTBC" class="accordion-collapse collapse" aria-labelledby="headingRTTBC"
+              data-bs-parent="#accordionStrategiesdata">
+              <div class="accordion-body accordion-td-cell">
+                  <p>The RTTBC contest is longer and encompasses more divisions than the RTTR contest (restricted to 3-year-old horses on the dirt). The RTTBC contest covers all seven dirt divisions leading into the Breeders' Cup. The seven divisions include:</p>
+                  <ul style="margin: 20px;">
+                      <li><b>Classic</b></li>
+                      <li><b>Distaff</b></li>
+                      <li><b>Dirt Mile</b></li>
+                      <li><b>Sprint</b></li>
+                      <li><b>Filly & Mare Sprint</b></li>
+                      <li><b>Juvenile</b></li>
+                      <li><b>Juvenile Fillies</b></li>
+                    </ul>
+          
+                  <p>Since the RTTBC Contest covers over one-hundred graded stakes races, it would be impossible to draft a runner for every race.</p>
+          
+                  <p>The most common approach is to draft runners for the Grade 1 races. The logic is that these are the horses most likely to move onto the Breeders' Cup. In addition, if they happen to lose a Grade 1, they are very likely to come back and run in a lesser Grade 2 or Grade 3 race. Whereas if a horse were to lose a Grade 3 race, it would be unlikely to see them move onto the higher level Grade 2 and Grade 1 races.</p>
+          
+                  <!--#include virtual="/modules/rttbc-scoring-table.html" -->
+                  
+              </div>
+            </div>
+          </div>
+        
+        </div>
+
+        <br>
+              
+        <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/index.shtml" role="button">Contests</a></p>
+
+<!-- FOOTER -->
+
+<!--#include virtual="/footer-page.html" -->    
+
+</div> <!--container-->
+
+<!--#include virtual="/footer.html" -->    
+
+
+</main>
+
+
+</body>
+</html>

@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!--#include virtual="/banner-head.html" -->
+
+  <title>Contests | Gallop Racing</title>
+
+  <style>
+    p {
+      text-align: center;
+    }
+  </style>
+
+  <link rel="canonical" href="https://www.gallop-racing.com/contests/index.shtml">
+
+</head>
+
+<body class="bodyTag">
+  <!--Begin Banner-->
+  <!--#include virtual="/banner.html" -->
+  <!--End Banner-->
+
+
+
+
+
+  <!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Contests</span></li>
+      </ol>
+    </nav>
+
+    <div class="text-align-center">
+      <h3>Contests</h3>
+    </div>
+
+    <div class="container marketing">
+
+      <div class="row">
+        <!--row 1-->
+        <div class="col-lg-4">
+          <!--begin left column-->
+
+          <div class="round-border">
+            <h5>Kentucky Derby</h5>
+            <p>January to May</p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttr149/index.shtml"
+                role="button">RTTR 149</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+                href="https://twitter.com/hashtag/rttr149?f=live" role="button" target="_blank"><svg class="bi"
+                  width="16" height="16" role="img" aria-label="Twitter">
+                  <title id="twitter-label-mouseover-rttr149-module-button">Twitter</title>
+                  <use xlink:href="#twitter" />
+                </svg> #rttr149 News&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+                  <title id="arrow-up-right-circle-rttr149-news">New Window</title>
+                  <use xlink:href="#arrow-up-right-circle" />
+                </svg></a></p>
+            <p style="text-align: center;">
+                <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
+                  style="max-width: 240px; margin: auto;">
+                  <option value="" selected>Previous RTTR Contests</option>
+                  <option value="/contests/rttr148/index.shtml">RTTR 148</option>
+                  <option value="/contests/rttr147/index.shtml">RTTR 147</option>
+                </select>
+            </p>
+          </div>
+
+          <div class="round-border">
+            <h5>Breeders' Cup</h5>
+            <p>June to November</p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttbc22/index.shtml"
+                role="button">RTTBC '22</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+                href="https://twitter.com/hashtag/rttbc22?f=live" role="button" target="_blank"><svg class="bi"
+                  width="16" height="16" role="img" aria-label="Twitter">
+                  <title id="twitter-label-mouseover-rttbc22-module-button">Twitter</title>
+                  <use xlink:href="#twitter" />
+                </svg> #rttbc22 News&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+                  <title id="arrow-up-right-circle-rttbc22-news">New Window</title>
+                  <use xlink:href="#arrow-up-right-circle" />
+                </svg></a></p>
+            <p style="text-align: center;">
+                <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
+                  style="max-width: 240px; margin: auto;">
+                  <option value="" selected>Previous RTTBC Contests</option>
+                  <option value="/contests/rttbc21/index.shtml">RTTBC '21</option>
+                </select>
+            </p>
+          </div>
+          
+        </div>
+        <!--end left column-->
+
+        <div class="col-lg-4">
+          <!--begin middle column-->
+          <div class="round-border">
+            <h5>Stats / Info</h5>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/all-time-leaders.shtml"
+                role="button">All-Time Leaders</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/champions.shtml"
+                role="button">Champions</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/data-disclaimer.shtml"
+                role="button">Data Disclaimer</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/how-to-play.shtml"
+                role="button">How to Play</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/legend.shtml"
+                role="button">Legend</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/news.shtml"
+                  role="button">News</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/resources.shtml"
+                  role="button">Resources</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rules.shtml"
+                role="button">Rules</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/strategies.shtml"
+                role="button">Strategies</a></p>
+          </div>
+
+          <!--#include virtual="/modules/current-contest.html" -->
+
+        </div>
+        <!--end middle column-->
+
+        <div class="col-lg-4">
+          <!--begin right column-->
+        
+          <!--#include virtual="/modules/twitter.html" -->
+        
+        </div>
+        <!--end right column-->
+      </div>
+      <!--end row 1-->
+
+      <br>
+
+      <!-- FOOTER -->
+
+      <!--#include virtual="/footer-page.html" -->
+
+    </div>
+    <!--container-->
+
+    <!--#include virtual="/footer.html" -->
+
+
+  </main>
+
+
+</body>
+
+</html>
