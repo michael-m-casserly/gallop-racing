@@ -13,9 +13,7 @@
         <title id="pdf-label-mouseover-rttr148-leaderboard">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg> Leaderboard</a>
-
-<!--#include virtual="/modules/rttr148/stables-menu.html"-->
-    </p>
+  </p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"
       href="/pdf/RTTR148-Horses.pdf" target="_blank" role="button"><svg
@@ -41,4 +39,5 @@
         <use xlink:href="#arrow-up-right-circle" />
       </svg></a></p>
 
+      <p><!--#include virtual="/modules/rttr148/stables-menu.html"--></p>
 </div>

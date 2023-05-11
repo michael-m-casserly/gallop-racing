@@ -25,8 +25,6 @@
       <use xlink:href="#filetype-pdf" />
     </svg> Leaderboard</a>
 
-    <!--#include virtual="/modules/rttr149/stables-menu.html"-->
-
   <!--USE THIS FOR "HORSES" DURING THE SEASON; THE PDF IS ONLY FOR THE END OF THE SEASON-->
   <!--p class="module-button-wrapper"><a class="btn btn-secondary btn"
       href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQb_28jtX7ej0UmmYBStG975jNA0pyAVUnqn-ldS3I3Na1FoFAumZADJAtHPa9tQp2OmHMzKEEiJSZX/pubhtml?gid=1773939469&amp;single=true&amp;widget=true&amp;headers=false"
@@ -76,6 +74,7 @@
         <use xlink:href="#arrow-up-right-circle" />
       </svg></a></p>
 
+  <p><!--#include virtual="/modules/rttr149/stables-menu.html"--></p>
       <!--ADD THIS BACK DURING SEASON-->
       <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/data-disclaimer.shtml"
         role="button">Data Disclaimer</a></p>
