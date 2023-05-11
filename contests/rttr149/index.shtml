@@ -54,7 +54,7 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/rttr149/top-three-stables-graphic.html" -->
+          <!--include virtual="/modules/rttr149/top-three-stables-graphic.html" -->
           
         </div>
         <!--end left column-->
@@ -62,7 +62,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           
-          <!--#include virtual="/modules/rttr149/tracker-season-progress.html" -->
+          <!--include virtual="/modules/rttr149/tracker-season-progress.html" -->
 
         </div>
         <!--end middle column-->
@@ -70,7 +70,7 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/rttr149/top-row-in-season-buttons.shtml" -->
+          <!--include virtual="/modules/rttr149/top-row-in-season-buttons.shtml" -->
           
         </div>
         <!--end right column-->
@@ -82,8 +82,10 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
+          <!--#include virtual="/modules/rttr149/final-standings.html" -->
+
           <!--include virtual="/modules/register.html" -->
-          <!--#include virtual="/modules/rttr149/races-completed.html" -->
+          <!--include virtual="/modules/rttr149/races-completed.html" -->
           <!--include virtual="/modules/rttr149/races-upcoming.html" -->
           
         </div>
@@ -91,9 +93,10 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           
-          <!--#include virtual="/modules/rttr149/contest-info.shtml" -->
+          <!--include virtual="/modules/rttr149/contest-info.shtml" -->
+          <!--#include virtual="/modules/rttr149/races-completed.html" -->
           <!--include virtual="/modules/how-to-play-rttr.html" -->
-          <!--#include virtual="/modules/resources-rttr.html" -->
+          <!--include virtual="/modules/resources-rttr.html" -->
                     
           <!--include virtual="/modules/rttr149/leading-horses.html"-->
 
@@ -103,7 +106,8 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/calendar.html" -->
+          <!--#include virtual="/modules/rttr149/contest-info.shtml" -->
+          <!--include virtual="/modules/calendar.html" -->
 
           <div class="round-border">
             <!--#include virtual="/modules/stakes-nominations-rttr.html" -->
