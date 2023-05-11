@@ -14,7 +14,7 @@
         <use xlink:href="#filetype-pdf" />
       </svg> Leaderboard</a>
 
-<!--include virtual="/modules/rttr148/stables-menu.html"-->
+<!--#include virtual="/modules/rttr148/stables-menu.html"-->
     </p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"

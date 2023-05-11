@@ -25,6 +25,7 @@
       <use xlink:href="#filetype-pdf" />
     </svg> Leaderboard</a>
 
+    <!--#include virtual="/modules/rttr149/stables-menu.html"-->
 
   <!--USE THIS FOR "HORSES" DURING THE SEASON; THE PDF IS ONLY FOR THE END OF THE SEASON-->
   <!--p class="module-button-wrapper"><a class="btn btn-secondary btn"
