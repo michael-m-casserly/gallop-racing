@@ -32,7 +32,7 @@
         <title id="google-label-mouseover-rttbc23-schedule">Google</title>
         <use xlink:href="#google" />
       </svg><br>Schedule</a>
-  </p-->
+  </p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/news.shtml"
     role="button">News</a>
