@@ -217,7 +217,7 @@
               </table>
             </div>
 
-              <p>There will be fourteen races in June where you can earn points. Then the additional drafts are broken out as follows:</p>
+              <p>There will be twelve races in June where you can earn points. Then the additional drafts are broken out as follows:</p>
 
               <div style="text-align: center; padding-bottom: 10px;">
               <table class="TableStandard">
@@ -231,7 +231,7 @@
                   <td>2</td>
                   <td>late-Jun</td>
                   <td>5</td>
-                  <td>17</td>
+                  <td>16</td>
                 </tr>
                 <tr>
                   <td>3</td>
@@ -243,13 +243,13 @@
                   <td>4</td>
                   <td>mid-Aug</td>
                   <td>5</td>
-                  <td>15</td>
+                  <td>12</td>
                 </tr>
                 <tr>
                   <td>5</td>
                   <td>early-Sep</td>
                   <td>5*</td>
-                  <td>20</td>
+                  <td>19</td>
                 </tr>
                 <tr>
                   <td>6</td>
