@@ -83,7 +83,8 @@
 
           <!--#include virtual="/modules/rttbc23/contest-info.shtml" -->
 
-          <!--#include virtual="/modules/rttbc23/races-completed.html" -->
+          <!--ADD AFTER WEEK #1-->
+          <!--include virtual="/modules/rttbc23/races-completed.html" -->
 
           <div class="round-border">
             <!--#include virtual="/modules/stakes-calendar.html" -->
