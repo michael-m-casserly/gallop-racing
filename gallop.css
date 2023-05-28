@@ -371,8 +371,8 @@ a.PageTitleBreadCrumb, .PageTitleBreadCrumb, span.PageTitleBreadCrumb {
   color: #000;
   /*color: #5e183e; */
   text-align: left; 
-  font: 10pt "Tahoma";
-  font-weight:bold
+  font: 10pt "Tahoma" !important; /*see if this helps resolve the iOS issue (GRCW-380) */
+  font-weight: bold;
 }
   
 a.PageTitleBreadCrumb:link {
