@@ -39,8 +39,7 @@
           <!--#include virtual="/modules/rttbc21/final-standings.html" -->
 
           <div class="round-border">
-            <h5>View Stables</h5>
-          <p><!--#include virtual="/modules/rttbc21/stables-menu.html"--></p>
+          <!--#include virtual="/modules/rttbc21/stables-menu.html"-->
           </div>
           
         </div>
