@@ -37,11 +37,7 @@
           <!--begin left column-->
 
           <!--#include virtual="/modules/rttr147/final-standings.html"-->
-          
-          <div class="round-border">
-            <!--#include virtual="/modules/rttr147/stables-menu.html"-->
-          </div>
-  
+            
 
         </div>
         <!--end left column-->
@@ -50,6 +46,10 @@
           <!--begin middle column-->
 
           <!--#include virtual="/modules/rttr147/contest-info.html"-->
+
+          <div class="round-border">
+            <!--#include virtual="/modules/rttr147/stables-menu.html"-->
+          </div>
 
           <!--#include virtual="/modules/rttr147/leading-trainers.html"-->
 
