@@ -365,14 +365,15 @@ border-bottom: #FFF !important;
 	border-radius:5px;
 	padding-left: 20px !important;
   background-color: #c9daf8;
+  font-weight: bold !important;
 }
 
 a.PageTitleBreadCrumb, .PageTitleBreadCrumb, span.PageTitleBreadCrumb { 
   color: #000;
   /*color: #5e183e; */
   text-align: left; 
-  font: 10pt "Tahoma" !important; /*see if this helps resolve the iOS issue (GRCW-380) */
-  font-weight: bold;
+  font: 10pt "Tahoma" !important; 
+  font-weight: bold !important;
 }
   
 a.PageTitleBreadCrumb:link {

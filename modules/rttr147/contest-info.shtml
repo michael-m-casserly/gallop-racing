@@ -32,4 +32,7 @@
           <title id="arrow-up-right-circle-rttr147-news">New Window</title>
           <use xlink:href="#arrow-up-right-circle" />
         </svg></a></p>
+
+        <!--#include virtual="/modules/rttr147/stables-menu.html"-->
+
   </div>

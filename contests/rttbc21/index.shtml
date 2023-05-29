@@ -38,17 +38,13 @@
 
           <!--#include virtual="/modules/rttbc21/final-standings.html" -->
 
-          <div class="round-border">
-          <!--#include virtual="/modules/rttbc21/stables-menu.html"-->
-          </div>
-          
         </div>
         <!--end left column-->
 
         <div class="col-lg-4">
           <!--begin middle column-->
 
-          <!--#include virtual="/modules/rttbc21/contest-info.html" -->
+          <!--#include virtual="/modules/rttbc21/contest-info.shtml" --> <!--Updated this to SHTML so View Stables include could be read-->
           <!--#include virtual="/modules/rttbc21/leading-horses.html" -->
           <!--#include virtual="/modules/rttbc21/leading-sires.html" -->
 

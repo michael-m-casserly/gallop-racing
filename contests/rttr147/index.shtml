@@ -45,11 +45,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
 
-          <!--#include virtual="/modules/rttr147/contest-info.html"-->
-
-          <div class="round-border">
-            <!--#include virtual="/modules/rttr147/stables-menu.html"-->
-          </div>
+          <!--#include virtual="/modules/rttr147/contest-info.shtml"-->
 
           <!--#include virtual="/modules/rttr147/leading-trainers.html"-->
 
