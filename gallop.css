@@ -362,18 +362,16 @@ border-bottom: #FFF !important;
 .breadcrumb {
 	padding-top: 0px !important; /* any adjustment here should also be applied to the jumbotron pic on index.shtml */
 	border: 2px solid black; 
-	border-radius:5px;
+	border-radius: 5px;
 	padding-left: 20px !important;
   background-color: #c9daf8;
-  font-weight: bold !important;
 }
 
 a.PageTitleBreadCrumb, .PageTitleBreadCrumb, span.PageTitleBreadCrumb { 
   color: #000;
-  /*color: #5e183e; */
   text-align: left; 
-  font: 10pt "Tahoma" !important; 
-  font-weight: bold !important;
+  font: 10pt "Tahoma";
+  font-weight:  bold; 
 }
   
 a.PageTitleBreadCrumb:link {
