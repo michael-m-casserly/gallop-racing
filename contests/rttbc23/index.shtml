@@ -45,7 +45,7 @@
         <!--begin left column-->
         <div class="col-lg-4">
         
-          <!--include virtual="/modules/rttbc23/top-three-stables-graphic.html" -->
+          <!--#include virtual="/modules/rttbc23/top-three-stables-graphic.html" -->
 
         </div>
         <!--end left column-->
@@ -53,7 +53,7 @@
         <!--begin middle column-->
         <div class="col-lg-4">
 
-          <!--include virtual="/modules/rttbc22/tracker-season-progress.html" -->
+          <!--#include virtual="/modules/rttbc22/tracker-season-progress.html" -->
 
         </div>
         <!--end middle column-->
@@ -61,7 +61,7 @@
         <!--begin right column-->
         <div class="col-lg-4">
 
-        <!--include virtual="/modules/rttbc23/top-row-in-season-buttons.shtml" -->
+        <!--#include virtual="/modules/rttbc23/top-row-in-season-buttons.shtml" -->
           
         </div>
         <!--end right column-->

@@ -6,17 +6,17 @@
 
   <!--ADD THIS BACK AFTER THE INITIAL DRAFT CLOSES, and the ALL STABLES PDF is GENERATED-->
 
-  <!--p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/pdf/RTTBC23-All-Stables.pdf" role="button" target="_blank"><svg
+  <p class="module-button-wrapper"><!--a class="btn btn-secondary btn-half" href="/pdf/RTTBC23-All-Stables.pdf" role="button" target="_blank"><svg
         class="bi" width="20" height="20" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc23-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
-      </svg><br>All Stables</a>
-      <a class="btn btn-secondary btn-half" href="[Link to RTTBC23 Horses Sheet]" target="_blank" role="button"
-      onclick="captureOutboundLink('[Link to RTTBC23 Horses Sheet]');"><svg class="bi" width="16" height="16" role="img" aria-label="Google">
+      </svg><br>All Stables</a-->
+      <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcQqbP5-EkLkdd2JkFl7LQLARwZj_99y7jIWiAQE7oQgA1sqTV6XN_C9Ewp5XXkonKIwslYMX2DmEu/pubhtml?gid=249132506&single=true" target="_blank" role="button"
+      onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRcQqbP5-EkLkdd2JkFl7LQLARwZj_99y7jIWiAQE7oQgA1sqTV6XN_C9Ewp5XXkonKIwslYMX2DmEu/pubhtml?gid=249132506&single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google">
         <title id="google-label-mouseover-rttbc22-horses">Google</title>
         <use xlink:href="#google" />
       </svg><br>Horses</a>
-  </p-->
+  </p>
 
   <!--THIS ROW IS REDUNDANT FOR NOW; CAN ADD IT BACK IF ANYTHING CHANGES-->
   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
