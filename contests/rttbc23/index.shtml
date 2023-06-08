@@ -134,7 +134,7 @@
                   <!--begin middle column-->
 
                   <!--#include virtual="/modules/rttbc-scoring-table.html" -->
-                  <!--include virtual="/modules/rttbc23/auto-draft-log.html"-->
+                  <!--#include virtual="/modules/rttbc23/auto-draft-log.html"-->
 
                   
                 </div>
