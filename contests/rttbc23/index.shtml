@@ -86,12 +86,6 @@
           <!--ADD AFTER WEEK #1-->
           <!--#include virtual="/modules/rttbc23/races-completed.html" -->
 
-          <div class="round-border">
-            <!--#include virtual="/modules/stakes-calendar.html" -->
-            <br>
-            <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
-          </div>
-
         </div>
         <!--end middle column-->
 
@@ -102,6 +96,12 @@
 
           <!--#include virtual="/modules/calendar.html" -->
           
+          <div class="round-border">
+            <!--#include virtual="/modules/stakes-calendar.html" -->
+            <br>
+            <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
+          </div>
+
         </div>
         <!--end right column-->
 
