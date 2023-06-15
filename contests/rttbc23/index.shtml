@@ -126,6 +126,7 @@
                   <!--begin left column-->
 
                   <!--#include virtual="/modules/how-to-play-rttbc.html" -->
+                  <!--#include virtual="/modules/rttbc-scoring-table.html" -->
 
                 </div>
                 <!--end left column-->
@@ -133,7 +134,6 @@
                 <div class="col-lg-4">
                   <!--begin middle column-->
 
-                  <!--#include virtual="/modules/rttbc-scoring-table.html" -->
                   <!--#include virtual="/modules/rttbc23/auto-draft-log.html"-->
 
                   
