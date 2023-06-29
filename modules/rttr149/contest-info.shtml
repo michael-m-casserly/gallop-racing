@@ -4,7 +4,7 @@
   <!--BEGIN SHOWING THIS ONCE THEY START PUBLISHING IT-->
   <!--p class="module-button-wrapper"><a class="btn btn-secondary btn"
     href="/contests/rttr149/pdf/20230423_Road_to_Kentucky_Derby_Leaderboard.pdf" role="button" target="_blank"><svg class="bi"
-      width="20" height="20" role="img" aria-label="PDF">
+      width="16" height="16" role="img" aria-label="PDF">
       <title id="pdf-label-mouseover-rttr149-official-derby-leaderboard">PDF</title>
       <use xlink:href="#filetype-pdf" />
     </svg> Official Derby Leaderboard (Weekly) &dagger;</a>
@@ -20,7 +20,7 @@
 <!--ADD THIS AT THE END OF THE SEASON-->
   <p class="module-button-wrapper"><a class="btn btn-secondary"
     href="/pdf/RTTR149-Leaderboard.pdf" target="_blank" role="button"><svg
-      class="bi" width="20" height="20" role="img" aria-label="PDF">
+      class="bi" width="16" height="16" role="img" aria-label="PDF">
       <title id="pdf-label-mouseover-rttr149-leaderboard">PDF</title>
       <use xlink:href="#filetype-pdf" />
     </svg> Leaderboard</a>
@@ -40,7 +40,7 @@
 
       <p class="module-button-wrapper"><a class="btn btn-secondary btn"
         href="/pdf/RTTR149-Horses.pdf" target="_blank" role="button"><svg
-          class="bi" width="20" height="20" role="img" aria-label="PDF">
+          class="bi" width="16" height="16" role="img" aria-label="PDF">
           <title id="pdf-label-mouseover-rttr149-horses">PDF</title>
           <use xlink:href="#filetype-pdf" />
         </svg> Horses</a></p>
@@ -59,7 +59,7 @@
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"
       href="/pdf/RTTR149-All-Stables.pdf" role="button" target="_blank"><svg class="bi"
-        width="20" height="20" role="img" aria-label="PDF">
+        width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttr149-view-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg> View All Stables</a>

@@ -7,7 +7,7 @@
   <!--ADD THIS BACK AFTER THE INITIAL DRAFT CLOSES, and the ALL STABLES PDF is GENERATED-->
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/pdf/RTTBC23-All-Stables.pdf" role="button" target="_blank"><svg
-        class="bi" width="20" height="20" role="img" aria-label="PDF">
+        class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc23-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg><br>All Stables</a>
@@ -53,7 +53,7 @@
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC23-Leading-Horses-by-Stable.pdf"
     target="_blank" role="button"
     onclick="captureOutboundLink('/pdf/RTTBC23-Leading-Horses-by-Stable.pdf');"><svg
-    class="bi" width="20" height="20" role="img" aria-label="PDF">
+    class="bi" width="16" height="16" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-rttbc23-leading-horses-by-stable">PDF</title>
     <use xlink:href="#filetype-pdf" />
   </svg> Leading Horses by Stable</a></p>

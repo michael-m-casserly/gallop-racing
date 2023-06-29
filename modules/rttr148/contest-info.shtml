@@ -9,7 +9,7 @@
 
   <p class="module-button-wrapper"><a class="btn btn-secondary"
       href="/pdf/RTTR148-Leaderboard.pdf" target="_blank" role="button"><svg
-        class="bi" width="20" height="20" role="img" aria-label="PDF">
+        class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttr148-leaderboard">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg> Leaderboard</a>
@@ -17,14 +17,14 @@
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"
       href="/pdf/RTTR148-Horses.pdf" target="_blank" role="button"><svg
-        class="bi" width="20" height="20" role="img" aria-label="PDF">
+        class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttr148-horses">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg> Horses</a></p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"
       href="/pdf/RTTR148-All-Stables.pdf" role="button" target="_blank"><svg class="bi"
-        width="20" height="20" role="img" aria-label="PDF">
+        width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttr148-view-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg> View All Stables</a>
