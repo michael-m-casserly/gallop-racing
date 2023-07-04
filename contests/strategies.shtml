@@ -45,7 +45,7 @@
             <div id="collapseVariableDraft" class="accordion-collapse collapse" aria-labelledby="headingVariableDraft"
               data-bs-parent="#accordionStrategiesdata">
               <div class="accordion-body accordion-td-cell">
-                  <p>The final two Supplemental Drafts in the RTTR contest will be <i>variable</i>, meaning stables can select anywhere between zero and five horses to add to their stable over two separate selection periods.</p>
+                  <p>The final two Drafts in the RTTR contest will be <i>variable</i>, meaning stables can select anywhere between zero and five horses to add to their stable over two separate selection periods.</p>
 
                   <p>The first period will be the week of late March / early April. The second period will be the week leading into the Kentucky Derby.</p>
           
@@ -66,7 +66,7 @@
                   <!--#include virtual="/modules/rttr-scoring-table.html" -->
                   <br>
                   <div class="round-border" style="padding-left: 0px; padding-right: 0px; max-width: 600px; margin:auto;">
-                  <h5>RTTR Variable Supplemental Draft Sample Schedule</h5><img src="/images/sample-supp-draft-schedule-2023.png" alt="Sample Supplemental Draft Schedule" title="Sample Supplemental Draft Schedule" style="max-width: 600px;"></div>
+                  <h5>RTTR Variable Draft Sample Schedule</h5><img src="/images/sample-supp-draft-schedule-2023.png" alt="Sample Variable Schedule" title="Sample Variable Draft Schedule" style="max-width: 600px;"></div>
                   
               </div>
             </div>
