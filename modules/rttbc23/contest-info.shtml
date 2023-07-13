@@ -15,7 +15,7 @@
         class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc23-heat-map">PDF</title>
         <use xlink:href="#filetype-pdf" />
-      </svg><br>All Stables</a>
+      </svg><br>Heat Map</a>
   </p>
 
   <!--THIS ROW IS REDUNDANT FOR NOW; CAN ADD IT BACK IF ANYTHING CHANGES-->
