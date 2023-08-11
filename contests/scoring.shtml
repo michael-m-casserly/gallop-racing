@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+      <!--#include virtual="/banner-head.html" -->
+
+      <title>Scoring | Gallop Racing</title>
+
+      <link rel="canonical" href="https://www.gallop-racing.com/contests/scoring.shtml">
+      
+</head>
+
+<body class="bodyTag">
+      <!--Begin Banner-->
+<!--#include virtual="/banner.html" -->
+<!--End Banner-->
+
+    
+    <!--Begin Main Content Section-->
+    <main class="container container-round-border">
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+          <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
+          <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Scoring</span></li>
+        </ol>
+      </nav>
+   
+      <div class="text-align-center"><h3>Scoring</h3></div>
+  
+      <div class="container marketing">
+
+        <p>Scoring for the Horses in each contest will align with the current "Road to the Kentucky Derby" points system and "Road to the Breeders' Cup" for the given season. The Kentucky Derby contest typically awards points to the top 5 finishers, while the Breeders' Cup contest awards the top 3 finishers in each race.</p>
+
+        <p>Points for the Trainers, Jockeys, and Sires (RTTBC Only) are custom to Gallop Racing and only awarded to the connections of the Winning Horses.</p>
+          
+          <p>The two tables below outline the current scoring for the respective contests:</p>
+        
+          <p><!--#include virtual="/modules/rttbc-scoring-table.html" --></p>
+
+          <p><!--#include virtual="/modules/rttr-scoring-table.html" --></p>
+
+        <br>
+              
+        <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/index.shtml" role="button">Contests</a></p>
+
+<!-- FOOTER -->
+
+<!--#include virtual="/footer-page.html" -->    
+
+</div> <!--container-->
+
+<!--#include virtual="/footer.html" -->    
+
+
+</main>
+
+
+</body>
+</html>
