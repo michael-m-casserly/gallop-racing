@@ -143,8 +143,8 @@
                 <div class="col-lg-4">
                 <!--begin right column-->
 
+                  <!--#include virtual="/modules/rttbc23/auto-draft-log-continued.html"-->
                   <!--#include virtual="/modules/rttbc23/contest-notes.html"-->
-                  <!--include virtual="/modules/rttbc23/auto-draft-log-continued.html"-->
 
                 </div>
                 <!--end right column-->
