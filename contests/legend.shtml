@@ -75,6 +75,10 @@
           <td>Horse is nominated for an upcoming stakes race.</td>
         </tr>
         <tr>
+          <td class="drafted-player">Non-Starter</td>
+          <td>Horse declared Non-Starter during race.</td>
+        </tr>
+        <tr>
           <td class="drafted-player">OFF TRAIL</td>
           <td>Horse is no longer considering the Kentucky Derby / Breeders' Cup.</td>
         </tr>
