@@ -1,7 +1,7 @@
 <div class="module-no-border" style="padding-bottom: 0px !important; margin-bottom: 0px !important;">
 <h5>Quick Links</h5>    
 <p>    
-    <!--#include virtual="/modules/rttr149/stables-menu.html"-->
+    <!--#include virtual="/modules/rttr150/stables-menu.html"-->
 </p>
 
 <p class="module-button-wrapper"><a class="btn btn-secondary"
@@ -9,10 +9,10 @@
     target="_blank" role="button"
     onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQb_28jtX7ej0UmmYBStG975jNA0pyAVUnqn-ldS3I3Na1FoFAumZADJAtHPa9tQp2OmHMzKEEiJSZX/pubhtml?gid=2052581943&single=true');"><svg
       class="bi" width="16" height="16" role="img" aria-label="Google">
-      <title id="google-label-mouseover-rttr149-leaderboard">Google</title>
+      <title id="google-label-mouseover-rttr150-leaderboard">Google</title>
       <use xlink:href="#google" />
     </svg> Leaderboard&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
-      <title id="arrow-up-right-circle-rttr149-leaderboard">New Window</title>
+      <title id="arrow-up-right-circle-rttr150-leaderboard">New Window</title>
       <use xlink:href="#arrow-up-right-circle" />
     </svg></a>
   </p>
@@ -22,10 +22,10 @@
     target="_blank" role="button"
     onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQIwjkpzCwyIp2sTzUjzXo5HmiTZFov0b2QlNhaXkQCq1tek7IFlhRK9hAg2rMoA37ohUtHvKZE7CBs/pubhtml?gid=1847637649&single=true');"><svg
       class="bi" width="16" height="16" role="img" aria-label="Google">
-      <title id="google-label-mouseover-rttr149-schedule">Google</title>
+      <title id="google-label-mouseover-rttr150-schedule">Google</title>
       <use xlink:href="#google" />
     </svg> Full Schedule&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
-      <title id="arrow-up-right-circle-rttr149-schedule">New Window</title>
+      <title id="arrow-up-right-circle-rttr150-schedule">New Window</title>
       <use xlink:href="#arrow-up-right-circle" />
     </svg></a>
   </p>
