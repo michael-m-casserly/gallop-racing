@@ -86,7 +86,6 @@
 
           <!--include virtual="/modules/register.html" -->
           <!--include virtual="/modules/rttr150/races-completed.html" -->
-          <!--#include virtual="/modules/rttr150/races-prep.html" -->
           <!--#include virtual="/modules/rttr150/races-upcoming.html" -->
           
         </div>
@@ -94,6 +93,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           
+          <!--#include virtual="/modules/rttr150/races-prep.html" -->
           <!--#include virtual="/modules/rttr150/contest-info.shtml" -->
           <!--include virtual="/modules/rttr150/races-completed.html" -->
           <!--#include virtual="/modules/how-to-play-rttr.html" -->
