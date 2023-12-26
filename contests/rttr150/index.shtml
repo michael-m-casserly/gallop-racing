@@ -84,7 +84,7 @@
 
           <!--include virtual="/modules/rttr150/final-standings.html" -->
 
-          <!--include virtual="/modules/register.html" -->
+          <!--#include virtual="/modules/register.html" -->
           <!--include virtual="/modules/rttr150/races-completed.html" -->
           <!--#include virtual="/modules/rttr150/races-upcoming.html" -->
           
