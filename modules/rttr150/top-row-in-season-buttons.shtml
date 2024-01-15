@@ -1,7 +1,7 @@
 <div class="module-no-border" style="padding-bottom: 0px !important; margin-bottom: 0px !important;">
 <h5>Quick Links</h5>    
 <p>    
-    <!--include virtual="/modules/rttr150/stables-menu.html"-->
+    <!--#include virtual="/modules/rttr150/stables-menu.html"-->
 </p>
 
 <p class="module-button-wrapper"><a class="btn btn-secondary"
