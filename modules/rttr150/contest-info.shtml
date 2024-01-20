@@ -13,8 +13,8 @@
 
 <p class="module-button-wrapper"><a class="btn btn-secondary btn"
     href="/contests/rttr150/schedule.shtml" role="button">Schedule</a>
-    <!--a class="btn btn-secondary btn btn-half"
-    href="/contests/rttr150/stats.shtml" role="button">Stats</a-->
+    <a class="btn btn-secondary btn btn-half"
+    href="/contests/rttr150/stats.shtml" role="button">Stats</a>
   </p>
 
 <!--ADD THIS AT THE END OF THE SEASON>
