@@ -93,10 +93,10 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           
+          <!--#include virtual="/modules/rttr150/races-completed.html" -->
           <!--#include virtual="/modules/rttr150/races-prep.html" -->
-          <!--#include virtual="/modules/rttr150/contest-info.shtml" -->
-          <!--include virtual="/modules/rttr150/races-completed.html" -->
-          <!--#include virtual="/modules/how-to-play-rttr.html" -->
+          <!--include virtual="/modules/rttr150/contest-info.shtml" -->
+          <!--include virtual="/modules/how-to-play-rttr.html" -->
           <!--#include virtual="/modules/resources-rttr.html" -->
                     
           <!--include virtual="/modules/rttr150/leading-horses.html"-->
@@ -107,14 +107,14 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--include virtual="/modules/rttr150/contest-info.shtml" -->
-          <!--include virtual="/modules/calendar.html" -->
+          <!--#include virtual="/modules/rttr150/contest-info.shtml" -->
+          <!--#include virtual="/modules/calendar.html" -->
 
-          <!--div class="round-border">
-            <include virtual="/modules/stakes-nominations-rttr.html">
-          </div-->
+          <div class="round-border">
+            <!--#include virtual="/modules/stakes-nominations-rttr.html"-->
+          </div>
 
-          <!--#include virtual="/modules/twitter.html" -->
+          <!--include virtual="/modules/twitter.html" -->
 
           <!--include virtual="/modules/rttr150/horses-by-stable.html"-->
 
