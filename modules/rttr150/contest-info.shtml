@@ -81,17 +81,18 @@
         width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttr150-view-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
-      </svg> View All Stables</a>
+      </svg> All Stables</a>
   </p>
 
-  <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttr150?f=live"
+  <!--Hiding Twitter Link since I stopped tagging tweets in RTTR150-->
+  <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttr150?f=live"
       target="_blank" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="Twitter">
         <title id="twitter-label-mouseover-rttr150-module-button">Twitter</title>
         <use xlink:href="#twitter" />
       </svg> #rttr150 News&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
         <title id="arrow-up-right-circle-rttr150-news">New Window</title>
         <use xlink:href="#arrow-up-right-circle" />
-      </svg></a></p>
+      </svg></a></p-->
 
       <!--ADD THIS WHEN SEASON STARTS-->
   <p><!--#include virtual="/modules/rttr150/stables-menu.html"--></p>
