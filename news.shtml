@@ -69,7 +69,8 @@
       </div>
       <!--row #1-->
 
-      <div class="accordion" id="accordionTwitterInfodata">
+<!--Hide this since Twitter is no longer accessible w/o a logged-in account-->
+      <!--div class="accordion" id="accordionTwitterInfodata">
 
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingOne">
@@ -96,7 +97,7 @@
           </div>
         </div>
 
-      </div>
+      </div-->
       
 
       <!-- FOOTER -->
