@@ -22,7 +22,13 @@ function handleSelectNominations(elm)
        elm.value = ''; // Reset drop-down menu after selection
       }
 
+function handleSelectPDF(elm)
+      {
+         window.open(elm.value, '_blank');
+         elm.value = ''; // Reset drop-down menu after selection
+        }
 
+  
 //This code is used to ensure that the accordion scrolls to the top of the collapsed content automatically; This had been an issue in mobile devices.
 
 /* USING JQUERY FOR NOW, MAY REVISIT TO SEE IF THIS CAN BE DONE WITH JUST JAVASCRIPT...
