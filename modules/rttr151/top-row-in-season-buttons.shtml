@@ -1,0 +1,32 @@
+<div class="module-no-border" style="padding-bottom: 0px !important; margin-bottom: 0px !important;">
+<h5>Quick Links</h5>    
+<p>    
+    <!--#include virtual="/modules/rttr151/stables-menu.html"-->
+</p>
+
+<p class="module-button-wrapper"><a class="btn btn-secondary"
+    href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRD7eAwamQESkv7JW6eFRLDaa9Al-eysGiWMmAASMicVVBTv4rIxqOOkaStyEaNlIIypeCYpRDSbe5U/pubhtml?gid=2052581943&single=true"
+    target="_blank" role="button"
+    onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRD7eAwamQESkv7JW6eFRLDaa9Al-eysGiWMmAASMicVVBTv4rIxqOOkaStyEaNlIIypeCYpRDSbe5U/pubhtml?gid=2052581943&single=true');"><svg
+      class="bi" width="16" height="16" role="img" aria-label="Google">
+      <title id="google-label-mouseover-rttr151-leaderboard">Google</title>
+      <use xlink:href="#google" />
+    </svg> Leaderboard&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+      <title id="arrow-up-right-circle-rttr151-leaderboard">New Window</title>
+      <use xlink:href="#arrow-up-right-circle" />
+    </svg></a>
+  </p>
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary"
+    href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTW8u5qp5mwXT5HzYmVDC7SzkKR4OeB4jgzoCh5NZGO2pzySw_SsEK1rc6b504lSq0yVjljjz5PZCZH/pubhtml?gid=1847637649&single=true"
+    target="_blank" role="button"
+    onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vTW8u5qp5mwXT5HzYmVDC7SzkKR4OeB4jgzoCh5NZGO2pzySw_SsEK1rc6b504lSq0yVjljjz5PZCZH/pubhtml?gid=1847637649&single=true');"><svg
+      class="bi" width="16" height="16" role="img" aria-label="Google">
+      <title id="google-label-mouseover-rttr151-schedule">Google</title>
+      <use xlink:href="#google" />
+    </svg> Full Schedule&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+      <title id="arrow-up-right-circle-rttr151-schedule">New Window</title>
+      <use xlink:href="#arrow-up-right-circle" />
+    </svg></a>
+  </p>
+</div>

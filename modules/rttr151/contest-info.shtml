@@ -1,0 +1,108 @@
+<div class="round-border">
+  <h5>RTTR151 Info</h5>
+
+  <!--BEGIN SHOWING THIS ONCE THEY START PUBLISHING IT-->
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+    href="/contests/rttr151/pdf/20240413_Road_to_Kentucky_Derby_Leaderboard.jpeg" role="button" target="_blank"><svg class="bi"
+      width="16" height="16" role="img" aria-label="PDF">
+      <title id="pdf-label-mouseover-rttr151-official-derby-leaderboard">PDF</title>
+      <use xlink:href="#filetype-pdf" />
+    </svg> Official Derby Leaderboard (Weekly) &dagger;</a>
+</p>
+<p class="module-button-wrapper"><a class="btn btn-secondary btn"
+  href="/contests/rttr151/pdf/20240411-Derby-Dispatch-1.pdf" role="button" target="_blank"><svg class="bi"
+    width="16" height="16" role="img" aria-label="PDF">
+    <title id="pdf-label-mouseover-rttr151-derby-dispatch-leaderboard">PDF</title>
+    <use xlink:href="#filetype-pdf" />
+  </svg> "<i>The Derby Dispatch</i>" &dagger;</a>
+</p>
+
+<p><!--#include virtual="/modules/rttr151/derby-dispatch-menu.html"--></p>
+
+<p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">&dagger; Official Derby Leaderboard and <i>The Derby Dispatch</i> are courtesy of <a href="https://twitter.com/DerbyMedia" target="_blank">Churchill Downs PR</a></p>
+
+<p class="module-button-wrapper"><a class="btn btn-secondary btn"
+  href="https://www.bloodhorse.com/horse-racing/articles/tag/derby-dozen" role="button" target="_blank">"<i>Derby Dozen</i>"&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+    <title id="arrow-up-right-circle-rttr151-derby-dozen">New Window</title>
+    <use xlink:href="#arrow-up-right-circle" />
+  </svg></a>
+</p>
+
+<p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
+    href="/contests/rttr151/schedule.shtml" role="button">Schedule</a>
+    <a class="btn btn-secondary btn btn-half"
+    href="/contests/rttr151/stats.shtml" role="button">Stats</a>
+  </p>
+
+<!--ADD THIS AT THE END OF THE SEASON>
+  <p class="module-button-wrapper"><a class="btn btn-secondary"
+    href="/pdf/RTTR151-Leaderboard.pdf" target="_blank" role="button"><svg
+      class="bi" width="16" height="16" role="img" aria-label="PDF">
+      <title id="pdf-label-mouseover-rttr151-leaderboard">PDF</title>
+      <use xlink:href="#filetype-pdf" />
+    </svg> Leaderboard</a-->
+
+  <!--USE THIS FOR "HORSES" DURING THE SEASON; THE PDF IS ONLY FOR THE END OF THE SEASON-->
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+      href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRD7eAwamQESkv7JW6eFRLDaa9Al-eysGiWMmAASMicVVBTv4rIxqOOkaStyEaNlIIypeCYpRDSbe5U/pubhtml?gid=1773939469&single=true"
+      target="_blank" role="button"
+      onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRD7eAwamQESkv7JW6eFRLDaa9Al-eysGiWMmAASMicVVBTv4rIxqOOkaStyEaNlIIypeCYpRDSbe5U/pubhtml?gid=1773939469&single=true');"><svg
+        class="bi" width="16" height="16" role="img" aria-label="Google">
+        <title id="google-label-mouseover-rttr151-horses">Google</title>
+        <use xlink:href="#google" />
+      </svg> Horses&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+        <title id="arrow-up-right-circle-rttr151-horses">New Window</title>
+        <use xlink:href="#arrow-up-right-circle" />
+      </svg></a></p>
+
+  <!--ADD THIS AT THE END OF THE SEASON>
+      <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+        href="/pdf/RTTR151-Horses.pdf" target="_blank" role="button"><svg
+          class="bi" width="16" height="16" role="img" aria-label="PDF">
+          <title id="pdf-label-mouseover-rttr151-horses">PDF</title>
+          <use xlink:href="#filetype-pdf" />
+        </svg> Horses</a></p-->
+  
+
+  <!--USE THIS IF A POPUP IS PREFERRED TO A STANDALONE PAGE FOR SCHEDULE-->    
+  <!--p class="module-button-wrapper"><a class="btn btn-secondary btn"
+      href="[Insert Link to Schedule Sheet]"
+      target="_blank" role="button"
+      onclick="captureOutboundLink('[Insert Link to Schedule Sheet]');"><svg
+        class="bi" width="16" height="16" role="img" aria-label="Google">
+        <title id="google-label-mouseover-rttr151-schedule">Google</title>
+        <use xlink:href="#google" />
+      </svg> Schedule</a>
+  </p-->
+
+  <!--ADD THIS AFTER DRAFT #1-->
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+      href="/pdf/RTTR151-All-Stables.pdf" role="button" target="_blank"><svg class="bi"
+        width="16" height="16" role="img" aria-label="PDF">
+        <title id="pdf-label-mouseover-rttr151-view-all-stables">PDF</title>
+        <use xlink:href="#filetype-pdf" />
+      </svg> All Stables</a>
+  </p>
+
+  <!--Hiding Twitter Link since I stopped tagging tweets in RTTR151-->
+  <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttr151?f=live"
+      target="_blank" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="Twitter">
+        <title id="twitter-label-mouseover-rttr151-module-button">Twitter</title>
+        <use xlink:href="#twitter" />
+      </svg> #rttr151 News&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+        <title id="arrow-up-right-circle-rttr151-news">New Window</title>
+        <use xlink:href="#arrow-up-right-circle" />
+      </svg></a></p-->
+
+      <!--ADD THIS WHEN SEASON STARTS-->
+  <p><!--#include virtual="/modules/rttr151/stables-menu.html"--></p>
+      
+  <!--ADD THIS BACK DURING SEASON-->
+      <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/data-disclaimer.shtml"
+        role="button">Data Disclaimer</a></p>
+    
+      <p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">*Cannot view other players' stables
+        during Drafts or Power Pick selection windows. However, you can always use the "View All Stables PDF" button above to see
+        any stable at any time (without Power Pick Access).</p>
+    
+</div>
