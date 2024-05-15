@@ -64,7 +64,7 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--include virtual="/modules/rttr150/contest-info.shtml" -->
+          <!--#include virtual="/modules/rttr150/contest-info.shtml" -->
 
         </div>
         <!--end right column-->

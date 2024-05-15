@@ -1,0 +1,77 @@
+<div class="round-border">
+    <h5>RTTBC '24 Info</h5>
+
+  <!--Placeholder Message-->
+  <!--p>Links to the RTTBC24 Leaderboard, Calendar, Horses, and Rules will be available here when the contest begins.</p-->
+
+  <!--ADD THIS BACK AFTER THE INITIAL DRAFT CLOSES, and the ALL STABLES PDF is GENERATED-->
+
+  
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC24-Schedule-by-Division.pdf" role="button" target="_blank"><svg
+    class="bi" width="16" height="16" role="img" aria-label="PDF">
+    <title id="pdf-label-mouseover-rttbc24-schedule-by-division">PDF</title>
+    <use xlink:href="#filetype-pdf" />
+  </svg>&nbsp;Schedule by Division</a></p>
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/pdf/RTTBC24-All-Stables.pdf" role="button" target="_blank"><svg
+        class="bi" width="16" height="16" role="img" aria-label="PDF">
+        <title id="pdf-label-mouseover-rttbc24-all-stables">PDF</title>
+        <use xlink:href="#filetype-pdf" />
+      </svg><br>All Stables</a>
+      <a class="btn btn-secondary btn-half"
+    href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=month"
+    target="_blank" role="button"
+    onclick="captureOutboundLink('https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=month');"><svg
+      class="bi" width="16" height="16" role="img" aria-label="Calendar">
+      <title id="calendar-label-mouseover-rttbc24">Calendar</title>
+      <use xlink:href="#calendar-date-fill" />
+    </svg><br>Calendar</a>
+  </p>
+
+  <!--THIS ROW IS REDUNDANT FOR NOW; CAN ADD IT BACK IF ANYTHING CHANGES-->
+  <p class="module-button-wrapper">
+    <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcQqbP5-EkLkdd2JkFl7LQLARwZj_99y7jIWiAQE7oQgA1sqTV6XN_C9Ewp5XXkonKIwslYMX2DmEu/pubhtml?gid=249132506&single=true" target="_blank" role="button"
+      onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRcQqbP5-EkLkdd2JkFl7LQLARwZj_99y7jIWiAQE7oQgA1sqTV6XN_C9Ewp5XXkonKIwslYMX2DmEu/pubhtml?gid=249132506&single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google">
+        <title id="google-label-mouseover-rttbc22-horses">Google</title>
+        <use xlink:href="#google" />
+      </svg><br>Horses</a>
+      <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsJUw7arN6aCYaqWT6eIfwXhBYJ02fHs6dzLLXr-ncIKlghz6qPOdq02WCgV7KeOApRyUcmmAGleC3/pubhtml?gid=1411863973&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRsJUw7arN6aCYaqWT6eIfwXhBYJ02fHs6dzLLXr-ncIKlghz6qPOdq02WCgV7KeOApRyUcmmAGleC3/pubhtml?gid=1411863973&single=true');"><svg
+        class="bi" width="16" height="16" role="img" aria-label="Google">
+        <title id="google-label-mouseover-rttbc24-schedule">Google</title>
+        <use xlink:href="#google" />
+      </svg><br>Schedule</a>
+  </p>
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/news.shtml"
+    role="button">News</a>
+  <a class="btn btn-secondary btn-half" href="/contests/resources.shtml" role="button">Resources</a>
+  </p>
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rules.shtml"
+      role="button">Rules</a>
+    <a class="btn btn-secondary btn-half" href="/contests/rttbc24/schedule.shtml" role="button">Schedule</a>
+  </p>
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttbc24/stats.shtml"
+    role="button">Stats</a>
+  <a class="btn btn-secondary btn-half" href="/contests/strategies.shtml" role="button">Strategies</a>
+  </p>
+
+<!-- ADD THIS ONCE THE SEASON IS COMPLETED
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC24-Leading-Horses-by-Stable.pdf"
+    target="_blank" role="button"
+    onclick="captureOutboundLink('/pdf/RTTBC24-Leading-Horses-by-Stable.pdf');"><svg
+    class="bi" width="16" height="16" role="img" aria-label="PDF">
+    <title id="pdf-label-mouseover-rttbc24-leading-horses-by-stable">PDF</title>
+    <use xlink:href="#filetype-pdf" />
+  </svg> Leading Horses by Stable</a></p>
+-->
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/data-disclaimer.shtml"
+    role="button">Data Disclaimer</a></p>
+
+  <p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">*Cannot view other players' stables
+    during Drafts or Power Pick selection windows. However, you can always use the "All Stables" button above to see
+    any stable at any time (without Power Pick Access).</p>
+
+</div>
