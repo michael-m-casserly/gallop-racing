@@ -73,9 +73,9 @@
         <div class="col-lg-4">
           <!--begin left column-->
           <!--include virtual="/modules/register.html" -->
-          <!--include virtual="/modules/rttbc24/races-upcoming.html" -->
+          <!--#include virtual="/modules/rttbc24/races-upcoming.html" -->
           <!--include virtual="/modules/rttbc24/top-three-stables-graphic.html" -->
-          <!--#include virtual="/modules/rttbc24/final-standings.html" -->
+          <!--include virtual="/modules/rttbc24/final-standings.html" -->
           
         </div>
         <!--end left column-->
@@ -86,12 +86,12 @@
           <div class="module-no-border" style="padding-bottom: 0px !important; margin-bottom: 0px !important;">
             <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC24-League-Sheet-Leaderboard.pdf" target="_blank" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF"><title id="pdf-label-mouseover-rttbc24-leaderboard">PDF</title><use xlink:href="#filetype-pdf" /></svg>&nbsp;Full Leaderboard</a></p>
             
-            <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsJUw7arN6aCYaqWT6eIfwXhBYJ02fHs6dzLLXr-ncIKlghz6qPOdq02WCgV7KeOApRyUcmmAGleC3/pubhtml?gid=1411863973&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRsJUw7arN6aCYaqWT6eIfwXhBYJ02fHs6dzLLXr-ncIKlghz6qPOdq02WCgV7KeOApRyUcmmAGleC3/pubhtml?gid=1411863973&single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google"><title id="google-label-mouseover-rttbc24-full-schedule">Google Drive</title><use xlink:href="#google" /></svg>&nbsp;Full Schedule&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+            <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRp7svMLtXWHciFBP8HB6n_aNbYgq42IHr-s4tb3HrqbIq4xmEXPQFfhewETCf4ieAETjVvU9SM4y8a/pubhtml?gid=1411863973&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRp7svMLtXWHciFBP8HB6n_aNbYgq42IHr-s4tb3HrqbIq4xmEXPQFfhewETCf4ieAETjVvU9SM4y8a/pubhtml?gid=1411863973&single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google"><title id="google-label-mouseover-rttbc24-full-schedule">Google Drive</title><use xlink:href="#google" /></svg>&nbsp;Full Schedule&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
               <title id="arrow-up-right-circle-full-schedule">New Window</title>
               <use xlink:href="#arrow-up-right-circle" />
             </svg></a></p>
   
-            <p><!--#include virtual="/modules/rttbc24/stables-menu.html"--></p>
+            <p><!--include virtual="/modules/rttbc24/stables-menu.html"--></p>
               </div>
             
           <!--#include virtual="/modules/rttbc24/contest-info.shtml" -->
@@ -106,17 +106,17 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/rttbc24/races-completed.html" -->
+          <!--#nclude virtual="/modules/rttbc24/races-completed.html" -->
 
           <!--include virtual="/modules/resources-rttbc.html" -->          
 
-          <!--include virtual="/modules/calendar.html" -->
+          <!--#include virtual="/modules/calendar.html" -->
           
-          <!--div class="round-border"-->
-            <!--include virtual="/modules/stakes-calendar.html" -->
-            <!--br-->
-            <!--include virtual="/modules/stakes-nominations-rttbc.html" -->
-          <!--/div-->
+          <div class="round-border"-->
+            <!--#include virtual="/modules/stakes-calendar.html" -->
+            <br>
+            <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
+          </div>
 
         </div>
         <!--end right column-->
@@ -150,7 +150,7 @@
                 <div class="col-lg-4">
                   <!--begin middle column-->
 
-                  <!--#include virtual="/modules/rttbc24/auto-draft-log.html"-->
+                  <!--include virtual="/modules/rttbc24/auto-draft-log.html"-->
 
                   
                 </div>
@@ -159,8 +159,8 @@
                 <div class="col-lg-4">
                 <!--begin right column-->
 
-                  <!--#include virtual="/modules/rttbc24/auto-draft-log-continued.html"-->
-                  <!--#include virtual="/modules/rttbc24/contest-notes.html"-->
+                  <!--include virtual="/modules/rttbc24/auto-draft-log-continued.html"-->
+                  <!--include virtual="/modules/rttbc24/contest-notes.html"-->
 
                 </div>
                 <!--end right column-->
