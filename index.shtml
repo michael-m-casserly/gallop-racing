@@ -34,7 +34,7 @@
           <!--begin left column-->
 
           <!--ENABLE THIS AGAIN WHEN REGISTRATION FOR THE NEXT CONTEST OPENS-->
-          <!--include virtual="/modules/register.html" -->
+          <!--#include virtual="/modules/register.html" -->
           <!--#include virtual="/modules/current-contest.html" -->
           <!--#include virtual="/modules/calendar.html" -->
 
