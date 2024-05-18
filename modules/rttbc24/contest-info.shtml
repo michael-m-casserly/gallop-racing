@@ -6,15 +6,13 @@
 
   <!--ADD THIS BACK AFTER THE INITIAL DRAFT CLOSES, and the ALL STABLES PDF is GENERATED-->
 
-  
-  <!--THIS NEEDS TO BE UPDATED FOR 2024-->
-  <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC24-Schedule-by-Division.pdf" role="button" target="_blank"><svg
+    <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC24-Schedule-by-Division.pdf" role="button" target="_blank"><svg
     class="bi" width="16" height="16" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-rttbc24-schedule-by-division">PDF</title>
     <use xlink:href="#filetype-pdf" />
-  </svg>&nbsp;Schedule by Division</a></p-->
+  </svg>&nbsp;Schedule by Division</a></p>
 
-  <!--THIS NEEDS TO BE UPDATED FOR 2024-->
+  <!--THIS NEEDS TO BE UPDATED FOR 2024 following Draft #1-->
   <!--p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/pdf/RTTBC24-All-Stables.pdf" role="button" target="_blank"><svg
         class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc24-all-stables">PDF</title>
