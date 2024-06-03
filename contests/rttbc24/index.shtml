@@ -93,8 +93,8 @@
             </svg></a></p>
   
             <!--ADD THIS BACK ONCE RTTBC24 REGISTRATION CLOSES-->
-            <p><!--include virtual="/modules/rttbc24/stables-menu.html"--></p>
-              </div>
+            <p><!--#include virtual="/modules/rttbc24/stables-menu.html"--></p>
+          </div>
             
           <!--#include virtual="/modules/rttbc24/contest-info.shtml" -->
           <!--#include virtual="/modules/resources-rttbc.html" -->
