@@ -152,7 +152,7 @@
                 <div class="col-lg-4">
                   <!--begin middle column-->
 
-                  <!--include virtual="/modules/rttbc24/auto-draft-log.html"-->
+                  <!--#include virtual="/modules/rttbc24/auto-draft-log.html"-->
 
                   
                 </div>
@@ -162,7 +162,7 @@
                 <!--begin right column-->
 
                   <!--include virtual="/modules/rttbc24/auto-draft-log-continued.html"-->
-                  <!--include virtual="/modules/rttbc24/contest-notes.html"-->
+                  <!--#include virtual="/modules/rttbc24/contest-notes.html"-->
 
                 </div>
                 <!--end right column-->
