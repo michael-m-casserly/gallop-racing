@@ -5,9 +5,9 @@
 </p>
 
 <p class="module-button-wrapper"><a class="btn btn-secondary"
-    href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcQqbP5-EkLkdd2JkFl7LQLARwZj_99y7jIWiAQE7oQgA1sqTV6XN_C9Ewp5XXkonKIwslYMX2DmEu/pubhtml?gid=0&single=true"
+    href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqZrF81U8RjuyV6O-ifhaFQ_Y85pVYMmpyXaQaYFgP2gQflGmQqnO3xFZmHHB7FLbqbAQYf9fU1O_l/pubhtml?gid=0&single=true"
     target="_blank" role="button"
-    onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRcQqbP5-EkLkdd2JkFl7LQLARwZj_99y7jIWiAQE7oQgA1sqTV6XN_C9Ewp5XXkonKIwslYMX2DmEu/pubhtml?gid=0&single=true');"><svg
+    onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSqZrF81U8RjuyV6O-ifhaFQ_Y85pVYMmpyXaQaYFgP2gQflGmQqnO3xFZmHHB7FLbqbAQYf9fU1O_l/pubhtml?gid=0&single=true');"><svg
       class="bi" width="16" height="16" role="img" aria-label="Google">
       <title id="google-label-mouseover-rttbc24-leaderboard">Google</title>
       <use xlink:href="#google" />
@@ -18,9 +18,9 @@
   </p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary"
-    href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsJUw7arN6aCYaqWT6eIfwXhBYJ02fHs6dzLLXr-ncIKlghz6qPOdq02WCgV7KeOApRyUcmmAGleC3/pubhtml?gid=1411863973&single=true"
+    href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRp7svMLtXWHciFBP8HB6n_aNbYgq42IHr-s4tb3HrqbIq4xmEXPQFfhewETCf4ieAETjVvU9SM4y8a/pubhtml?gid=1411863973&single=true"
     target="_blank" role="button"
-    onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRsJUw7arN6aCYaqWT6eIfwXhBYJ02fHs6dzLLXr-ncIKlghz6qPOdq02WCgV7KeOApRyUcmmAGleC3/pubhtml?gid=1411863973&single=true');"><svg
+    onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRp7svMLtXWHciFBP8HB6n_aNbYgq42IHr-s4tb3HrqbIq4xmEXPQFfhewETCf4ieAETjVvU9SM4y8a/pubhtml?gid=1411863973&single=true');"><svg
       class="bi" width="16" height="16" role="img" aria-label="Google">
       <title id="google-label-mouseover-rttbc24-schedule-quicklinks">Google</title>
       <use xlink:href="#google" />
