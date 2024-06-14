@@ -96,7 +96,7 @@
   
             <!--THIS GETS ADDED DURING DRAFT #1-->
             <!--ADD THIS BACK ONCE RTTBC24 REGISTRATION CLOSES-->
-            <!--p><--include virtual="/modules/rttbc24/stables-menu.html"--></p-->
+            <!--p><--include virtual="/modules/rttbc24/stables-menu.html"--><!--</p-->
           <!--/div-->
             
           <!--#include virtual="/modules/rttbc24/contest-info.shtml" -->
@@ -117,7 +117,7 @@
 
           <!--#include virtual="/modules/calendar.html" -->
           
-          <div class="round-border"-->
+          <div class="round-border">
             <!--#include virtual="/modules/stakes-calendar.html" -->
             <br>
             <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
