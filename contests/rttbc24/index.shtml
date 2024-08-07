@@ -74,6 +74,7 @@
         <div class="col-lg-4">
           <!--begin left column-->
           <!--include virtual="/modules/register.html" -->
+          <!--#include virtual="/modules/rttbc24/leaderboard-quick-view.html" -->
           <!--#include virtual="/modules/rttbc24/races-upcoming.html" -->
           <!--include virtual="/modules/rttbc24/top-three-stables-graphic.html" -->
           <!--include virtual="/modules/rttbc24/final-standings.html" -->
