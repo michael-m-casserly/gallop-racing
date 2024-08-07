@@ -115,6 +115,8 @@
 
           <!--#include virtual="/modules/resources-rttbc.html" -->          
 
+          <!--#include virtual="/modules/rttbc24/leaderboard-points-per-entry.html" -->          
+
           <!--#include virtual="/modules/calendar.html" -->
           
           <div class="round-border">
