@@ -37,7 +37,7 @@
       <h3>Road to the Breeders' Cup<br>2024 Contest</h3>
     </div>
 
-<!--include virtual="/countdown-timer-rttbc.html" -->
+<!--#include virtual="/countdown-timer-rttbc.html" -->
 
     <div class="container marketing">
 
