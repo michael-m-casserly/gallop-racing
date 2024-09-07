@@ -33,8 +33,18 @@
 
     <div class="container marketing">
 
-            <div class="row">
-              <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTW8u5qp5mwXT5HzYmVDC7SzkKR4OeB4jgzoCh5NZGO2pzySw_SsEK1rc6b504lSq0yVjljjz5PZCZH/pubhtml?gid=1847637649&amp;single=true&amp;widget=true&amp;headers=false"
+      
+          <div class="row">
+          <h5>Updates to note for 2025:</h5>
+            <ol>
+              <li>UAE Derby is no longer part of the USA Trail. It has been moved the European Trail, and will not be included in the "<i>Road to the Roses, Derby 151</i>" Contest.</li>
+              <li>The Virginia Derby is a newly added race for the contest.</li>
+              <li>Any races with fields of 5 or less will only be awarded 75% of the total points for that race.</li>
+            </ol>
+          </div>
+
+          <div class="row">
+              <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRnqmmyLlPZAgDDiNKFz1axbBhjqP-3I-G85o1JuNGZCS844zfSu2QdetXvz8XcVn9_WkKrAXUKNxPf/pubhtml?gid=1847637649&amp;single=true&amp;widget=true&amp;headers=false"
                 target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
                   style="max-width: 250px; border: 0;"></a>
       
@@ -42,7 +52,7 @@
       
               <div class="iframe-container">
                 <iframe class="responsive-iframe"
-                  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTW8u5qp5mwXT5HzYmVDC7SzkKR4OeB4jgzoCh5NZGO2pzySw_SsEK1rc6b504lSq0yVjljjz5PZCZH/pubhtml?gid=1847637649&amp;single=true&amp;widget=true&amp;headers=false"
+                  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRnqmmyLlPZAgDDiNKFz1axbBhjqP-3I-G85o1JuNGZCS844zfSu2QdetXvz8XcVn9_WkKrAXUKNxPf/pubhtml?gid=1847637649&amp;single=true&amp;widget=true&amp;headers=false"
                   onload="document.getElementById('spinner').style.display='none';"></iframe>
               </div>
               <table class="TableStandard">
