@@ -73,16 +73,15 @@
 
           <!--#include virtual="/modules/rttbc24/contest-info.shtml" -->
 
+          <!--#include virtual="/modules/resources-rttbc.html" --> 
+          
         </div>
         <!--end middle column-->
 
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/rttbc24/races-completed.html" -->
-
-          <!--#include virtual="/modules/resources-rttbc.html" -->          
-          
+          <!--#include virtual="/modules/rttbc24/races-completed.html" -->         
 
         </div>
         <!--end right column-->
