@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!--#include virtual="/banner-head.html" -->
+
+  <title>Stats | Road to the Breeders' Cup 2025 | Gallop Racing</title>
+
+    <!--Special P style for RTTBC 25 page only-->
+    <style>
+      p {
+        text-align: center;
+      }
+    </style>
+  
+  <link rel="canonical" href="https://www.gallop-racing.com/contests/rttbc25/stats.shtml">
+
+</head>
+
+<body class="bodyTag">
+  <!--Begin Banner-->
+  <!--#include virtual="/banner.html" -->
+  <!--End Banner-->
+
+  <!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/rttbc25/index.shtml">RTTBC 2025</a></li>
+        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Stats</span></li>
+      </ol>
+    </nav>
+
+    <div class="text-align-center">
+      <h3>Road to the Breeders' Cup<br>2025 Stats</h3>
+    </div>
+
+
+    <div class="container marketing">
+
+      <div class="row">
+        <div class="col-lg-4">
+          <!--begin left column-->
+
+          <!--#include virtual="/modules/rttbc25/horses-by-stable.html"-->
+
+        </div>
+        <!--end left column-->
+
+        <div class="col-lg-4">
+          <!--begin middle column-->
+
+          <!--#include virtual="/modules/rttbc25/trainers-by-stable.html"-->
+          <!--#include virtual="/modules/rttbc25/jockeys-by-stable.html"-->
+          <!--#include virtual="/modules/rttbc25/sires-by-stable.html"-->
+          <!--#include virtual="/modules/rttbc25/trainer-jockey-combo-by-stable.html"-->
+
+        </div>
+        <!--end middle column-->
+
+        <div class="col-lg-4">
+          <!--begin right column-->
+
+          <!--#include virtual="/modules/rttbc25/leading-horses.html"-->
+          <!--#include virtual="/modules/rttbc25/leading-trainers.html"-->
+          <!--#include virtual="/modules/rttbc25/leading-jockeys.html"-->
+          <!--#include virtual="/modules/rttbc25/leading-sires.html"-->
+
+        </div>
+        <!--end right column-->
+
+      </div>
+      <!--row #1-->
+
+      <div class="row">
+        <!--#include virtual="/modules/jump-to-stats.html" -->
+      </div>
+      <!--row #2-->
+      
+      <!-- FOOTER -->
+
+      <!--#include virtual="/footer-page.html" -->
+
+    </div>
+    <!--container-->
+
+    <!--#include virtual="/footer.html" -->
+
+
+  </main>
+
+
+</body>
+
+</html>
