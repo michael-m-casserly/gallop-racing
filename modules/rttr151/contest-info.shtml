@@ -19,7 +19,7 @@
 
 <p><!--include virtual="/modules/rttr151/derby-dispatch-menu.html"--></p>
 
-<!--p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">&dagger; Official Derby Leaderboard and <i>The Derby Dispatch</i> are courtesy of <a href="https://twitter.com/DerbyMedia" target="_blank">Churchill Downs PR</a></p-->
+<p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">&dagger; Official Derby Leaderboard and <i>The Derby Dispatch</i> are courtesy of <a href="https://twitter.com/DerbyMedia" target="_blank">Churchill Downs PR</a></p>
 
 <p class="module-button-wrapper"><a class="btn btn-secondary btn"
   href="https://www.bloodhorse.com/horse-racing/articles/tag/derby-dozen" role="button" target="_blank">"<i>Derby Dozen</i>"&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
