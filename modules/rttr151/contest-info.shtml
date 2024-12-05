@@ -72,7 +72,10 @@
         class="bi" width="16" height="16" role="img" aria-label="Google">
         <title id="google-label-mouseover-rttr151-schedule">Google</title>
         <use xlink:href="#google" />
-      </svg> Schedule</a>
+      </svg> Schedule&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+        <title id="arrow-up-right-circle-rttr151-schedule">New Window</title>
+        <use xlink:href="#arrow-up-right-circle" />
+      </svg></a>
   </p>
 
   <!--ADD THIS AFTER DRAFT #1-->

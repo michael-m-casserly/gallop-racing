@@ -49,9 +49,10 @@
           <div class="round-border">
             <h5>Kentucky Derby</h5>
             <p>January to May</p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttr150/index.shtml"
-                role="button">RTTR 150</a></p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttr151/index.shtml"
+                role="button">RTTR 151</a></p>
+            <!--STOPPED USING HASHTAGS AFTER RTTBC23, since "X" has turned into nonsense. Will just use it to re-tweet any news items.-->
+                <!--p class="module-button-wrapper"><a class="btn btn-secondary btn"
                 href="https://twitter.com/hashtag/rttr150?f=live" role="button" target="_blank"><svg class="bi"
                   width="16" height="16" role="img" aria-label="Twitter">
                   <title id="twitter-label-mouseover-rttr150-module-button">Twitter</title>
@@ -59,11 +60,12 @@
                 </svg> #rttr150 News&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
                   <title id="arrow-up-right-circle-rttr150-news">New Window</title>
                   <use xlink:href="#arrow-up-right-circle" />
-                </svg></a></p>
+                </svg></a></p-->
             <p style="text-align: center;">
                 <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
                   style="max-width: 240px; margin: auto;">
                   <option value="" selected>Previous RTTR Contests</option>
+                  <option value="/contests/rttr150/index.shtml">RTTR 150</option>
                   <option value="/contests/rttr149/index.shtml">RTTR 149</option>
                   <option value="/contests/rttr148/index.shtml">RTTR 148</option>
                   <option value="/contests/rttr147/index.shtml">RTTR 147</option>
