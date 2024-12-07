@@ -98,7 +98,7 @@
   
             <!--THIS GETS ADDED DURING DRAFT #1-->
             <!--ADD THIS BACK ONCE RTTBC25 REGISTRATION CLOSES-->
-            <!--p><--include virtual="/modules/rttbc25/stables-menu.html"--><!--</p-->
+            <p><!--include virtual="/modules/rttbc25/stables-menu.html"--></p>
           <!--/div-->
             
           <!--include virtual="/modules/rttbc25/contest-info.shtml" -->
