@@ -373,10 +373,25 @@
                     <td>Please fill out all highlighted text items (Column B) on your individual "Stable Entry" Google Sheet and submit it <!--with your entry fee--> before the deadline listed on the Race Schedule.</td>
                   </tr>
                   <tr>
-                    <th class="TableHeader text-align-center">SET-002</th>
+                    <th class="TableHeader text-align-center">SET-002 (Original)</th>
                   </tr>
                   <tr>
-                    <td>Each player will select a Winning Time for this year's Kentucky Derby OR Breeder's Cup Classic, used in case of any tiebreaker at the end of the year. The player with the closest time (to the millisecond without going over) will be considered the winner. If multiple players select the same winning time and are involved in a tiebreaker, they are declared co-winners.</td>
+                    <td style="text-decoration: line-through;">Each player will select a Winning Time for this year's Kentucky Derby OR Breeder's Cup Classic, used in case of any tiebreaker at the end of the year. The player with the closest time (to the millisecond without going over) will be considered the winner. If multiple players select the same winning time and are involved in a tiebreaker, they are declared co-winners.</td>
+                  </tr>
+                  <tr>
+                    <th class="TableHeader text-align-center">SET-002 (Revised Jan. 2025)</th>
+                  </tr>
+                  <tr>
+                    <td>If there are multiple stables with equal total points in one of the placings, then the following tie-breaker rules will apply:
+                      <ol>
+                        <li>Horse Points</li>
+                        <li>Higher "Points per Entry"</li>
+                        <li>Trainer Points</li>
+                        <li>Jockey Points</li>
+                        <li>Sire Points (RTTBC Only)</li>
+                        <li>Higher "Avg. Rank" in "Ranking by Week"</li>
+                      </ol>
+                      If multiple players are still tied after these 6 scenarios, they will be declared co-winners.</td>
                   </tr>
                 </table>
             </div>
