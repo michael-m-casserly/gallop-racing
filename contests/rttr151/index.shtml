@@ -40,10 +40,10 @@
       <h3>Road to the Roses<br>Derby 151 Contest</h3>
     </div>
 
-    <!--Add back the # symbol when the counter is rest-->
-    <!--br-->
-    <!--include virtual="/countdown-timer-rttr.html" -->
-    <!--br-->
+    <!--Add back the # symbol when the counter is reset-->
+    <br>
+    <!--#include virtual="/countdown-timer-rttr.html" -->
+    <br>
     
     <div class="container marketing">
 
@@ -84,7 +84,7 @@
 
           <!--include virtual="/modules/rttr151/final-standings.html" -->
 
-          <!--include virtual="/modules/register.html" -->
+          <!--#include virtual="/modules/register.html" -->
           <!--#include virtual="/modules/rttr151/races-prep.html" -->
           <!--include virtual="/modules/rttr151/races-completed.html" -->
           <!--include virtual="/modules/rttr151/races-upcoming.html" -->
