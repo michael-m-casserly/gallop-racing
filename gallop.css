@@ -536,3 +536,9 @@ td.race-buttons {
 
 /* END Custom CSS for nav bar "X" */
 
+.youtube-preview-row
+{
+  padding-left: 0px !important;
+  padding-bottom: 0px !important;
+  text-align: center !important;
+}
