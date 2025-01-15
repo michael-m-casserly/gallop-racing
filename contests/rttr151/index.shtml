@@ -128,7 +128,7 @@
           <!--#include virtual="/modules/rttr151/contest-info.shtml" -->
           <!--#include virtual="/modules/rttr151/races-completed.html" -->
           <!--include virtual="/modules/rttr151/races-upcoming.html" -->
-          <!--#include virtual="/modules/rttr151/races-prep.html" -->
+          <!--include virtual="/modules/rttr151/races-prep.html" -->
           <!--include virtual="/modules/how-to-play-rttr.html" -->
           <!--include virtual="/modules/resources-rttr.html" -->
                     
