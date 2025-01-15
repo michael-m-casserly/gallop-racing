@@ -83,6 +83,34 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
+          <!--#include virtual="/modules/rttr151/leaderboard-quick-view.html" -->
+          
+        </div>
+        <!--end left column-->
+
+        <div class="col-lg-4">
+          <!--begin middle column-->
+          
+          <!--#include virtual="/modules/rttr151/leaderboard-points-per-entry.html" -->
+
+        </div>
+        <!--end middle column-->
+
+        <div class="col-lg-4">
+          <!--begin right column-->
+
+          <!--#include virtual="/modules/rttr151/leaderboard-rankings-by-week.html" -->
+          
+        </div>
+        <!--end right column-->
+
+      </div>
+      <!--row #2-->
+
+      <div class="row">
+        <div class="col-lg-4">
+          <!--begin left column-->
+
           <!--include virtual="/modules/rttr151/final-standings.html" -->
 
           <!--include virtual="/modules/register.html" -->
@@ -96,7 +124,9 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           
-          <!--include virtual="/modules/rttr151/races-completed.html" -->
+          <!--#include virtual="/modules/resources-rttr.html" -->
+          <!--#include virtual="/modules/rttr151/contest-info.shtml" -->
+          <!--#include virtual="/modules/rttr151/races-completed.html" -->
           <!--include virtual="/modules/rttr151/races-upcoming.html" -->
           <!--#include virtual="/modules/rttr151/races-prep.html" -->
           <!--include virtual="/modules/how-to-play-rttr.html" -->
@@ -110,9 +140,10 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/resources-rttr.html" -->
-          <!--#include virtual="/modules/rttr151/contest-info.shtml" -->
+          <!--include virtual="/modules/resources-rttr.html" -->
+          <!--include virtual="/modules/rttr151/contest-info.shtml" -->
           <!--#include virtual="/modules/calendar.html" -->
+          <!--#include virtual="/modules/rttr151/races-prep.html" -->
 
           <div class="round-border">
             <!--#include virtual="/modules/stakes-nominations-rttr.html"-->
