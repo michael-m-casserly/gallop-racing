@@ -151,6 +151,7 @@
 
           <!--include virtual="/modules/twitter.html" -->
 
+          <!--Use this as filler when needed; It's primary location will be on the Stats page.-->
           <!--include virtual="/modules/rttr151/horses-by-stable.html"-->
 
         </div>
