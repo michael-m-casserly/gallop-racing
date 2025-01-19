@@ -3,7 +3,7 @@
 
   <!--BEGIN SHOWING THIS ONCE THEY START PUBLISHING IT-->
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-    href="/contests/rttr151/pdf/20250104-road-to-kentucky-derby-leaderboard.pdf" role="button" target="_blank"><svg class="bi"
+    href="/contests/rttr151/pdf/20250118_Road_to_Kentucky_Derby_Leaderboard.jpg" role="button" target="_blank"><svg class="bi"
       width="16" height="16" role="img" aria-label="PDF">
       <title id="pdf-label-mouseover-rttr151-official-derby-leaderboard">PDF</title>
       <use xlink:href="#filetype-pdf" />
@@ -79,13 +79,13 @@
   </p>
 
   <!--ADD THIS AFTER DRAFT #1-->
-  <!--p class="module-button-wrapper"><a class="btn btn-secondary btn"
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn"
       href="/pdf/RTTR151-All-Stables.pdf" role="button" target="_blank"><svg class="bi"
         width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttr151-view-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg> All Stables</a>
-  </p-->
+  </p>
 
   <!--Hiding Twitter Link since I stopped tagging tweets in RTTR151-->
   <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttr151?f=live"
@@ -98,7 +98,7 @@
       </svg></a></p-->
 
       <!--ADD THIS WHEN SEASON STARTS-->
-  <p><!--include virtual="/modules/rttr151/stables-menu.html"--></p>
+  <p><!--#include virtual="/modules/rttr151/stables-menu.html"--></p>
       
   <!--ADD THIS BACK DURING SEASON-->
       <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/data-disclaimer.shtml"
