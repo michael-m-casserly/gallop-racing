@@ -45,7 +45,7 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--include virtual="/modules/rttr151/horses-by-stable.html"-->
+          <!--#include virtual="/modules/rttr151/horses-by-stable.html"-->
 
         </div>
         <!--end left column-->
@@ -55,7 +55,7 @@
 
           <!--#include virtual="/modules/rttr151/trainers-by-stable.html"-->
           <!--#include virtual="/modules/rttr151/jockeys-by-stable.html"-->
-          <!--include virtual="/modules/rttr151/trainer-jockey-combo-by-stable.html"-->
+          <!--#include virtual="/modules/rttr151/trainer-jockey-combo-by-stable.html"-->
 
         </div>
         <!--end middle column-->

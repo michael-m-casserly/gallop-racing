@@ -98,8 +98,8 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           
-          <!--#include virtual="/modules/resources-rttr.html" -->
           <!--#include virtual="/modules/rttr151/contest-info.shtml" -->
+          <!--#include virtual="/modules/resources-rttr.html" -->
           <!--#include virtual="/modules/rttr151/races-completed.html" -->
           <!--include virtual="/modules/rttr151/races-upcoming.html" -->
           <!--include virtual="/modules/rttr151/races-prep.html" -->
