@@ -77,9 +77,11 @@ h3 {
 
   .btn-secondary{
         width: 260px; /* Adjusted from 250 to account for 10px padding on all td */
-        background-color: #ffffff !important;
+/*        background-color: #ffffff !important; */
+        background-color: #1b95e0 !important;
         border-radius: 10px !important;
-        color: blue !important;
+/*        color: blue !important; */
+        color: #ffffff !important;
         font-weight: bold !important;
     }
     
