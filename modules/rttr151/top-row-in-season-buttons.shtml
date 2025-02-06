@@ -9,10 +9,10 @@
     target="_blank" role="button"
     onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQZuHrYf5KyfIZA8eGwZB2ZeJ8PngpUTWMHHCVoa2KDw0mQrtFgLLWjTNDoZDjIWxXP_O7xJy4zf9WM/pubhtml?gid=2052581943&single=true');"><svg
       class="bi" width="16" height="16" role="img" aria-label="Google">
-      <title id="google-label-mouseover-rttr151-leaderboard">Google</title>
+      <title id="google-label-mouseover-rttr151-leaderboard-top-row-buttons">Google</title>
       <use xlink:href="#google" />
     </svg> Leaderboard&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
-      <title id="arrow-up-right-circle-rttr151-leaderboard">New Window</title>
+      <title id="arrow-up-right-circle-rttr151-leaderboard-top-row-buttons">New Window</title>
       <use xlink:href="#arrow-up-right-circle" />
     </svg></a>
   </p>
@@ -22,10 +22,10 @@
     target="_blank" role="button"
     onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRnqmmyLlPZAgDDiNKFz1axbBhjqP-3I-G85o1JuNGZCS844zfSu2QdetXvz8XcVn9_WkKrAXUKNxPf/pubhtml?gid=1847637649&single=true');"><svg
       class="bi" width="16" height="16" role="img" aria-label="Google">
-      <title id="google-label-mouseover-rttr151-schedule">Google</title>
+      <title id="google-label-mouseover-rttr151-schedule-top-row-buttons">Google</title>
       <use xlink:href="#google" />
     </svg> Full Schedule&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
-      <title id="arrow-up-right-circle-rttr151-schedule">New Window</title>
+      <title id="arrow-up-right-circle-rttr151-schedule-top-row-buttons">New Window</title>
       <use xlink:href="#arrow-up-right-circle" />
     </svg></a>
   </p>

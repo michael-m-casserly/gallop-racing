@@ -70,10 +70,10 @@
       target="_blank" role="button"
       onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRnqmmyLlPZAgDDiNKFz1axbBhjqP-3I-G85o1JuNGZCS844zfSu2QdetXvz8XcVn9_WkKrAXUKNxPf/pubhtml?gid=1847637649&single=true');"><svg
         class="bi" width="16" height="16" role="img" aria-label="Google">
-        <title id="google-label-mouseover-rttr151-schedule">Google</title>
+        <title id="google-label-mouseover-rttr151-schedule-contest-info">Google</title>
         <use xlink:href="#google" />
       </svg> Schedule&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
-        <title id="arrow-up-right-circle-rttr151-schedule">New Window</title>
+        <title id="arrow-up-right-circle-rttr151-schedule-contest-info">New Window</title>
         <use xlink:href="#arrow-up-right-circle" />
       </svg></a>
   </p>
