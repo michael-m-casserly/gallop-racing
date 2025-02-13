@@ -9,13 +9,13 @@
       <use xlink:href="#filetype-pdf" />
     </svg> Official Derby Leaderboard (Weekly) &dagger;</a>
 </p>
-<!--p class="module-button-wrapper"><a class="btn btn-secondary btn"
-  href="/contests/rttr151/pdf/20240411-Derby-Dispatch-1.pdf" role="button" target="_blank"><svg class="bi"
+<p class="module-button-wrapper"><a class="btn btn-secondary btn"
+  href="https://www.kentuckyderby.com/horses/news/the-derby-dispatch-for-thursday-feb-13/" role="button" target="_blank"><svg class="bi"
     width="16" height="16" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-rttr151-derby-dispatch-leaderboard">PDF</title>
     <use xlink:href="#filetype-pdf" />
   </svg> "<i>The Derby Dispatch</i>" &dagger;</a>
-</p-->
+</p>
 
 <p><!--include virtual="/modules/rttr151/derby-dispatch-menu.html"--></p>
 
