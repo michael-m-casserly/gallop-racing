@@ -17,7 +17,7 @@
         class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc23-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
-      </svg><br>All Stables</a>
+      </svg><br>View All Stables</a>
       <a class="btn btn-secondary btn-half"
     href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=month"
     target="_blank" role="button"
@@ -71,7 +71,7 @@
     role="button">Data Disclaimer</a></p>
 
   <p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">*Cannot view other players' stables
-    during Drafts or Power Pick selection windows. However, you can always use the "All Stables" button above to see
+    during Drafts or Power Pick selection windows. However, you can always use the "View All Stables" button above to see
     any stable at any time (without Power Pick Access).</p>
 
 </div>

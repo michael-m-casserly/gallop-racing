@@ -5,7 +5,7 @@
         class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc22-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
-      </svg><br>All Stables</a>
+      </svg><br>View All Stables</a>
       <a class="btn btn-secondary btn-half" href="/pdf/RTTBC22-League-Sheet-Horses.pdf" target="_blank" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc22-horses">PDF</title>
         <use xlink:href="#filetype-pdf" />

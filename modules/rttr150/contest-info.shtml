@@ -81,7 +81,7 @@
         width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttr150-view-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
-      </svg> All Stables</a>
+      </svg> View All Stables</a>
   </p>
 
   <!--Hiding Twitter Link since I stopped tagging tweets in RTTR150-->
