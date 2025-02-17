@@ -23,7 +23,7 @@
         class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc25-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
-      </svg><br>View All Stables</a>
+      </svg> View All Stables</a>
       <a class="btn btn-secondary btn-half"
     href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=month"
     target="_blank" role="button"
