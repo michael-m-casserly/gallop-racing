@@ -10,14 +10,14 @@
     </svg> Official Derby Leaderboard (Weekly) &dagger;</a>
 </p>
 <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-  href="https://www.kentuckyderby.com/horses/news/the-derby-dispatch-for-thursday-feb-13/" role="button" target="_blank"><svg class="bi"
+  href="/contests/rttr151/pdf/20250221-Derby-Dispatch.pdf" role="button" target="_blank"><svg class="bi"
     width="16" height="16" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-rttr151-derby-dispatch-leaderboard">PDF</title>
     <use xlink:href="#filetype-pdf" />
   </svg> "<i>The Derby Dispatch</i>" &dagger;</a>
 </p>
 
-<p><!--include virtual="/modules/rttr151/derby-dispatch-menu.html"--></p>
+<p><!--#include virtual="/modules/rttr151/derby-dispatch-menu.html"--></p>
 
 <p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">&dagger; Official Derby Leaderboard and <i>The Derby Dispatch</i> are courtesy of <a href="https://twitter.com/DerbyMedia" target="_blank">Churchill Downs PR</a></p>
 
