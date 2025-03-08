@@ -22,10 +22,6 @@
   <!--#include virtual="/banner.html" -->
   <!--End Banner-->
 
-
-
-
-
   <!--Begin Main Content Section-->
   <main class="container container-round-border">
     <nav aria-label="breadcrumb">
@@ -41,10 +37,10 @@
     </div>
 
     <!--Add back the # symbol when the counter is reset-->
-    <br>
     <!--include virtual="/countdown-timer-rttr.html" -->
-    <br>
     
+    <!--#include virtual="subnav-menu.html" -->
+
     <div class="container marketing">
 
       <!--Placeholder for use before the Registration module is opened.-->
@@ -86,42 +82,26 @@
           <!--begin left column-->
 
           <!--include virtual="/modules/rttr151/final-standings.html" -->
-
           <!--include virtual="/modules/register.html" -->
-          <!--include virtual="/modules/rttr151/races-prep.html" -->
-          <!--include virtual="/modules/rttr151/races-completed.html" -->
-          <!--#include virtual="/modules/rttr151/races-upcoming.html" -->
-          <!--include virtual="/modules/rttr151/contest-info.shtml" -->
+          <!--#include virtual="/modules/rttr151/contest-info.shtml" -->
           
         </div>
         <!--end left column-->
         <div class="col-lg-4">
           <!--begin middle column-->
           
-          <!--#include virtual="/modules/rttr151/contest-info.shtml" -->
           <!--#include virtual="/modules/resources-rttr.html" -->
-          <!--#include virtual="/modules/rttr151/races-completed.html" -->
-          <!--include virtual="/modules/rttr151/races-upcoming.html" -->
-          <!--include virtual="/modules/rttr151/races-prep.html" -->
-          <!--include virtual="/modules/how-to-play-rttr.html" -->
-          <!--include virtual="/modules/resources-rttr.html" -->
+          <div class="round-border">
+            <!--#include virtual="/modules/stakes-nominations-rttr.html"-->
+          </div>
                     
-          <!--include virtual="/modules/rttr151/leading-horses.html"-->
-
         </div>
         <!--end middle column-->
 
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--include virtual="/modules/resources-rttr.html" -->
-          <!--include virtual="/modules/rttr151/contest-info.shtml" -->
           <!--#include virtual="/modules/calendar.html" -->
-          <!--#include virtual="/modules/rttr151/races-prep.html" -->
-
-          <div class="round-border">
-            <!--#include virtual="/modules/stakes-nominations-rttr.html"-->
-          </div>
 
           <!--include virtual="/modules/twitter.html" -->
 
@@ -134,86 +114,14 @@
       </div>
       <!--end row #2-->
 
-      <!--begin row #3-->
-      <div class="row">
-        <div class="col-lg-4">
-          <!--begin left column-->
-
-          <!--#include virtual="/modules/rttr151/leaderboard-quick-view.html" -->
-          
-        </div>
-        <!--end left column-->
-
-        <div class="col-lg-4">
-          <!--begin middle column-->
-          
-          <!--#include virtual="/modules/rttr151/leaderboard-points-per-entry.html" -->
-
-        </div>
-        <!--end middle column-->
-
-        <div class="col-lg-4">
-          <!--begin right column-->
-
-          <!--#include virtual="/modules/rttr151/leaderboard-rankings-by-week.html" -->
-          
-        </div>
-        <!--end right column-->
-
-      </div>
-      <!--end row #3-->
-
-      <div class="accordion" id="accordionRTTR151data">
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="headingThree">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse"
-              data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-              How to Play / RTTR Scoring / Contest Notes
-            </button>
-          </h2>
-          <div id="collapseThree" class="accordion-collapse collapse show" aria-labelledby="headingThree"
-            data-bs-parent="#accordionRTTR151data">
-            <div class="accordion-body accordion-td-cell">
-
-              <div class="row">
-                <div class="col-lg-4">
-                  <!--begin left column-->
-
-                  <!--#include virtual="/modules/how-to-play-rttr.html" -->
-
-                </div>
-                <!--end left column-->
-
-                <div class="col-lg-4">
-                  <!--begin middle column-->
-
-                  <!--#include virtual="/modules/rttr-scoring-table.html" -->
-
-                </div>
-                <!--end middle column-->
-
-                <div class="col-lg-4">
-                <!--begin right column-->
-
-                  <!--#include virtual="/modules/rttr151/contest-notes.html"-->
-
-                </div>
-                <!--end right column-->
-
-              </div>
-              <!--end row-->
-
-            </div>
-          </div>
-        </div>
-
-      </div>
+      <!--#include virtual="/modules/rttr151/footer-accordion.shtml" -->
 
       <div class="row">
         <!--#include virtual="/modules/jump-to-contest.html" -->
       </div>
-      <!--row #6-->
 
+      <!--#include virtual="subnav-menu.html" -->
+      
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->

@@ -6,6 +6,13 @@
 
   <title>Schedule | Road to the Roses, Derby 151 | Gallop Racing</title>
 
+    <!--Special P style for RTTR 151 page only-->
+    <style>
+      p {
+        text-align: center;
+      }
+    </style>
+  
   <link rel="canonical" href="https://www.gallop-racing.com/contests/rttr151/schedule.shtml">
 
 </head>
@@ -31,8 +38,43 @@
       <h3>Road to the Roses<br>Derby 151 Schedule</h3>
     </div>
 
+    <!--#include virtual="subnav-menu.html" -->
+
     <div class="container marketing">
 
+      <!--Begin Row #1-->
+      <div class="row">
+        <div class="col-lg-4">
+          <!--begin left column-->
+
+          <!--#include virtual="/modules/rttr151/races-upcoming.html" -->
+          
+        </div>
+        <!--end left column-->
+        <div class="col-lg-4">
+          <!--begin middle column-->
+          
+          <!--#include virtual="/modules/rttr151/races-completed.html" -->
+
+        </div>
+        <!--end middle column-->
+
+        <div class="col-lg-4">
+          <!--begin right column-->
+
+          <!--#include virtual="/modules/rttr151/races-prep.html" -->
+
+          <div class="round-border">
+            <!--#include virtual="/modules/stakes-nominations-rttr.html"-->
+          </div>
+
+        </div>
+        <!--end right column-->
+
+      </div>
+      <!--End Row #1-->
+      
+      <!--Begin Row #2-->
           <div class="row">
           <b>Updates to note for 2025:</b>
             <ol>
@@ -45,7 +87,9 @@
               <li>Any races with fields of 4 or less will only be awarded 50% of the total points for that race.</li>
             </ol>
           </div>
+          <!--End Row #2-->
 
+          <!--Begin Row #3-->
           <div class="row">
               <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRnqmmyLlPZAgDDiNKFz1axbBhjqP-3I-G85o1JuNGZCS844zfSu2QdetXvz8XcVn9_WkKrAXUKNxPf/pubhtml?gid=1847637649&amp;single=true&amp;widget=true&amp;headers=false"
                 target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
@@ -64,13 +108,21 @@
                 </tr>
               </table>
             </div>
-      
-      <!--row #1-->
+          <!--End Row #3-->
+
+          <br>
+          <!--Begin Row #4-->
+          <!--#include virtual="/modules/rttr151/footer-accordion.shtml" -->
+          <!--End Row #4-->
+
+          <!--Begin Row #5-->
       <div class="row">
         <!--#include virtual="/modules/jump-to-schedule.html" -->
       </div>
-      <!--row #2-->
-      
+          <!--End Row #5-->
+
+      <!--#include virtual="subnav-menu.html" -->
+
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->
