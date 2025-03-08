@@ -49,7 +49,7 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/rttr151/leaderboard-quick-view.html" -->
+          <!--#include virtual="/modules/rttr151/leaderboard-lite.html" -->
           
         </div>
         <!--end left column-->

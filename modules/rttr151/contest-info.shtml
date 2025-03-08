@@ -1,13 +1,6 @@
 <div class="round-border">
   <h5>RTTR151 Info</h5>
 
-  <!--Can hide these 2 buttons now that the sub nav menu is there...
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half"
-    href="/contests/rttr151/schedule.shtml" role="button">Schedule</a>
-    <a class="btn btn-secondary btn btn-half"
-    href="/contests/rttr151/stats.shtml" role="button">Stats</a>
-  </p-->
-
 <!--ADD THIS AT THE END OF THE SEASON>
   <p class="module-button-wrapper"><a class="btn btn-secondary"
     href="/pdf/RTTR151-Leaderboard.pdf" target="_blank" role="button"><svg
@@ -37,42 +30,14 @@
           <use xlink:href="#filetype-pdf" />
         </svg> Horses</a></p-->
   
-
-  <!--USE THIS IF A POPUP IS PREFERRED TO A STANDALONE PAGE FOR SCHEDULE-->    
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-      href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRnqmmyLlPZAgDDiNKFz1axbBhjqP-3I-G85o1JuNGZCS844zfSu2QdetXvz8XcVn9_WkKrAXUKNxPf/pubhtml?gid=1847637649&single=true"
-      target="_blank" role="button"
-      onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRnqmmyLlPZAgDDiNKFz1axbBhjqP-3I-G85o1JuNGZCS844zfSu2QdetXvz8XcVn9_WkKrAXUKNxPf/pubhtml?gid=1847637649&single=true');"><svg
-        class="bi" width="16" height="16" role="img" aria-label="Google">
-        <title id="google-label-mouseover-rttr151-schedule-contest-info">Google</title>
-        <use xlink:href="#google" />
-      </svg> Schedule&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
-        <title id="arrow-up-right-circle-rttr151-schedule-contest-info">New Window</title>
-        <use xlink:href="#arrow-up-right-circle" />
-      </svg></a>
-  </p>
-
   <!--ADD THIS AFTER DRAFT #1-->
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"
       href="/pdf/RTTR151-All-Stables.pdf" role="button" target="_blank"><svg class="bi"
         width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttr151-view-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
-      </svg> View All Stables</a>
+      </svg> View All Stables*</a>
   </p>
-
-  <!--Hiding Twitter Link since I stopped tagging tweets in RTTR151-->
-  <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttr151?f=live"
-      target="_blank" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="Twitter">
-        <title id="twitter-label-mouseover-rttr151-module-button">Twitter</title>
-        <use xlink:href="#twitter" />
-      </svg> #rttr151 News&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
-        <title id="arrow-up-right-circle-rttr151-news">New Window</title>
-        <use xlink:href="#arrow-up-right-circle" />
-      </svg></a></p-->
-
-      <!--ADD THIS WHEN SEASON STARTS-->
-  <p><!--#include virtual="/modules/rttr151/stables-menu.html"--></p>
 
   <!--BEGIN SHOWING THIS ONCE THEY START PUBLISHING IT-->
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"
