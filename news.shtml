@@ -51,7 +51,8 @@
           <!--begin middle column-->
 
           <!--#include virtual="/modules/resources.html" -->
-
+          <!--#include virtual="/modules/equibase-virtual-stable.html" -->
+        
         </div>
         <!--end middle column-->
 
@@ -61,7 +62,6 @@
           <!--#include virtual="/modules/resources-rttbc.html" -->
           <!--#include virtual="/modules/resources-rttr.html" -->
           <!--#include virtual="/modules/resources-more.html" -->
-          <!--#include virtual="/modules/equibase-virtual-stable.html" -->
 
         </div>
         <!--end right column-->

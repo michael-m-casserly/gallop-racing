@@ -42,7 +42,7 @@
           <!--begin left column-->
           
           <!--#include virtual="/modules/resources.html" -->
-
+          <!--#include virtual="/modules/television.html" -->
         </div>
         <!--end left column-->
 
@@ -52,8 +52,6 @@
           <!--#include virtual="/modules/resources-rttbc.html" -->
           <!--#include virtual="/modules/resources-rttr.html" -->
           <!--#include virtual="/modules/resources-more.html" -->
-          <!--#include virtual="/modules/similar-contests.html" -->
-          <!--#include virtual="/modules/equibase-virtual-stable.html" -->
   
         </div>
         <!--end middle column-->
@@ -61,7 +59,7 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/television.html" -->
+          
           <!--#include virtual="/modules/how-to-play-rttbc.html" -->
           <!--#include virtual="/modules/how-to-play-rttr.html" -->
           <div class="round-border">
@@ -71,6 +69,9 @@
             <br>
             <!--#include virtual="/modules/stakes-calendar.html" -->
             </div>
+          <!--#include virtual="/modules/similar-contests.html" -->
+          <!--#include virtual="/modules/equibase-virtual-stable.html" -->
+
         </div>
         <!--end right column-->
       </div>
