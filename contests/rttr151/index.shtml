@@ -39,7 +39,7 @@
     <!--Add back the # symbol when the counter is reset-->
     <!--include virtual="/countdown-timer-rttr.html" -->
     
-    <!--#include virtual="subnav-menu.html" -->
+    <!--#include virtual="/contests/subnav-menu.html" -->
 
     <div class="container marketing">
 
@@ -120,7 +120,7 @@
         <!--#include virtual="/modules/jump-to-contest.html" -->
       </div>
 
-      <!--#include virtual="subnav-menu.html" -->
+      <!--#include virtual="/contests/subnav-menu.html" -->
       
       <!-- FOOTER -->
 

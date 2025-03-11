@@ -39,7 +39,7 @@
       <!--p>RTTR151 Stats will be available after the contest begins in early 2025.</p-->
     </div>
 
-    <!--#include virtual="subnav-menu.html" -->
+    <!--#include virtual="/contests/subnav-menu.html" -->
 
     <div class="container marketing">
 
@@ -86,7 +86,7 @@
       </div>
       <!--End Row #3-->
 
-      <!--#include virtual="subnav-menu.html" -->
+      <!--#include virtual="/contests/subnav-menu.html" -->
       
       <!-- FOOTER -->
 

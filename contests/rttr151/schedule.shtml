@@ -38,7 +38,7 @@
       <h3>Road to the Roses<br>Derby 151 Schedule</h3>
     </div>
 
-    <!--#include virtual="subnav-menu.html" -->
+    <!--#include virtual="/contests/subnav-menu.html" -->
 
     <div class="container marketing">
 
@@ -121,7 +121,7 @@
       </div>
           <!--End Row #5-->
 
-      <!--#include virtual="subnav-menu.html" -->
+      <!--#include virtual="/contests/subnav-menu.html" -->
 
       <!-- FOOTER -->
 
