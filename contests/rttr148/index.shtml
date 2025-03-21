@@ -22,10 +22,6 @@
   <!--#include virtual="/banner.html" -->
   <!--End Banner-->
 
-
-
-
-
   <!--Begin Main Content Section-->
   <main class="container container-round-border">
     <nav aria-label="breadcrumb">
@@ -40,8 +36,7 @@
       <h3>Road to the Roses<br>Derby 148 Contest</h3>
     </div>
 
-    <!--Add back the # symbol when the counter is rest-->
-    <!--include virtual="/countdown-timer.html" -->
+    <!--#include virtual="/contests/subnav-menu.html" -->
 
     <div class="container marketing">
 
@@ -124,6 +119,8 @@
       </div>
       <!--row #6-->
 
+      <!--#include virtual="/contests/subnav-menu.html" -->
+      
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->

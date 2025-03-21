@@ -6,7 +6,7 @@
 
   <title>Stats | Road to the Roses, Derby 150 | Gallop Racing</title>
 
-    <!--Special P style for RTTBC 22 page only-->
+    <!--Special P style for RTTR 150 page only-->
     <style>
       p {
         text-align: center;
@@ -36,11 +36,10 @@
 
     <div class="text-align-center">
       <h3>Road to the Roses<br>Derby 150 Stats</h3>
-
-      <!--p>RTTR150 Stats will be available after the contest begins in early 2024.</p-->
-    
+  
     </div>
 
+    <!--#include virtual="/contests/subnav-menu.html" -->
 
     <div class="container marketing">
 
@@ -81,6 +80,8 @@
       </div>
       <!--row #2-->
       
+      <!--#include virtual="/contests/subnav-menu.html" -->
+
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->

@@ -22,10 +22,6 @@
   <!--#include virtual="/banner.html" -->
   <!--End Banner-->
 
-
-
-
-
   <!--Begin Main Content Section-->
   <main class="container container-round-border">
     <nav aria-label="breadcrumb">
@@ -40,65 +36,22 @@
       <h3>Road to the Roses<br>Derby 149 Contest</h3>
     </div>
 
-    <!--Add back the # symbol when the counter is rest-->
-    <!--br-->
-    <!--include virtual="/countdown-timer-rttr.html" -->
-    <!--br-->
-    
+    <!--#include virtual="/contests/subnav-menu.html" -->
+
     <div class="container marketing">
-
-      <!--p>The Road to the Roses, Derby 149 contest will start in January 2023.</p-->
-
-      
-      <div class="row">
-        <div class="col-lg-4">
-          <!--begin left column-->
-
-          <!--include virtual="/modules/rttr149/top-three-stables-graphic.html" -->
-          
-        </div>
-        <!--end left column-->
-
-        <div class="col-lg-4">
-          <!--begin middle column-->
-          
-          <!--include virtual="/modules/rttr149/tracker-season-progress.html" -->
-
-        </div>
-        <!--end middle column-->
-
-        <div class="col-lg-4">
-          <!--begin right column-->
-
-          <!--include virtual="/modules/rttr149/top-row-in-season-buttons.shtml" -->
-          
-        </div>
-        <!--end right column-->
-
-      </div>
-      <!--row #1-->
-
+  
       <div class="row">
         <div class="col-lg-4">
           <!--begin left column-->
 
           <!--#include virtual="/modules/rttr149/final-standings.html" -->
-
-          <!--include virtual="/modules/register.html" -->
-          <!--include virtual="/modules/rttr149/races-completed.html" -->
-          <!--include virtual="/modules/rttr149/races-upcoming.html" -->
           
         </div>
         <!--end left column-->
         <div class="col-lg-4">
           <!--begin middle column-->
           
-          <!--include virtual="/modules/rttr149/contest-info.shtml" -->
           <!--#include virtual="/modules/rttr149/races-completed.html" -->
-          <!--include virtual="/modules/how-to-play-rttr.html" -->
-          <!--include virtual="/modules/resources-rttr.html" -->
-                    
-          <!--include virtual="/modules/rttr149/leading-horses.html"-->
 
         </div>
         <!--end middle column-->
@@ -107,15 +60,6 @@
           <!--begin right column-->
 
           <!--#include virtual="/modules/rttr149/contest-info.shtml" -->
-          <!--include virtual="/modules/calendar.html" -->
-
-          <!--div class="round-border">
-            <include virtual="/modules/stakes-nominations-rttr.html">
-          </div-->
-
-          <!--include virtual="/modules/twitter.html" -->
-
-          <!--include virtual="/modules/rttr149/horses-by-stable.html"-->
 
         </div>
         <!--end right column-->
@@ -173,6 +117,8 @@
         <!--#include virtual="/modules/jump-to-contest.html" -->
       </div>
       <!--row #6-->
+
+      <!--#include virtual="/contests/subnav-menu.html" -->
 
       <!-- FOOTER -->
 

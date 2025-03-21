@@ -6,7 +6,7 @@
 
   <title>Stats | Road to the Roses, Derby 148 | Gallop Racing</title>
 
-    <!--Special P style for RTTBC 22 page only-->
+    <!--Special P style for RTTR148 page only-->
     <style>
       p {
         text-align: center;
@@ -38,6 +38,7 @@
       <h3>Road to the Roses<br>Derby 148 Stats</h3>
     </div>
 
+    <!--#include virtual="/contests/subnav-menu.html" -->
 
     <div class="container marketing">
 
@@ -78,6 +79,8 @@
       </div>
       <!--row #2-->
       
+      <!--#include virtual="/contests/subnav-menu.html" -->
+
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->
