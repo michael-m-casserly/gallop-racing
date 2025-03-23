@@ -51,8 +51,6 @@
       <div class="row">
       <!--#include virtual="/modules/jump-to-scoring.html" -->
       </div>
-
-      <!--#include virtual="/contests/subnav-menu.html" -->
       
       <!-- FOOTER -->
 
