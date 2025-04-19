@@ -76,7 +76,7 @@
       </div>
       <!--row #1-->
 
-      <!--#include virtual="/modules/footer-accordion.shtml" -->
+      <!--#include virtual="/modules/rttbc24/footer-accordion.shtml" -->
 
       <div class="row">
         <!--#include virtual="/modules/jump-to-stats.html" -->

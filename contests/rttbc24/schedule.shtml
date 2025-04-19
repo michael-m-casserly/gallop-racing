@@ -63,6 +63,9 @@
           </tr>
         </table>
       </div>
+
+      <!--#include virtual="/modules/rttbc24/footer-accordion.shtml" -->
+
       <!--row #1-->
       <div class="row">
         <!--#include virtual="/modules/jump-to-schedule.html" -->
@@ -70,7 +73,7 @@
       <!--row #2-->
 
       <!--#include virtual="/contests/subnav-menu.html" -->
-      
+
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->
