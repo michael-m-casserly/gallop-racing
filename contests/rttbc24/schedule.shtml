@@ -31,6 +31,7 @@
       <h3>Road to the Breeders' Cup<br>2024 Schedule</h3>
     </div>
 
+<!--#include virtual="/contests/subnav-menu.html" -->
 
     <div class="container marketing">
 
@@ -67,6 +68,8 @@
         <!--#include virtual="/modules/jump-to-schedule.html" -->
       </div>
       <!--row #2-->
+
+      <!--#include virtual="/contests/subnav-menu.html" -->
       
       <!-- FOOTER -->
 

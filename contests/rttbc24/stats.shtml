@@ -38,7 +38,8 @@
       <h3>Road to the Breeders' Cup<br>2024 Stats</h3>
     </div>
 
-
+    <!--#include virtual="/contests/subnav-menu.html" -->
+    
     <div class="container marketing">
 
       <div class="row">
@@ -75,11 +76,15 @@
       </div>
       <!--row #1-->
 
+      <!--#include virtual="/modules/footer-accordion.shtml" -->
+
       <div class="row">
         <!--#include virtual="/modules/jump-to-stats.html" -->
       </div>
       <!--row #2-->
       
+      <!--#include virtual="/contests/subnav-menu.html" -->
+
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->

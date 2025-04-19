@@ -4,16 +4,16 @@
 <head>
   <!--#include virtual="/banner-head.html" -->
 
-  <title>Scoring | Road to the Roses, Derby 151 | Gallop Racing</title>
+  <title>Scoring | Road to the Breeders' Cup 2024 | Gallop Racing</title>
 
-  <!--Special P style for RTTR 151 page only-->
+  <!--Special P style for RTTBC24 page only-->
   <style>
     p {
       text-align: center;
     }
   </style>
 
-  <link rel="canonical" href="https://www.gallop-racing.com/contests/rttr151/scoring.shtml">
+  <link rel="canonical" href="https://www.gallop-racing.com/contests/rttbc24/scoring.shtml">
 
 </head>
 
@@ -32,13 +32,13 @@
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
         <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
-        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/rttr151/index.shtml">RTTR 151</a></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/rttbc24/">RTTBC 24</a></li>
         <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Scoring</span></li>
       </ol>
     </nav>
 
     <div class="text-align-center">
-      <h3>Road to the Roses<br>Derby 151 Scoring</h3>
+      <h3>Road to the Breeders' Cup 2024<br>Scoring</h3>
     </div>
     
     <!--#include virtual="/contests/subnav-menu.html" -->
@@ -50,7 +50,7 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/rttr151/leaderboard-lite.html" -->
+          <!--#include virtual="/modules/rttbc24/leaderboard-quick-view.html" -->
           
         </div>
         <!--end left column-->
@@ -58,7 +58,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           
-          <!--#include virtual="/modules/rttr151/leaderboard-points-per-entry.html" -->
+          <!--#include virtual="/modules/rttbc24/leaderboard-points-per-entry.html" -->
 
         </div>
         <!--end middle column-->
@@ -66,7 +66,7 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/rttr151/leaderboard-rankings-by-week.html" -->
+          <!--#include virtual="/modules/rttbc24/leaderboard-rankings-by-week.html" -->
           
         </div>
         <!--end right column-->
@@ -74,7 +74,7 @@
       </div>
       <!--end row #1-->
 
-      <!--#include virtual="/modules/rttr151/footer-accordion.shtml" -->
+      <!--#include virtual="/modules/rttbc24/footer-accordion.shtml" -->
       
       <div class="row">
       <!--#include virtual="/modules/jump-to-scoring.html" -->
