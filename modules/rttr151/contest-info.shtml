@@ -1,43 +1,13 @@
 <div class="round-border">
   <h5>RTTR151 Info</h5>
 
-<!--ADD THIS AT THE END OF THE SEASON>
+<!--ADD THIS AT THE END OF THE SEASON-->
   <p class="module-button-wrapper"><a class="btn btn-secondary"
     href="/pdf/RTTR151-Leaderboard.pdf" target="_blank" role="button"><svg
       class="bi" width="16" height="16" role="img" aria-label="PDF">
       <title id="pdf-label-mouseover-rttr151-leaderboard">PDF</title>
       <use xlink:href="#filetype-pdf" />
-    </svg> Leaderboard</a-->
-
-  <!--USE THIS FOR "HORSES" DURING THE SEASON; THE PDF IS ONLY FOR THE END OF THE SEASON-->
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-      href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZuHrYf5KyfIZA8eGwZB2ZeJ8PngpUTWMHHCVoa2KDw0mQrtFgLLWjTNDoZDjIWxXP_O7xJy4zf9WM/pubhtml?gid=1773939469&single=true"
-      target="_blank" role="button"
-      onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQZuHrYf5KyfIZA8eGwZB2ZeJ8PngpUTWMHHCVoa2KDw0mQrtFgLLWjTNDoZDjIWxXP_O7xJy4zf9WM/pubhtml?gid=1773939469&single=true');"><svg
-        class="bi" width="16" height="16" role="img" aria-label="Google">
-        <title id="google-label-mouseover-rttr151-horses">Google</title>
-        <use xlink:href="#google" />
-      </svg> Horses&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
-        <title id="arrow-up-right-circle-rttr151-horses">New Window</title>
-        <use xlink:href="#arrow-up-right-circle" />
-      </svg></a></p>
-
-  <!--ADD THIS AT THE END OF THE SEASON>
-      <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-        href="/pdf/RTTR151-Horses.pdf" target="_blank" role="button"><svg
-          class="bi" width="16" height="16" role="img" aria-label="PDF">
-          <title id="pdf-label-mouseover-rttr151-horses">PDF</title>
-          <use xlink:href="#filetype-pdf" />
-        </svg> Horses</a></p-->
-  
-  <!--ADD THIS AFTER DRAFT #1-->
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-      href="/pdf/RTTR151-All-Stables.pdf" role="button" target="_blank"><svg class="bi"
-        width="16" height="16" role="img" aria-label="PDF">
-        <title id="pdf-label-mouseover-rttr151-view-all-stables">PDF</title>
-        <use xlink:href="#filetype-pdf" />
-      </svg> View All Stables*</a>
-  </p>
+    </svg> Leaderboard</a></p>
 
   <!--BEGIN SHOWING THIS ONCE THEY START PUBLISHING IT-->
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"
@@ -66,6 +36,37 @@
   </svg></a>
 </p>
 
+<!--USE THIS FOR "HORSES" DURING THE SEASON; THE PDF IS ONLY FOR THE END OF THE SEASON-->
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+      href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZuHrYf5KyfIZA8eGwZB2ZeJ8PngpUTWMHHCVoa2KDw0mQrtFgLLWjTNDoZDjIWxXP_O7xJy4zf9WM/pubhtml?gid=1773939469&single=true"
+      target="_blank" role="button"
+      onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQZuHrYf5KyfIZA8eGwZB2ZeJ8PngpUTWMHHCVoa2KDw0mQrtFgLLWjTNDoZDjIWxXP_O7xJy4zf9WM/pubhtml?gid=1773939469&single=true');"><svg
+        class="bi" width="16" height="16" role="img" aria-label="Google">
+        <title id="google-label-mouseover-rttr151-horses">Google</title>
+        <use xlink:href="#google" />
+      </svg> Horses&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+        <title id="arrow-up-right-circle-rttr151-horses">New Window</title>
+        <use xlink:href="#arrow-up-right-circle" />
+      </svg></a></p>
+
+  <!--ADD THIS AT THE END OF THE SEASON-->
+      <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+        href="/pdf/RTTR151-Horses.pdf" target="_blank" role="button"><svg
+          class="bi" width="16" height="16" role="img" aria-label="PDF">
+          <title id="pdf-label-mouseover-rttr151-horses">PDF</title>
+          <use xlink:href="#filetype-pdf" />
+        </svg> Horses</a></p>
+  
+  <!--ADD THIS AFTER DRAFT #1-->
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn"
+      href="/pdf/RTTR151-All-Stables.pdf" role="button" target="_blank"><svg class="bi"
+        width="16" height="16" role="img" aria-label="PDF">
+        <title id="pdf-label-mouseover-rttr151-view-all-stables">PDF</title>
+        <use xlink:href="#filetype-pdf" />
+      </svg> View All Stables*</a>
+  </p>
+
+  <!--#include virtual="/modules/rttr150/stables-menu.html"-->
       
   <!--ADD THIS BACK DURING SEASON-->
       <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/data-disclaimer.shtml"

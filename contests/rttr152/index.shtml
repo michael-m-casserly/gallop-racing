@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!--#include virtual="/banner-head.html" -->
+
+  <title>Road to the Roses, Derby 152 | Gallop Racing</title>
+
+  <!--Special P style for RTTR 152 page only-->
+  <style>
+    p {
+      text-align: center;
+    }
+  </style>
+
+  <link rel="canonical" href="https://www.gallop-racing.com/contests/rttr152/index.shtml">
+
+</head>
+
+<body class="bodyTag">
+  <!--Begin Banner-->
+  <!--#include virtual="/banner.html" -->
+  <!--End Banner-->
+
+  <!--Begin Main Content Section-->
+  <main class="container container-round-border">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
+        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">RTTR 152</span></li>
+      </ol>
+    </nav>
+
+    <div class="text-align-center">
+      <h3>Road to the Roses<br>Derby 152 Contest</h3>
+    </div>
+
+    <!--Add back the # symbol when the counter is reset-->
+    <!--include virtual="/countdown-timer-rttr.html" -->
+    
+    <!--#include virtual="/contests/subnav-menu.html" -->
+
+    <div class="container marketing">
+
+      <!--Placeholder for use before the Registration module is opened.-->
+      <!--p>The Road to the Roses, Derby 152 contest will start in January 2026.</p-->
+
+      
+      <!--begin row #1-->
+      <div class="row">
+        <div class="col-lg-4">
+          <!--begin left column-->
+
+          <!--#include virtual="/modules/rttr152/top-three-stables-graphic.html" -->
+          
+        </div>
+        <!--end left column-->
+
+        <div class="col-lg-4">
+          <!--begin middle column-->
+          
+          <!--#include virtual="/modules/rttr152/tracker-season-progress.html" -->
+
+        </div>
+        <!--end middle column-->
+
+        <div class="col-lg-4">
+          <!--begin right column-->
+
+          <!--#include virtual="/modules/rttr152/top-row-in-season-buttons.shtml" -->
+          
+        </div>
+        <!--end right column-->
+
+      </div>
+      <!--end row #1-->
+
+      <!--begin row #2-->
+      <div class="row">
+        <div class="col-lg-4">
+          <!--begin left column-->
+
+          <!--include virtual="/modules/rttr152/final-standings.html" -->
+          <!--include virtual="/modules/register.html" -->
+          <!--#include virtual="/modules/rttr152/contest-info.shtml" -->
+          
+        </div>
+        <!--end left column-->
+        <div class="col-lg-4">
+          <!--begin middle column-->
+          
+          <!--#include virtual="/modules/resources-rttr.html" -->
+          <div class="round-border">
+            <!--#include virtual="/modules/stakes-nominations-rttr.html"-->
+          </div>
+                    
+        </div>
+        <!--end middle column-->
+
+        <div class="col-lg-4">
+          <!--begin right column-->
+
+          <!--#include virtual="/modules/calendar.html" -->
+
+          <!--include virtual="/modules/twitter.html" -->
+
+          <!--Use this as filler when needed; It's primary location will be on the Stats page.-->
+          <!--include virtual="/modules/rttr152/horses-by-stable.html"-->
+
+        </div>
+        <!--end right column-->
+
+      </div>
+      <!--end row #2-->
+
+      <!--#include virtual="/modules/rttr152/footer-accordion.shtml" -->
+
+      <div class="row">
+        <!--#include virtual="/modules/jump-to-contest.html" -->
+      </div>
+
+      <!--#include virtual="/contests/subnav-menu.html" -->
+      
+      <!-- FOOTER -->
+
+      <!--#include virtual="/footer-page.html" -->
+
+    </div>
+    <!--container-->
+
+    <!--#include virtual="/footer.html" -->
+
+
+  </main>
+
+</body>
+
+</html>

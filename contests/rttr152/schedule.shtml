@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!--#include virtual="/banner-head.html" -->
+
+  <title>Schedule | Road to the Roses, Derby 152 | Gallop Racing</title>
+
+    <!--Special P style for RTTR 152 page only-->
+    <style>
+      p {
+        text-align: center;
+      }
+    </style>
+  
+  <link rel="canonical" href="https://www.gallop-racing.com/contests/rttr152/schedule.shtml">
+
+</head>
+
+<body class="bodyTag">
+  <!--Begin Banner-->
+  <!--#include virtual="/banner.html" -->
+  <!--End Banner-->
+
+  <!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/rttr152/index.shtml">RTTR 152</a></li>
+        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Schedule</span></li>
+      </ol>
+    </nav>
+
+    <div class="text-align-center">
+      <h3>Road to the Roses<br>Derby 152 Schedule</h3>
+    </div>
+
+    <!--#include virtual="/contests/subnav-menu.html" -->
+
+    <div class="container marketing">
+
+      <!--Begin Row #1-->
+      <div class="row">
+        <div class="col-lg-4">
+          <!--begin left column-->
+
+          <!--#include virtual="/modules/rttr152/races-upcoming.html" -->
+          
+        </div>
+        <!--end left column-->
+        <div class="col-lg-4">
+          <!--begin middle column-->
+          
+          <!--#include virtual="/modules/rttr152/races-completed.html" -->
+
+        </div>
+        <!--end middle column-->
+
+        <div class="col-lg-4">
+          <!--begin right column-->
+
+          <!--#include virtual="/modules/rttr152/races-prep.html" -->
+
+          <div class="round-border">
+            <!--#include virtual="/modules/stakes-nominations-rttr.html"-->
+          </div>
+
+        </div>
+        <!--end right column-->
+
+      </div>
+      <!--End Row #1-->
+      
+      <!--Begin Row #2-->
+          <div class="row">
+          <b>Updates to note for 2025:</b>
+            <ol>
+              <li>UAE Derby is no longer part of the USA Trail. It has been moved the European Trail, and will not be included in the "<i>Road to the Roses, Derby 151</i>" Contest.</li>
+              <li>The Virginia Derby is a newly added race for the contest.</li>
+            </ol>
+          <b>Scoring Changes for any "Championship Series" Races:</b>
+            <ol>  
+              <li>Any races with fields of 5 will only be awarded 75% of the total points for that race.</li>
+              <li>Any races with fields of 4 or less will only be awarded 50% of the total points for that race.</li>
+            </ol>
+          </div>
+          <!--End Row #2-->
+
+          <!--Begin Row #3-->
+          <div class="row">
+              <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRnqmmyLlPZAgDDiNKFz1axbBhjqP-3I-G85o1JuNGZCS844zfSu2QdetXvz8XcVn9_WkKrAXUKNxPf/pubhtml?gid=1847637649&amp;single=true&amp;widget=true&amp;headers=false"
+                target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
+                  style="max-width: 250px; border: 0;"></a>
+      
+              <!--#include virtual="/iframe-spinner.html" -->
+      
+              <div class="iframe-container">
+                <iframe class="responsive-iframe"
+                  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRnqmmyLlPZAgDDiNKFz1axbBhjqP-3I-G85o1JuNGZCS844zfSu2QdetXvz8XcVn9_WkKrAXUKNxPf/pubhtml?gid=1847637649&amp;single=true&amp;widget=true&amp;headers=false"
+                  onload="document.getElementById('spinner').style.display='none';"></iframe>
+              </div>
+              <table class="TableStandard">
+                <tr>
+                  <td class="table-legend-horse-in-stable">Horse in an RTTR152 Stable at Race Time.</td>
+                </tr>
+              </table>
+            </div>
+          <!--End Row #3-->
+
+          <br>
+          <!--Begin Row #4-->
+          <!--#include virtual="/modules/rttr152/footer-accordion.shtml" -->
+          <!--End Row #4-->
+
+          <!--Begin Row #5-->
+      <div class="row">
+        <!--#include virtual="/modules/jump-to-schedule.html" -->
+      </div>
+          <!--End Row #5-->
+
+      <!--#include virtual="/contests/subnav-menu.html" -->
+
+      <!-- FOOTER -->
+
+      <!--#include virtual="/footer-page.html" -->
+
+    </div>
+    <!--container-->
+
+    <!--#include virtual="/footer.html" -->
+
+
+  </main>
+
+
+</body>
+
+</html>

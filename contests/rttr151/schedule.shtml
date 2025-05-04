@@ -41,40 +41,14 @@
     <!--#include virtual="/contests/subnav-menu.html" -->
 
     <div class="container marketing">
-
-      <!--Begin Row #1-->
-      <div class="row">
-        <div class="col-lg-4">
-          <!--begin left column-->
-
-          <!--#include virtual="/modules/rttr151/races-upcoming.html" -->
-          
-        </div>
-        <!--end left column-->
-        <div class="col-lg-4">
-          <!--begin middle column-->
-          
-          <!--#include virtual="/modules/rttr151/races-completed.html" -->
-
-        </div>
-        <!--end middle column-->
-
-        <div class="col-lg-4">
-          <!--begin right column-->
-
-          <!--#include virtual="/modules/rttr151/races-prep.html" -->
-
-          <div class="round-border">
-            <!--#include virtual="/modules/stakes-nominations-rttr.html"-->
-          </div>
-
-        </div>
-        <!--end right column-->
-
-      </div>
-      <!--End Row #1-->
       
-      <!--Begin Row #2-->
+          <!--Begin Row #1-->
+          <div class="row">
+            <!--#include virtual="/modules/jump-to-schedule.html" -->
+          </div>
+          <!--End Row #1-->
+
+          <!--Begin Row #2-->
           <div class="row">
           <b>Updates to note for 2025:</b>
             <ol>
