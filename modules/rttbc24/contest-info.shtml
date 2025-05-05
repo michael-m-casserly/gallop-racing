@@ -21,31 +21,13 @@
     <use xlink:href="#filetype-pdf" />
   </svg>&nbsp;Schedule by Division</a></p>
 
-  <!--THIS GETS ADDED DURING DRAFT #1-->
-  <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRp7svMLtXWHciFBP8HB6n_aNbYgq42IHr-s4tb3HrqbIq4xmEXPQFfhewETCf4ieAETjVvU9SM4y8a/pubhtml?gid=1411863973&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRp7svMLtXWHciFBP8HB6n_aNbYgq42IHr-s4tb3HrqbIq4xmEXPQFfhewETCf4ieAETjVvU9SM4y8a/pubhtml?gid=1411863973&single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google"><title id="google-label-mouseover-rttbc24-full-schedule">Google Drive</title><use xlink:href="#google" /></svg>&nbsp;Full Schedule&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
-    <title id="arrow-up-right-circle-full-schedule">New Window</title>
-    <use xlink:href="#arrow-up-right-circle" />
-  </svg></a></p>
-
-  <!--THIS GETS ADDED DURING DRAFT #1-->
-  <!--ADD THIS BACK ONCE RTTBC24 REGISTRATION CLOSES-->
-  <p><!--#include virtual="/modules/rttbc24/stables-menu.html"--></p>
-  
+ 
   <!--THIS NEEDS TO BE UPDATED FOR 2024 following Draft #1-->
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/pdf/RTTBC24-All-Stables.pdf" role="button" target="_blank"><svg
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC24-All-Stables.pdf" role="button" target="_blank"><svg
         class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc24-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
-      </svg> View All Stables</a>
-      <a class="btn btn-secondary btn-half"
-    href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=month"
-    target="_blank" role="button"
-    onclick="captureOutboundLink('https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=month');"><svg
-      class="bi" width="16" height="16" role="img" aria-label="Calendar">
-      <title id="calendar-label-mouseover-rttbc24">Calendar</title>
-      <use xlink:href="#calendar-date-fill" />
-    </svg><br>Calendar</a>
-  </p>
+      </svg> View All Stables</a></p>
 
   <!--THIS ROW IS REDUNDANT FOR NOW; CAN ADD IT BACK IF ANYTHING CHANGES-->
   <p class="module-button-wrapper">
@@ -61,20 +43,6 @@
       </svg><br>Schedule</a>
   </p>
 
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/news.shtml"
-    role="button">News</a>
-  <a class="btn btn-secondary btn-half" href="/contests/resources.shtml" role="button">Resources</a>
-  </p>
-
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rules.shtml"
-      role="button">Rules</a>
-    <a class="btn btn-secondary btn-half" href="/contests/rttbc24/schedule.shtml" role="button">Schedule</a>
-  </p>
-
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttbc24/stats.shtml"
-    role="button">Stats</a>
-  <a class="btn btn-secondary btn-half" href="/contests/strategies.shtml" role="button">Strategies</a>
-  </p>
 
 <!-- ADD THIS ONCE THE SEASON IS COMPLETED
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC24-Leading-Horses-by-Stable.pdf"
@@ -86,11 +54,6 @@
   </svg> Leading Horses by Stable</a></p>
 -->
 
-  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/data-disclaimer.shtml"
-    role="button">Data Disclaimer</a></p>
-
-  <p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">*Cannot view other players' stables
-    during Drafts or Power Pick selection windows. However, you can always use the "View All Stables" button above to see
-    any stable at any time (without Power Pick Access).</p>
+<p><!--#include virtual="/modules/rttbc24/stables-menu.html"--></p>
 
 </div>

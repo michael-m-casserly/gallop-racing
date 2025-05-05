@@ -1,27 +1,28 @@
 <div class="round-border">
-    <h5>RTTBC '22 Info</h5>
+  <h5>RTTBC '22 Info</h5>
 
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/pdf/RTTBC22-All-Stables.pdf" role="button" target="_blank"><svg
-        class="bi" width="16" height="16" role="img" aria-label="PDF">
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC22-League-Sheet-Leaderboard.pdf" target="_blank" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF"><title id="pdf-label-mouseover-rttbc22-leaderboard">PDF</title><use xlink:href="#filetype-pdf" /></svg>&nbsp;Full Leaderboard</a></p>
+  
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC22-All-Stables.pdf" role="button"
+      target="_blank"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc22-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
-      </svg> View All Stables</a>
-      <a class="btn btn-secondary btn-half" href="/pdf/RTTBC22-League-Sheet-Horses.pdf" target="_blank" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
+      </svg> View All Stables</a></p>
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC22-League-Sheet-Horses.pdf"
+      target="_blank" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc22-horses">PDF</title>
         <use xlink:href="#filetype-pdf" />
-      </svg><br>Horses</a>
+      </svg> Horses</a>
   </p>
-  
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttbc22/schedule.shtml" role="button">Schedule</a>
-    <a class="btn btn-secondary btn-half" href="/contests/rttbc22/stats.shtml"
-    role="button">Stats</a></p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC22-Leading-Horses-by-Stable.pdf"
-      target="_blank" role="button"
-      onclick="captureOutboundLink('/pdf/RTTBC22-Leading-Horses-by-Stable.pdf');"><svg
-      class="bi" width="16" height="16" role="img" aria-label="PDF">
-      <title id="pdf-label-mouseover-rttbc22-leading-horses-by-stable">PDF</title>
-      <use xlink:href="#filetype-pdf" />
-    </svg> Leading Horses by Stable</a></p>
+      target="_blank" role="button" onclick="captureOutboundLink('/pdf/RTTBC22-Leading-Horses-by-Stable.pdf');"><svg
+        class="bi" width="16" height="16" role="img" aria-label="PDF">
+        <title id="pdf-label-mouseover-rttbc22-leading-horses-by-stable">PDF</title>
+        <use xlink:href="#filetype-pdf" />
+      </svg> Leading Horses by Stable</a></p>
 
+      <p><!--#include virtual="/modules/rttbc22/stables-menu.html"--></p>
+      
 </div>

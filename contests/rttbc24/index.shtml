@@ -44,6 +44,10 @@
     <div class="container marketing">
 
       <div class="row">
+        <!--#include virtual="/modules/jump-to-contest.html" -->
+      </div>
+
+      <div class="row">
         <div class="col-lg-4">
           <!--begin left column-->
           <!--#include virtual="/modules/rttbc24/final-standings.html" -->
@@ -74,14 +78,7 @@
       <!--row #1-->
 
       <!--#include virtual="/modules/rttbc24/footer-accordion.shtml" -->
-      
-      <div class="row">
-        <!--#include virtual="/modules/jump-to-contest.html" -->
-      </div>
-      <!--row #2-->
-      
-      <!--#include virtual="/contests/subnav-menu.html" -->
-
+            
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->

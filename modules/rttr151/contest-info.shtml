@@ -66,7 +66,7 @@
       </svg> View All Stables*</a>
   </p>
 
-  <!--#include virtual="/modules/rttr150/stables-menu.html"-->
+  <p><!--#include virtual="/modules/rttr151/stables-menu.html"--></p>
       
   <!--ADD THIS BACK DURING SEASON-->
       <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/data-disclaimer.shtml"

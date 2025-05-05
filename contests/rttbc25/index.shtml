@@ -41,6 +41,10 @@
 
     <div class="container marketing">
 
+      <div class="row">
+        <!--#include virtual="/modules/jump-to-contest.html" -->
+      </div>
+
       <!--ADD THIS ROW BACK AFTER WEEK #1-->
       <div class="row">
         <!--begin left column-->
@@ -184,12 +188,7 @@
         </div>
 
       </div>
-      
-      <div class="row">
-        <!--#include virtual="/modules/jump-to-contest.html" -->
-      </div>
-      <!--row #2-->
-      
+            
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->

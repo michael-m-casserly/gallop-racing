@@ -4,16 +4,16 @@
 <head>
   <!--#include virtual="/banner-head.html" -->
 
-  <title>Scoring | Road to the Roses, Derby 148 | Gallop Racing</title>
+  <title>Scoring | Road to the Breeders' Cup 2022 | Gallop Racing</title>
 
-  <!--Special P style for RTTR 148 page only-->
+  <!--Special P style for RTTBC22 page only-->
   <style>
     p {
       text-align: center;
     }
   </style>
 
-  <link rel="canonical" href="https://www.gallop-racing.com/contests/rttr148/scoring.shtml">
+  <link rel="canonical" href="https://www.gallop-racing.com/contests/rttbc22/scoring.shtml">
 
 </head>
 
@@ -22,19 +22,23 @@
   <!--#include virtual="/banner.html" -->
   <!--End Banner-->
 
+
+
+
+
   <!--Begin Main Content Section-->
   <main class="container container-round-border">
     <nav aria-label="breadcrumb">
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
         <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
-        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/rttr148/index.shtml">RTTR 148</a></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/rttbc22/">RTTBC 2022</a></li>
         <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Scoring</span></li>
       </ol>
     </nav>
 
     <div class="text-align-center">
-      <h3>Road to the Roses<br>Derby 148 Scoring</h3>
+      <h3>Road to the Breeders' Cup<br>2022 Scoring</h3>
     </div>
     
     <!--#include virtual="/contests/subnav-menu.html" -->
@@ -44,9 +48,12 @@
       <div class="row">
         <!--#include virtual="/modules/jump-to-scoring.html" -->
         </div>
+  
+        <p>Detailed Scoring was not available in the RTTBC '22 Contest.</p>
 
-        <p>Detailed Scoring was not available in the RTTR 148 Contest.</p>
-      
+
+      <!--include virtual="/modules/rttbc22/footer-accordion.shtml" -->
+            
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->
@@ -55,6 +62,7 @@
     <!--container-->
 
     <!--#include virtual="/footer.html" -->
+
 
   </main>
 

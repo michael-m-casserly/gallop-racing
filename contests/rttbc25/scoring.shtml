@@ -4,16 +4,16 @@
 <head>
   <!--#include virtual="/banner-head.html" -->
 
-  <title>Stats | Road to the Roses, Derby 148 | Gallop Racing</title>
+  <title>Scoring | Road to the Breeders' Cup 2025 | Gallop Racing</title>
 
-    <!--Special P style for RTTR148 page only-->
-    <style>
-      p {
-        text-align: center;
-      }
-    </style>
-  
-  <link rel="canonical" href="https://www.gallop-racing.com/contests/rttr148/stats.shtml">
+  <!--Special P style for RTTBC25 page only-->
+  <style>
+    p {
+      text-align: center;
+    }
+  </style>
+
+  <link rel="canonical" href="https://www.gallop-racing.com/contests/rttbc25/scoring.shtml">
 
 </head>
 
@@ -22,45 +22,47 @@
   <!--#include virtual="/banner.html" -->
   <!--End Banner-->
 
+
+
+
+
   <!--Begin Main Content Section-->
   <main class="container container-round-border">
-
     <nav aria-label="breadcrumb">
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
         <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
-        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/rttr148/index.shtml">RTTR 148</a></li>
-        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Stats</span></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/rttbc25/">RTTBC 2025</a></li>
+        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Scoring</span></li>
       </ol>
     </nav>
 
     <div class="text-align-center">
-      <h3>Road to the Roses<br>Derby 148 Stats</h3>
+      <h3>Road to the Breeders' Cup<br>2025 Scoring</h3>
     </div>
-
+    
     <!--#include virtual="/contests/subnav-menu.html" -->
 
     <div class="container marketing">
 
       <div class="row">
-        <!--#include virtual="/modules/jump-to-stats.html" -->
-      </div>
-
+        <!--#include virtual="/modules/jump-to-scoring.html" -->
+        </div>
+  
+      <!--begin row #1-->
       <div class="row">
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/rttr148/horses-by-stable.html"-->
-
+          <!--#include virtual="/modules/rttbc25/leaderboard-lite.html" -->
+          
         </div>
         <!--end left column-->
 
         <div class="col-lg-4">
           <!--begin middle column-->
-
-          <!--#include virtual="/modules/rttr148/trainers-by-stable.html"-->
-          <!--#include virtual="/modules/rttr148/jockeys-by-stable.html"-->
-          <!--#include virtual="/modules/rttr148/trainer-jockey-combo-by-stable.html"-->
+          
+          <!--#include virtual="/modules/rttbc25/leaderboard-points-per-entry.html" -->
 
         </div>
         <!--end middle column-->
@@ -68,15 +70,16 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/rttr148/leading-horses.html"-->
-          <!--#include virtual="/modules/rttr148/leading-trainers.html"-->
-          <!--#include virtual="/modules/rttr148/leading-jockeys.html"-->
-
+          <!--#include virtual="/modules/rttbc25/leaderboard-rankings-by-week.html" -->
+          
         </div>
         <!--end right column-->
 
       </div>
+      <!--end row #1-->
 
+      <!--#include virtual="/modules/rttbc25/footer-accordion.shtml" -->
+            
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->
@@ -88,7 +91,6 @@
 
 
   </main>
-
 
 </body>
 

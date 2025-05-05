@@ -42,6 +42,10 @@
 
     <div class="container marketing">
 
+      <div class="row">
+        <!--#include virtual="/modules/jump-to-contest.html" -->
+      </div>
+
         <div class="row">
           <div class="col-lg-4">
             <!--begin left column-->

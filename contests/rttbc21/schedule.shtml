@@ -35,6 +35,10 @@
     <div class="container marketing">
 
       <div class="row">
+        <!--#include virtual="/modules/jump-to-schedule.html" -->
+      </div>
+
+      <div class="row">
         <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=2036485040&amp;single=true&amp;widget=true&amp;headers=false"
           target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
             style="max-width: 250px; border: 0;"></a>
@@ -59,11 +63,6 @@
           </tr>
         </table>
       </div>
-      <!--row #1-->
-      <div class="row">
-        <!--#include virtual="/modules/jump-to-schedule.html" -->
-      </div>
-      <!--row #2-->
       
       <!-- FOOTER -->
 

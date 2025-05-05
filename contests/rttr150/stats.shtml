@@ -44,6 +44,10 @@
     <div class="container marketing">
 
       <div class="row">
+        <!--#include virtual="/modules/jump-to-stats.html" -->
+      </div>
+
+      <div class="row">
         <div class="col-lg-4">
           <!--begin left column-->
 
@@ -73,14 +77,6 @@
         <!--end right column-->
 
       </div>
-      <!--row #1-->
-
-      <div class="row">
-        <!--#include virtual="/modules/jump-to-stats.html" -->
-      </div>
-      <!--row #2-->
-      
-      <!--#include virtual="/contests/subnav-menu.html" -->
 
       <!-- FOOTER -->
 

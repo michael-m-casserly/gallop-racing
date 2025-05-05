@@ -43,6 +43,10 @@
 
     <div class="container marketing">
 
+      <div class="row">
+        <!--#include virtual="/modules/jump-to-stats.html" -->
+      </div>
+
       <!--Begin Row #1-->
       <div class="row">
         <div class="col-lg-4">
@@ -79,15 +83,7 @@
           <!--Begin Row #2-->
           <!--#include virtual="/modules/rttr151/footer-accordion.shtml" -->
           <!--End Row #2-->
-
-      <!--Begin Row #3-->
-      <div class="row">
-        <!--#include virtual="/modules/jump-to-stats.html" -->
-      </div>
-      <!--End Row #3-->
-
-      <!--#include virtual="/contests/subnav-menu.html" -->
-      
+    
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->

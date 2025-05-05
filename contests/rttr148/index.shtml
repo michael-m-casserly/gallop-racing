@@ -41,6 +41,10 @@
     <div class="container marketing">
 
       <div class="row">
+        <!--#include virtual="/modules/jump-to-contest.html" -->
+      </div>
+
+      <div class="row">
         <div class="col-lg-4">
           <!--begin left column-->
 
@@ -113,14 +117,6 @@
 
       </div>
 
-      <!--row #5-->
-      <div class="row">
-        <!--#include virtual="/modules/jump-to-contest.html" -->
-      </div>
-      <!--row #6-->
-
-      <!--#include virtual="/contests/subnav-menu.html" -->
-      
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->

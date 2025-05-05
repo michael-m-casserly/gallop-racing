@@ -45,12 +45,12 @@
 
     <div class="container marketing">
 
-    <p>Detailed Scoring was not available in the RTTR 149 Contest.</p>
-      
       <div class="row">
-      <!--#include virtual="/modules/jump-to-scoring.html" -->
-      </div>
-      
+        <!--#include virtual="/modules/jump-to-scoring.html" -->
+        </div>
+  
+    <p>Detailed Scoring was not available in the RTTR 149 Contest.</p>
+            
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->
