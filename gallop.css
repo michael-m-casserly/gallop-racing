@@ -243,12 +243,6 @@ td {
   font-weight: bold;
 }
 
-.derby-horse {
-  font-weight: bold;
-  background-color: green;
-  color: #FFFFFF;
-}
-
 .top-draft-pick {
   background-color: yellow;
   font-weight: bold;
@@ -548,3 +542,34 @@ td.race-buttons {
   padding-bottom: 0px !important;
   text-align: center !important;
 }
+
+.derby-horse {
+  font-weight: bold;
+  background-color: green;
+  color: #FFFFFF;
+}
+
+/* Saddle Cloth Colors */
+.saddlecloth-color-1 { background-color: #FF0000 !important; color: #FFFFFF !important;} /* Red */
+.saddlecloth-color-2 { background-color: #FFFFFF !important; color: #000000 !important;} /* White */
+.saddlecloth-color-3 { background-color: #0000FF !important; color: #FFFFFF !important;} /* Blue */
+.saddlecloth-color-4 { background-color: #FFFF00 !important; color: #000000 !important;} /* Yellow */
+.saddlecloth-color-5 { background-color: #008000 !important; color: #FFFFFF !important;} /* Green */
+.saddlecloth-color-6 { background-color: #000000 !important; color: #FFFF00 !important;} /* Black */
+.saddlecloth-color-7 { background-color: #FFA500 !important; color: #000000 !important;} /* Orange */
+.saddlecloth-color-8 { background-color: #FFC0CB !important; color: #000000 !important;} /* Pink */
+.saddlecloth-color-9 { background-color: #40E0D0 !important; color: #000000 !important; } /* Turquiose */
+.saddlecloth-color-10 { background-color: #800080 !important; color: #FFFFFF !important;} /* Purple */
+.saddlecloth-color-11 { background-color: #d3d3d3 !important; color: #8B0000 !important;} /* Gray (Light Gray) / Red (Dark Red) Number to account for phone screen */
+.saddlecloth-color-12 { background-color: #32CD32 !important; color: #000000 !important;} /* Lime Green */
+.saddlecloth-color-13 { background-color: #A52A2A !important; color: #FFFFFF !important; } /* Brown */
+.saddlecloth-color-14 { background-color: #800000 !important; color: #FFFF00 !important;} /* Maroon */
+.saddlecloth-color-15 { background-color: #f0e68c !important; color: #000000 !important;} /* Khaki */
+.saddlecloth-color-16 { background-color: #add8e6 !important; color: #FF0000 !important;} /* Light Blue */
+.saddlecloth-color-17 { background-color: #000080 !important; color: #FFFFFF !important;} /* Navy */
+.saddlecloth-color-18 { background-color: #228B22 !important; color: #FFFF00 !important;} /* Forest Green */
+.saddlecloth-color-19 { background-color: #00008B !important; color: #FF0000 !important;} /* Dark Blue */
+.saddlecloth-color-20 { background-color: #FF00FF !important; color: #FFFF00 !important;} /* Fuschia */
+.saddlecloth-color-21 { background-color: #DDA0DD !important; color: #000080 !important;} /* Plum (Light Purple), Navy Number */
+.saddlecloth-color-22 { background-color: #4682B4 !important; color: #FFFFFF !important;} /* Steel Blue */
+.saddlecloth-color-23 { background-color: #20b2aa !important; color: #006400 !important;} /* Light Sea Green, Dark Green Number */
