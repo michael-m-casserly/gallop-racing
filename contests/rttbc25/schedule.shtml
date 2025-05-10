@@ -22,7 +22,7 @@
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
         <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
-        <li class="breadcrumb-item"><!--a class="PageTitleBreadCrumb" href="/contests/rttbc25/index.shtml"-->RTTBC 2025<!--/a--></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/rttbc25/index.shtml">RTTBC 2025</a></li>
         <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Schedule</span></li>
       </ol>
     </nav>

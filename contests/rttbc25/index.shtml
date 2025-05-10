@@ -46,42 +46,28 @@
       </div>
 
       <!--ADD THIS ROW BACK AFTER WEEK #1-->
-      <div class="row">
-        <!--begin left column-->
-        <div class="col-lg-4">
+      <!--div class="row">
+        <div class="col-lg-4"-->        
+          <!--include virtual="/modules/rttbc25/top-three-stables-graphic.html" -->
+        <!--/div>
+        <div class="col-lg-4"-->
+          <!--include virtual="/modules/rttbc25/tracker-season-progress.html" -->
+        <!--/div>    
+        <div class="col-lg-4"-->
+          <!--include virtual="/modules/rttbc25/top-row-in-season-buttons.shtml" -->
+        <!--/div>
         
-          <!--#include virtual="/modules/rttbc25/top-three-stables-graphic.html" -->
 
-        </div>
-        <!--end left column-->
-    
-        <!--begin middle column-->
-        <div class="col-lg-4">
-
-          <!--#include virtual="/modules/rttbc25/tracker-season-progress.html" -->
-
-        </div>
-        <!--end middle column-->
-    
-        <!--begin right column-->
-        <div class="col-lg-4">
-
-        <!--#include virtual="/modules/rttbc25/top-row-in-season-buttons.shtml" -->
-          
-        </div>
-        <!--end right column-->
-
-      </div>
+      </div-->
       <!--end row-->
 
       <div class="row">
         <div class="col-lg-4">
           <!--begin left column-->
           <!--include virtual="/modules/register.html" -->
-          <!--#include virtual="/modules/rttbc25/leaderboard-lite.html" -->
-          <!--include virtual="/modules/rttbc25/races-upcoming.html" -->
-          <!--#include virtual="/modules/rttbc25/contest-info.shtml" -->
-          <!--include virtual="/modules/rttbc25/top-three-stables-graphic.html" -->
+          <!--include virtual="/modules/rttbc25/leaderboard-lite.html" -->
+          <!--#include virtual="/modules/rttbc25/races-upcoming.html" -->
+          <!--include virtual="/modules/rttbc25/contest-info.shtml" -->
           <!--include virtual="/modules/rttbc25/final-standings.html" -->
           
         </div>
@@ -105,11 +91,11 @@
             <p><!--include virtual="/modules/rttbc25/stables-menu.html"--></p>
           <!--/div-->
             
-          <!--include virtual="/modules/rttbc25/contest-info.shtml" -->
-          <!--include virtual="/modules/resources-rttbc.html" -->
+          <!--#include virtual="/modules/rttbc25/contest-info.shtml" -->
+          <!--#include virtual="/modules/resources-rttbc.html" -->
 
           <!--ADD AFTER WEEK #1-->
-          <!--#include virtual="/modules/rttbc25/races-completed.html" -->
+          <!--include virtual="/modules/rttbc25/races-completed.html" -->
 
         </div>
         <!--end middle column-->
@@ -119,11 +105,11 @@
 
           <!--include virtual="/modules/rttbc25/races-completed.html" -->
 
-          <!--#include virtual="/modules/resources-rttbc.html" -->          
+          <!--include virtual="/modules/resources-rttbc.html" -->          
 
-          <!--#include virtual="/modules/rttbc25/leaderboard-points-per-entry.html" -->          
+          <!--include virtual="/modules/rttbc25/leaderboard-points-per-entry.html" -->          
 
-          <!--#include virtual="/modules/rttbc25/leaderboard-rankings-by-week.html" -->          
+          <!--include virtual="/modules/rttbc25/leaderboard-rankings-by-week.html" -->          
 
           <!--#include virtual="/modules/calendar.html" -->
           
@@ -165,7 +151,7 @@
                 <div class="col-lg-4">
                   <!--begin middle column-->
 
-                  <!--#include virtual="/modules/rttbc25/auto-draft-log.html"-->
+                  <!--include virtual="/modules/rttbc25/auto-draft-log.html"-->
 
                   
                 </div>
@@ -174,7 +160,7 @@
                 <div class="col-lg-4">
                 <!--begin right column-->
 
-                  <!--#include virtual="/modules/rttbc25/auto-draft-log-continued.html"-->
+                  <!--include virtual="/modules/rttbc25/auto-draft-log-continued.html"-->
                   <!--#include virtual="/modules/rttbc25/contest-notes.html"-->
 
                 </div>

@@ -6,11 +6,11 @@
 
   <!--ADD THIS BACK AFTER THE INITIAL DRAFT CLOSES, and the ALL STABLES PDF is GENERATED-->
 
-  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/2025_BCWC_Official_Pre-Entries.pdf" role="button" target="_blank"><svg
+  <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/2025_BCWC_Official_Pre-Entries.pdf" role="button" target="_blank"><svg
     class="bi" width="16" height="16" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-rttbc25-official-pre-entries">PDF</title>
     <use xlink:href="#filetype-pdf" />
-  </svg>&nbsp;Official Pre-Entries</a></p>
+  </svg>&nbsp;Official Pre-Entries</a></p-->
 
     <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC25-Schedule-by-Division.pdf" role="button" target="_blank"><svg
     class="bi" width="16" height="16" role="img" aria-label="PDF">
@@ -19,7 +19,7 @@
   </svg>&nbsp;Schedule by Division</a></p>
 
   <!--THIS NEEDS TO BE UPDATED FOR 2025 following Draft #1-->
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/pdf/RTTBC25-All-Stables.pdf" role="button" target="_blank"><svg
+  <!--p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/pdf/RTTBC25-All-Stables.pdf" role="button" target="_blank"><svg
         class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc25-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
@@ -32,10 +32,10 @@
       <title id="calendar-label-mouseover-rttbc25">Calendar</title>
       <use xlink:href="#calendar-date-fill" />
     </svg><br>Calendar</a>
-  </p>
+  </p-->
 
   <!--THIS ROW IS REDUNDANT FOR NOW; CAN ADD IT BACK IF ANYTHING CHANGES-->
-  <p class="module-button-wrapper">
+  <!--p class="module-button-wrapper">
     <a class="btn btn-secondary btn-half" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqZrF81U8RjuyV6O-ifhaFQ_Y85pVYMmpyXaQaYFgP2gQflGmQqnO3xFZmHHB7FLbqbAQYf9fU1O_l/pubhtml?gid=249132506&single=true" target="_blank" role="button"
       onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSqZrF81U8RjuyV6O-ifhaFQ_Y85pVYMmpyXaQaYFgP2gQflGmQqnO3xFZmHHB7FLbqbAQYf9fU1O_l/pubhtml?gid=249132506&single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google">
         <title id="google-label-mouseover-rttbc25-horses">Google</title>
@@ -46,7 +46,7 @@
         <title id="google-label-mouseover-rttbc25-schedule">Google</title>
         <use xlink:href="#google" />
       </svg><br>Schedule</a>
-  </p>
+  </p-->
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/news.shtml"
     role="button">News</a>
@@ -55,13 +55,8 @@
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rules.shtml"
       role="button">Rules</a>
-    <a class="btn btn-secondary btn-half" href="/contests/rttbc25/schedule.shtml" role="button">Schedule</a>
-  </p>
-
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rttbc25/stats.shtml"
-    role="button">Stats</a>
-  <a class="btn btn-secondary btn-half" href="/contests/strategies.shtml" role="button">Strategies</a>
-  </p>
+      <a class="btn btn-secondary btn-half" href="/contests/strategies.shtml" role="button">Strategies</a>
+    </p>
 
 <!-- ADD THIS ONCE THE SEASON IS COMPLETED
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC25-Leading-Horses-by-Stable.pdf"
@@ -76,8 +71,8 @@
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/data-disclaimer.shtml"
     role="button">Data Disclaimer</a></p>
 
-  <p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">*Cannot view other players' stables
+  <!--p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">*Cannot view other players' stables
     during Drafts or Power Pick selection windows. However, you can always use the "View All Stables" button above to see
-    any stable at any time (without Power Pick Access).</p>
+    any stable at any time (without Power Pick Access).</p-->
 
 </div>

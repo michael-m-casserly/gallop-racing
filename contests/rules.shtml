@@ -437,13 +437,13 @@
       <div class="accordion" id="accordionRulesRTTBC-AutoDraft">      
       <div class="accordion-item">
         <h2 class="accordion-header" id="headingRulesRTTBC-AutoDraft">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+          <button class="accordion-button" type="button" data-bs-toggle="collapse"
             data-bs-target="#collapseRulesRTTBC-AutoDraft" aria-expanded="false"
             aria-controls="collapseRulesRTTBC-AutoDraft">
             Auto-Draft (AUT) -- <i>RTTBC ONLY</i>
           </button>
         </h2>
-        <div id="collapseRulesRTTBC-AutoDraft" class="accordion-collapse collapse"
+        <div id="collapseRulesRTTBC-AutoDraft" class="accordion-collapse collapse show"
           aria-labelledby="headingRulesRTTBC-AutoDraft" data-bs-parent="#accordionRulesRTTBC-AutoDraft">
           <div class="accordion-body">
               <table class="TableStandard">
@@ -518,12 +518,12 @@
       <div class="accordion" id="accordionRulesRTTBC">
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingRulesRTTBC">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            <button class="accordion-button" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesRTTBC" aria-expanded="false" aria-controls="collapseRulesRTTBC">
               RTTBC (RBC)
             </button>
           </h2>
-          <div id="collapseRulesRTTBC" class="accordion-collapse collapse" aria-labelledby="headingRulesRTTBC"
+          <div id="collapseRulesRTTBC" class="accordion-collapse collapse show" aria-labelledby="headingRulesRTTBC"
             data-bs-parent="#accordionRulesRTTBC">
             <div class="accordion-body">
                 <table class="TableStandard">
@@ -568,12 +568,12 @@
       <div class="accordion" id="accordionRulesRTTR">
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingRulesRTTR">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesRTTR" aria-expanded="false" aria-controls="collapseRulesRTTR">
               RTTR (RTR)
             </button>
           </h2>
-          <div id="collapseRulesRTTR" class="accordion-collapse collapse show" aria-labelledby="headingRulesRTTR"
+          <div id="collapseRulesRTTR" class="accordion-collapse collapse" aria-labelledby="headingRulesRTTR"
             data-bs-parent="#accordionRulesRTTR">
             <div class="accordion-body">
                 <table class="TableStandard">
