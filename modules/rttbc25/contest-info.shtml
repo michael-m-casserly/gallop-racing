@@ -1,5 +1,5 @@
 <div class="round-border">
-    <h5>RTTBC '25 Info</h5>
+  <h5>RTTBC '25 Info</h5>
 
   <!--Placeholder Message-->
   <!--p>Links to the RTTBC25 Leaderboard, Calendar, Horses, and Rules will be available here when the contest begins.</p-->
@@ -12,11 +12,11 @@
     <use xlink:href="#filetype-pdf" />
   </svg>&nbsp;Official Pre-Entries</a></p-->
 
-    <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC25-Schedule-by-Division.pdf" role="button" target="_blank"><svg
-    class="bi" width="16" height="16" role="img" aria-label="PDF">
-    <title id="pdf-label-mouseover-rttbc25-schedule-by-division">PDF</title>
-    <use xlink:href="#filetype-pdf" />
-  </svg>&nbsp;Schedule by Division</a></p>
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC25-Schedule-by-Division.pdf"
+      role="button" target="_blank"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
+        <title id="pdf-label-mouseover-rttbc25-schedule-by-division">PDF</title>
+        <use xlink:href="#filetype-pdf" />
+      </svg>&nbsp;Schedule by Division</a></p>
 
   <!--THIS NEEDS TO BE UPDATED FOR 2025 following Draft #1-->
   <!--p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/pdf/RTTBC25-All-Stables.pdf" role="button" target="_blank"><svg
@@ -48,17 +48,16 @@
       </svg><br>Schedule</a>
   </p-->
 
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/news.shtml"
-    role="button">News</a>
-  <a class="btn btn-secondary btn-half" href="/contests/resources.shtml" role="button">Resources</a>
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/news.shtml" role="button">News</a>
+    <a class="btn btn-secondary btn-half" href="/contests/resources.shtml" role="button">Resources</a>
   </p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rules.shtml"
       role="button">Rules</a>
-      <a class="btn btn-secondary btn-half" href="/contests/strategies.shtml" role="button">Strategies</a>
-    </p>
+    <a class="btn btn-secondary btn-half" href="/contests/strategies.shtml" role="button">Strategies</a>
+  </p>
 
-<!-- ADD THIS ONCE THE SEASON IS COMPLETED
+  <!-- ADD THIS ONCE THE SEASON IS COMPLETED
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC25-Leading-Horses-by-Stable.pdf"
     target="_blank" role="button"
     onclick="captureOutboundLink('/pdf/RTTBC25-Leading-Horses-by-Stable.pdf');"><svg
@@ -68,8 +67,12 @@
   </svg> Leading Horses by Stable</a></p>
 -->
 
+  <!--THIS GETS ADDED DURING DRAFT #1-->
+  <!--ADD THIS BACK ONCE RTTBC25 REGISTRATION CLOSES-->
+  <!--p--><!--include virtual="/modules/rttbc25/stables-menu.html"--><!--/p-->
+  
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/data-disclaimer.shtml"
-    role="button">Data Disclaimer</a></p>
+      role="button">Data Disclaimer</a></p>
 
   <!--p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">*Cannot view other players' stables
     during Drafts or Power Pick selection windows. However, you can always use the "View All Stables" button above to see

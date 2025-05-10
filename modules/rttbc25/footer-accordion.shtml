@@ -1,0 +1,49 @@
+      <div class="accordion" id="accordionRTTBC25data">
+
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingThree">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree"
+              aria-expanded="false" aria-controls="collapseThree">
+              How to Play / RTTBC Scoring / Contest Notes / Auto-Draft Log
+            </button>
+          </h2>
+          <div id="collapseThree" class="accordion-collapse collapse show" aria-labelledby="headingThree"
+            data-bs-parent="#accordionRTTBC25data">
+            <div class="accordion-body accordion-td-cell">
+
+              <div class="row">
+                <div class="col-lg-4">
+                  <!--begin left column-->
+
+                  <!--#include virtual="/modules/how-to-play-rttbc.html" -->
+                  <!--include virtual="/modules/rttbc-scoring-table.html" --> <!--Swap these before/after contest starts-->
+
+                </div>
+                <!--end left column-->
+
+                <div class="col-lg-4">
+                  <!--begin middle column-->
+
+                  <!--#include virtual="/modules/rttbc-scoring-table.html" --> <!--Swap these before/after contest starts-->
+                  <!--include virtual="/modules/rttbc25/auto-draft-log.html"-->
+
+                </div>
+                <!--end middle column-->
+
+                <div class="col-lg-4">
+                  <!--begin right column-->
+
+                  <!--include virtual="/modules/rttbc25/auto-draft-log-continued.html"-->
+                  <!--#include virtual="/modules/rttbc25/contest-notes.html"-->
+
+                </div>
+                <!--end right column-->
+
+              </div>
+              <!--end row-->
+
+            </div>
+          </div>
+        </div>
+
+      </div>

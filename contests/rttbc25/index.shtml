@@ -6,13 +6,13 @@
 
   <title>Road to the Breeders' Cup 2025 | Gallop Racing</title>
 
-    <!--Special P style for RTTBC 22 page only-->
-    <style>
-      p {
-        text-align: center;
-      }
-    </style>
-  
+  <!--Special P style for RTTBC 22 page only-->
+  <style>
+    p {
+      text-align: center;
+    }
+  </style>
+
   <link rel="canonical" href="https://www.gallop-racing.com/contests/rttbc25/index.shtml">
 
 </head>
@@ -37,7 +37,9 @@
       <h3>Road to the Breeders' Cup<br>2025 Contest</h3>
     </div>
 
-<!--include virtual="/countdown-timer-rttbc.html" -->
+    <!--include virtual="/countdown-timer-rttbc.html" -->
+
+    <!--#include virtual="/contests/subnav-menu.html" -->
 
     <div class="container marketing">
 
@@ -47,15 +49,15 @@
 
       <!--ADD THIS ROW BACK AFTER WEEK #1-->
       <!--div class="row">
-        <div class="col-lg-4"-->        
-          <!--include virtual="/modules/rttbc25/top-three-stables-graphic.html" -->
-        <!--/div>
         <div class="col-lg-4"-->
-          <!--include virtual="/modules/rttbc25/tracker-season-progress.html" -->
-        <!--/div>    
+      <!--include virtual="/modules/rttbc25/top-three-stables-graphic.html" -->
+      <!--/div>
         <div class="col-lg-4"-->
-          <!--include virtual="/modules/rttbc25/top-row-in-season-buttons.shtml" -->
-        <!--/div>
+      <!--include virtual="/modules/rttbc25/tracker-season-progress.html" -->
+      <!--/div>    
+        <div class="col-lg-4"-->
+      <!--include virtual="/modules/rttbc25/top-row-in-season-buttons.shtml" -->
+      <!--/div>
         
 
       </div-->
@@ -69,7 +71,7 @@
           <!--#include virtual="/modules/rttbc25/races-upcoming.html" -->
           <!--include virtual="/modules/rttbc25/contest-info.shtml" -->
           <!--include virtual="/modules/rttbc25/final-standings.html" -->
-          
+
         </div>
         <!--end left column-->
 
@@ -77,20 +79,17 @@
           <!--begin middle column-->
 
           <!--div class="module-no-border" style="padding-bottom: 0px !important; margin-bottom: 0px !important;"-->
-            <!--THIS GETS ADDED AT THE END OF THE SEASON-->
-            <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC25-League-Sheet-Leaderboard.pdf" target="_blank" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF"><title id="pdf-label-mouseover-rttbc25-leaderboard">PDF</title><use xlink:href="#filetype-pdf" /></svg>&nbsp;Full Leaderboard</a></p-->
-            
-            <!--THIS GETS ADDED DURING DRAFT #1-->
-            <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRp7svMLtXWHciFBP8HB6n_aNbYgq42IHr-s4tb3HrqbIq4xmEXPQFfhewETCf4ieAETjVvU9SM4y8a/pubhtml?gid=1411863973&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRp7svMLtXWHciFBP8HB6n_aNbYgq42IHr-s4tb3HrqbIq4xmEXPQFfhewETCf4ieAETjVvU9SM4y8a/pubhtml?gid=1411863973&single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google"><title id="google-label-mouseover-rttbc25-full-schedule">Google Drive</title><use xlink:href="#google" /></svg>&nbsp;Full Schedule&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+          <!--THIS GETS ADDED AT THE END OF THE SEASON-->
+          <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC25-League-Sheet-Leaderboard.pdf" target="_blank" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF"><title id="pdf-label-mouseover-rttbc25-leaderboard">PDF</title><use xlink:href="#filetype-pdf" /></svg>&nbsp;Full Leaderboard</a></p-->
+
+          <!--THIS GETS ADDED DURING DRAFT #1-->
+          <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRp7svMLtXWHciFBP8HB6n_aNbYgq42IHr-s4tb3HrqbIq4xmEXPQFfhewETCf4ieAETjVvU9SM4y8a/pubhtml?gid=1411863973&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRp7svMLtXWHciFBP8HB6n_aNbYgq42IHr-s4tb3HrqbIq4xmEXPQFfhewETCf4ieAETjVvU9SM4y8a/pubhtml?gid=1411863973&single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google"><title id="google-label-mouseover-rttbc25-full-schedule">Google Drive</title><use xlink:href="#google" /></svg>&nbsp;Full Schedule&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
               <title id="arrow-up-right-circle-full-schedule">New Window</title>
               <use xlink:href="#arrow-up-right-circle" />
             </svg></a></p-->
-  
-            <!--THIS GETS ADDED DURING DRAFT #1-->
-            <!--ADD THIS BACK ONCE RTTBC25 REGISTRATION CLOSES-->
-            <p><!--include virtual="/modules/rttbc25/stables-menu.html"--></p>
+
           <!--/div-->
-            
+
           <!--#include virtual="/modules/rttbc25/contest-info.shtml" -->
           <!--#include virtual="/modules/resources-rttbc.html" -->
 
@@ -105,14 +104,14 @@
 
           <!--include virtual="/modules/rttbc25/races-completed.html" -->
 
-          <!--include virtual="/modules/resources-rttbc.html" -->          
+          <!--include virtual="/modules/resources-rttbc.html" -->
 
-          <!--include virtual="/modules/rttbc25/leaderboard-points-per-entry.html" -->          
+          <!--include virtual="/modules/rttbc25/leaderboard-points-per-entry.html" -->
 
-          <!--include virtual="/modules/rttbc25/leaderboard-rankings-by-week.html" -->          
+          <!--include virtual="/modules/rttbc25/leaderboard-rankings-by-week.html" -->
 
           <!--#include virtual="/modules/calendar.html" -->
-          
+
           <div class="round-border">
             <!--#include virtual="/modules/stakes-calendar.html" -->
             <br>
@@ -125,56 +124,8 @@
       </div>
       <!--row #1-->
 
-      <div class="accordion" id="accordionRTTBC25data">
+      <!--#include virtual="/modules/rttbc25/footer-accordion.shtml" -->
 
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="headingThree">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse"
-              data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-              How to Play / RTTBC Scoring / Contest Notes / Auto-Draft Log
-            </button>
-          </h2>
-          <div id="collapseThree" class="accordion-collapse collapse show" aria-labelledby="headingThree"
-            data-bs-parent="#accordionRTTBC25data">
-            <div class="accordion-body accordion-td-cell">
-
-              <div class="row">
-                <div class="col-lg-4">
-                  <!--begin left column-->
-
-                  <!--#include virtual="/modules/how-to-play-rttbc.html" -->
-                  <!--#include virtual="/modules/rttbc-scoring-table.html" -->
-
-                </div>
-                <!--end left column-->
-
-                <div class="col-lg-4">
-                  <!--begin middle column-->
-
-                  <!--include virtual="/modules/rttbc25/auto-draft-log.html"-->
-
-                  
-                </div>
-                <!--end middle column-->
-
-                <div class="col-lg-4">
-                <!--begin right column-->
-
-                  <!--include virtual="/modules/rttbc25/auto-draft-log-continued.html"-->
-                  <!--#include virtual="/modules/rttbc25/contest-notes.html"-->
-
-                </div>
-                <!--end right column-->
-
-              </div>
-              <!--end row-->
-
-            </div>
-          </div>
-        </div>
-
-      </div>
-            
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->

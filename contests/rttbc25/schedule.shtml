@@ -22,7 +22,8 @@
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
         <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
-        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/rttbc25/index.shtml">RTTBC 2025</a></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/rttbc25/index.shtml">RTTBC 2025</a>
+        </li>
         <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Schedule</span></li>
       </ol>
     </nav>
@@ -31,6 +32,7 @@
       <h3>Road to the Breeders' Cup<br>2025 Schedule</h3>
     </div>
 
+    <!--#include virtual="/contests/subnav-menu.html" -->
 
     <div class="container marketing">
 
@@ -62,11 +64,14 @@
             <td class="table-legend-bc-previous-placed">Previous Breeders' Cup Placed. (Not in RTTBC25 Stable)</td>
           </tr>
           <tr>
-            <td class="table-legend-bc-wayi">Breeders' Cup "Win And You're In" OR<br>Breeders' Cup "Dirt Dozen" Winner. (Not in RTTBC25 Stable)</td>
+            <td class="table-legend-bc-wayi">Breeders' Cup "Win And You're In" OR<br>Breeders' Cup "Dirt Dozen" Winner.
+              (Not in RTTBC25 Stable)</td>
           </tr>
         </table>
       </div>
-      
+
+      <!--#include virtual="/modules/rttbc25/footer-accordion.shtml" -->
+
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->
