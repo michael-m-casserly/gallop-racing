@@ -8,7 +8,7 @@
 
   <link rel="canonical" href="https://www.gallop-racing.com/contests/rules.shtml">
 
-<!--Special styles for Rules page only-->
+  <!--Special styles for Rules page only-->
   <style>
     .accordion-body {
       padding: 0px;
@@ -118,32 +118,37 @@
           <div id="collapseRulesAllContestsFormat" class="accordion-collapse collapse"
             aria-labelledby="headingRulesAllContestsFormat" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
-                <table class="TableStandard">
-                  <tr>
-                    <th class="TableHeader text-align-center">FOR-001</th>
-                  </tr>
-                  <tr>
-                    <td>During all drafting activities, Individual Stables will be private to the Stable Owner and League Commissioner (see Rule #MIS-001 for additional information on this).</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">FOR-002</th>
-                  </tr>
-                  <tr>
-                    <td>If a jockey were to contract Covid-19 during the RTTR/RTTBC contest and need to miss time, it is the same as if he were injured. There will be no options for replacements.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">FOR-003</th>
-                  </tr>
-                  <tr>
-                    <td>If a suspended Trainer's horses run under an Assistant Trainer's name, any winners will NOT be eligible for RTTR/RTTBC Trainer points. Only horses entered under the Trainer's name remain eligible for Trainer points.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">FOR-004</th>
-                  </tr>
-                  <tr>
-                    <td>All Draft picks are FINAL once the respective draft period ends. If a horse gets injured, scratched, etc., you cannot swap him out for another horse.</td>
-                  </tr>
-                </table>
+              <table class="TableStandard">
+                <tr>
+                  <th class="TableHeader text-align-center">FOR-001</th>
+                </tr>
+                <tr>
+                  <td>During all drafting activities, Individual Stables will be private to the Stable Owner and League
+                    Commissioner (see Rule #MIS-001 for additional information on this).</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">FOR-002</th>
+                </tr>
+                <tr>
+                  <td>If a jockey were to contract Covid-19 during the RTTR/RTTBC contest and need to miss time, it is
+                    the same as if he were injured. There will be no options for replacements.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">FOR-003</th>
+                </tr>
+                <tr>
+                  <td>If a suspended Trainer's horses run under an Assistant Trainer's name, any winners will NOT be
+                    eligible for RTTR/RTTBC Trainer points. Only horses entered under the Trainer's name remain eligible
+                    for Trainer points.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">FOR-004</th>
+                </tr>
+                <tr>
+                  <td>All Draft picks are FINAL once the respective draft period ends. If a horse gets injured,
+                    scratched, etc., you cannot swap him out for another horse.</td>
+                </tr>
+              </table>
             </div>
           </div>
         </div>
@@ -159,20 +164,26 @@
           <div id="collapseRulesAllContestsMiscellaneous" class="accordion-collapse collapse"
             aria-labelledby="headingRulesAllContestsMiscellaneous" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
-                <table class="TableStandard">
-                  <tr>
-                    <th class="TableHeader text-align-center">MIS-001</th>
-                  </tr>
-                  <tr>
-                    <td>The League Commissioner will also be a participant in the game. The Commissioner will set his Power Picks each week before looking at any player's stables to avoid conflicts of interest. The Commissioner will also draft all of his horses before viewing anyone else's stables. In addition, he will notify the league members in any case that applies to Rule #PWH-002, where he needs to switch a Power Pick in his stable due to an early scratch on a Sunday race.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">MIS-002</th>
-                  </tr>
-                  <tr>
-                    <td>If any situation arises not covered by any of the rules mentioned here, it will be raised by the League Commissioner and brought before the League Membership for a vote. The majority will win, and ties will lose.</td>
-                  </tr>
-                </table>
+              <table class="TableStandard">
+                <tr>
+                  <th class="TableHeader text-align-center">MIS-001</th>
+                </tr>
+                <tr>
+                  <td>The League Commissioner will also be a participant in the game. The Commissioner will set his
+                    Power Picks each week before looking at any player's stables to avoid conflicts of interest. The
+                    Commissioner will also draft all of his horses before viewing anyone else's stables. In addition, he
+                    will notify the league members in any case that applies to Rule #PWH-002, where he needs to switch a
+                    Power Pick in his stable due to an early scratch on a Sunday race.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">MIS-002</th>
+                </tr>
+                <tr>
+                  <td>If any situation arises not covered by any of the rules mentioned here, it will be raised by the
+                    League Commissioner and brought before the League Membership for a vote. The majority will win, and
+                    ties will lose.</td>
+                </tr>
+              </table>
             </div>
           </div>
         </div>
@@ -188,60 +199,85 @@
           <div id="collapseRulesAllContestsPowerHorses" class="accordion-collapse collapse"
             aria-labelledby="headingRulesAllContestsPowerHorses" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
-                <table class="TableStandard">
-                  <tr>
-                    <th class="TableHeader text-align-center">PWH-001</th>
-                  </tr>
-                  <tr>
-                    <td>Power Picks must be selected by a pre-determined deadline on the day of the first race that week (typically Saturday). After that, your three Power Picks are set for the weekend. See exception in Rule #PWH-002.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">PWH-002</th>
-                  </tr>
-                  <tr>
-                    <td>One exception to Rule #PWH-001: If there is a Sunday race, and one of your Power Picks from that Sunday race becomes an early scratch (by Noon on Sunday, local track time), then you can contact <a href="mailto:support@gallop-racing.com" target="_blank">support@gallop-racing.com</a> directly to swap that Power Pick with another entry that day if applicable.
+              <table class="TableStandard">
+                <tr>
+                  <th class="TableHeader text-align-center">PWH-001</th>
+                </tr>
+                <tr>
+                  <td>Power Picks must be selected by a pre-determined deadline on the day of the first race that week
+                    (typically Saturday). After that, your 3 Power Picks are set for the weekend. See exception in Rule
+                    #PWH-002.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">PWH-002</th>
+                </tr>
+                <tr>
+                  <td>One exception to Rule #PWH-001: If there is a Sunday race, and one of your Power Picks from that
+                    Sunday race becomes an early scratch (by Noon on Sunday, local track time), then you can contact <a
+                      href="mailto:support@gallop-racing.com" target="_blank">support@gallop-racing.com</a> directly to
+                    swap that Power Pick with another entry that day if applicable.
                     <br><br>
-                    <b>Please note:</b> This exception does not apply to Breeders' Cup Weekend. Once your Power Picks are set on Friday they cannot change regardless of any later scratches on Saturday (early or late).</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">PWH-003</th>
-                  </tr>
-                  <tr>
-                    <td>Late scratches (scratches that occur after the Power Pick selection deadline) will not be considered in Power Pick selection. You will not be able to switch any Power Picks after the selection window closes on Race Day.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">PWH-004</th>
-                  </tr>
-                  <tr>
-                    <td>Stable Power Pick Selections will remain private throughout the selection window of the contest each week to protect the integrity of the Power Pick selection process. In other words, we do not want to allow players to gain an advantage or disadvantage based on the timing of when they submit their Power Picks for any given week.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">PWH-005</th>
-                  </tr>
-                  <tr>
-                    <td>The maximum amount of Power Picks you can select in any given week will be three. The lone exception to this will be Breeders' Cup Weekend, where you can choose seven.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">PWH-006</th>
-                  </tr>
-                  <tr>
-                    <td>Each week there will be an "Auto-Set" function run after all of the Entries are published. This function will automatically select the three Power Picks for any stables with three or fewer Power Picks entered. These stables will not need to take any action.
-                    <br><br>
-                    For stables that have four or more horses entered in any given week, they will need to manually select their three Power Picks before the deadline for that week.
-                    <br><br>
-                    The Power Picks selection window will vary from week to week, depending on when the final entries from each track are published. At a minimum, you would have all day on Friday to select your Power Picks. In most cases, the Power Pick selection deadline will be sometime on Saturday afternoon (depending on the Post Time of the 1st scoring race.)<br>
-                    These weekly deadlines will always be available on the <a href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=agenda" target="_blank">calendar</a> and shared via email each week.
-                  <br><br>
-                  <b>The "Auto-Set" function is not available on Breeders' Cup Weekend.</b> Even if your stable has fewer than the minimum number of horses entered, you will still need to set your Power Picks manually.
+                    <b>Please note:</b> This exception does not apply to Breeders' Cup Weekend. Once your Power Picks
+                    are set on Friday they cannot change regardless of any later scratches on Saturday (early or late).
                   </td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">PWH-007</th>
-                  </tr>
-                  <tr>
-                    <td>The first three choices (from the top-down) are selected if a stable exceeds the maximum number of Power Picks. Any selections after that will be unchecked. There will be no consideration for M/L odds, race-grade, whether the horse entered, etc.</td>
-                  </tr>
-                </table>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">PWH-003</th>
+                </tr>
+                <tr>
+                  <td>Late scratches (scratches that occur after the Power Pick selection deadline) will not be
+                    considered in Power Pick selection. You will not be able to switch any Power Picks after the
+                    selection window closes on Race Day.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">PWH-004</th>
+                </tr>
+                <tr>
+                  <td>Stable Power Pick Selections will remain private throughout the selection window of the contest
+                    each week to protect the integrity of the Power Pick selection process. In other words, we do not
+                    want to allow players to gain an advantage or disadvantage based on the timing of when they submit
+                    their Power Picks for any given week.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">PWH-005</th>
+                </tr>
+                <tr>
+                  <td>The maximum amount of Power Picks you can select in any given week will be three. The lone
+                    exception to this will be Breeders' Cup Weekend, where you can choose seven.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">PWH-006</th>
+                </tr>
+                <tr>
+                  <td>Each week there will be an "Auto-Set" function run after all of the Entries are published. This
+                    function will automatically select the 3 Power Picks for any stables with 3 or fewer Power Picks
+                    entered. These stables will not need to take any action.
+                    <br><br>
+                    For stables that have four or more horses entered in any given week, they will need to manually
+                    select their 3 Power Picks before the deadline for that week.
+                    <br><br>
+                    The Power Picks selection window will vary from week to week, depending on when the final entries
+                    from each track are published. At a minimum, you would have all day on Friday to select your Power
+                    Picks. In most cases, the Power Pick selection deadline will be sometime on Saturday afternoon
+                    (depending on the Post Time of the 1st scoring race.)<br>
+                    These weekly deadlines will always be available on the <a
+                      href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=agenda"
+                      target="_blank">calendar</a> and shared via email each week.
+                    <br><br>
+                    <b>The "Auto-Set" function is not available on Breeders' Cup Weekend.</b> Even if your stable has
+                    fewer than the minimum number of horses entered, you will still need to set your Power Picks
+                    manually.
+                  </td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">PWH-007</th>
+                </tr>
+                <tr>
+                  <td>The first 3 choices (from the top-down) are selected if a stable exceeds the maximum number of
+                    Power Picks. Any selections after that will be unchecked. There will be no consideration for M/L
+                    odds, race-grade, whether the horse entered, etc.</td>
+                </tr>
+              </table>
             </div>
           </div>
         </div>
@@ -257,26 +293,32 @@
           <div id="collapseRulesAllContestsSchedule" class="accordion-collapse collapse"
             aria-labelledby="headingRulesAllContestsSchedule" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
-                <table class="TableStandard">
-                  <tr>
-                    <th class="TableHeader text-align-center">SCH-001</th>
-                  </tr>
-                  <tr>
-                    <td>If any race is canceled or rescheduled due to COVID (or any other reason, weather, etc.), it will fall into the Race Schedule where it lands. It should not impact any additional draft dates, assuming the race gets rescheduled for a Saturday. If this is not the case, we will vote on a solution.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">SCH-002</th>
-                  </tr>
-                  <tr>
-                    <td>If a canceled race ends up not being rescheduled, then RTTR/RTTBC will follow the guidelines set forth by the Industry. If the Industry chooses a different race for those horses to have the opportunity to earn those missed points, then we will add that race (and the respective points) to our RTTR/RTTBC Race Schedule.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">SCH-003</th>
-                  </tr>
-                  <tr>
-                    <td>The Race Schedule is tentative (final scheduled dates will apply to the contest).</td>
-                  </tr>
-                </table>
+              <table class="TableStandard">
+                <tr>
+                  <th class="TableHeader text-align-center">SCH-001</th>
+                </tr>
+                <tr>
+                  <td>If any race is canceled or rescheduled due to COVID (or any other reason, weather, etc.), it will
+                    fall into the Race Schedule where it lands. It should not impact any additional draft dates,
+                    assuming the race gets rescheduled for a Saturday. If this is not the case, we will vote on a
+                    solution.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">SCH-002</th>
+                </tr>
+                <tr>
+                  <td>If a canceled race ends up not being rescheduled, then RTTR/RTTBC will follow the guidelines set
+                    forth by the Industry. If the Industry chooses a different race for those horses to have the
+                    opportunity to earn those missed points, then we will add that race (and the respective points) to
+                    our RTTR/RTTBC Race Schedule.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">SCH-003</th>
+                </tr>
+                <tr>
+                  <td>The Race Schedule is tentative (final scheduled dates will apply to the contest).</td>
+                </tr>
+              </table>
             </div>
           </div>
         </div>
@@ -292,64 +334,86 @@
           <div id="collapseRulesAllContestsScoring" class="accordion-collapse collapse"
             aria-labelledby="headingRulesAllContestsScoring" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
-                <table class="TableStandard">
-                  <tr>
-                    <th class="TableHeader text-align-center">SCR-001</th>
-                  </tr>
-                  <tr>
-                    <td>Your entire Stable is eligible to score points in every race without any action required on your part.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">SCR-002</th>
-                  </tr>
-                  <tr>
-                    <td>By a pre-determined time each week, you may select three of your horses to act as "Power Picks" for that week. If any of these three Power Picks score points in a race that weekend, you will earn 2x those points. "Week" is used to determine race groupings. Please refer to the Race Schedule Sheet for more details.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">SCR-003</th>
-                  </tr>
-                  <tr>
-                    <td>If you don't select any Power Picks, you will only earn the regular amount of points for any winners.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">SCR-004</th>
-                  </tr>
-                  <tr>
-                    <td>In the event of a dead-heat (tie) those horses will divide equally the points they would have received jointly had one beaten the other.
+              <table class="TableStandard">
+                <tr>
+                  <th class="TableHeader text-align-center">SCR-001</th>
+                </tr>
+                <tr>
+                  <td>Your entire Stable is eligible to score points in every race without any action required on your
+                    part.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">SCR-002</th>
+                </tr>
+                <tr>
+                  <td>By a pre-determined time each week, you may select 3 of your horses to act as "Power Picks" for
+                    that week. If any of these 3 Power Picks score points in a race that weekend, you will earn 2x those
+                    points. "Week" is used to determine race groupings. Please refer to the Race Schedule Sheet for more
+                    details.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">SCR-003</th>
+                </tr>
+                <tr>
+                  <td>If you don't select any Power Picks, you will only earn the regular amount of points for any
+                    winners.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">SCR-004</th>
+                </tr>
+                <tr>
+                  <td>In the event of a dead-heat (tie) those horses will divide equally the points they would have
+                    received jointly had one beaten the other.
                     <br><br>
-                    The same logic applies for any Trainer/Jockey/Sire points on a dead-heat for Win. Those T/J/S points will be divided equally.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">SCR-005</th>
-                  </tr>
-                  <tr>
-                    <td>Any "Split-Division" races will be considered two different races. In years past, only the Southwest Stakes has done this. I'm not sure when they decide to split races, but I'm creating this rule to confirm that if any of the listed races becomes a split-division race, we will score it as two races. It will not impact Power Pick selection either. You can still only select three per week.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">SCR-006</th>
-                  </tr>
-                  <tr>
-                    <td>All Horses, Trainers, and Jockeys officially entered into a race are eligible to score RTTR/RTTBC points. This contest will not consider any external situations (such as Bob Baffert's entries being not-eligible for Derby Points) in RTTR/RTTBC contest scoring. If players choose to draft a horse/trainer/jockey currently involved in pending litigation they accept the inherent risk of those selections no longer being available during the contest. There will be no substitutions available once the contest begins.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">SCR-007</th>
-                  </tr>
-                  <tr>
-                    <td>The "Official" race results apply in our contest. These are the race day results used to determine the FINAL payouts at the track (including the placement of any "For Purse Only" runners). If a horse subsequently becomes disqualified from a race at a later date (due to a drug violation, etc.), this will NOT change the results of our contest.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">SCR-008</th>
-                  </tr>
-                  <tr>
-                    <td>Coupled Entries are not applicable for scoring purposes. You will only earn points for the actual horse in your stable and not their coupled-entry.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">SCR-009</th>
-                  </tr>
-                  <tr>
-                    <td>2x "Power Points" are for horses ONLY. There are no Power Points for trainers, jockeys, or sires.</td>
-                  </tr>
-                </table>
+                    The same logic applies for any Trainer/Jockey/Sire points on a dead-heat for Win. Those T/J/S points
+                    will be divided equally.
+                  </td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">SCR-005</th>
+                </tr>
+                <tr>
+                  <td>Any "Split-Division" races will be considered two different races. In years past, only the
+                    Southwest Stakes has done this. I'm not sure when they decide to split races, but I'm creating this
+                    rule to confirm that if any of the listed races becomes a split-division race, we will score it as
+                    two races. It will not impact Power Pick selection either. You can still only select 3 per week.
+                  </td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">SCR-006</th>
+                </tr>
+                <tr>
+                  <td>All Horses, Trainers, and Jockeys officially entered into a race are eligible to score RTTR/RTTBC
+                    points. This contest will not consider any external situations (such as Bob Baffert's entries being
+                    not-eligible for Derby Points) in RTTR/RTTBC contest scoring. If players choose to draft a
+                    horse/trainer/jockey currently involved in pending litigation they accept the inherent risk of those
+                    selections no longer being available during the contest. There will be no substitutions available
+                    once the contest begins.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">SCR-007</th>
+                </tr>
+                <tr>
+                  <td>The "Official" race results apply in our contest. These are the race day results used to determine
+                    the FINAL payouts at the track (including the placement of any "For Purse Only" runners). If a horse
+                    subsequently becomes disqualified from a race at a later date (due to a drug violation, etc.), this
+                    will NOT change the results of our contest.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">SCR-008</th>
+                </tr>
+                <tr>
+                  <td>Coupled Entries are not applicable for scoring purposes. You will only earn points for the actual
+                    horse in your stable and not their coupled-entry.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">SCR-009</th>
+                </tr>
+                <tr>
+                  <td>2x "Power Points" are for horses ONLY. There are no Power Points for trainers, jockeys, or sires.
+                  </td>
+                </tr>
+              </table>
             </div>
           </div>
         </div>
@@ -365,35 +429,42 @@
           <div id="collapseRulesAllContestsSetup" class="accordion-collapse collapse"
             aria-labelledby="headingRulesAllContestsSetup" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
-                <table class="TableStandard">
-                  <tr>
-                    <th class="TableHeader text-align-center">SET-001</th>
-                  </tr>
-                  <tr>
-                    <td>Please fill out all highlighted text items (Column B) on your individual "Stable Entry" Google Sheet and submit it <!--with your entry fee--> before the deadline listed on the Race Schedule.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">SET-002 (Original)</th>
-                  </tr>
-                  <tr>
-                    <td style="text-decoration: line-through;">Each player will select a Winning Time for this year's Kentucky Derby OR Breeder's Cup Classic, used in case of any tiebreaker at the end of the year. The player with the closest time (to the millisecond without going over) will be considered the winner. If multiple players select the same winning time and are involved in a tiebreaker, they are declared co-winners.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">SET-002 (Revised Jan. 2025)</th>
-                  </tr>
-                  <tr>
-                    <td>If there are multiple stables with equal total points in one of the placings, then the following tie-breaker rules will apply:
-                      <ol>
-                        <li>Horse Points</li>
-                        <li>Points per Entry</li>
-                        <li>Trainer Points</li>
-                        <li>Jockey Points</li>
-                        <li>Sire Points (RTTBC Only)</li>
-                        <li>Average Ranking (<i>in "Ranking by Week"</i>)</li>
-                      </ol>
-                      If multiple players are still tied after these 6 scenarios, they will be declared co-winners.</td>
-                  </tr>
-                </table>
+              <table class="TableStandard">
+                <tr>
+                  <th class="TableHeader text-align-center">SET-001</th>
+                </tr>
+                <tr>
+                  <td>Please fill out all highlighted text items (Column B) on your individual "Stable Entry" Google
+                    Sheet and submit it <!--with your entry fee--> before the deadline listed on the Race Schedule.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">SET-002 (Original)</th>
+                </tr>
+                <tr>
+                  <td style="text-decoration: line-through;">Each player will select a Winning Time for this year's
+                    Kentucky Derby OR Breeder's Cup Classic, used in case of any tiebreaker at the end of the year. The
+                    player with the closest time (to the millisecond without going over) will be considered the winner.
+                    If multiple players select the same winning time and are involved in a tiebreaker, they are declared
+                    co-winners.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">SET-002 (Revised Jan. 2025)</th>
+                </tr>
+                <tr>
+                  <td>If there are multiple stables with equal total points in one of the placings, then the following
+                    tie-breaker rules will apply:
+                    <ol>
+                      <li>Horse Points</li>
+                      <li>Points per Entry</li>
+                      <li>Trainer Points</li>
+                      <li>Jockey Points</li>
+                      <li>Sire Points (RTTBC Only)</li>
+                      <li>Average Ranking (<i>in "Ranking by Week"</i>)</li>
+                    </ol>
+                    If multiple players are still tied after these 6 scenarios, they will be declared co-winners.
+                  </td>
+                </tr>
+              </table>
             </div>
           </div>
         </div>
@@ -409,20 +480,22 @@
           <div id="collapseRulesAllContestsTimeline" class="accordion-collapse collapse"
             aria-labelledby="headingRulesAllContestsTimeline" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
-                <table class="TableStandard">
-                  <tr>
-                    <th class="TableHeader text-align-center">TIM-001</th>
-                  </tr>
-                  <tr>
-                    <td>After a pre-determined deadline on Race Day (typically Saturday), Stable Entry sheets will lock. It will be unlocked again after a pre-determined time the following week to allow you to select your three Power Picks for that coming week.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">TIM-002</th>
-                  </tr>
-                  <tr>
-                    <td>Any reference to time implies Eastern Standard Time (EST) (unless otherwise stated).</td>
-                  </tr>
-                </table>
+              <table class="TableStandard">
+                <tr>
+                  <th class="TableHeader text-align-center">TIM-001</th>
+                </tr>
+                <tr>
+                  <td>After a pre-determined deadline on Race Day (typically Saturday), Stable Entry sheets will lock.
+                    It will be unlocked again after a pre-determined time the following week to allow you to select your
+                    3 Power Picks for that coming week.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">TIM-002</th>
+                </tr>
+                <tr>
+                  <td>Any reference to time implies Eastern Standard Time (EST) (unless otherwise stated).</td>
+                </tr>
+              </table>
             </div>
           </div>
         </div>
@@ -434,57 +507,71 @@
         <h4>Contest-Specific</h4>
       </div>
 
-      <div class="accordion" id="accordionRulesRTTBC-AutoDraft">      
-      <div class="accordion-item">
-        <h2 class="accordion-header" id="headingRulesRTTBC-AutoDraft">
-          <button class="accordion-button" type="button" data-bs-toggle="collapse"
-            data-bs-target="#collapseRulesRTTBC-AutoDraft" aria-expanded="false"
-            aria-controls="collapseRulesRTTBC-AutoDraft">
-            Auto-Draft (AUT) -- <i>RTTBC ONLY</i>
-          </button>
-        </h2>
-        <div id="collapseRulesRTTBC-AutoDraft" class="accordion-collapse collapse show"
-          aria-labelledby="headingRulesRTTBC-AutoDraft" data-bs-parent="#accordionRulesRTTBC-AutoDraft">
-          <div class="accordion-body">
+      <div class="accordion" id="accordionRulesRTTBC-AutoDraft">
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="headingRulesRTTBC-AutoDraft">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseRulesRTTBC-AutoDraft" aria-expanded="false"
+              aria-controls="collapseRulesRTTBC-AutoDraft">
+              Auto-Draft (AUT) -- <i>RTTBC ONLY</i>
+            </button>
+          </h2>
+          <div id="collapseRulesRTTBC-AutoDraft" class="accordion-collapse collapse show"
+            aria-labelledby="headingRulesRTTBC-AutoDraft" data-bs-parent="#accordionRulesRTTBC-AutoDraft">
+            <div class="accordion-body">
               <table class="TableStandard">
                 <tr>
                   <th class="TableHeader text-align-center">AUT-001</th>
                 </tr>
                 <tr>
-                  <td>If a registered player for a contest cannot complete the draft before the deadline, then an "Auto-Draft" process will come into effect. Please find the details of this process outlined in Rules AUT-002 through AUT-004.</td>
+                  <td>If a registered player for a contest cannot complete the draft before the deadline, then an
+                    "Auto-Draft" process will come into effect. Please find the details of this process outlined in
+                    Rules AUT-002 through AUT-004.</td>
                 </tr>
                 <tr>
                   <th class="TableHeader text-align-center">AUT-002</th>
                 </tr>
                 <tr>
-                  <td><p><b>Horses</b></p>
-                      <ol>
-                        <li>Morning Line Favorite in upcoming Grade 1 (G1) race. Go through each G1 race, start with East, and end with West. If the horse is already in the stable, move to the next race.</li>
-                        <li>Morning Line Favorite in upcoming Grade 2 (G2) race. Go through each G2 race, start with East, and end with West. If the horse is already in the stable, move to the next race.</li>
-                        <li>Morning Line Favorite in upcoming Grade 3 (G3) race. Go through each G3 race, start with East, and end with West. If the horse is already in the stable, move to the next race.</li>
-                        <li>Move back to G1, look for 2nd Choice Morning Line, and proceed with the same cadence listed in Steps 1 to 3.</li>
-                      </ol>
-                      <p><b>Important note:</b> The Auto-Draft process does not account for future weekends since entries (and Morning Lines) are not available for those at draft time. That might cause players who utilize the Auto-Draft process to miss out on some draft selections they may have drafted manually.</p>
+                  <td>
+                    <p><b>Horses</b></p>
+                    <ol>
+                      <li>Morning Line Favorite in upcoming Grade 1 (G1) race. Go through each G1 race, start with East,
+                        and end with West. If the horse is already in the stable, move to the next race.</li>
+                      <li>Morning Line Favorite in upcoming Grade 2 (G2) race. Go through each G2 race, start with East,
+                        and end with West. If the horse is already in the stable, move to the next race.</li>
+                      <li>Morning Line Favorite in upcoming Grade 3 (G3) race. Go through each G3 race, start with East,
+                        and end with West. If the horse is already in the stable, move to the next race.</li>
+                      <li>Move back to G1, look for 2nd Choice Morning Line, and proceed with the same cadence listed in
+                        Steps 1 to 3.</li>
+                    </ol>
+                    <p><b>Important note:</b> The Auto-Draft process does not account for future weekends since entries
+                      (and Morning Lines) are not available for those at draft time. That might cause players who
+                      utilize the Auto-Draft process to miss out on some draft selections they may have drafted
+                      manually.</p>
                   </td>
                 </tr>
                 <tr>
                   <th class="TableHeader text-align-center">AUT-003</th>
                 </tr>
                 <tr>
-                  <td><p><b>Trainer / Jockey / Sire</b></p>
-                  <p>Take the current Top 3 list for the contest, and add whichever one is missing for each (start with the top).</p></td>
+                  <td>
+                    <p><b>Trainer / Jockey / Sire</b></p>
+                    <p>Take the current Top 3 list for the contest, and add whichever one is missing for each (start
+                      with the top).</p>
+                  </td>
                 </tr>
                 <tr>
                   <th class="TableHeader text-align-center">AUT-004</th>
                 </tr>
                 <tr>
-                  <td><p><b>Initial Draft Only</b></p>
+                  <td>
+                    <p><b>Initial Draft Only</b></p>
                     <ol>
-                      <li>Horses: The seven Morning Line favorites for the five G1 and two G2 races.</li>
-                      <li>Trainers: The top two actives from the previous contest.</li>
-                      <li>Jockeys: The top two actives from the previous contest.</li>
-                      <li>Sires: The top two actives from the previous contest.</li>
-                      <li>Power Pick Selection: The three shortest prices in the G1s.</li>
+                      <li>Horses: The 7 Morning Line favorites for the G1, then G2, then G3 races.</li>
+                      <li>Trainers: The top 2 actives from the previous contest.</li>
+                      <li>Jockeys: The top 2 actives from the previous contest.</li>
+                      <li>Sires: The top 2 actives from the previous contest.</li>
+                      <li>Power Pick Selection: The 3 shortest prices in the G1s.</li>
                     </ol>
                   </td>
                 </tr>
@@ -492,29 +579,35 @@
                   <th class="TableHeader text-align-center">AUT-005</th>
                 </tr>
                 <tr>
-                  <td><p>If a player partially completes a draft or selects duplicate entries, then the Auto-Draft will be used to fill in those remaining entries.</p>
+                  <td>
+                    <p>If a player partially completes a draft or selects duplicate entries, then the Auto-Draft will be
+                      used to fill in those remaining entries.</p>
                   </td>
                 </tr>
                 <tr>
                   <th class="TableHeader text-align-center">AUT-006</th>
                 </tr>
                 <tr>
-                  <td><p>The three shortest Morning Line favorites in each race (starting from Grade 1 down) are selected the weekend following a draft where a stable utilizes the Auto-Draft process and does not select any Power Picks.</p>
+                  <td>
+                    <p>The 3 shortest Morning Line favorites in each race (starting from Grade 1 down) are selected the
+                      weekend following a draft where a stable utilizes the Auto-Draft process and does not select any
+                      Power Picks.</p>
                   </td>
                 </tr>
                 <tr>
                   <th class="TableHeader text-align-center">AUT-007</th>
                 </tr>
                 <tr>
-                  <td><p>Auto-Draft will not be available in the final draft leading into Breeders' Cup Weekend.</p>
+                  <td>
+                    <p>Auto-Draft will not be available in the final draft leading into Breeders' Cup Weekend.</p>
                   </td>
                 </tr>
               </table>
+            </div>
           </div>
         </div>
       </div>
-      </div>
-      
+
       <div class="accordion" id="accordionRulesRTTBC">
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingRulesRTTBC">
@@ -526,40 +619,48 @@
           <div id="collapseRulesRTTBC" class="accordion-collapse collapse show" aria-labelledby="headingRulesRTTBC"
             data-bs-parent="#accordionRulesRTTBC">
             <div class="accordion-body">
-                <table class="TableStandard">
-                  <tr>
-                    <th class="TableHeader text-align-center">RBC-001</th>
-                  </tr>
-                  <tr>
-                    <td>Select seven horses, two trainers, two jockeys, and two sires (your "Stable") before the deadline listed on the Race Schedule. The Race Schedule consists of the Graded Stakes races on Dirt in the United States, excluding any Turf or Synthetic track races from that list.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">RBC-002</th>
-                  </tr>
-                  <tr>
-                    <td>After Draft #1 there will be six additional drafts. Please refer to the Race Schedule Sheet for the exact dates. You can add five horses to your Stable each time, except for Draft #7, where you will only add three horses. In Draft #5, you will add one trainer, one jockey, and one sire.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">RBC-003</th>
-                  </tr>
-                  <tr>
-                    <td>
-                      The "RTTBC Points" columns in the "Race Schedule" tab serve as the final source of the Race Schedule and Point Scoring Scheme (initially sourced from <a href="https://www.breederscup.com/races/how-it-works" target="_blank">this page</a>)<br><br>
-                      Any subsequent updates to the content on that page mentioned above will NOT be  valid for this game unless determined otherwise by the League Commissioner and agreed upon by League Participants.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">RBC-004</th>
-                  </tr>
-                  <tr>
-                    <td>All-Weather (or Synthetic) Tracks will NOT count as Dirt Races.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">RBC-005</th>
-                  </tr>
-                  <tr>
-                    <td>"Off-the-Turf" races will NOT count as Dirt Races, including "Main Track Only" entries or MTOs.</td>
-                  </tr>
-                </table>
+              <table class="TableStandard">
+                <tr>
+                  <th class="TableHeader text-align-center">RBC-001</th>
+                </tr>
+                <tr>
+                  <td>Select 7 horses, 2 trainers, 2 jockeys, and 2 sires (your "Stable") before the deadline listed on
+                    the Race Schedule. The Race Schedule consists of the Graded Stakes races on Dirt in the United
+                    States, excluding any Turf or Synthetic track races from that list.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">RBC-002</th>
+                </tr>
+                <tr>
+                  <td>After Draft #1 there will be six additional drafts. Please refer to the Race Schedule Sheet for
+                    the exact dates. You can add 5 horses to your Stable each time, except for Draft #7, where you will
+                    only add 3 horses. In Draft #5, you will add one trainer, one jockey, and one sire.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">RBC-003</th>
+                </tr>
+                <tr>
+                  <td>
+                    The "RTTBC Points" columns in the "Race Schedule" tab serve as the final source of the Race Schedule
+                    and Point Scoring Scheme (initially sourced from <a
+                      href="https://www.breederscup.com/races/how-it-works" target="_blank">this page</a>)<br><br>
+                    Any subsequent updates to the content on that page mentioned above will NOT be valid for this game
+                    unless determined otherwise by the League Commissioner and agreed upon by League Participants.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">RBC-004</th>
+                </tr>
+                <tr>
+                  <td>All-Weather (or Synthetic) Tracks will NOT count as Dirt Races.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">RBC-005</th>
+                </tr>
+                <tr>
+                  <td>"Off-the-Turf" races will NOT count as Dirt Races, including "Main Track Only" entries or MTOs.
+                  </td>
+                </tr>
+              </table>
             </div>
           </div>
         </div>
@@ -576,35 +677,44 @@
           <div id="collapseRulesRTTR" class="accordion-collapse collapse" aria-labelledby="headingRulesRTTR"
             data-bs-parent="#accordionRulesRTTR">
             <div class="accordion-body">
-                <table class="TableStandard">
-                  <tr>
-                    <th class="TableHeader text-align-center">RTR-001</th>
-                  </tr>
-                  <tr>
-                    <td>Select five horses, two trainers, and two jockeys (your "Stable") before the deadline listed on the Race Schedule. The Race Schedule will consist of the Official Kentucky Derby Prep Race "America" list. We will be excluding the Europe and Japan races from that list.</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">RTR-002</th>
-                  </tr>
-                  <tr>
-                    <td>There will be three additional Draft Periods (please refer to the Race Schedule Sheet for the exact dates). You can add up to five horses to your Stable in the 2nd Draft. For the 3rd Draft you can choose to do this in any order you like, from zero horses in the 3rd Draft to five horses in the 4th Draft, or five horses in the 3rd Draft and zero horses in the 4th Draft (or any combination in between).</td>
-                  </tr>
-                  <tr>
-                    <th class="TableHeader text-align-center">RTR-003</th>
-                  </tr>
-                  <tr>
-                    <td>The "RTTR Points" columns in the "Race Schedule" tab serve as the source for the Race Schedule and Point Scoring Scheme (initially sourced from <a href="https://www.kentuckyderby.com/prep-races/" target="_blank">this page</a>) <br><br>
-                    Any subsequent updates to the content on that page mentioned above will NOT be  valid for this game unless determined otherwise by the League Commissioner and agreed upon by League Participants.</td>
-                  </tr>
-                </table>
+              <table class="TableStandard">
+                <tr>
+                  <th class="TableHeader text-align-center">RTR-001</th>
+                </tr>
+                <tr>
+                  <td>Select 5 horses, 2 trainers, and 2 jockeys (your "Stable") before the deadline listed on the Race
+                    Schedule. The Race Schedule will consist of the Official Kentucky Derby Prep Race "America" list. We
+                    will be excluding the Europe and Japan races from that list.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">RTR-002</th>
+                </tr>
+                <tr>
+                  <td>There will be 3 additional Draft Periods (please refer to the Race Schedule Sheet for the exact
+                    dates). You can add up to 5 horses to your Stable in the 2nd Draft. For the 3rd Draft you can choose
+                    to do this in any order you like, from zero horses in the 3rd Draft to 5 horses in the 4th Draft, or
+                    5 horses in the 3rd Draft and zero horses in the 4th Draft (or any combination in between).</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">RTR-003</th>
+                </tr>
+                <tr>
+                  <td>The "RTTR Points" columns in the "Race Schedule" tab serve as the source for the Race Schedule and
+                    Point Scoring Scheme (initially sourced from <a href="https://www.kentuckyderby.com/prep-races/"
+                      target="_blank">this page</a>) <br><br>
+                    Any subsequent updates to the content on that page mentioned above will NOT be valid for this game
+                    unless determined otherwise by the League Commissioner and agreed upon by League Participants.</td>
+                </tr>
+              </table>
             </div>
           </div>
         </div>
       </div>
 
       <br>
-              
-      <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/index.shtml" role="button">Contests</a></p>
+
+      <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/index.shtml"
+          role="button">Contests</a></p>
 
       <!-- FOOTER -->
 
