@@ -629,12 +629,19 @@
                     States, excluding any Turf or Synthetic track races from that list.</td>
                 </tr>
                 <tr>
-                  <th class="TableHeader text-align-center">RBC-002</th>
+                  <th class="TableHeader text-align-center">RBC-002 (Original)</th>
                 </tr>
                 <tr>
-                  <td>After Draft #1 there will be six additional drafts. Please refer to the Race Schedule Sheet for
+                  <td style="text-decoration: line-through;">After Draft #1 there will be six additional drafts. Please refer to the Race Schedule Sheet for
                     the exact dates. You can add 5 horses to your Stable each time, except for Draft #7, where you will
                     only add 3 horses. In Draft #5, you will add one trainer, one jockey, and one sire.</td>
+                </tr>
+                <tr>
+                  <th class="TableHeader text-align-center">RBC-002 (Revised May 2025)</th>
+                </tr>
+                <tr>
+                  <td>After Draft #1 there will be seven additional drafts. Please refer to the Race Schedule Sheet for
+                    the exact dates. You can add 4 horses to your Stable each time. In Draft #6, you will add one trainer, one jockey, and one sire.</td>
                 </tr>
                 <tr>
                   <th class="TableHeader text-align-center">RBC-003</th>
