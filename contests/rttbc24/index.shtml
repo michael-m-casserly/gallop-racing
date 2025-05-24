@@ -59,7 +59,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
 
-          <!--#include virtual="/modules/rttbc24/races-completed.html" -->         
+          <!--#include virtual="/modules/rttbc24/races-completed-bc.html" -->         
 
         </div>
         <!--end middle column-->
@@ -68,8 +68,7 @@
           <!--begin right column-->
            
           <!--#include virtual="/modules/rttbc24/contest-info.shtml" -->
-
-          <!--#include virtual="/modules/resources-rttbc.html" --> 
+          <!--#include virtual="/modules/rttbc24/races-completed.html" -->
 
         </div>
         <!--end right column-->
