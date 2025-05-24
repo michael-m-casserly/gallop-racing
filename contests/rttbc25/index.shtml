@@ -66,7 +66,7 @@
       <div class="row">
         <div class="col-lg-4">
           <!--begin left column-->
-          <!--include virtual="/modules/register.html" -->
+          <!--#include virtual="/modules/register.html" -->
           <!--include virtual="/modules/rttbc25/leaderboard-lite.html" -->
           <!--#include virtual="/modules/rttbc25/races-upcoming.html" -->
           <!--include virtual="/modules/rttbc25/contest-info.shtml" -->

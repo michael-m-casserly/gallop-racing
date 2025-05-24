@@ -34,11 +34,10 @@
           <!--begin left column-->
 
           <!--ENABLE THIS AGAIN WHEN REGISTRATION FOR THE NEXT CONTEST OPENS-->
-          <!--include virtual="/modules/register.html" -->
+          <!--#include virtual="/modules/register.html" -->
           <!--#include virtual="/modules/contest-upcoming.html" -->
           <!--#include virtual="/modules/current-contest.html" -->
           <!--#include virtual="/modules/how-to-play-rttbc.html" -->
-          <!--#include virtual="/modules/how-to-play-rttr.html" -->
 
         </div>
         <!--end left column-->
@@ -55,6 +54,7 @@
           <!--begin right column-->
 
           <!--#include virtual="/modules/champions-current.html" -->          
+          <!--#include virtual="/modules/how-to-play-rttr.html" -->
 
         </div>
         <!--end right column-->
