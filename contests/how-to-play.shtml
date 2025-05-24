@@ -151,22 +151,22 @@
               <div>
               <p>The races spread out amongst various tracks (<i>subject to change pending final schedule</i>):</p>
 
-              <p><i>Data below current as of RTTBC '24.</i></p>
+              <p><i>Data below current as of RTTBC '25.</i></p>
               <ul style="margin: 20px;">
-                <li>Saratoga (27)*</li>
+                <li>Saratoga (30)*</li>
                 <li>Del Mar (19), <i>including the 7 Breeders' Cup races</i></li>
                 <!--li>Belmont (12)*</li-->
-                <li>Belmont at Aqueduct (11)*</li>
-                <li>Churchill Downs (10)</li>
-                <li>Santa Anita (7)**</li>
+                <li>Belmont at Aqueduct (6)*</li>
+                <li>Churchill Downs (11)</li>
+                <li>Santa Anita (8)<!--**--></li>
                 <li>Keeneland (7)</li>
                 <li>Monmouth (6)</li>
                 <li>Parx (4)</li>
-                <li>Four tracks with two races (CT, DEL, IND, MNR)</li>
-                <li>Five tracks with one race (GP, LRC, PRM, RP, TDN)</li>
+                <li>Three tracks with two races (CT, DEL, IND)</li>
+                <li>Six tracks with one race (GP, LRC, MNR, PRM, RP, TDN)</li>
               </ul>
               <p>*Most "Belmont" races will be run at Aqueduct due to ongoing renovations at Belmont Park. The exception will be Belmont Stakes Weekend, which will take place in Saratoga.</p>
-              <p>**Was initially 8 races before the Tokyo City Cup-G3 was cancelled after there were not enough entries.</p>
+              <!--p>**Was initially 8 races before the Tokyo City Cup-G3 was cancelled after there were not enough entries.</p-->
               </div>
 
               <p>In early June, you'll draft <b>seven horses, two trainers, two jockeys, and two sires</b> whom you think have a
@@ -225,9 +225,9 @@
               </table>
             </div>
 
-              <p>There will be twelve races in June where you can earn points. Then the additional drafts are broken out as follows:</p>
+              <p>There will be thirteen races in June where you can earn points. Then the additional drafts are broken out as follows:</p>
 
-              <p><i>Data below current as of RTTBC '24.</i></p>
+              <p><i>Data below current as of RTTBC '25.</i></p>
 
               <div style="text-align: center; padding-bottom: 10px;">
               <table class="TableStandard">
@@ -240,41 +240,47 @@
                 <tr>
                   <td>2</td>
                   <td>late-Jun</td>
-                  <td>5</td>
-                  <td>13</td>
+                  <td>4</td>
+                  <td>10</td>
                 </tr>
                 <tr>
                   <td>3</td>
                   <td>mid-Jul</td>
-                  <td>5</td>
-                  <td>17</td>
+                  <td>4</td>
+                  <td>13</td>
                 </tr>
                 <tr>
                   <td>4</td>
-                  <td>mid-Aug</td>
-                  <td>5</td>
-                  <td>17</td>
+                  <td>early-Aug</td>
+                  <td>4</td>
+                  <td>10</td>
                 </tr>
                 <tr>
                   <td>5</td>
-                  <td>early-Sep</td>
-                  <td>5*</td>
-                  <td>18</td>
+                  <td>mid-Aug</td>
+                  <td>4</td>
+                  <td>9</td>
                 </tr>
                 <tr>
                   <td>6</td>
-                  <td>early-Oct</td>
-                  <td>5</td>
-                  <td>22</td>
+                  <td>late-Aug</td>
+                  <td>4*</td>
+                  <td>17</td>
                 </tr>
                 <tr>
                   <td>7</td>
+                  <td>late-Sep</td>
+                  <td>4*</td>
+                  <td>24</td>
+                </tr>
+                <tr>
+                  <td>8</td>
                   <td>early-Nov</td>
-                  <td>3</td>
+                  <td>4</td>
                   <td>7</td>
                 </tr>
                 <tr>
-                  <td colspan="4">*You will also add <b>one trainer, one jockey, and one sire</b> during Draft #5.</td>
+                  <td colspan="4">*You will also add <b>one trainer, one jockey, and one sire</b> during Draft #6.</td>
                 </tr>
               </table>
             </div>
