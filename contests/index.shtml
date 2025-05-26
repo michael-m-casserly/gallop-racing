@@ -76,10 +76,8 @@
           <div class="round-border">
             <h5>Breeders' Cup</h5>
             <p>June to November</p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttbc25/schedule.shtml"
-              role="button">RTTBC '25 Schedule</a></p>
-          <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttbc24/index.shtml"
-                role="button">RTTBC '24</a></p>
+          <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttbc25/index.shtml"
+                role="button">RTTBC '25</a></p>
             <!--STOPPED USING HASHTAGS AFTER RTTBC23, since "X" has turned into nonsense. Will just use it to re-tweet any news items.-->
             <!--p class="module-button-wrapper"><a class="btn btn-secondary btn"
                 href="https://twitter.com/hashtag/rttbc23?f=live" role="button" target="_blank"><svg class="bi"
@@ -94,6 +92,7 @@
                 <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
                   style="max-width: 240px; margin: auto;">
                   <option value="" selected>Previous RTTBC Contests</option>
+                  <option value="/contests/rttbc24/index.shtml">RTTBC '24</option>
                   <option value="/contests/rttbc23/index.shtml">RTTBC '23</option>
                   <option value="/contests/rttbc22/index.shtml">RTTBC '22</option>
                   <option value="/contests/rttbc21/index.shtml">RTTBC '21</option>
