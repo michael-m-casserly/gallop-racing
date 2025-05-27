@@ -1,65 +1,21 @@
 <div class="round-border">
   <h5>RTTR149 Info</h5>
 
-  <!--BEGIN SHOWING THIS ONCE THEY START PUBLISHING IT-->
-  <!--p class="module-button-wrapper"><a class="btn btn-secondary btn"
-    href="/contests/rttr149/pdf/20230423_Road_to_Kentucky_Derby_Leaderboard.pdf" role="button" target="_blank"><svg class="bi"
-      width="16" height="16" role="img" aria-label="PDF">
-      <title id="pdf-label-mouseover-rttr149-official-derby-leaderboard">PDF</title>
-      <use xlink:href="#filetype-pdf" />
-    </svg> Official Derby Leaderboard (Weekly) &dagger;</a>
-</p>
-<p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">&dagger; Official Derby Leaderboard courtesy of <a href="https://twitter.com/DerbyMedia" target="_blank">Churchill Downs PR</a></p-->
+  <!--ADD THIS AT THE END OF THE SEASON-->
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTR149-Leaderboard.pdf" target="_blank"
+      role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
+        <title id="pdf-label-mouseover-rttr149-leaderboard">PDF</title>
+        <use xlink:href="#filetype-pdf" />
+      </svg> Leaderboard</a>
 
-<p class="module-button-wrapper"><a class="btn btn-secondary btn btn-half"
-    href="/contests/rttr149/schedule.shtml" role="button">Schedule</a>
-    <a class="btn btn-secondary btn btn-half"
-    href="/contests/rttr149/stats.shtml" role="button">Stats</a>
-  </p>
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/pdf/RTTR149-Horses.pdf" target="_blank"
+      role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
+        <title id="pdf-label-mouseover-rttr149-horses">PDF</title>
+        <use xlink:href="#filetype-pdf" />
+      </svg> Horses</a></p>
 
-<!--ADD THIS AT THE END OF THE SEASON-->
-  <p class="module-button-wrapper"><a class="btn btn-secondary"
-    href="/pdf/RTTR149-Leaderboard.pdf" target="_blank" role="button"><svg
-      class="bi" width="16" height="16" role="img" aria-label="PDF">
-      <title id="pdf-label-mouseover-rttr149-leaderboard">PDF</title>
-      <use xlink:href="#filetype-pdf" />
-    </svg> Leaderboard</a>
-
-  <!--USE THIS FOR "HORSES" DURING THE SEASON; THE PDF IS ONLY FOR THE END OF THE SEASON-->
-  <!--p class="module-button-wrapper"><a class="btn btn-secondary btn"
-      href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQb_28jtX7ej0UmmYBStG975jNA0pyAVUnqn-ldS3I3Na1FoFAumZADJAtHPa9tQp2OmHMzKEEiJSZX/pubhtml?gid=1773939469&amp;single=true&amp;widget=true&amp;headers=false"
-      target="_blank" role="button"
-      onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQb_28jtX7ej0UmmYBStG975jNA0pyAVUnqn-ldS3I3Na1FoFAumZADJAtHPa9tQp2OmHMzKEEiJSZX/pubhtml?gid=1773939469&amp;single=true&amp;widget=true&amp;headers=false');"><svg
-        class="bi" width="16" height="16" role="img" aria-label="Google">
-        <title id="google-label-mouseover-rttr149-horses">Google</title>
-        <use xlink:href="#google" />
-      </svg> Horses&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
-        <title id="arrow-up-right-circle-rttr149-horses">New Window</title>
-        <use xlink:href="#arrow-up-right-circle" />
-      </svg></a></p-->
-
-      <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-        href="/pdf/RTTR149-Horses.pdf" target="_blank" role="button"><svg
-          class="bi" width="16" height="16" role="img" aria-label="PDF">
-          <title id="pdf-label-mouseover-rttr149-horses">PDF</title>
-          <use xlink:href="#filetype-pdf" />
-        </svg> Horses</a></p>
-  
-
-  <!--USE THIS IF A POPUP IS PREFERRED TO A STANDALONE PAGE FOR SCHEDULE-->    
-  <!--p class="module-button-wrapper"><a class="btn btn-secondary btn"
-      href="[Insert Link to Schedule Sheet]"
-      target="_blank" role="button"
-      onclick="captureOutboundLink('[Insert Link to Schedule Sheet]');"><svg
-        class="bi" width="16" height="16" role="img" aria-label="Google">
-        <title id="google-label-mouseover-rttr149-schedule">Google</title>
-        <use xlink:href="#google" />
-      </svg> Schedule</a>
-  </p-->
-
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-      href="/pdf/RTTR149-All-Stables.pdf" role="button" target="_blank"><svg class="bi"
-        width="16" height="16" role="img" aria-label="PDF">
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/pdf/RTTR149-All-Stables.pdf" role="button"
+      target="_blank"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttr149-view-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg> View All Stables</a>
@@ -74,13 +30,4 @@
         <use xlink:href="#arrow-up-right-circle" />
       </svg></a></p>
 
-  <p><!--#include virtual="/modules/rttr149/stables-menu.html"--></p>
-      <!--ADD THIS BACK DURING SEASON-->
-      <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/data-disclaimer.shtml"
-        role="button">Data Disclaimer</a></p>
-    
-      <p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">*Cannot view other players' stables
-        during Drafts or Power Pick selection windows. However, you can always use the "View All Stables PDF" button above to see
-        any stable at any time (without Power Pick Access).</p-->
-    
 </div>

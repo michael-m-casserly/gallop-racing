@@ -1,12 +1,6 @@
 <div class="round-border">
   <h5>RTTR148 Info</h5>
 
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn btn-half"
-    href="/contests/rttr148/schedule.shtml" role="button">Schedule</a>
-    <a class="btn btn-secondary btn btn-half"
-    href="/contests/rttr148/stats.shtml" role="button">Stats</a>
-  </p>
-
   <p class="module-button-wrapper"><a class="btn btn-secondary"
       href="/pdf/RTTR148-Leaderboard.pdf" target="_blank" role="button"><svg
         class="bi" width="16" height="16" role="img" aria-label="PDF">
