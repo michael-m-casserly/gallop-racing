@@ -16,7 +16,7 @@
                   <!--begin left column-->
 
                   <!--#include virtual="/modules/how-to-play-rttbc.html" -->
-                  <!--include virtual="/modules/rttbc-scoring-table.html" --> <!--Swap these before/after contest starts-->
+                  <!--#include virtual="/modules/rttbc-scoring-table.html" --> <!--Swap these before/after contest starts-->
 
                 </div>
                 <!--end left column-->
@@ -24,8 +24,8 @@
                 <div class="col-lg-4">
                   <!--begin middle column-->
 
-                  <!--#include virtual="/modules/rttbc-scoring-table.html" --> <!--Swap these before/after contest starts-->
-                  <!--include virtual="/modules/rttbc25/auto-draft-log.html"-->
+                  <!--include virtual="/modules/rttbc-scoring-table.html" --> <!--Swap these before/after contest starts-->
+                  <!--#include virtual="/modules/rttbc25/auto-draft-log.html"-->
 
                 </div>
                 <!--end middle column-->
