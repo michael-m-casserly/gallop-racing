@@ -74,8 +74,8 @@
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/data-disclaimer.shtml"
       role="button">Data Disclaimer</a></p>
 
-  <!--p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">*Cannot view other players' stables
+  <p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">*Cannot view other players' stables
     during Drafts or Power Pick selection windows. However, you can always use the "View All Stables" button above to see
-    any stable at any time (without Power Pick Access).</p-->
+    any stable at any time (without Power Pick Access).</p>
 
 </div>
