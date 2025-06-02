@@ -37,7 +37,7 @@
       <h3>Road to the Breeders' Cup<br>2025 Contest</h3>
     </div>
 
-    <!--include virtual="/countdown-timer-rttbc.html" -->
+    <!--#include virtual="/countdown-timer-rttbc.html" -->
 
     <!--#include virtual="/contests/subnav-menu.html" -->
 
@@ -66,7 +66,7 @@
       <div class="row">
         <div class="col-lg-4">
           <!--begin left column-->
-          <!--#include virtual="/modules/register.html" -->
+          <!--include virtual="/modules/register.html" -->
           <!--include virtual="/modules/rttbc25/leaderboard-lite.html" -->
           <!--#include virtual="/modules/rttbc25/races-upcoming.html" -->
           <!--include virtual="/modules/rttbc25/contest-info.shtml" -->
