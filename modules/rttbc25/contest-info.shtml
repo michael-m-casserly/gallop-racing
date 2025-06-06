@@ -19,7 +19,7 @@
       </svg>&nbsp;Schedule by Division</a></p>
 
   <!--THIS NEEDS TO BE UPDATED FOR 2025 following Draft #1-->
-  <!--p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/pdf/RTTBC25-All-Stables.pdf" role="button" target="_blank"><svg
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/pdf/RTTBC25-All-Stables.pdf" role="button" target="_blank"><svg
         class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc25-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
@@ -32,7 +32,7 @@
       <title id="calendar-label-mouseover-rttbc25">Calendar</title>
       <use xlink:href="#calendar-date-fill" />
     </svg><br>Calendar</a>
-  </p-->
+  </p>
 
   <!--THIS ROW IS REDUNDANT FOR NOW; CAN ADD IT BACK IF ANYTHING CHANGES-->
   <!--p class="module-button-wrapper">
