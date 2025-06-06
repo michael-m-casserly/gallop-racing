@@ -67,7 +67,7 @@
         <div class="col-lg-4">
           <!--begin left column-->
           <!--include virtual="/modules/register.html" -->
-          <!--include virtual="/modules/rttbc25/leaderboard-lite.html" -->
+          <!--#include virtual="/modules/rttbc25/leaderboard-lite.html" -->
           <!--#include virtual="/modules/rttbc25/races-upcoming.html" -->
           <!--include virtual="/modules/rttbc25/contest-info.shtml" -->
           <!--include virtual="/modules/rttbc25/final-standings.html" -->
@@ -94,7 +94,7 @@
           <!--#include virtual="/modules/resources-rttbc.html" -->
 
           <!--ADD AFTER WEEK #1-->
-          <!--include virtual="/modules/rttbc25/races-completed.html" -->
+          <!--#include virtual="/modules/rttbc25/races-completed.html" -->
 
         </div>
         <!--end middle column-->
