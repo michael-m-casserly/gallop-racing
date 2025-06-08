@@ -19,27 +19,30 @@
       </svg>&nbsp;Schedule by Division</a></p>
 
   <!--THIS NEEDS TO BE UPDATED FOR 2025 following Draft #1-->
-  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/pdf/RTTBC25-All-Stables.pdf" role="button" target="_blank"><svg
-        class="bi" width="16" height="16" role="img" aria-label="PDF">
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC25-All-Stables.pdf" role="button"
+      target="_blank"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc25-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg> View All Stables</a>
-      <a class="btn btn-secondary btn-half"
-    href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=month"
-    target="_blank" role="button"
-    onclick="captureOutboundLink('https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=month');"><svg
-      class="bi" width="16" height="16" role="img" aria-label="Calendar">
-      <title id="calendar-label-mouseover-rttbc25">Calendar</title>
-      <use xlink:href="#calendar-date-fill" />
-    </svg><br>Calendar</a>
   </p>
 
   <p class="module-button-wrapper">
-    <a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_PGzaRpgwvQwUUjwT5o9d95y1ZoBa27v3BEfv0a7WdLKPo9z_qA3Uw8nzjgbE36Zqg4tCzyvbh2Ih/pubhtml?gid=249132506&single=true" target="_blank" role="button"
-      onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vT_PGzaRpgwvQwUUjwT5o9d95y1ZoBa27v3BEfv0a7WdLKPo9z_qA3Uw8nzjgbE36Zqg4tCzyvbh2Ih/pubhtml?gid=249132506&single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google">
+    <a class="btn btn-secondary btn-half"
+      href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_PGzaRpgwvQwUUjwT5o9d95y1ZoBa27v3BEfv0a7WdLKPo9z_qA3Uw8nzjgbE36Zqg4tCzyvbh2Ih/pubhtml?gid=249132506&single=true"
+      target="_blank" role="button"
+      onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vT_PGzaRpgwvQwUUjwT5o9d95y1ZoBa27v3BEfv0a7WdLKPo9z_qA3Uw8nzjgbE36Zqg4tCzyvbh2Ih/pubhtml?gid=249132506&single=true');"><svg
+        class="bi" width="16" height="16" role="img" aria-label="Google">
         <title id="google-label-mouseover-rttbc25-horses">Google</title>
         <use xlink:href="#google" />
       </svg><br>Horses</a>
+    <a class="btn btn-secondary btn-half"
+      href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=month"
+      target="_blank" role="button"
+      onclick="captureOutboundLink('https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=month');"><svg
+        class="bi" width="16" height="16" role="img" aria-label="Google">
+        <title id="google-label-mouseover-rttbc25-horses">Calendar</title>
+        <use xlink:href="#calendar" />
+      </svg><br>Calendar</a>
   </p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/news.shtml" role="button">News</a>
@@ -64,12 +67,13 @@
   <!--THIS GETS ADDED DURING DRAFT #1-->
   <!--ADD THIS BACK ONCE RTTBC25 REGISTRATION CLOSES-->
   <p><!--#include virtual="/modules/rttbc25/stables-menu.html"--></p>
-  
+
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/data-disclaimer.shtml"
       role="button">Data Disclaimer</a></p>
 
   <p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">*Cannot view other players' stables
-    during Drafts or Power Pick selection windows. However, you can always use the "View All Stables" button above to see
+    during Drafts or Power Pick selection windows. However, you can always use the "View All Stables" button above to
+    see
     any stable at any time (without Power Pick Access).</p>
 
 </div>

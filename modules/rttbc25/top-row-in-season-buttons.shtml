@@ -1,7 +1,7 @@
 <div class="module-no-border" style="padding-bottom: 0px !important; margin-bottom: 0px !important;">
 <h5>Quick Links</h5>    
 <p>    
-    <!--#include virtual="/modules/rttbc24/stables-menu.html"-->
+    <!--#include virtual="/modules/rttbc25/stables-menu.html"-->
 </p>
 
 <p class="module-button-wrapper"><a class="btn btn-secondary"
@@ -9,10 +9,10 @@
     target="_blank" role="button"
     onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vT_PGzaRpgwvQwUUjwT5o9d95y1ZoBa27v3BEfv0a7WdLKPo9z_qA3Uw8nzjgbE36Zqg4tCzyvbh2Ih/pubhtml?gid=0&single=true');"><svg
       class="bi" width="16" height="16" role="img" aria-label="Google">
-      <title id="google-label-mouseover-rttbc24-leaderboard">Google</title>
+      <title id="google-label-mouseover-rttbc25-leaderboard">Google</title>
       <use xlink:href="#google" />
     </svg> Leaderboard&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
-      <title id="arrow-up-right-circle-rttbc24-leaderboard-quicklinks">New Window</title>
+      <title id="arrow-up-right-circle-rttbc25-leaderboard-quicklinks">New Window</title>
       <use xlink:href="#arrow-up-right-circle" />
     </svg></a>
   </p>
@@ -22,10 +22,10 @@
     target="_blank" role="button"
     onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSLJ0gXKn_nMxcQDwiygUM5PNEup_pWOeRenaxq-wExfu7QlC6VUiiZDDwoiMe17549kuzkFHM0SgdB/pubhtml?gid=1411863973&single=true');"><svg
       class="bi" width="16" height="16" role="img" aria-label="Google">
-      <title id="google-label-mouseover-rttbc24-schedule-quicklinks">Google</title>
+      <title id="google-label-mouseover-rttbc25-schedule-quicklinks">Google</title>
       <use xlink:href="#google" />
     </svg> Full Schedule&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
-      <title id="arrow-up-right-circle-rttbc24-schedule">New Window</title>
+      <title id="arrow-up-right-circle-rttbc25-schedule">New Window</title>
       <use xlink:href="#arrow-up-right-circle" />
     </svg></a>
   </p>
