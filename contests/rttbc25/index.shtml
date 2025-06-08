@@ -48,19 +48,18 @@
       </div>
 
       <!--ADD THIS ROW BACK AFTER WEEK #1-->
-      <!--div class="row">
-        <div class="col-lg-4"-->
-      <!--include virtual="/modules/rttbc25/top-three-stables-graphic.html" -->
-      <!--/div>
-        <div class="col-lg-4"-->
-      <!--include virtual="/modules/rttbc25/tracker-season-progress.html" -->
-      <!--/div>    
-        <div class="col-lg-4"-->
-      <!--include virtual="/modules/rttbc25/top-row-in-season-buttons.shtml" -->
-      <!--/div>
-        
+      <div class="row">
+        <div class="col-lg-4" -->
+          <!--#include virtual="/modules/rttbc25/top-three-stables-graphic.html" -->
+        </div>
+        <div class="col-lg-4" -->
+          <!--#include virtual="/modules/rttbc25/tracker-season-progress.html" -->
+        </div>
+        <div class="col-lg-4" -->
+          <!--#include virtual="/modules/rttbc25/top-row-in-season-buttons.shtml" -->
+        </div>
 
-      </div-->
+      </div>
       <!--end row-->
 
       <div class="row">
