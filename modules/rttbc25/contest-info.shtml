@@ -38,7 +38,7 @@
       target="_blank" role="button"
       onclick="captureOutboundLink('https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=month');"><svg
         class="bi" width="16" height="16" role="img" aria-label="Google">
-        <title id="google-label-mouseover-rttbc25-horses">Calendar</title>
+        <title id="google-label-mouseover-rttbc25-calendar">Calendar</title>
         <use xlink:href="#calendar" />
       </svg><br>Calendar</a>
   </p>
