@@ -91,7 +91,6 @@
 
           <!--#include virtual="/modules/rttbc25/contest-info.shtml" -->
           <!--#include virtual="/modules/resources-rttbc.html" -->
-
           <!--#include virtual="/modules/calendar.html" -->
 
           <div class="round-border">
