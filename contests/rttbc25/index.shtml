@@ -92,23 +92,6 @@
           <!--#include virtual="/modules/rttbc25/contest-info.shtml" -->
           <!--#include virtual="/modules/resources-rttbc.html" -->
 
-          <!--ADD AFTER WEEK #1-->
-          <!--#include virtual="/modules/rttbc25/races-completed.html" -->
-
-        </div>
-        <!--end middle column-->
-
-        <div class="col-lg-4">
-          <!--begin right column-->
-
-          <!--include virtual="/modules/rttbc25/races-completed.html" -->
-
-          <!--include virtual="/modules/resources-rttbc.html" -->
-
-          <!--include virtual="/modules/rttbc25/leaderboard-points-per-entry.html" -->
-
-          <!--include virtual="/modules/rttbc25/leaderboard-rankings-by-week.html" -->
-
           <!--#include virtual="/modules/calendar.html" -->
 
           <div class="round-border">
@@ -116,6 +99,22 @@
             <br>
             <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
           </div>
+          <!--ADD AFTER WEEK #1-->
+          <!--include virtual="/modules/rttbc25/races-completed.html" -->
+
+        </div>
+        <!--end middle column-->
+
+        <div class="col-lg-4">
+          <!--begin right column-->
+
+          <!--#include virtual="/modules/rttbc25/races-completed.html" -->
+
+          <!--include virtual="/modules/resources-rttbc.html" -->
+
+          <!--include virtual="/modules/rttbc25/leaderboard-points-per-entry.html" -->
+
+          <!--include virtual="/modules/rttbc25/leaderboard-rankings-by-week.html" -->
 
         </div>
         <!--end right column-->
