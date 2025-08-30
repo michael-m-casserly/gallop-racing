@@ -17,7 +17,7 @@
       </svg>&nbsp;Schedule by Division</a></p>
 
   <!--THIS NEEDS TO BE UPDATED FOR 2025 following Draft #1-->
-  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC25-All-Stables_2025-08-22.pdf" role="button"
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC25-All-Stables_2025-08-30.pdf" role="button"
       target="_blank"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc25-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
