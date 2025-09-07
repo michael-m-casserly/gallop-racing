@@ -76,8 +76,8 @@
       
       <!--Begin Row #2-->
           <div class="row">
-          <b>Updates to note for 2025:</b>
-            <ol>
+          <b>Updates to note for 2026:</b>
+            <!--ol>
               <li>UAE Derby is no longer part of the USA Trail. It has been moved the European Trail, and will not be included in the "<i>Road to the Roses, Derby 151</i>" Contest.</li>
               <li>The Virginia Derby is a newly added race for the contest.</li>
             </ol>
@@ -85,13 +85,13 @@
             <ol>  
               <li>Any races with fields of 5 will only be awarded 75% of the total points for that race.</li>
               <li>Any races with fields of 4 or less will only be awarded 50% of the total points for that race.</li>
-            </ol>
+            </ol-->
           </div>
           <!--End Row #2-->
 
           <!--Begin Row #3-->
           <div class="row">
-              <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRnqmmyLlPZAgDDiNKFz1axbBhjqP-3I-G85o1JuNGZCS844zfSu2QdetXvz8XcVn9_WkKrAXUKNxPf/pubhtml?gid=1847637649&amp;single=true&amp;widget=true&amp;headers=false"
+              <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ujLmbZu0KJ4ibpYNWmv2v3i24xvmlSslxXNnW1rnFK1H4NkTO2nZZhno8ILhLvuzNKL9pQjG2haz/pubhtml?gid=1847637649&amp;single=true&amp;widget=true&amp;headers=false"
                 target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
                   style="max-width: 250px; border: 0;"></a>
       
@@ -99,7 +99,7 @@
       
               <div class="iframe-container">
                 <iframe class="responsive-iframe"
-                  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRnqmmyLlPZAgDDiNKFz1axbBhjqP-3I-G85o1JuNGZCS844zfSu2QdetXvz8XcVn9_WkKrAXUKNxPf/pubhtml?gid=1847637649&amp;single=true&amp;widget=true&amp;headers=false"
+                  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ujLmbZu0KJ4ibpYNWmv2v3i24xvmlSslxXNnW1rnFK1H4NkTO2nZZhno8ILhLvuzNKL9pQjG2haz/pubhtml?gid=1847637649&amp;single=true&amp;widget=true&amp;headers=false"
                   onload="document.getElementById('spinner').style.display='none';"></iframe>
               </div>
               <table class="TableStandard">

@@ -50,7 +50,7 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/rttr152/leaderboard-lite.html" -->
+          <!--include virtual="/modules/rttr152/leaderboard-lite.html" -->
           
         </div>
         <!--end left column-->
@@ -58,7 +58,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           
-          <!--#include virtual="/modules/rttr152/leaderboard-points-per-entry.html" -->
+          <!--include virtual="/modules/rttr152/leaderboard-points-per-entry.html" -->
 
         </div>
         <!--end middle column-->
@@ -66,7 +66,7 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/rttr152/leaderboard-rankings-by-week.html" -->
+          <!--include virtual="/modules/rttr152/leaderboard-rankings-by-week.html" -->
           
         </div>
         <!--end right column-->

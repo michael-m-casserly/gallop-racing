@@ -44,7 +44,7 @@
     <div class="container marketing">
 
       <!--Placeholder for use before the Registration module is opened.-->
-      <!--p>The Road to the Roses, Derby 152 contest will start in January 2026.</p-->
+      <p>The Road to the Roses, Derby 152 contest will start in January 2026.</p>
 
       
       <!--begin row #1-->
@@ -52,7 +52,7 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/rttr152/top-three-stables-graphic.html" -->
+          <!--include virtual="/modules/rttr152/top-three-stables-graphic.html" -->
           
         </div>
         <!--end left column-->
@@ -60,7 +60,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           
-          <!--#include virtual="/modules/rttr152/tracker-season-progress.html" -->
+          <!--include virtual="/modules/rttr152/tracker-season-progress.html" -->
 
         </div>
         <!--end middle column-->
@@ -68,7 +68,7 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/rttr152/top-row-in-season-buttons.shtml" -->
+          <!--include virtual="/modules/rttr152/top-row-in-season-buttons.shtml" -->
           
         </div>
         <!--end right column-->
