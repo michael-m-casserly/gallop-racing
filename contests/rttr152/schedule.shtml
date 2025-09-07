@@ -47,14 +47,14 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/rttr152/races-upcoming.html" -->
+          <!--include virtual="/modules/rttr152/races-upcoming.html" -->
           
         </div>
         <!--end left column-->
         <div class="col-lg-4">
           <!--begin middle column-->
           
-          <!--#include virtual="/modules/rttr152/races-completed.html" -->
+          <!--include virtual="/modules/rttr152/races-completed.html" -->
 
         </div>
         <!--end middle column-->
@@ -62,11 +62,11 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/rttr152/races-prep.html" -->
+          <!--include virtual="/modules/rttr152/races-prep.html" -->
 
-          <div class="round-border">
-            <!--#include virtual="/modules/stakes-nominations-rttr.html"-->
-          </div>
+          <!--div class="round-border"-->
+            <!--include virtual="/modules/stakes-nominations-rttr.html"-->
+          <!--/div-->
 
         </div>
         <!--end right column-->
@@ -75,9 +75,9 @@
       <!--End Row #1-->
       
       <!--Begin Row #2-->
-          <div class="row">
+          <!--div class="row">
           <b>Updates to note for 2026:</b>
-            <!--ol>
+            <ol>
               <li>UAE Derby is no longer part of the USA Trail. It has been moved the European Trail, and will not be included in the "<i>Road to the Roses, Derby 151</i>" Contest.</li>
               <li>The Virginia Derby is a newly added race for the contest.</li>
             </ol>
@@ -85,8 +85,8 @@
             <ol>  
               <li>Any races with fields of 5 will only be awarded 75% of the total points for that race.</li>
               <li>Any races with fields of 4 or less will only be awarded 50% of the total points for that race.</li>
-            </ol-->
-          </div>
+            </ol>
+          </div-->
           <!--End Row #2-->
 
           <!--Begin Row #3-->
