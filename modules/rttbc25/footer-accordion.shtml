@@ -17,6 +17,7 @@
 
                   <!--#include virtual="/modules/how-to-play-rttbc.html" -->
                   <!--#include virtual="/modules/rttbc-scoring-table.html" --> <!--Swap these before/after contest starts-->
+                  <!--#include virtual="/modules/rttbc25/contest-notes.html"-->
 
                 </div>
                 <!--end left column-->
@@ -34,7 +35,6 @@
                   <!--begin right column-->
 
                   <!--#include virtual="/modules/rttbc25/auto-draft-log-continued.html"-->
-                  <!--#include virtual="/modules/rttbc25/contest-notes.html"-->
 
                 </div>
                 <!--end right column-->
