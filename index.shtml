@@ -45,15 +45,15 @@
         <div class="col-lg-4">
           <!--begin middle column-->
 
-          <!--#include virtual="/modules/twitter.html" -->
-
+          <!--#include virtual="/modules/champions-current.html" -->
+          
         </div>
         <!--end middle column-->
 
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/champions-current.html" -->          
+          <!--#include virtual="/modules/twitter.html" -->          
           <!--#include virtual="/modules/how-to-play-rttr.html" -->
 
         </div>
