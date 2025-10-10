@@ -244,7 +244,7 @@ td {
 }
 
 .top-draft-pick {
-  background-color: yellow;
+  background-color: yellow !important;
   font-weight: bold;
 }
 
@@ -256,6 +256,11 @@ td {
   font-weight: normal;
   color: #000;
   background-color: #fafafa;
+}
+
+.off-trail {
+text-decoration: line-through;
+background-color: gray;
 }
 
 .draft-change-row {
