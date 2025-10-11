@@ -32,7 +32,7 @@
 
 <body class="bodyTag">
   <!--Begin Banner-->
-  <!--#include virtual="/banner.html" -->
+  <!--#include virtual="/banner.shtml" -->
   <!--End Banner-->
 
 
