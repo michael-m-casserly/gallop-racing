@@ -54,7 +54,7 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/rttbc24/leaderboard-lite.html" -->
+          <!--#include virtual="/modules/rttbc24/leaderboard-lite.shtml" -->
           
         </div>
         <!--end left column-->
@@ -62,7 +62,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           
-          <!--#include virtual="/modules/rttbc24/leaderboard-points-per-entry.html" -->
+          <!--#include virtual="/modules/rttbc24/leaderboard-points-per-entry.shtml" -->
 
         </div>
         <!--end middle column-->
@@ -70,7 +70,7 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/rttbc24/leaderboard-rankings-by-week.html" -->
+          <!--#include virtual="/modules/rttbc24/leaderboard-rankings-by-week.shtml" -->
           
         </div>
         <!--end right column-->

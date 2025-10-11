@@ -50,7 +50,7 @@
         </div>
   
         <p>Detailed Scoring was not available in the RTTBC '23 Contest.</p>
-        <!--#include virtual="/modules/rttbc23/leaderboard-rankings-by-week.html" -->
+        <!--#include virtual="/modules/rttbc23/leaderboard-rankings-by-week.shtml" -->
 
 
       <!--include virtual="/modules/rttbc23/footer-accordion.shtml" -->
