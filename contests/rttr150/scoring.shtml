@@ -51,6 +51,8 @@
 
       <p>Detailed Scoring was not available in the RTTR 150 Contest.</p>
       
+      <!--#include virtual="/modules/rttr150/footer-accordion.shtml" -->
+      
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->

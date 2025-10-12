@@ -50,7 +50,9 @@
         </div>
   
     <p>Detailed Scoring was not available in the RTTR 149 Contest.</p>
-            
+
+      <!--#include virtual="/modules/rttr149/footer-accordion.shtml" -->
+          
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->

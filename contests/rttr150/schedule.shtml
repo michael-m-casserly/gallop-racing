@@ -57,7 +57,9 @@
                 </tr>
               </table>
             </div>
-            
+
+            <!--#include virtual="/modules/rttr150/footer-accordion.shtml" -->
+
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->

@@ -76,7 +76,9 @@
         <!--end right column-->
 
       </div>
-      
+
+      <!--#include virtual="/modules/rttr149/footer-accordion.shtml" -->
+            
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->
