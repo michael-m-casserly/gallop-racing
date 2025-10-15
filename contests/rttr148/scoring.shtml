@@ -47,7 +47,9 @@
 
         <p>Detailed Scoring was not available in the RTTR 148 Contest.</p>
       
-      <!-- FOOTER -->
+      <!--#include virtual="/modules/rttr148/footer-accordion.shtml" -->
+
+        <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->
 

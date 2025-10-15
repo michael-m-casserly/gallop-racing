@@ -77,6 +77,8 @@
 
       </div>
 
+      <!--#include virtual="/modules/rttr148/footer-accordion.shtml" -->
+      
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->
