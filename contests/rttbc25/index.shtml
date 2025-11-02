@@ -66,8 +66,9 @@
         <div class="col-lg-4">
           <!--begin left column-->
           <!--include virtual="/modules/register.html" -->
-          <!--include virtual="/modules/rttbc25/leaderboard-lite.html" --> <!--This causes issues in the select box functions whenever it loads slowly-->
-          <!--#include virtual="/modules/rttbc25/races-upcoming.html" -->
+          <!--#include virtual="/modules/rttbc25/leaderboard-lite.html" --> <!--This causes issues in the select box functions whenever it loads slowly-->
+          <!--include virtual="/modules/rttbc25/races-upcoming.html" -->
+          <!--#include virtual="/modules/rttbc25/races-completed-bc.html" -->
           <!--include virtual="/modules/rttbc25/contest-info.shtml" -->
           <!--include virtual="/modules/rttbc25/final-standings.html" -->
 
