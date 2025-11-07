@@ -1,0 +1,32 @@
+<div class="module-no-border" style="padding-bottom: 0px !important; margin-bottom: 0px !important;">
+<h5>Quick Links</h5>    
+<p>    
+    <!--#include virtual="/modules/rttbc26/stables-menu.html"-->
+</p>
+
+<p class="module-button-wrapper"><a class="btn btn-secondary"
+    href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_PGzaRpgwvQwUUjwT5o9d95y1ZoBa27v3BEfv0a7WdLKPo9z_qA3Uw8nzjgbE36Zqg4tCzyvbh2Ih/pubhtml?gid=0&single=true"
+    target="_blank" role="button"
+    onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vT_PGzaRpgwvQwUUjwT5o9d95y1ZoBa27v3BEfv0a7WdLKPo9z_qA3Uw8nzjgbE36Zqg4tCzyvbh2Ih/pubhtml?gid=0&single=true');"><svg
+      class="bi" width="16" height="16" role="img" aria-label="Google">
+      <title id="google-label-mouseover-rttbc26-leaderboard">Google</title>
+      <use xlink:href="#google" />
+    </svg> Leaderboard&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+      <title id="arrow-up-right-circle-rttbc26-leaderboard-quicklinks">New Window</title>
+      <use xlink:href="#arrow-up-right-circle" />
+    </svg></a>
+  </p>
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary"
+    href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSLJ0gXKn_nMxcQDwiygUM5PNEup_pWOeRenaxq-wExfu7QlC6VUiiZDDwoiMe17549kuzkFHM0SgdB/pubhtml?gid=1411863973&single=true"
+    target="_blank" role="button"
+    onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSLJ0gXKn_nMxcQDwiygUM5PNEup_pWOeRenaxq-wExfu7QlC6VUiiZDDwoiMe17549kuzkFHM0SgdB/pubhtml?gid=1411863973&single=true');"><svg
+      class="bi" width="16" height="16" role="img" aria-label="Google">
+      <title id="google-label-mouseover-rttbc26-schedule-quicklinks">Google</title>
+      <use xlink:href="#google" />
+    </svg> Full Schedule&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+      <title id="arrow-up-right-circle-rttbc26-schedule">New Window</title>
+      <use xlink:href="#arrow-up-right-circle" />
+    </svg></a>
+  </p>
+</div>

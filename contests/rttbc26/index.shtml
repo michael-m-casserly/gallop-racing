@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <!--#include virtual="/banner-head.html" -->
+
+  <title>Road to the Breeders' Cup 2026 | Gallop Racing</title>
+
+  <!--Special P style for RTTBC 22 page only-->
+  <style>
+    p {
+      text-align: center;
+    }
+  </style>
+
+  <link rel="canonical" href="https://www.gallop-racing.com/contests/rttbc26/index.shtml">
+
+</head>
+
+<body class="bodyTag">
+  <!--Begin Banner-->
+  <!--#include virtual="/banner.shtml" -->
+  <!--End Banner-->
+
+  <!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/contests/index.shtml">Contests</a></li>
+        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">RTTBC 2026</span></li>
+      </ol>
+    </nav>
+
+    <div class="text-align-center">
+      <h3>Road to the Breeders' Cup<br>2026 Contest</h3>
+    </div>
+
+    <!--include virtual="/countdown-timer-rttbc.html" -->
+
+    <!--#include virtual="/contests/subnav-menu.html" -->
+
+    <div class="container marketing">
+
+      <div class="row">
+        <!--#include virtual="/modules/jump-to-contest.html" -->
+      </div>
+
+      <!--ADD THIS ROW BACK AFTER WEEK #1-->
+      <div class="row">
+        <div class="col-lg-4">
+          <!--#include virtual="/modules/rttbc26/top-three-stables-graphic.html" -->
+        </div>
+        <div class="col-lg-4">
+          <!--#include virtual="/modules/rttbc26/tracker-season-progress.html" -->
+        </div>
+        <div class="col-lg-4">
+          <!--#include virtual="/modules/rttbc26/top-row-in-season-buttons.shtml" -->
+        </div>
+
+      </div>
+      <!--end row-->
+
+      <div class="row">
+        <div class="col-lg-4">
+          <!--begin left column-->
+          <!--include virtual="/modules/register.html" -->
+          <!--#include virtual="/modules/rttbc26/leaderboard-lite.shtml" --> <!--This causes issues in the select box functions whenever it loads slowly-->
+          <!--include virtual="/modules/rttbc26/races-upcoming.html" -->
+          <!--#include virtual="/modules/rttbc26/races-completed-bc.html" -->
+          <!--include virtual="/modules/rttbc26/contest-info.shtml" -->
+          <!--include virtual="/modules/rttbc26/final-standings.html" -->
+
+        </div>
+        <!--end left column-->
+
+        <div class="col-lg-4">
+          <!--begin middle column-->
+
+          <!--div class="module-no-border" style="padding-bottom: 0px !important; margin-bottom: 0px !important;"-->
+          <!--THIS GETS ADDED AT THE END OF THE SEASON-->
+          <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC26-League-Sheet-Leaderboard.pdf" target="_blank" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF"><title id="pdf-label-mouseover-rttbc26-leaderboard">PDF</title><use xlink:href="#filetype-pdf" /></svg>&nbsp;Full Leaderboard</a></p-->
+
+          <!--THIS GETS ADDED DURING DRAFT #1-->
+          <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRp7svMLtXWHciFBP8HB6n_aNbYgq42IHr-s4tb3HrqbIq4xmEXPQFfhewETCf4ieAETjVvU9SM4y8a/pubhtml?gid=1411863973&single=true" target="_blank" role="button" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRp7svMLtXWHciFBP8HB6n_aNbYgq42IHr-s4tb3HrqbIq4xmEXPQFfhewETCf4ieAETjVvU9SM4y8a/pubhtml?gid=1411863973&single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google"><title id="google-label-mouseover-rttbc26-full-schedule">Google Drive</title><use xlink:href="#google" /></svg>&nbsp;Full Schedule&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+              <title id="arrow-up-right-circle-full-schedule">New Window</title>
+              <use xlink:href="#arrow-up-right-circle" />
+            </svg></a></p-->
+
+          <!--/div-->
+
+          <!--#include virtual="/modules/rttbc26/contest-info.shtml" -->
+          <!--#include virtual="/modules/resources-rttbc.html" -->
+          <!--include virtual="/modules/calendar.html" -->
+
+          <div class="round-border">
+            <!--#include virtual="/modules/stakes-calendar.html" -->
+            <br>
+            <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
+          </div>
+          <!--ADD AFTER WEEK #1-->
+          <!--include virtual="/modules/rttbc26/races-completed.html" -->
+
+        </div>
+        <!--end middle column-->
+
+        <div class="col-lg-4">
+          <!--begin right column-->
+
+          <!--#include virtual="/modules/rttbc26/races-completed.html" -->
+
+          <!--include virtual="/modules/resources-rttbc.html" -->
+
+          <!--include virtual="/modules/rttbc26/leaderboard-points-per-entry.html" -->
+
+          <!--include virtual="/modules/rttbc26/leaderboard-rankings-by-week.html" -->
+
+        </div>
+        <!--end right column-->
+
+      </div>
+      <!--row #1-->
+
+      <!--#include virtual="/modules/rttbc26/footer-accordion.shtml" -->
+
+      <!-- FOOTER -->
+
+      <!--#include virtual="/footer-page.html" -->
+
+    </div>
+    <!--container-->
+
+    <!--#include virtual="/footer.html" -->
+
+
+  </main>
+
+
+</body>
+
+</html>

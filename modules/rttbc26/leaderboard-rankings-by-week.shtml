@@ -1,0 +1,26 @@
+<!--This is sourced from the League Sheet "Points per Entry" sheet-->
+<div class="module-no-border">
+  <h5>Ranking by Week</h5>
+
+  <!--p><i>Available following the 1st Draft.</i></p-->
+
+  <p class="module-button-wrapper">
+    
+    <!--#include virtual="/iframe-spinner3.html" -->
+    
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_PGzaRpgwvQwUUjwT5o9d95y1ZoBa27v3BEfv0a7WdLKPo9z_qA3Uw8nzjgbE36Zqg4tCzyvbh2Ih/pubhtml?gid=1171877352&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false&amp;scrolling=no" width="310" height="400" onload="document.getElementById('spinner3').style.display='none';"></iframe></p>
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary"
+      href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_PGzaRpgwvQwUUjwT5o9d95y1ZoBa27v3BEfv0a7WdLKPo9z_qA3Uw8nzjgbE36Zqg4tCzyvbh2Ih/pubhtml?gid=155123229&single=true"
+      target="_blank" role="button"
+      onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vT_PGzaRpgwvQwUUjwT5o9d95y1ZoBa27v3BEfv0a7WdLKPo9z_qA3Uw8nzjgbE36Zqg4tCzyvbh2Ih/pubhtml?gid=155123229&single=true');"><svg
+        class="bi" width="16" height="16" role="img" aria-label="Google">
+        <title id="google-label-mouseover-rttbc26-full-rankings-by-week">Google</title>
+        <use xlink:href="#google" />
+      </svg> Full Rankings by Week&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+        <title id="arrow-up-right-circle-rttbc26-full-rankings-by-week">New Window</title>
+        <use xlink:href="#arrow-up-right-circle" />
+      </svg></a>
+  </p>
+
+</div>

@@ -1,0 +1,77 @@
+<div class="round-border">
+  <h5>RTTBC '26 Info</h5>
+
+  <!--Placeholder Message-->
+  <!--p>Links to the RTTBC26 Leaderboard, Calendar, Horses, and Rules will be available here when the contest begins.</p-->
+
+  <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/2026_BCWC_Official_Pre-Entries.pdf" role="button" target="_blank"><svg
+    class="bi" width="16" height="16" role="img" aria-label="PDF">
+    <title id="pdf-label-mouseover-rttbc26-official-pre-entries">PDF</title>
+    <use xlink:href="#filetype-pdf" />
+  </svg>&nbsp;Official Pre-Entries</a></p-->
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC26-Schedule-by-Division_2026-08-16.pdf"
+      role="button" target="_blank"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
+        <title id="pdf-label-mouseover-rttbc26-schedule-by-division">PDF</title>
+        <use xlink:href="#filetype-pdf" />
+      </svg>&nbsp;Schedule by Division</a></p>
+
+  <!--THIS NEEDS TO BE UPDATED FOR 2026 following Draft #1-->
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC26-All-Stables_2026-10-31.pdf" role="button"
+      target="_blank"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
+        <title id="pdf-label-mouseover-rttbc26-all-stables">PDF</title>
+        <use xlink:href="#filetype-pdf" />
+      </svg> View All Stables</a>
+  </p>
+
+  <p class="module-button-wrapper">
+    <a class="btn btn-secondary btn-half"
+      href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_PGzaRpgwvQwUUjwT5o9d95y1ZoBa27v3BEfv0a7WdLKPo9z_qA3Uw8nzjgbE36Zqg4tCzyvbh2Ih/pubhtml?gid=249132506&single=true"
+      target="_blank" role="button"
+      onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vT_PGzaRpgwvQwUUjwT5o9d95y1ZoBa27v3BEfv0a7WdLKPo9z_qA3Uw8nzjgbE36Zqg4tCzyvbh2Ih/pubhtml?gid=249132506&single=true');"><svg
+        class="bi" width="16" height="16" role="img" aria-label="Google">
+        <title id="google-label-mouseover-rttbc26-horses">Google</title>
+        <use xlink:href="#google" />
+      </svg><br>Horses</a>
+    <a class="btn btn-secondary btn-half"
+      href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=month"
+      target="_blank" role="button"
+      onclick="captureOutboundLink('https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=month');"><svg
+        class="bi" width="16" height="16" role="img" aria-label="Google">
+        <title id="google-label-mouseover-rttbc26-calendar">Calendar</title>
+        <use xlink:href="#calendar" />
+      </svg><br>Calendar</a>
+  </p>
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/news.shtml" role="button">News</a>
+    <a class="btn btn-secondary btn-half" href="/contests/resources.shtml" role="button">Resources</a>
+  </p>
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary btn-half" href="/contests/rules.shtml"
+      role="button">Rules</a>
+    <a class="btn btn-secondary btn-half" href="/contests/strategies.shtml" role="button">Strategies</a>
+  </p>
+
+  <!-- ADD THIS ONCE THE SEASON IS COMPLETED
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC26-Leading-Horses-by-Stable.pdf"
+    target="_blank" role="button"
+    onclick="captureOutboundLink('/pdf/RTTBC26-Leading-Horses-by-Stable.pdf');"><svg
+    class="bi" width="16" height="16" role="img" aria-label="PDF">
+    <title id="pdf-label-mouseover-rttbc26-leading-horses-by-stable">PDF</title>
+    <use xlink:href="#filetype-pdf" />
+  </svg> Leading Horses by Stable</a></p>
+-->
+
+  <!--THIS GETS ADDED DURING DRAFT #1-->
+  <!--ADD THIS BACK ONCE RTTBC26 REGISTRATION CLOSES-->
+  <p><!--#include virtual="/modules/rttbc26/stables-menu.html"--></p>
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/contests/data-disclaimer.shtml"
+      role="button">Data Disclaimer</a></p>
+
+  <p style="font-size: 12px; text-align: justify; padding: 5px 30px 0px 30px;">*Cannot view other players' stables
+    during Drafts or Power Pick selection windows. However, you can always use the "View All Stables" button above to
+    see
+    any stable at any time (without Power Pick Access).</p>
+
+</div>
