@@ -49,8 +49,8 @@
           <div class="round-border">
             <h5>Kentucky Derby</h5>
             <p>January to May</p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttr151/index.shtml"
-                role="button">RTTR 151</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttr152/index.shtml"
+                role="button">RTTR 152</a></p>
             <!--STOPPED USING HASHTAGS AFTER RTTBC23, since "X" has turned into nonsense. Will just use it to re-tweet any news items.-->
                 <!--p class="module-button-wrapper"><a class="btn btn-secondary btn"
                 href="https://twitter.com/hashtag/rttr150?f=live" role="button" target="_blank"><svg class="bi"
@@ -65,6 +65,7 @@
                 <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
                   style="max-width: 240px; margin: auto;">
                   <option value="" selected>Previous RTTR Contests</option>
+                  <option value="/contests/rttr151/index.shtml">RTTR 151</option>
                   <option value="/contests/rttr150/index.shtml">RTTR 150</option>
                   <option value="/contests/rttr149/index.shtml">RTTR 149</option>
                   <option value="/contests/rttr148/index.shtml">RTTR 148</option>
