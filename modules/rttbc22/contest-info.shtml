@@ -22,7 +22,5 @@
         <title id="pdf-label-mouseover-rttbc22-leading-horses-by-stable">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg> Leading Horses by Stable</a></p>
-
-      <p><!--#include virtual="/modules/rttbc22/stables-menu.html"--></p>
       
 </div>

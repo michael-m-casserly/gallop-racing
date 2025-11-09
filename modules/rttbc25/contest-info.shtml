@@ -30,7 +30,11 @@
       </svg> Horses</a>
   </p>
 
-  <p><!--#include virtual="/modules/rttbc25/stables-menu.html"--></p>
-
+  <p class="module-button-wrapper"><a class="btn btn-secondary"
+      href="/contests/rttbc25/pdf/BCCS-Points_2025-10-19.pdf" target="_blank" role="button"><svg class="bi"
+        width="16" height="16" role="img" aria-label="PDF">
+        <title id="pdf-label-mouseover-bccs-points-2025">PDF</title>
+        <use xlink:href="#filetype-pdf" />
+      </svg>&nbsp;BCCS Points Leaders</a></p>
 
 </div>

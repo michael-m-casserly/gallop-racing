@@ -53,6 +53,4 @@
       </svg> View All Stables</a>
   </p>
 
-  <p><!--#include virtual="/modules/rttr151/stables-menu.html"--></p>
-
 </div>

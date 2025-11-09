@@ -46,7 +46,4 @@
     <use xlink:href="#filetype-pdf" />
   </svg> Leading Horses by Stable</a></p>
 -->
-
-  <p><!--#include virtual="/modules/rttbc24/stables-menu.html"--></p>
-
 </div>

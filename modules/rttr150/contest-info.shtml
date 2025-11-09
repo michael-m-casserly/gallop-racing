@@ -52,7 +52,4 @@
       </svg> View All Stables</a>
   </p>
 
-  <!--ADD THIS WHEN SEASON STARTS-->
-  <p><!--#include virtual="/modules/rttr150/stables-menu.html"--></p>
-
 </div>
