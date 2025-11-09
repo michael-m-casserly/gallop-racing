@@ -44,6 +44,10 @@
 
       <p>RTTR152 Stats will be available after the contest begins in early 2026.</p>
       
+      <div class="row">
+        <!--#include virtual="/modules/jump-to-stats.html" -->
+      </div>
+
       <!--Begin Row #1-->
       <div class="row">
         <div class="col-lg-4">

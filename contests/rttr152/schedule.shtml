@@ -42,7 +42,13 @@
 
     <div class="container marketing">
 
-      <!--Begin Row #1-->
+    <!--Begin Row #1-->
+          <div class="row">
+            <!--#include virtual="/modules/jump-to-schedule.html" -->
+          </div>
+    <!--End Row #1-->
+
+  <!--Begin Row #2-->
       <div class="row">
         <div class="col-lg-4">
           <!--begin left column-->
@@ -72,9 +78,9 @@
         <!--end right column-->
 
       </div>
-      <!--End Row #1-->
+      <!--End Row #2-->
       
-      <!--Begin Row #2-->
+      <!--Begin Row #3-->
           <!--div class="row">
           <b>Updates to note for 2026:</b>
             <ol>
@@ -87,9 +93,9 @@
               <li>Any races with fields of 4 or less will only be awarded 50% of the total points for that race.</li>
             </ol>
           </div-->
-          <!--End Row #2-->
+          <!--End Row #3-->
 
-          <!--Begin Row #3-->
+          <!--Begin Row #4-->
           <div class="row">
               <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ujLmbZu0KJ4ibpYNWmv2v3i24xvmlSslxXNnW1rnFK1H4NkTO2nZZhno8ILhLvuzNKL9pQjG2haz/pubhtml?gid=1847637649&amp;single=true&amp;widget=true&amp;headers=false"
                 target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
@@ -108,18 +114,18 @@
                 </tr>
               </table>
             </div>
-          <!--End Row #3-->
-
-          <br>
-          <!--Begin Row #4-->
-          <!--#include virtual="/modules/rttr152/footer-accordion.shtml" -->
           <!--End Row #4-->
 
+          <br>
           <!--Begin Row #5-->
+          <!--#include virtual="/modules/rttr152/footer-accordion.shtml" -->
+          <!--End Row #5-->
+
+          <!--Begin Row #6-->
       <div class="row">
         <!--#include virtual="/modules/jump-to-schedule.html" -->
       </div>
-          <!--End Row #5-->
+          <!--End Row #6-->
 
       <!--#include virtual="/contests/subnav-menu.html" -->
 

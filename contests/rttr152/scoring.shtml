@@ -47,6 +47,10 @@
 
       <p>RTTR152 Scoring will be available after the contest begins in early 2026.</p>
 
+      <div class="row">
+        <!--#include virtual="/modules/jump-to-scoring.html" -->
+      </div>
+  
       <!--begin row #1-->
       <div class="row">
         <div class="col-lg-4">

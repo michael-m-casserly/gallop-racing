@@ -46,8 +46,13 @@
       <!--Placeholder for use before the Registration module is opened.-->
       <p>The Road to the Roses, Derby 152 contest will start in January 2026.</p>
 
-      
       <!--begin row #1-->
+      <div class="row">
+        <!--#include virtual="/modules/jump-to-contest.html" -->
+      </div>
+      <!--end row #1-->
+
+      <!--begin row #2-->
       <div class="row">
         <div class="col-lg-4">
           <!--begin left column-->
@@ -74,9 +79,9 @@
         <!--end right column-->
 
       </div>
-      <!--end row #1-->
+      <!--end row #2-->
 
-      <!--begin row #2-->
+      <!--begin row #3-->
       <div class="row">
         <div class="col-lg-4">
           <!--begin left column-->
@@ -113,7 +118,7 @@
         <!--end right column-->
 
       </div>
-      <!--end row #2-->
+      <!--end row #3-->
 
       <!--#include virtual="/modules/rttr152/footer-accordion.shtml" -->
 
