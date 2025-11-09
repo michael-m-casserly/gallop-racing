@@ -50,7 +50,7 @@
       <div class="row">
         <!--begin left column-->
         <div class="col-lg-4">
-          <!--#include virtual="/modules/rttbc25/final-standings.html" -->
+          <!--#include virtual="/modules/rttbc25/final-standings.shtml" -->
         </div>
         <!--end left column-->
 

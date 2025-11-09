@@ -56,7 +56,7 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/rttr151/final-standings.html" -->
+          <!--#include virtual="/modules/rttr151/final-standings.shtml" -->
           
         </div>
         <!--end left column-->

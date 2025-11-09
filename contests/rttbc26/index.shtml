@@ -70,7 +70,7 @@
           <!--include virtual="/modules/rttbc26/races-upcoming.html" -->
           <!--#include virtual="/modules/rttbc26/races-completed-bc.html" -->
           <!--include virtual="/modules/rttbc26/contest-info.shtml" -->
-          <!--include virtual="/modules/rttbc26/final-standings.html" -->
+          <!--include virtual="/modules/rttbc26/final-standings.shtml" -->
 
         </div>
         <!--end left column-->
