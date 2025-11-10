@@ -141,6 +141,7 @@
         <div class="col-lg-4">
           <!--begin right column-->
         
+          <!--#include virtual="/modules/rttbc-races-by-year.html" -->
           <!--#include virtual="/modules/twitter.html" -->
         
         </div>
