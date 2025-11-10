@@ -82,12 +82,6 @@
 
       <!--#include virtual="/modules/rttr152/footer-accordion.shtml" -->
       
-      <div class="row">
-      <!--#include virtual="/modules/jump-to-scoring.html" -->
-      </div>
-
-      <!--#include virtual="/contests/subnav-menu.html" -->
-      
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->

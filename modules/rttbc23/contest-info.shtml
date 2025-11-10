@@ -37,7 +37,7 @@
   <p class="module-button-wrapper">
     <a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcQqbP5-EkLkdd2JkFl7LQLARwZj_99y7jIWiAQE7oQgA1sqTV6XN_C9Ewp5XXkonKIwslYMX2DmEu/pubhtml?gid=249132506&single=true" target="_blank" role="button"
       onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRcQqbP5-EkLkdd2JkFl7LQLARwZj_99y7jIWiAQE7oQgA1sqTV6XN_C9Ewp5XXkonKIwslYMX2DmEu/pubhtml?gid=249132506&single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google">
-        <title id="google-label-mouseover-rttbc22-horses">Google</title>
+        <title id="google-label-mouseover-rttbc23-horses">Google</title>
         <use xlink:href="#google" />
       </svg> Horses</a>
   </p>

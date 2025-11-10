@@ -143,5 +143,6 @@
       <td class="leaderboard-data-player">Charlie Kinzie | Rockaway, NY</td>
     </tr>
   </table>
+  <br>
   <p><!--#include virtual="/modules/rttbc26/stables-menu.html"--></p>
 </div>

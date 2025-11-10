@@ -85,14 +85,6 @@
           <!--#include virtual="/modules/rttr152/footer-accordion.shtml" -->
           <!--End Row #2-->
 
-      <!--Begin Row #3-->
-      <div class="row">
-        <!--#include virtual="/modules/jump-to-stats.html" -->
-      </div>
-      <!--End Row #3-->
-
-      <!--#include virtual="/contests/subnav-menu.html" -->
-      
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->

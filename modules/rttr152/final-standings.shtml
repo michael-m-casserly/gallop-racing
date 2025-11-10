@@ -264,5 +264,6 @@
         <td class="leaderboard-data-player">Casey Hutchings | Canada</td>
       </tr>
     </table>
+    <br>
     <p><!--#include virtual="/modules/rttr152/stables-menu.html"--></p>
   </div>

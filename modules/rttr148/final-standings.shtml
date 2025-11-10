@@ -240,5 +240,6 @@
         <td class="leaderboard-data-player">Vincent LaRosa Jr. | Port Washington, NY</td>
       </tr>
     </table>
+    <br>
     <p><!--#include virtual="/modules/rttr148/stables-menu.html"--></p>
   </div>

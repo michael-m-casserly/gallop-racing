@@ -121,14 +121,6 @@
           <!--#include virtual="/modules/rttr152/footer-accordion.shtml" -->
           <!--End Row #5-->
 
-          <!--Begin Row #6-->
-      <div class="row">
-        <!--#include virtual="/modules/jump-to-schedule.html" -->
-      </div>
-          <!--End Row #6-->
-
-      <!--#include virtual="/contests/subnav-menu.html" -->
-
       <!-- FOOTER -->
 
       <!--#include virtual="/footer-page.html" -->

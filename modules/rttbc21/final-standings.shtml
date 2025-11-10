@@ -159,5 +159,6 @@
         <td class="leaderboard-data-player">Mark LaPenta | Morristown, NJ</td>
       </tr>
     </table>
+    <br>
     <p><!--#include virtual="/modules/rttbc21/stables-menu.html"--></p>
   </div>
