@@ -1,0 +1,11 @@
+Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location
+Execute Manually: RemoveCondFormatHorseNameColumnHorsesSheet_RTTx(),1/11/2026,6:00:00 PM,1/11/2026,7:00:00 PM,FALSE,,
+Trigger: HideHorseDataBeforeDrafting_RTTx(),1/11/2026,6:00:00 PM,1/11/2026,7:00:00 PM,FALSE,,
+Trigger: HideTrainerJockeySireDataBeforeDrafting_RTTBC(),1/11/2026,7:00:00 PM,1/11/2026,8:00:00 PM,FALSE,,
+Trigger: PowerHorseON(),1/11/2026,7:00:00 PM,1/11/2026,8:00:00 PM,FALSE,,
+Trigger: GrantDraftXXAccess(),1/11/2026,8:00:00 PM,1/11/2026,9:00:00 PM,FALSE,,
+Task: Execute MergeUnusedScoreboardCells(),1/11/2026,9:00:00 PM,1/11/2026,10:00:00 PM,FALSE,,
+Trigger: RemoveDraftxxAccess(),1/17/2026,12:00:00 PM,1/17/2026,1:00:00 PM,FALSE,,
+Trigger: ShowHorseDataAfterDrafting_RTTx(),1/17/2026,1:00:00 PM,1/17/2026,2:00:00 PM,FALSE,,
+Execute Manually: AddCondFormatHorseNameColumnHorsesSheet_RTTx(),1/17/2026,12:30:00 PM,1/17/2026,1:00:00 PM,FALSE,,
+Trigger: ShowTrainerJockeySireDataAfterDrafting_RTTBC(),1/17/2026,2:00:00 PM,1/17/2026,3:00:00 PM,FALSE,,
