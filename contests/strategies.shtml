@@ -37,12 +37,12 @@
         <div class="accordion" id="accordionStrategiesdata">
           <div class="accordion-item">
             <h2 class="accordion-header" id="headingVariableDraft">
-              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              <button class="accordion-button" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseVariableDraft" aria-expanded="false" aria-controls="collapseVariableDraft">
                 RTTR Variable Drafting
               </button>
             </h2>
-            <div id="collapseVariableDraft" class="accordion-collapse collapse" aria-labelledby="headingVariableDraft"
+            <div id="collapseVariableDraft" class="accordion-collapse collapse show" aria-labelledby="headingVariableDraft"
               data-bs-parent="#accordionStrategiesdata">
               <div class="accordion-body accordion-td-cell">
                   <p>The final two Drafts in the RTTR contest will be <i>variable</i>, meaning stables can select anywhere between zero and five horses to add to their stable over two separate selection periods.</p>
@@ -73,12 +73,12 @@
           </div>
           <div class="accordion-item">
             <h2 class="accordion-header" id="headingRTTBC">
-              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseRTTBC"
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseRTTBC"
                 aria-expanded="false" aria-controls="collapseRTTBC">
                 RTTBC Approach
               </button>
             </h2>
-            <div id="collapseRTTBC" class="accordion-collapse collapse show" aria-labelledby="headingRTTBC"
+            <div id="collapseRTTBC" class="accordion-collapse collapse" aria-labelledby="headingRTTBC"
               data-bs-parent="#accordionStrategiesdata">
               <div class="accordion-body accordion-td-cell">
                   <p>The RTTBC contest is longer and encompasses more divisions than the RTTR contest (restricted to 3-year-old horses on the dirt). The RTTBC contest covers all seven dirt divisions leading into the Breeders' Cup. The seven divisions include:</p>

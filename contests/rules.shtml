@@ -212,14 +212,10 @@
                   <th class="TableHeader text-align-center">PWH-002</th>
                 </tr>
                 <tr>
-                  <td>One exception to Rule #PWH-001: If there is a Sunday race, and one of your Power Picks from that
+                  <td>One exception to Rule #PWH-001: If there is a Sunday race (or Saturday race on a week with a Friday race, etc.), and one of your Power Picks from that
                     Sunday race becomes an early scratch (by Noon on Sunday, local track time), then you can contact <a
                       href="mailto:support@gallop-racing.com" target="_blank">support@gallop-racing.com</a> directly to
-                    swap that Power Pick with another entry that day if applicable.
-                    <br><br>
-                    <b>Please note:</b> This exception does not apply to Breeders' Cup Weekend. Once your Power Picks
-                    are set on Friday they cannot change regardless of any later scratches on Saturday (early or late).
-                  </td>
+                    swap that Power Pick with another entry that day if applicable.</td>
                 </tr>
                 <tr>
                   <th class="TableHeader text-align-center">PWH-003</th>
@@ -438,17 +434,7 @@
                     Sheet and submit it <!--with your entry fee--> before the deadline listed on the Race Schedule.</td>
                 </tr>
                 <tr>
-                  <th class="TableHeader text-align-center">SET-002 (Original)</th>
-                </tr>
-                <tr>
-                  <td style="text-decoration: line-through;">Each player will select a Winning Time for this year's
-                    Kentucky Derby OR Breeder's Cup Classic, used in case of any tiebreaker at the end of the year. The
-                    player with the closest time (to the millisecond without going over) will be considered the winner.
-                    If multiple players select the same winning time and are involved in a tiebreaker, they are declared
-                    co-winners.</td>
-                </tr>
-                <tr>
-                  <th class="TableHeader text-align-center">SET-002 (Revised Jan. 2025)</th>
+                  <th class="TableHeader text-align-center">SET-002</th>
                 </tr>
                 <tr>
                   <td>If there are multiple stables with equal total points in one of the placings, then the following
@@ -510,13 +496,13 @@
       <div class="accordion" id="accordionRulesRTTBC-AutoDraft">
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingRulesRTTBC-AutoDraft">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesRTTBC-AutoDraft" aria-expanded="false"
               aria-controls="collapseRulesRTTBC-AutoDraft">
               Auto-Draft (AUT) -- <i>RTTBC ONLY</i>
             </button>
           </h2>
-          <div id="collapseRulesRTTBC-AutoDraft" class="accordion-collapse collapse show"
+          <div id="collapseRulesRTTBC-AutoDraft" class="accordion-collapse collapse"
             aria-labelledby="headingRulesRTTBC-AutoDraft" data-bs-parent="#accordionRulesRTTBC-AutoDraft">
             <div class="accordion-body">
               <table class="TableStandard">
@@ -611,12 +597,12 @@
       <div class="accordion" id="accordionRulesRTTBC">
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingRulesRTTBC">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesRTTBC" aria-expanded="false" aria-controls="collapseRulesRTTBC">
               RTTBC (RBC)
             </button>
           </h2>
-          <div id="collapseRulesRTTBC" class="accordion-collapse collapse show" aria-labelledby="headingRulesRTTBC"
+          <div id="collapseRulesRTTBC" class="accordion-collapse collapse" aria-labelledby="headingRulesRTTBC"
             data-bs-parent="#accordionRulesRTTBC">
             <div class="accordion-body">
               <table class="TableStandard">
@@ -629,15 +615,7 @@
                     States, excluding any Turf or Synthetic track races from that list.</td>
                 </tr>
                 <tr>
-                  <th class="TableHeader text-align-center">RBC-002 (Original)</th>
-                </tr>
-                <tr>
-                  <td style="text-decoration: line-through;">After Draft #1 there will be six additional drafts. Please refer to the Race Schedule Sheet for
-                    the exact dates. You can add 5 horses to your Stable each time, except for Draft #7, where you will
-                    only add 3 horses. In Draft #5, you will add one trainer, one jockey, and one sire.</td>
-                </tr>
-                <tr>
-                  <th class="TableHeader text-align-center">RBC-002 (Revised May 2025)</th>
+                  <th class="TableHeader text-align-center">RBC-002</th>
                 </tr>
                 <tr>
                   <td>After Draft #1 there will be seven additional drafts. Please refer to the Race Schedule Sheet for
@@ -676,12 +654,12 @@
       <div class="accordion" id="accordionRulesRTTR">
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingRulesRTTR">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            <button class="accordion-button" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesRTTR" aria-expanded="false" aria-controls="collapseRulesRTTR">
               RTTR (RTR)
             </button>
           </h2>
-          <div id="collapseRulesRTTR" class="accordion-collapse collapse" aria-labelledby="headingRulesRTTR"
+          <div id="collapseRulesRTTR" class="accordion-collapse collapse show" aria-labelledby="headingRulesRTTR"
             data-bs-parent="#accordionRulesRTTR">
             <div class="accordion-body">
               <table class="TableStandard">
