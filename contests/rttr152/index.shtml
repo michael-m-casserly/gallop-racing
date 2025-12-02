@@ -96,6 +96,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           
+          <!--#include virtual="/modules/rttr152/contest-info.shtml" -->
           <!--#include virtual="/modules/resources-rttr.html" -->
           <div class="round-border">
             <!--#include virtual="/modules/stakes-nominations-rttr.html"-->
