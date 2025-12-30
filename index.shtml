@@ -34,7 +34,7 @@
           <!--begin left column-->
 
           <!--ENABLE THIS AGAIN WHEN REGISTRATION FOR THE NEXT CONTEST OPENS-->
-          <!--include virtual="/modules/register.html" -->
+          <!--#include virtual="/modules/register.html" -->
           <!--#include virtual="/modules/current-contest.html" -->
           <!--#include virtual="/modules/contest-previous.html" -->
           <!--#include virtual="/modules/how-to-play-rttr.html" -->

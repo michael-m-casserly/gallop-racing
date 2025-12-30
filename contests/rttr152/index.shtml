@@ -86,9 +86,9 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
+          <!--#include virtual="/modules/register.html" -->
           <!--#include virtual="/modules/rttr152/races-prep.html" -->
           <!--include virtual="/modules/rttr152/final-standings.shtml" -->
-          <!--include virtual="/modules/register.html" -->
           <!--include virtual="/modules/rttr152/contest-info.shtml" -->
           
         </div>
