@@ -137,7 +137,7 @@
             <li><a class="dropdown-item" href="/contests/rttbc25/scoring.shtml">BC '25 Scoring</a></li>
             <li><a class="dropdown-item" href="/contests/rttbc25/stats.shtml">BC '25 Stats</a></li>
             <!--li><a class="dropdown-item" href="/contests/rttbc26/index.shtml">Breeders' Cup '26</a></li-->
-            <!--li><a class="dropdown-item" href="/contests/rttr152/schedule.shtml">Derby 152 Schedule</a></li--><!--Use this when the RTTR Schedule is 1st published in mid-September during the RTTBC contest-->
+            <li><a class="dropdown-item" href="/contests/rttbc26/schedule.shtml">RTTBC '26 Schedule</a></li><!--Use this when the Schedule is 1st published for the next contest-->
             <li><a class="dropdown-item" href="/contests/how-to-play.shtml">How to Play</a></li>
             <li><a class="dropdown-item" href="/contests/resources.shtml">Resources</a></li>
             <li><a class="dropdown-item" href="/contests/rules.shtml">Rules</a></li>

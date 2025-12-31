@@ -47,6 +47,8 @@
         <!--#include virtual="/modules/jump-to-contest.html" -->
       </div>
 
+      <p>More details will be available before the contest begins in June 2026.</p>
+
       <!--ADD THIS ROW BACK AFTER WEEK #1-->
       <div class="row">
         <div class="col-lg-4">
@@ -67,7 +69,7 @@
           <!--begin left column-->
           <!--include virtual="/modules/register.html" -->
           <!--include virtual="/modules/rttbc26/leaderboard-lite.shtml" --> <!--This causes issues in the select box functions whenever it loads slowly-->
-          <!--#include virtual="/modules/rttbc26/races-upcoming.html" -->
+          <!--include virtual="/modules/rttbc26/races-upcoming.html" -->
           <!--include virtual="/modules/rttbc26/races-completed-bc.html" -->
           <!--include virtual="/modules/rttbc26/contest-info.shtml" -->
           <!--include virtual="/modules/rttbc26/final-standings.shtml" -->
@@ -91,14 +93,14 @@
           <!--/div-->
 
           <!--include virtual="/modules/rttbc26/contest-info.shtml" -->
-          <!--#include virtual="/modules/resources-rttbc.html" -->
+          <!--include virtual="/modules/resources-rttbc.html" -->
           <!--include virtual="/modules/calendar.html" -->
 
-          <div class="round-border">
-            <!--#include virtual="/modules/stakes-calendar.html" -->
+          <!--div class="round-border"-->
+            <!--include virtual="/modules/stakes-calendar.html" -->
             <br>
-            <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
-          </div>
+            <!--include virtual="/modules/stakes-nominations-rttbc.html" -->
+          <!--/div-->
           <!--ADD AFTER WEEK #1-->
           <!--include virtual="/modules/rttbc26/races-completed.html" -->
 
