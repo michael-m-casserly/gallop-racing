@@ -47,11 +47,13 @@
         <!--#include virtual="/modules/jump-to-stats.html" -->
       </div>
 
+      <p>Stats will be available after the contest begins in June 2026.</p>
+      
       <div class="row">
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/rttbc26/horses-by-stable.html"-->
+          <!--include virtual="/modules/rttbc26/horses-by-stable.html"-->
 
         </div>
         <!--end left column-->
@@ -59,10 +61,10 @@
         <div class="col-lg-4">
           <!--begin middle column-->
 
-          <!--#include virtual="/modules/rttbc26/trainers-by-stable.html"-->
-          <!--#include virtual="/modules/rttbc26/jockeys-by-stable.html"-->
-          <!--#include virtual="/modules/rttbc26/sires-by-stable.html"-->
-          <!--#include virtual="/modules/rttbc26/trainer-jockey-combo-by-stable.html"-->
+          <!--include virtual="/modules/rttbc26/trainers-by-stable.html"-->
+          <!--include virtual="/modules/rttbc26/jockeys-by-stable.html"-->
+          <!--include virtual="/modules/rttbc26/sires-by-stable.html"-->
+          <!--include virtual="/modules/rttbc26/trainer-jockey-combo-by-stable.html"-->
 
         </div>
         <!--end middle column-->
@@ -70,17 +72,17 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/rttbc26/leading-horses.html"-->
-          <!--#include virtual="/modules/rttbc26/leading-trainers.html"-->
-          <!--#include virtual="/modules/rttbc26/leading-jockeys.html"-->
-          <!--#include virtual="/modules/rttbc26/leading-sires.html"-->
+          <!--include virtual="/modules/rttbc26/leading-horses.html"-->
+          <!--include virtual="/modules/rttbc26/leading-trainers.html"-->
+          <!--include virtual="/modules/rttbc26/leading-jockeys.html"-->
+          <!--include virtual="/modules/rttbc26/leading-sires.html"-->
 
         </div>
         <!--end right column-->
 
       </div>
 
-      <!--#include virtual="/modules/rttbc26/footer-accordion.shtml" -->
+      <!--include virtual="/modules/rttbc26/footer-accordion.shtml" -->
 
       <!-- FOOTER -->
 

@@ -50,13 +50,13 @@
       <!--ADD THIS ROW BACK AFTER WEEK #1-->
       <div class="row">
         <div class="col-lg-4">
-          <!--#include virtual="/modules/rttbc26/top-three-stables-graphic.html" -->
+          <!--include virtual="/modules/rttbc26/top-three-stables-graphic.html" -->
         </div>
         <div class="col-lg-4">
-          <!--#include virtual="/modules/rttbc26/tracker-season-progress.html" -->
+          <!--include virtual="/modules/rttbc26/tracker-season-progress.html" -->
         </div>
         <div class="col-lg-4">
-          <!--#include virtual="/modules/rttbc26/top-row-in-season-buttons.shtml" -->
+          <!--include virtual="/modules/rttbc26/top-row-in-season-buttons.shtml" -->
         </div>
 
       </div>
@@ -66,9 +66,9 @@
         <div class="col-lg-4">
           <!--begin left column-->
           <!--include virtual="/modules/register.html" -->
-          <!--#include virtual="/modules/rttbc26/leaderboard-lite.shtml" --> <!--This causes issues in the select box functions whenever it loads slowly-->
-          <!--include virtual="/modules/rttbc26/races-upcoming.html" -->
-          <!--#include virtual="/modules/rttbc26/races-completed-bc.html" -->
+          <!--include virtual="/modules/rttbc26/leaderboard-lite.shtml" --> <!--This causes issues in the select box functions whenever it loads slowly-->
+          <!--#include virtual="/modules/rttbc26/races-upcoming.html" -->
+          <!--include virtual="/modules/rttbc26/races-completed-bc.html" -->
           <!--include virtual="/modules/rttbc26/contest-info.shtml" -->
           <!--include virtual="/modules/rttbc26/final-standings.shtml" -->
 
@@ -90,7 +90,7 @@
 
           <!--/div-->
 
-          <!--#include virtual="/modules/rttbc26/contest-info.shtml" -->
+          <!--include virtual="/modules/rttbc26/contest-info.shtml" -->
           <!--#include virtual="/modules/resources-rttbc.html" -->
           <!--include virtual="/modules/calendar.html" -->
 
@@ -108,7 +108,7 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/rttbc26/races-completed.html" -->
+          <!--include virtual="/modules/rttbc26/races-completed.html" -->
 
           <!--include virtual="/modules/resources-rttbc.html" -->
 
@@ -122,7 +122,7 @@
       </div>
       <!--row #1-->
 
-      <!--#include virtual="/modules/rttbc26/footer-accordion.shtml" -->
+      <!--include virtual="/modules/rttbc26/footer-accordion.shtml" -->
 
       <!-- FOOTER -->
 
