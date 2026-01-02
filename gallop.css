@@ -582,3 +582,10 @@ td.race-buttons {
 .saddlecloth-color-21 { background-color: #DDA0DD !important; color: #000080 !important;} /* Plum (Light Purple), Navy Number */
 .saddlecloth-color-22 { background-color: #4682B4 !important; color: #FFFFFF !important;} /* Steel Blue */
 .saddlecloth-color-23 { background-color: #20b2aa !important; color: #006400 !important;} /* Light Sea Green, Dark Green Number */
+
+/*AdSense Headers*/
+.header-adsense {
+	text-transform: uppercase; 
+	font-size: 8px; 
+	text-align: center;
+}

@@ -72,7 +72,7 @@
     </div>
     <!--container-->
 
-    <!--#include virtual="/footer.html" -->
+    <!--#include virtual="/footer.shtml" -->
 
 
   </main>
