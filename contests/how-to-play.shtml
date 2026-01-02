@@ -73,7 +73,7 @@
           <div id="collapseHowToPlayRTTR" class="accordion-collapse collapse show" aria-labelledby="headingHowToPlayRTTR"
             data-bs-parent="#accordionHowToPlay">
             <div class="accordion-body accordion-td-cell">
-              <div style="text-align: center;"><h4>Kentucky Derby</h4></div>
+              <div style="text-align: center;"><h3>Kentucky Derby</h3></div>
 
               <p>The scope of the RTTR contest will be all of the <a
                   href="https://www.kentuckyderby.com/prep-races/" target="_blank">Kentucky Derby Prep Races</a>
@@ -144,7 +144,7 @@
           <div id="collapseHowToPlayRTTBC" class="accordion-collapse collapse"
             aria-labelledby="headingHowToPlayRTTBC" data-bs-parent="#accordionHowToPlay">
             <div class="accordion-body accordion-td-cell">
-              <div style="text-align: center;"><h4>Breeders' Cup<br>(7 Dirt Divisions)</h4></div>
+              <div style="text-align: center;"><h3>Breeders' Cup<br>(7 Dirt Divisions)</h3></div>
 
               <p>The scope of the RTTBC contest will be all of the Graded Stakes races on Dirt in the United States, starting with the Belmont Stakes Saturday in June and ending before the BC Pre-Entry Deadline in mid-late October, amounting to ~110 races.</p>
 
@@ -302,7 +302,7 @@
       </div>
       <br>
       <div style="text-align: center;">
-        <h4>All Contests</h4>
+        <h3>All Contests</h3>
       </div>
       
       <p>Stables can have the same horses, trainers, and jockeys as other players' stables. The opportunity to separate comes with the "Power Picks" you select each week. Those horses will earn you 2x points.</p>
