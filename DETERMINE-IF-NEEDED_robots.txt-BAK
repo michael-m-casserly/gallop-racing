@@ -1,0 +1,6 @@
+# Robots.txt file from https://www.gallop-racing.com
+
+Sitemap: https://www.gallop-racing.com/sitemap.xml
+
+User-agent: *
+Disallow:
