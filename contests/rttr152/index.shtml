@@ -37,7 +37,7 @@
     </div>
 
     <!--Add back the # symbol when the counter is reset-->
-    <!--#include virtual="/countdown-timer-rttr.html" -->
+    <!--include virtual="/countdown-timer-rttr.html" -->
     
     <!--#include virtual="/contests/subnav-menu.html" -->
 
@@ -86,7 +86,7 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/register.html" -->
+          <!--include virtual="/modules/register.html" -->
           <!--#include virtual="/modules/rttr152/races-upcoming.html" -->
           <!--include virtual="/modules/rttr152/final-standings.shtml" -->
           <!--include virtual="/modules/rttr152/contest-info.shtml" -->
