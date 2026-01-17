@@ -37,7 +37,7 @@
     </div>
 
     <!--Add back the # symbol when the counter is reset-->
-    <!--#include virtual="/countdown-timer-rttr.html" -->
+    <!--include virtual="/countdown-timer-rttr.html" -->
     
     <!--#include virtual="/contests/subnav-menu.html" -->
 
@@ -57,7 +57,7 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--include virtual="/modules/rttr152/top-three-stables-graphic.html" -->
+          <!--#include virtual="/modules/rttr152/top-three-stables-graphic.html" -->
           
         </div>
         <!--end left column-->
@@ -65,7 +65,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           
-          <!--include virtual="/modules/rttr152/tracker-season-progress.html" -->
+          <!--#include virtual="/modules/rttr152/tracker-season-progress.html" -->
 
         </div>
         <!--end middle column-->
@@ -73,7 +73,7 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--include virtual="/modules/rttr152/top-row-in-season-buttons.shtml" -->
+          <!--#include virtual="/modules/rttr152/top-row-in-season-buttons.shtml" -->
           
         </div>
         <!--end right column-->
@@ -96,6 +96,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           
+          <!--include virtual="/modules/rttr152/races-completed.html" -->
           <!--#include virtual="/modules/rttr152/races-prep.html" -->
                     
         </div>

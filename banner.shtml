@@ -186,7 +186,7 @@
         <input type="hidden" name="sitesearch" value="www.gallop-racing.com">
     </form>
 
-    <!--include virtual="/modules/rttbc25/stables-menu.html"-->
+    <!--#include virtual="/modules/rttr152/stables-menu.html"-->
     </div>
   </div>
 </nav>
