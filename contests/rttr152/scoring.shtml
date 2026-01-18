@@ -22,10 +22,6 @@
   <!--#include virtual="/banner.shtml" -->
   <!--End Banner-->
 
-
-
-
-
   <!--Begin Main Content Section-->
   <main class="container container-round-border">
     <nav aria-label="breadcrumb">
@@ -45,7 +41,7 @@
 
     <div class="container marketing">
 
-      <p>RTTR152 Scoring will be available after the contest begins in early 2026.</p>
+      <!--p>RTTR152 Scoring will be available after the contest begins in early 2026.</p-->
 
       <div class="row">
         <!--#include virtual="/modules/jump-to-scoring.html" -->
@@ -56,7 +52,7 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--include virtual="/modules/rttr152/leaderboard-lite.shtml" -->
+          <!--#include virtual="/modules/rttr152/leaderboard-lite.shtml" -->
           
         </div>
         <!--end left column-->
@@ -64,7 +60,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           
-          <!--include virtual="/modules/rttr152/leaderboard-points-per-entry.shtml" -->
+          <!--#include virtual="/modules/rttr152/leaderboard-points-per-entry.shtml" -->
 
         </div>
         <!--end middle column-->
@@ -72,7 +68,7 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--include virtual="/modules/rttr152/leaderboard-rankings-by-week.shtml" -->
+          <!--#include virtual="/modules/rttr152/leaderboard-rankings-by-week.shtml" -->
           
         </div>
         <!--end right column-->

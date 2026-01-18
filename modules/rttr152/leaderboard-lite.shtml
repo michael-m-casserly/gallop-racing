@@ -2,17 +2,17 @@
 <div class="module-no-border">
   <h5>Leaderboard Lite</h5>
 
-  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZuHrYf5KyfIZA8eGwZB2ZeJ8PngpUTWMHHCVoa2KDw0mQrtFgLLWjTNDoZDjIWxXP_O7xJy4zf9WM/pubhtml?gid=462562991&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive" style="max-width: 150px; border: 0;"></a>
+  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSVqFIEh6lvnMvG-XRm837bz1ELr8CsYYbkv8huBUy22PtTlfpQA9EcpEkYpD-W0xmAMAU8ol01V5fl/pubhtml?gid=462562991&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive" style="max-width: 150px; border: 0;"></a>
 
   <!--#include virtual="/iframe-spinner.html" -->
 
-  <p class="module-button-wrapper"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZuHrYf5KyfIZA8eGwZB2ZeJ8PngpUTWMHHCVoa2KDw0mQrtFgLLWjTNDoZDjIWxXP_O7xJy4zf9WM/pubhtml?gid=462562991&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" width="310" height="790" onload="document.getElementById('spinner').style.display='none';"></iframe></p>
+  <p class="module-button-wrapper"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSVqFIEh6lvnMvG-XRm837bz1ELr8CsYYbkv8huBUy22PtTlfpQA9EcpEkYpD-W0xmAMAU8ol01V5fl/pubhtml?gid=462562991&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" width="310" height="790" onload="document.getElementById('spinner').style.display='none';"></iframe></p>
 
-  <!--This is sourced from the League Sheet "Leaderboard" sheet-->
+<!--This is sourced from the League Sheet "Leaderboard" sheet-->
   <p class="module-button-wrapper"><a class="btn btn-secondary"
-      href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZuHrYf5KyfIZA8eGwZB2ZeJ8PngpUTWMHHCVoa2KDw0mQrtFgLLWjTNDoZDjIWxXP_O7xJy4zf9WM/pubhtml?gid=2052581943&single=true"
+      href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSVqFIEh6lvnMvG-XRm837bz1ELr8CsYYbkv8huBUy22PtTlfpQA9EcpEkYpD-W0xmAMAU8ol01V5fl/pubhtml?gid=2052581943&single=true"
       target="_blank" role="button"
-      onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQZuHrYf5KyfIZA8eGwZB2ZeJ8PngpUTWMHHCVoa2KDw0mQrtFgLLWjTNDoZDjIWxXP_O7xJy4zf9WM/pubhtml?gid=2052581943&single=true');"><svg
+      onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSVqFIEh6lvnMvG-XRm837bz1ELr8CsYYbkv8huBUy22PtTlfpQA9EcpEkYpD-W0xmAMAU8ol01V5fl/pubhtml?gid=2052581943&single=true');"><svg
         class="bi" width="16" height="16" role="img" aria-label="Google">
         <title id="google-label-mouseover-rttr152-leaderboard-heavy">Google</title>
         <use xlink:href="#google" />
