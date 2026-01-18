@@ -96,7 +96,7 @@
         <div class="col-lg-4">
           <!--begin middle column-->
           
-          <!--include virtual="/modules/rttr152/races-completed.html" -->
+          <!--#include virtual="/modules/rttr152/races-completed.html" -->
           <!--#include virtual="/modules/rttr152/races-prep.html" -->
                     
         </div>
