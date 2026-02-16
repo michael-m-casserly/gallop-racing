@@ -37,7 +37,7 @@
     </div>
 
     <!--Add back the # symbol when the counter is reset-->
-    <!--#include virtual="/countdown-timer-rttr.html" -->
+    <!--include virtual="/countdown-timer-rttr.html" -->
     
     <!--#include virtual="/contests/subnav-menu.html" -->
 
