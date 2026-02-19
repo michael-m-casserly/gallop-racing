@@ -32,7 +32,7 @@
   
   <!--ADD THIS AFTER DRAFT #1-->
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-      href="/pdf/RTTR152-All-Stables.pdf" role="button" target="_blank"><svg class="bi"
+      href="/pdf/RTTR152-All-Stables_2026-02-19.pdf" role="button" target="_blank"><svg class="bi"
         width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttr152-view-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
