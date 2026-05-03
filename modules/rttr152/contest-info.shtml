@@ -1,15 +1,15 @@
 <div class="round-border">
   <h5>RTTR152 Info</h5>
 
-<!--ADD THIS AT THE END OF THE SEASON>
+<!--ADD THIS AT THE END OF THE SEASON-->
   <p class="module-button-wrapper"><a class="btn btn-secondary"
     href="/pdf/RTTR152-Leaderboard.pdf" target="_blank" role="button"><svg
       class="bi" width="16" height="16" role="img" aria-label="PDF">
       <title id="pdf-label-mouseover-rttr152-leaderboard">PDF</title>
       <use xlink:href="#filetype-pdf" />
-    </svg> Leaderboard</a-->
+    </svg> Leaderboard</a></p>
 
-  <!--USE THIS FOR "HORSES" DURING THE SEASON; THE PDF IS ONLY FOR THE END OF THE SEASON-->
+  <!--USE THIS FOR "HORSES" DURING THE SEASON; THE PDF IS ONLY FOR THE END OF THE SEASON
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"
       href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSVqFIEh6lvnMvG-XRm837bz1ELr8CsYYbkv8huBUy22PtTlfpQA9EcpEkYpD-W0xmAMAU8ol01V5fl/pubhtml?gid=1773939469&single=true"
       target="_blank" role="button"
@@ -20,15 +20,15 @@
       </svg> Horses&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
         <title id="arrow-up-right-circle-rttr152-horses">New Window</title>
         <use xlink:href="#arrow-up-right-circle" />
-      </svg></a></p>
+      </svg></a></p-->
 
-  <!--ADD THIS AT THE END OF THE SEASON>
+  <!--ADD THIS AT THE END OF THE SEASON-->
       <p class="module-button-wrapper"><a class="btn btn-secondary btn"
         href="/pdf/RTTR152-Horses.pdf" target="_blank" role="button"><svg
           class="bi" width="16" height="16" role="img" aria-label="PDF">
           <title id="pdf-label-mouseover-rttr152-horses">PDF</title>
           <use xlink:href="#filetype-pdf" />
-        </svg> Horses</a></p-->
+        </svg> Horses</a></p>
   
   <!--ADD THIS AFTER DRAFT #1-->
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"
