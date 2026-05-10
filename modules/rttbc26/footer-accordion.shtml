@@ -16,8 +16,8 @@
                   <!--begin left column-->
 
                   <!--#include virtual="/modules/how-to-play-rttbc.html" -->
-                  <!--#include virtual="/modules/rttbc-scoring-table.html" --> <!--Swap these before/after contest starts-->
-                  <!--#include virtual="/modules/rttbc26/contest-notes.html"-->
+                  <!--include virtual="/modules/rttbc-scoring-table.html" --> <!--Swap these before/after contest starts-->
+                  <!--include virtual="/modules/rttbc26/contest-notes.html"--> <!--Swap these before/after contest starts-->
 
                 </div>
                 <!--end left column-->
@@ -25,8 +25,8 @@
                 <div class="col-lg-4">
                   <!--begin middle column-->
 
-                  <!--include virtual="/modules/rttbc-scoring-table.html" --> <!--Swap these before/after contest starts-->
-                  <!--#include virtual="/modules/rttbc26/auto-draft-log.html"-->
+                  <!--#include virtual="/modules/rttbc-scoring-table.html" --> <!--Swap these before/after contest starts-->
+                  <!--include virtual="/modules/rttbc26/auto-draft-log.html"-->
 
                 </div>
                 <!--end middle column-->
@@ -34,7 +34,8 @@
                 <div class="col-lg-4">
                   <!--begin right column-->
 
-                  <!--#include virtual="/modules/rttbc26/auto-draft-log-continued.html"-->
+                  <!--#include virtual="/modules/rttbc26/contest-notes.html"--> <!--Swap these before/after contest starts-->
+                  <!--include virtual="/modules/rttbc26/auto-draft-log-continued.html"-->
 
                 </div>
                 <!--end right column-->

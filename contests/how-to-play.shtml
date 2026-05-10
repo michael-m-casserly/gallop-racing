@@ -65,13 +65,12 @@
         <a id="kentuckyderby"></a>
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingHowToPlayRTTR">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseHowToPlayRTTR" aria-expanded="false" aria-controls="collapseHowToPlayRTTR">
               Contest #1<br>Road to the Roses (RTTR)
             </button>
           </h2>
-          <div id="collapseHowToPlayRTTR" class="accordion-collapse collapse show" aria-labelledby="headingHowToPlayRTTR"
-            data-bs-parent="#accordionHowToPlay">
+          <div id="collapseHowToPlayRTTR" class="accordion-collapse collapse" aria-labelledby="headingHowToPlayRTTR" data-bs-parent="#accordionHowToPlay">
             <div class="accordion-body accordion-td-cell">
               <div style="text-align: center;"><h3>Kentucky Derby</h3></div>
 
@@ -136,13 +135,12 @@
 <a id="breederscup"></a>
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingHowToPlayRTTBC">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            <button class="accordion-button" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseHowToPlayRTTBC" aria-expanded="false" aria-controls="collapseHowToPlayRTTBC">
               Contest #2<br>Road to the Breeders' Cup (RTTBC)
             </button>
           </h2>
-          <div id="collapseHowToPlayRTTBC" class="accordion-collapse collapse"
-            aria-labelledby="headingHowToPlayRTTBC" data-bs-parent="#accordionHowToPlay">
+          <div id="collapseHowToPlayRTTBC" class="accordion-collapse collapse show" aria-labelledby="headingHowToPlayRTTBC" data-bs-parent="#accordionHowToPlay">
             <div class="accordion-body accordion-td-cell">
               <div style="text-align: center;"><h3>Breeders' Cup<br>(7 Dirt Divisions)</h3></div>
 
@@ -151,21 +149,19 @@
               <div>
               <p>The races spread out amongst various tracks (<i>subject to change pending final schedule</i>):</p>
 
-              <p><i>Data below current as of RTTBC '25.</i></p>
+              <p><i>Data below current as of RTTBC '26.</i></p>
               <ul style="margin: 20px;">
-                <li>Saratoga (30)*</li>
-                <li>Del Mar (18), <i>including the 7 Breeders' Cup races</i></li>
-                <!--li>Belmont (12)*</li-->
-                <li>Belmont at Aqueduct (6)*</li>
-                <li>Churchill Downs (11)</li>
+                <li>Saratoga (29)</li>
+                <li>Del Mar (11)</li>
+                <li>Belmont (7)</li>
+                <li>Churchill Downs (13)</li>
                 <li>Santa Anita (7)</li>
-                <li>Keeneland (7)</li>
+                <li>Keeneland (14), <i>including the 7 Breeders' Cup races</i></li>
                 <li>Monmouth (6)</li>
-                <li>Parx (4)</li>
+                <li>Parx (3)</li>
                 <li>Three tracks with two races (CT, DEL, IND)</li>
                 <li>Six tracks with one race (GP, LRC, MNR, PRM, RP, TDN)</li>
               </ul>
-              <p>*Most "Belmont" races will be run at Aqueduct due to ongoing renovations at Belmont Park. The exception will be Belmont Stakes Weekend, which will take place in Saratoga.</p>
               </div>
 
               <p>In early June, you'll draft <b>seven horses, two trainers, two jockeys, and two sires</b> whom you think have a
@@ -226,7 +222,7 @@
 
               <p>There will be thirteen races in June where you can earn points. Then the additional drafts are broken out as follows:</p>
 
-              <p><i>Data below current as of RTTBC '25.</i></p>
+              <p><i>Data below current as of RTTBC '26.</i></p>
 
               <div style="text-align: center; padding-bottom: 10px;">
               <table class="TableStandard">
@@ -240,31 +236,31 @@
                   <td>2</td>
                   <td>late-Jun</td>
                   <td>4</td>
-                  <td>10</td>
+                  <td>12</td>
                 </tr>
                 <tr>
                   <td>3</td>
                   <td>mid-Jul</td>
                   <td>4</td>
-                  <td>12</td>
-                </tr>
-                <tr>
-                  <td>4</td>
-                  <td>early-Aug</td>
-                  <td>4</td>
                   <td>10</td>
                 </tr>
                 <tr>
+                  <td>4</td>
+                  <td>late-Jul</td>
+                  <td>4</td>
+                  <td>14</td>
+                </tr>
+                <tr>
                   <td>5</td>
-                  <td>mid-Aug</td>
+                  <td>late-Aug</td>
                   <td>4</td>
                   <td>9</td>
                 </tr>
                 <tr>
                   <td>6</td>
-                  <td>late-Aug</td>
+                  <td>early-Sep</td>
                   <td>4*</td>
-                  <td>17</td>
+                  <td>14</td>
                 </tr>
                 <tr>
                   <td>7</td>
