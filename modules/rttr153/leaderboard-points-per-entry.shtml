@@ -1,0 +1,26 @@
+<!--This is sourced from the League Sheet "Publish_PPE" sheet-->
+<div class="module-no-border">
+  <h5>Points Per Entry</h5>
+
+
+  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSVqFIEh6lvnMvG-XRm837bz1ELr8CsYYbkv8huBUy22PtTlfpQA9EcpEkYpD-W0xmAMAU8ol01V5fl/pubhtml?gid=1211408648&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive" style="max-width: 150px; border: 0;"></a>
+
+  <!--#include virtual="/iframe-spinner2.html" -->
+  
+  <p class="module-button-wrapper"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSVqFIEh6lvnMvG-XRm837bz1ELr8CsYYbkv8huBUy22PtTlfpQA9EcpEkYpD-W0xmAMAU8ol01V5fl/pubhtml?gid=1211408648&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" width="320" height="820" onload="document.getElementById('spinner2').style.display='none';"></iframe></p>
+
+  <!--This is sourced from the League Sheet "Points per Entry" sheet-->
+  <p class="module-button-wrapper"><a class="btn btn-secondary"
+      href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSVqFIEh6lvnMvG-XRm837bz1ELr8CsYYbkv8huBUy22PtTlfpQA9EcpEkYpD-W0xmAMAU8ol01V5fl/pubhtml?gid=1938465777&single=true"
+      target="_blank" role="button"
+      onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSVqFIEh6lvnMvG-XRm837bz1ELr8CsYYbkv8huBUy22PtTlfpQA9EcpEkYpD-W0xmAMAU8ol01V5fl/pubhtml?gid=1938465777&single=true');"><svg
+        class="bi" width="16" height="16" role="img" aria-label="Google">
+        <title id="google-label-mouseover-rttr153-full-entries-by-week">Google</title>
+        <use xlink:href="#google" />
+      </svg> Full Entries by Week&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+        <title id="arrow-up-right-circle-rttr153-full-entries-by-week">New Window</title>
+        <use xlink:href="#arrow-up-right-circle" />
+      </svg></a>
+  </p>
+
+</div>

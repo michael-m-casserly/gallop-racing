@@ -1,0 +1,301 @@
+<a id="leaderboard"></a>
+<div class="round-border">
+    <h5>Final Standings</h5>
+    <table class="TableStandard">
+      <tr>
+        <th class="TableHeader" style="width: 5%;">#</th>
+        <th class="TableHeader text-align-left" style="width: 90%;">Stable Name</th>
+        <th class="TableHeader" style="width: 5%;">Points</th>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">1</td>
+        <td class="leaderboard-data-stable">Hedging is for lawns&nbsp;<svg class="bi" width="20" height="20" role="img" aria-label="Trophy" style="color: gold;"><title id="trophy-label-mouseover-rttr153-win">Trophy</title><use xlink:href="#trophy-fill" /></svg></td>
+        <td rowspan="2" class="leaderboard-data-number">2506</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Dan Euerle | Downtown</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">2</td>
+        <td class="leaderboard-data-stable">Hot to Trot Stables&nbsp;<svg class="bi" width="20" height="20" role="img" aria-label="Trophy" style="color: silver;"><title id="trophy-label-mouseover-rttr153-place">Trophy</title><use xlink:href="#trophy-fill" /></svg></td>
+        <td rowspan="2" class="leaderboard-data-number">2480</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Paul Henderson | Franklin Square, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">3</td>
+        <td class="leaderboard-data-stable">Crack the Whip&nbsp;<svg class="bi" width="20" height="20" role="img" aria-label="Trophy" style="color: #CD7F32;"><title id="trophy-label-mouseover-rttr153-show">Trophy</title><use xlink:href="#trophy-fill" /></svg></td>
+        <td rowspan="2" class="leaderboard-data-number">2471</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Michael Triunfo | Bayside, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">4</td>
+        <td class="leaderboard-data-stable">Tally Ho</td>
+        <td rowspan="2" class="leaderboard-data-number">2302</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Kim Waxenberg | Long Beach, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">5</td>
+        <td class="leaderboard-data-stable">All or Nothing Shtables</td>
+        <td rowspan="2" class="leaderboard-data-number">2262</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">James Gormley | Pleasuretown, USA</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">6</td>
+        <td class="leaderboard-data-stable">Moonshine Mullon</td>
+        <td rowspan="2" class="leaderboard-data-number">2247</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Kevin Mullon | Long Beach, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">7</td>
+        <td class="leaderboard-data-stable">JEB Stables</td>
+        <td rowspan="2" class="leaderboard-data-number">2241</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Joseph Balut | Brooklyn, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">8</td>
+        <td class="leaderboard-data-stable">Who's the Boss?</td>
+        <td rowspan="2" class="leaderboard-data-number">2223</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Tony Danza | Canada</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">9</td>
+        <td class="leaderboard-data-stable">Why The Long Face Stables</td>
+        <td rowspan="2" class="leaderboard-data-number">2211</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Stacey Harman Doria | Los Angeles, CA</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">10</td>
+        <td class="leaderboard-data-stable">Eamus Catuli</td>
+        <td rowspan="2" class="leaderboard-data-number">2205</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Bryan Mack / Michael Walsh | Chicago, IL</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">11</td>
+        <td class="leaderboard-data-stable">Snowflake</td>
+        <td rowspan="2" class="leaderboard-data-number">2192</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Kathleen Alfonzetti | New York, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">12</td>
+        <td class="leaderboard-data-stable">Harvey Pack</td>
+        <td rowspan="2" class="leaderboard-data-number">2179</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Charlie Kinzie | Rockaway Beach, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">13</td>
+        <td class="leaderboard-data-stable">Emerald Rein</td>
+        <td rowspan="2" class="leaderboard-data-number">2129</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Mary Ruth Mullon | Long Beach, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">14</td>
+        <td class="leaderboard-data-stable">The Dullahan</td>
+        <td rowspan="2" class="leaderboard-data-number">2125</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">John Bauman | West Palm Beach, FL</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">15</td>
+        <td class="leaderboard-data-stable">Kamal Farms</td>
+        <td rowspan="2" class="leaderboard-data-number">2122</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Rishi Dixit | Lexington, KY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">16</td>
+        <td class="leaderboard-data-stable">Schrute Farms</td>
+        <td rowspan="2" class="leaderboard-data-number">2116</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Michael Casserly | Rockaway, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">17</td>
+        <td class="leaderboard-data-stable">Steeser's Superfecta Syndicate</td>
+        <td rowspan="2" class="leaderboard-data-number">2088</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Todd Estes | Milford, MI</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">18</td>
+        <td class="leaderboard-data-stable">Handsome Dans</td>
+        <td rowspan="2" class="leaderboard-data-number">2079</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Dan O'Connell | Bellerose Village, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">19</td>
+        <td class="leaderboard-data-stable">Seana's Dream Shtable</td>
+        <td rowspan="2" class="leaderboard-data-number">2068</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Seana Gormley | Manhasset, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">20</td>
+        <td class="leaderboard-data-stable">NextGenGoodLad</td>
+        <td rowspan="2" class="leaderboard-data-number">2067</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Declan Carolan | Port Washington, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">21</td>
+        <td class="leaderboard-data-stable">Burglar's Barnyard</td>
+        <td rowspan="2" class="leaderboard-data-number">1999</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Kevin Walsh | Port Washington, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">22</td>
+        <td class="leaderboard-data-stable">Meathead Stables</td>
+        <td rowspan="2" class="leaderboard-data-number">1988</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Dan McAuliffe | Long Beach, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">23</td>
+        <td class="leaderboard-data-stable">Jack's Hacks</td>
+        <td rowspan="2" class="leaderboard-data-number">1954</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Jack Harbidge | Faversham, Kent</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">24</td>
+        <td class="leaderboard-data-stable">MHT Stables</td>
+        <td rowspan="2" class="leaderboard-data-number">1951</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Thomas Briody | Island Park, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">25</td>
+        <td class="leaderboard-data-stable">[Blank Space]</td>
+        <td rowspan="2" class="leaderboard-data-number">1908</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Kathryn Rodgers | South Ozone Park, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">26</td>
+        <td class="leaderboard-data-stable">Rippin Up Floor Boards</td>
+        <td rowspan="2" class="leaderboard-data-number">1839</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Ray Carolan | Port Washington, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">27</td>
+        <td class="leaderboard-data-stable">Quarter Horse Stables</td>
+        <td rowspan="2" class="leaderboard-data-number">1748</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">John Casey | Rockaway Beach, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">28</td>
+        <td class="leaderboard-data-stable">Macaroni</td>
+        <td rowspan="2" class="leaderboard-data-number">1702</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Vincent LaRosa Jr. | Port Washington, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">29</td>
+        <td class="leaderboard-data-stable">Nick's Picks</td>
+        <td rowspan="2" class="leaderboard-data-number">1689</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Nick Russello | New York, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">30</td>
+        <td class="leaderboard-data-stable">Donovan Stables</td>
+        <td rowspan="2" class="leaderboard-data-number">1663</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Sean Donovan | Morristown, NJ</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">31</td>
+        <td class="leaderboard-data-stable">Strong Bad & Stiny Stables</td>
+        <td rowspan="2" class="leaderboard-data-number">1650</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Christopher Doria | Los Angeles, CA</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">32</td>
+        <td class="leaderboard-data-stable">Bofa Deez Stables</td>
+        <td rowspan="2" class="leaderboard-data-number">1593</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Tom Collins | Rockaway Beach, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">33</td>
+        <td class="leaderboard-data-stable">Walter's Winners</td>
+        <td rowspan="2" class="leaderboard-data-number">1447</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Ryan Lowry | Khadamiya</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">34</td>
+        <td class="leaderboard-data-stable">One Time Bang!</td>
+        <td rowspan="2" class="leaderboard-data-number">1331</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">Greg Schaefer | Rockville Centre, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">35</td>
+        <td class="leaderboard-data-stable">Johnny A Stables</td>
+        <td rowspan="2" class="leaderboard-data-number">1301</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">John Cahalan | Brooklyn, NY</td>
+      </tr>
+      <tr>
+        <td rowspan="2" class="leaderboard-data-number">36</td>
+        <td class="leaderboard-data-stable">Drop the Anvil</td>
+        <td rowspan="2" class="leaderboard-data-number">798</td>
+      </tr>
+      <tr>
+        <td class="leaderboard-data-player">John Briody | Rockville Centre, NY</td>
+      </tr>
+    </table>
+    <br>
+    <p><!--#include virtual="/modules/rttr153/stables-menu.html"--></p>
+  </div>
