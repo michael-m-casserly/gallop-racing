@@ -28,7 +28,78 @@ function handleSelectPDF(elm)
          elm.value = ''; // Reset drop-down menu after selection
         }
 
-  
+// BEGIN Expand/Collapse All Accordion Items
+
+document.addEventListener('DOMContentLoaded', function () {
+
+    document.querySelectorAll('.accordion-group').forEach(group => {
+
+        const button = group.querySelector('.toggle-all');
+
+        function updateButtonText() {
+
+            const panels = group.querySelectorAll('.accordion-collapse');
+
+            const allOpen =
+                panels.length > 0 &&
+                [...panels].every(panel =>
+                    panel.classList.contains('show')
+                );
+
+            button.textContent =
+                allOpen ? 'Collapse All' : 'Expand All';
+        }
+
+        button.addEventListener('click', function () {
+
+            const panels =
+                group.querySelectorAll('.accordion-collapse');
+
+            const allOpen =
+                [...panels].every(panel =>
+                    panel.classList.contains('show')
+                );
+
+            panels.forEach(panel => {
+
+                const collapse =
+                    bootstrap.Collapse.getOrCreateInstance(panel, {
+                        toggle: false
+                    });
+
+                if (allOpen) {
+                    collapse.hide();
+                } else {
+                    collapse.show();
+                }
+            });
+
+            setTimeout(updateButtonText, 100);
+        });
+
+        group.querySelectorAll('.accordion-collapse')
+            .forEach(panel => {
+
+                panel.addEventListener(
+                    'shown.bs.collapse',
+                    updateButtonText
+                );
+
+                panel.addEventListener(
+                    'hidden.bs.collapse',
+                    updateButtonText
+                );
+            });
+
+        updateButtonText();
+
+    });
+
+});
+
+// END Expand/Collapse All Accordion Items
+        
+
 //This code is used to ensure that the accordion scrolls to the top of the collapsed content automatically; This had been an issue in mobile devices.
 
 /* USING JQUERY FOR NOW, MAY REVISIT TO SEE IF THIS CAN BE DONE WITH JUST JAVASCRIPT...
