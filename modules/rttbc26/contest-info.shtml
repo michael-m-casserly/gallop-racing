@@ -24,12 +24,12 @@
       </svg> View All Stables</a>
   </p>
 
-  <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC26-All-Stables_2026-06-05.xlsx" role="button"
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC26-All-Stables_2026-06-05.xlsx" role="button"
       target="_blank"><svg class="bi" width="16" height="16" role="img" aria-label="XLSX">
         <title id="pdf-label-mouseover-rttbc26-all-stables">XLSX</title>
         <use xlink:href="#filetype-xlsx" />
       </svg> View All Stables</a>
-  </p-->
+  </p>
 
   <p class="module-button-wrapper">
     <a class="btn btn-secondary btn-half"
