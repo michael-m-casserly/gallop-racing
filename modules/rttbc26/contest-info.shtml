@@ -7,27 +7,27 @@
   <!--p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/2026_BCWC_Official_Pre-Entries.pdf" role="button" target="_blank"><svg
     class="bi" width="16" height="16" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-rttbc26-official-pre-entries">PDF</title>
-    <use xlink:href="#filetype-pdf" />
+    <use xlink:href="#file-earmark-pdf" />
   </svg>&nbsp;Official Pre-Entries</a></p-->
 
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC26-Schedule-by-Division.pdf"
       role="button" target="_blank"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc26-schedule-by-division">PDF</title>
-        <use xlink:href="#filetype-pdf" />
+        <use xlink:href="#file-earmark-pdf" />
       </svg>&nbsp;Schedule by Division</a></p>
 
   <!--THIS NEEDS TO BE UPDATED FOR 2026 following Draft #1-->
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC26-All-Stables_2026-06-05.pdf" role="button"
       target="_blank"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc26-all-stables">PDF</title>
-        <use xlink:href="#filetype-pdf" />
+        <use xlink:href="#file-earmark-pdf" />
       </svg> View All Stables</a>
   </p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC26-All-Stables_2026-06-05.xlsx" role="button"
       target="_blank"><svg class="bi" width="16" height="16" role="img" aria-label="XLSX">
         <title id="pdf-label-mouseover-rttbc26-all-stables">XLSX</title>
-        <use xlink:href="#filetype-xlsx" />
+        <use xlink:href="#file-earmark-excel" />
       </svg> View All Stables</a>
   </p>
 
