@@ -93,16 +93,11 @@
           <!--/div-->
 
           <!--#include virtual="/modules/rttbc26/contest-info.shtml" -->
-          <!--#include virtual="/modules/resources-rttbc.html" -->
+          <!--include virtual="/modules/resources-rttbc.html" -->
           <!--include virtual="/modules/calendar.html" -->
 
-          <div class="round-border">
-            <!--#include virtual="/modules/stakes-calendar.html" -->
-            <br>
-            <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
-          </div>
           <!--ADD AFTER WEEK #1-->
-          <!--include virtual="/modules/rttbc26/races-completed.html" -->
+          <!--#include virtual="/modules/rttbc26/races-completed.html" -->
 
         </div>
         <!--end middle column-->
@@ -114,11 +109,17 @@
 
           <!--include virtual="/modules/rttbc26/races-completed.html" -->
 
-          <!--include virtual="/modules/resources-rttbc.html" -->
+          <!--#include virtual="/modules/resources-rttbc.html" -->
 
-          <!--include virtual="/modules/rttbc26/leaderboard-points-per-entry.html" -->
+          <!--#include virtual="/modules/rttbc26/leaderboard-points-per-entry.html" -->
 
-          <!--include virtual="/modules/rttbc26/leaderboard-rankings-by-week.html" -->
+          <!--#include virtual="/modules/rttbc26/leaderboard-rankings-by-week.html" -->
+
+          <div class="round-border">
+            <!--#include virtual="/modules/stakes-calendar.html" -->
+            <br>
+            <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
+          </div>
 
         </div>
         <!--end right column-->
