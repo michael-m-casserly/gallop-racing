@@ -70,12 +70,12 @@
               Contest #1<br>Road to the Roses (RTTR)
             </button>
           </h2>
-          <div id="collapseHowToPlayRTTR" class="accordion-collapse collapse" aria-labelledby="headingHowToPlayRTTR" data-bs-parent="#accordionHowToPlay">
+          <div id="collapseHowToPlayRTTR" class="accordion-collapse collapse" role="region" aria-labelledby="headingHowToPlayRTTR" data-bs-parent="#accordionHowToPlay">
             <div class="accordion-body accordion-td-cell">
               <div style="text-align: center;"><h3>Kentucky Derby</h3></div>
 
               <p>The scope of the RTTR contest will be all of the <a
-                  href="https://www.kentuckyderby.com/prep-races/" target="_blank">Kentucky Derby Prep Races</a>
+                  href="https://www.kentuckyderby.com/prep-races/" target="_blank" rel="noopener noreferrer">Kentucky Derby Prep Races</a>
                 (America circuit) beginning after the 1st week in January, amounting to ~25 races.</p>
 
                 <p>In mid-January, you'll draft <b>five horses, two trainers, and two jockeys</b> who you think have a good
@@ -140,7 +140,7 @@
               Contest #2<br>Road to the Breeders' Cup (RTTBC)
             </button>
           </h2>
-          <div id="collapseHowToPlayRTTBC" class="accordion-collapse collapse show" aria-labelledby="headingHowToPlayRTTBC" data-bs-parent="#accordionHowToPlay">
+          <div id="collapseHowToPlayRTTBC" class="accordion-collapse collapse show" role="region" aria-labelledby="headingHowToPlayRTTBC" data-bs-parent="#accordionHowToPlay">
             <div class="accordion-body accordion-td-cell">
               <div style="text-align: center;"><h3>Breeders' Cup<br>(7 Dirt Divisions)</h3></div>
 
@@ -305,7 +305,7 @@
 
       <p>All horses, trainers, jockeys, and sires (RTTBC only) in your stable are eligible to score points every week. There is no "starting" or "sitting/benching" of entries in your stable.</p>
 
-      <p>Race "Nominations" are typically published two weeks before a race. Nominations contain a list of horses eligible to enter a race (pending any "late" nominees). Race "Entries" are then published the week of the race, typically no less than three days before the race. Both Nominations and Entries will be made available on the contest page. You may also go directly to <a href="https://www.equibase.com" target="_blank">Equibase.com</a> to find these.</p>
+      <p>Race "Nominations" are typically published two weeks before a race. Nominations contain a list of horses eligible to enter a race (pending any "late" nominees). Race "Entries" are then published the week of the race, typically no less than three days before the race. Both Nominations and Entries will be made available on the contest page. You may also go directly to <a href="https://www.equibase.com" target="_blank" rel="noopener noreferrer">Equibase.com</a> to find these.</p>
 
       <p>All additonal drafting periods are planned around the Nominations schedule to ensure that participants have as much advanced access as possible to potential runners in a future race.</p>
 

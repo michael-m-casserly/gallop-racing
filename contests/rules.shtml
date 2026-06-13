@@ -78,7 +78,7 @@
             </button>
           </h2>
           <div id="collapseRulesAllContestsFinancial" class="accordion-collapse collapse"
-            aria-labelledby="headingRulesAllContestsFinancial" data-bs-parent="#accordionRulesAllContests">
+            role="region" aria-labelledby="headingRulesAllContestsFinancial" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
                 <table class="TableStandard">
                   <tr>
@@ -116,7 +116,7 @@
             </button>
           </h2>
           <div id="collapseRulesAllContestsFormat" class="accordion-collapse collapse"
-            aria-labelledby="headingRulesAllContestsFormat" data-bs-parent="#accordionRulesAllContests">
+            role="region" aria-labelledby="headingRulesAllContestsFormat" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
               <table class="TableStandard">
                 <tr>
@@ -162,7 +162,7 @@
             </button>
           </h2>
           <div id="collapseRulesAllContestsMiscellaneous" class="accordion-collapse collapse"
-            aria-labelledby="headingRulesAllContestsMiscellaneous" data-bs-parent="#accordionRulesAllContests">
+            role="region" aria-labelledby="headingRulesAllContestsMiscellaneous" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
               <table class="TableStandard">
                 <tr>
@@ -197,7 +197,7 @@
             </button>
           </h2>
           <div id="collapseRulesAllContestsPowerHorses" class="accordion-collapse collapse"
-            aria-labelledby="headingRulesAllContestsPowerHorses" data-bs-parent="#accordionRulesAllContests">
+            role="region" aria-labelledby="headingRulesAllContestsPowerHorses" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
               <table class="TableStandard">
                 <tr>
@@ -214,7 +214,7 @@
                 <tr>
                   <td>One exception to Rule #PWH-001: If there is a Sunday race (or Saturday race on a week with a Friday race, etc.), and one of your Power Picks from that
                     Sunday race becomes an early scratch (by Noon on Sunday, local track time), then you can contact <a
-                      href="mailto:support@gallop-racing.com" target="_blank">support@gallop-racing.com</a> directly to
+                      href="mailto:support@gallop-racing.com" target="_blank" rel="noopener noreferrer">support@gallop-racing.com</a> directly to
                     swap that Power Pick with another entry that day if applicable.</td>
                 </tr>
                 <tr>
@@ -258,7 +258,7 @@
                     (depending on the Post Time of the 1st scoring race.)<br>
                     These weekly deadlines will always be available on the <a
                       href="https://calendar.google.com/calendar/u/0/embed?src=csk9dn09aab9f6o8gdmrckipc8@group.calendar.google.com&ctz=America/New_York&mode=agenda"
-                      target="_blank">calendar</a> and shared via email each week.
+                      target="_blank" rel="noopener noreferrer">calendar</a> and shared via email each week.
                     <br><br>
                     <b>The "Auto-Set" function is not available on Breeders' Cup Weekend.</b> Even if your stable has
                     fewer than the minimum number of horses entered, you will still need to set your Power Picks
@@ -287,7 +287,7 @@
             </button>
           </h2>
           <div id="collapseRulesAllContestsSchedule" class="accordion-collapse collapse"
-            aria-labelledby="headingRulesAllContestsSchedule" data-bs-parent="#accordionRulesAllContests">
+            role="region" aria-labelledby="headingRulesAllContestsSchedule" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
               <table class="TableStandard">
                 <tr>
@@ -328,7 +328,7 @@
             </button>
           </h2>
           <div id="collapseRulesAllContestsScoring" class="accordion-collapse collapse"
-            aria-labelledby="headingRulesAllContestsScoring" data-bs-parent="#accordionRulesAllContests">
+            role="region" aria-labelledby="headingRulesAllContestsScoring" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
               <table class="TableStandard">
                 <tr>
@@ -423,7 +423,7 @@
             </button>
           </h2>
           <div id="collapseRulesAllContestsSetup" class="accordion-collapse collapse"
-            aria-labelledby="headingRulesAllContestsSetup" data-bs-parent="#accordionRulesAllContests">
+            role="region" aria-labelledby="headingRulesAllContestsSetup" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
               <table class="TableStandard">
                 <tr>
@@ -464,7 +464,7 @@
             </button>
           </h2>
           <div id="collapseRulesAllContestsTimeline" class="accordion-collapse collapse"
-            aria-labelledby="headingRulesAllContestsTimeline" data-bs-parent="#accordionRulesAllContests">
+            role="region" aria-labelledby="headingRulesAllContestsTimeline" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
               <table class="TableStandard">
                 <tr>
@@ -503,7 +503,7 @@
             </button>
           </h2>
           <div id="collapseRulesRTTBC-AutoDraft" class="accordion-collapse collapse show"
-            aria-labelledby="headingRulesRTTBC-AutoDraft" data-bs-parent="#accordionRulesRTTBC-AutoDraft">
+            role="region" aria-labelledby="headingRulesRTTBC-AutoDraft" data-bs-parent="#accordionRulesRTTBC-AutoDraft">
             <div class="accordion-body">
               <table class="TableStandard">
                 <tr>
@@ -602,7 +602,7 @@
               RTTBC (RBC)
             </button>
           </h2>
-          <div id="collapseRulesRTTBC" class="accordion-collapse collapse show" aria-labelledby="headingRulesRTTBC"
+          <div id="collapseRulesRTTBC" class="accordion-collapse collapse show" role="region" aria-labelledby="headingRulesRTTBC"
             data-bs-parent="#accordionRulesRTTBC">
             <div class="accordion-body">
               <table class="TableStandard">
@@ -628,7 +628,7 @@
                   <td>
                     The "RTTBC Points" columns in the "Race Schedule" tab serve as the final source of the Race Schedule
                     and Point Scoring Scheme (initially sourced from <a
-                      href="https://www.breederscup.com/races/how-it-works" target="_blank">this page</a>)<br><br>
+                      href="https://www.breederscup.com/races/how-it-works" target="_blank" rel="noopener noreferrer">this page</a>)<br><br>
                     Any subsequent updates to the content on that page mentioned above will NOT be valid for this game
                     unless determined otherwise by the League Commissioner and agreed upon by League Participants.</td>
                 </tr>
@@ -659,7 +659,7 @@
               RTTR (RTR)
             </button>
           </h2>
-          <div id="collapseRulesRTTR" class="accordion-collapse collapse" aria-labelledby="headingRulesRTTR"
+          <div id="collapseRulesRTTR" class="accordion-collapse collapse" role="region" aria-labelledby="headingRulesRTTR"
             data-bs-parent="#accordionRulesRTTR">
             <div class="accordion-body">
               <table class="TableStandard">
@@ -686,7 +686,7 @@
                 <tr>
                   <td>The "RTTR Points" columns in the "Race Schedule" tab serve as the source for the Race Schedule and
                     Point Scoring Scheme (initially sourced from <a href="https://www.kentuckyderby.com/prep-races/"
-                      target="_blank">this page</a>) <br><br>
+                      target="_blank" rel="noopener noreferrer">this page</a>) <br><br>
                     Any subsequent updates to the content on that page mentioned above will NOT be valid for this game
                     unless determined otherwise by the League Commissioner and agreed upon by League Participants.</td>
                 </tr>

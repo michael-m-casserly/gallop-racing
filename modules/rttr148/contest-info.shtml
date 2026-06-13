@@ -2,7 +2,7 @@
   <h5>RTTR148 Info</h5>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary"
-      href="/pdf/RTTR148-Leaderboard.pdf" target="_blank" role="button"><svg
+      href="/pdf/RTTR148-Leaderboard.pdf" target="_blank" rel="noopener noreferrer" role="button"><svg
         class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttr148-leaderboard">PDF</title>
         <use xlink:href="#filetype-pdf" />
@@ -10,14 +10,14 @@
   </p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-      href="/pdf/RTTR148-Horses.pdf" target="_blank" role="button"><svg
+      href="/pdf/RTTR148-Horses.pdf" target="_blank" rel="noopener noreferrer" role="button"><svg
         class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttr148-horses">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg> Horses</a></p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary btn"
-      href="/pdf/RTTR148-All-Stables.pdf" role="button" target="_blank"><svg class="bi"
+      href="/pdf/RTTR148-All-Stables.pdf" role="button" target="_blank" rel="noopener noreferrer"><svg class="bi"
         width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttr148-view-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
@@ -25,7 +25,7 @@
   </p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttr148?f=live"
-      target="_blank" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="Twitter">
+      target="_blank" rel="noopener noreferrer" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="Twitter">
         <title id="twitter-label-mouseover-rttr148-module-button">Twitter</title>
         <use xlink:href="#twitter" />
       </svg> #rttr148 News&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">

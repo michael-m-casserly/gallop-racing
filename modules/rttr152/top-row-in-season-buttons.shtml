@@ -6,7 +6,7 @@
 
 <p class="module-button-wrapper"><a class="btn btn-secondary"
     href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSVqFIEh6lvnMvG-XRm837bz1ELr8CsYYbkv8huBUy22PtTlfpQA9EcpEkYpD-W0xmAMAU8ol01V5fl/pubhtml?gid=2052581943&single=true"
-    target="_blank" role="button"
+    target="_blank" rel="noopener noreferrer" role="button"
     onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSVqFIEh6lvnMvG-XRm837bz1ELr8CsYYbkv8huBUy22PtTlfpQA9EcpEkYpD-W0xmAMAU8ol01V5fl/pubhtml?gid=2052581943&single=true');"><svg
       class="bi" width="16" height="16" role="img" aria-label="Google">
       <title id="google-label-mouseover-rttr152-leaderboard-top-row-buttons">Google</title>
@@ -19,7 +19,7 @@
 
   <p class="module-button-wrapper"><a class="btn btn-secondary"
     href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ujLmbZu0KJ4ibpYNWmv2v3i24xvmlSslxXNnW1rnFK1H4NkTO2nZZhno8ILhLvuzNKL9pQjG2haz/pubhtml?gid=1847637649&single=true"
-    target="_blank" role="button"
+    target="_blank" rel="noopener noreferrer" role="button"
     onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ujLmbZu0KJ4ibpYNWmv2v3i24xvmlSslxXNnW1rnFK1H4NkTO2nZZhno8ILhLvuzNKL9pQjG2haz/pubhtml?gid=1847637649&single=true');"><svg
       class="bi" width="16" height="16" role="img" aria-label="Google">
       <title id="google-label-mouseover-rttr152-schedule-top-row-buttons">Google</title>

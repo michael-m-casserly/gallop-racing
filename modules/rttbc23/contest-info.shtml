@@ -6,11 +6,11 @@
 
   <!--ADD THIS BACK AFTER THE INITIAL DRAFT CLOSES, and the ALL STABLES PDF is GENERATED-->
 
-  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC23-League-Sheet-Leaderboard.pdf" target="_blank" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF"><title id="pdf-label-mouseover-rttbc23-leaderboard">PDF</title><use xlink:href="#filetype-pdf" /></svg>&nbsp;Full Leaderboard</a></p>
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC23-League-Sheet-Leaderboard.pdf" target="_blank" rel="noopener noreferrer" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF"><title id="pdf-label-mouseover-rttbc23-leaderboard">PDF</title><use xlink:href="#filetype-pdf" /></svg>&nbsp;Full Leaderboard</a></p>
               
   <p class="module-button-wrapper"><a class="btn btn-secondary"
     href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcQqbP5-EkLkdd2JkFl7LQLARwZj_99y7jIWiAQE7oQgA1sqTV6XN_C9Ewp5XXkonKIwslYMX2DmEu/pubhtml?gid=0&single=true"
-    target="_blank" role="button"
+    target="_blank" rel="noopener noreferrer" role="button"
     onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRcQqbP5-EkLkdd2JkFl7LQLARwZj_99y7jIWiAQE7oQgA1sqTV6XN_C9Ewp5XXkonKIwslYMX2DmEu/pubhtml?gid=0&single=true');"><svg
       class="bi" width="16" height="16" role="img" aria-label="Google">
       <title id="google-label-mouseover-rttbc23-leaderboard">Google</title>
@@ -21,13 +21,13 @@
     </svg></a>
   </p>
 
-  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC23-Schedule-by-Division.pdf" role="button" target="_blank"><svg
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC23-Schedule-by-Division.pdf" role="button" target="_blank" rel="noopener noreferrer"><svg
     class="bi" width="16" height="16" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-rttbc23-schedule-by-division">PDF</title>
     <use xlink:href="#filetype-pdf" />
   </svg>&nbsp;Schedule by Division</a></p>
 
-  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC23-All-Stables.pdf" role="button" target="_blank"><svg
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC23-All-Stables.pdf" role="button" target="_blank" rel="noopener noreferrer"><svg
         class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc23-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
@@ -35,7 +35,7 @@
 
   <!--THIS ROW IS REDUNDANT FOR NOW; CAN ADD IT BACK IF ANYTHING CHANGES-->
   <p class="module-button-wrapper">
-    <a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcQqbP5-EkLkdd2JkFl7LQLARwZj_99y7jIWiAQE7oQgA1sqTV6XN_C9Ewp5XXkonKIwslYMX2DmEu/pubhtml?gid=249132506&single=true" target="_blank" role="button"
+    <a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRcQqbP5-EkLkdd2JkFl7LQLARwZj_99y7jIWiAQE7oQgA1sqTV6XN_C9Ewp5XXkonKIwslYMX2DmEu/pubhtml?gid=249132506&single=true" target="_blank" rel="noopener noreferrer" role="button"
       onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vRcQqbP5-EkLkdd2JkFl7LQLARwZj_99y7jIWiAQE7oQgA1sqTV6XN_C9Ewp5XXkonKIwslYMX2DmEu/pubhtml?gid=249132506&single=true');"><svg class="bi" width="16" height="16" role="img" aria-label="Google">
         <title id="google-label-mouseover-rttbc23-horses">Google</title>
         <use xlink:href="#google" />
@@ -44,7 +44,7 @@
 
 <!-- ADD THIS ONCE THE SEASON IS COMPLETED
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC23-Leading-Horses-by-Stable.pdf"
-    target="_blank" role="button"
+    target="_blank" rel="noopener noreferrer" role="button"
     onclick="captureOutboundLink('/pdf/RTTBC23-Leading-Horses-by-Stable.pdf');"><svg
     class="bi" width="16" height="16" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-rttbc23-leading-horses-by-stable">PDF</title>

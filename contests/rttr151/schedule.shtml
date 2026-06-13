@@ -66,7 +66,7 @@
           <!--Begin Row #3-->
           <div class="row">
               <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRnqmmyLlPZAgDDiNKFz1axbBhjqP-3I-G85o1JuNGZCS844zfSu2QdetXvz8XcVn9_WkKrAXUKNxPf/pubhtml?gid=1847637649&amp;single=true&amp;widget=true&amp;headers=false"
-                target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
+                target="_blank" rel="noopener noreferrer"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
                   style="max-width: 250px; border: 0;"></a>
       
               <!--#include virtual="/iframe-spinner.html" -->

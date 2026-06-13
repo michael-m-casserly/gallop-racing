@@ -7,7 +7,7 @@
               How to Play / RTTBC Scoring / Contest Notes / Auto-Draft Log
             </button>
           </h2>
-          <div id="collapseThree" class="accordion-collapse collapse show" aria-labelledby="headingThree"
+          <div id="collapseThree" class="accordion-collapse collapse show" role="region" aria-labelledby="headingThree"
             data-bs-parent="#accordionRTTBC25data">
             <div class="accordion-body accordion-td-cell">
 

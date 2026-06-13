@@ -98,7 +98,7 @@
           <!--Begin Row #4-->
           <div class="row">
               <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ujLmbZu0KJ4ibpYNWmv2v3i24xvmlSslxXNnW1rnFK1H4NkTO2nZZhno8ILhLvuzNKL9pQjG2haz/pubhtml?gid=1847637649&amp;single=true&amp;widget=true&amp;headers=false"
-                target="_blank"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
+                target="_blank" rel="noopener noreferrer"><img src="/images/Google_Drive_text_logo_grey.png" alt="Google Drive"
                   style="max-width: 250px; border: 0;"></a>
       
               <!--#include virtual="/iframe-spinner.html" -->

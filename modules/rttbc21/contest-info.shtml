@@ -4,13 +4,13 @@
       role="button">Schedule</a>
   </p>
 
-  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC21-Leaderboard.pdf" target="_blank"
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC21-Leaderboard.pdf" target="_blank" rel="noopener noreferrer"
       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc21-leaderboard">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg> Leaderboard</a></p>
 
-  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC21-Horses.pdf" target="_blank"
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC21-Horses.pdf" target="_blank" rel="noopener noreferrer"
       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc21-horses">PDF</title>
         <use xlink:href="#filetype-pdf" />
@@ -19,7 +19,7 @@
   <p class="module-button-wrapper">
     <a class="btn btn-secondary"
       href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=249132506&single=true"
-      target="_blank" role="button"
+      target="_blank" rel="noopener noreferrer" role="button"
       onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vSe9-ppkfS0kOeugg_ZqjLbcYNVQIzdEMQzcsmzM6zK7aTgbwMUyfVUMqTAS48Z31WcACZROLLjizf_/pubhtml?gid=249132506&single=true');"><svg
         class="bi" width="16" height="16" role="img" aria-label="Google">
         <title id="google-label-mouseover-rttbc21-horses">Google</title>
@@ -27,7 +27,7 @@
       </svg> Horses</a>
   </p>
 
-  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC21-All-Stables.pdf" target="_blank"
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC21-All-Stables.pdf" target="_blank" rel="noopener noreferrer"
       role="button" onclick="captureOutboundLink('/pdf/RTTBC21-All-Stables.pdf');"><svg class="bi" width="16"
         height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc21-all-stables">PDF</title>
@@ -35,7 +35,7 @@
       </svg> View All Stables</a></p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttbc2021?f=live"
-      target="_blank" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="Twitter">
+      target="_blank" rel="noopener noreferrer" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="Twitter">
         <title id="twitter-label-mouseover-rttbc21-module-button">Twitter</title>
         <use xlink:href="#twitter" />
       </svg> #rttbc2021 News&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">

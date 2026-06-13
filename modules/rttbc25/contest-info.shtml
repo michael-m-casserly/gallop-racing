@@ -2,19 +2,19 @@
   <h5>RTTBC '25 Info</h5>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC25-League-Sheet-Leaderboard.pdf"
-      target="_blank" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
+      target="_blank" rel="noopener noreferrer" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc25-leaderboard">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg>&nbsp;Full Leaderboard</a></p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC25-Schedule-by-Division_2025-08-16.pdf"
-      role="button" target="_blank"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
+      role="button" target="_blank" rel="noopener noreferrer"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc25-schedule-by-division">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg>&nbsp;Schedule by Division</a></p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC25-All-Stables_2025-10-31.pdf"
-      role="button" target="_blank"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
+      role="button" target="_blank" rel="noopener noreferrer"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc25-all-stables">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg> View All Stables</a></p>
@@ -22,7 +22,7 @@
   <p class="module-button-wrapper">
     <a class="btn btn-secondary"
       href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT_PGzaRpgwvQwUUjwT5o9d95y1ZoBa27v3BEfv0a7WdLKPo9z_qA3Uw8nzjgbE36Zqg4tCzyvbh2Ih/pubhtml?gid=249132506&single=true"
-      target="_blank" role="button"
+      target="_blank" rel="noopener noreferrer" role="button"
       onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vT_PGzaRpgwvQwUUjwT5o9d95y1ZoBa27v3BEfv0a7WdLKPo9z_qA3Uw8nzjgbE36Zqg4tCzyvbh2Ih/pubhtml?gid=249132506&single=true');"><svg
         class="bi" width="16" height="16" role="img" aria-label="Google">
         <title id="google-label-mouseover-rttbc25-horses">Google</title>
@@ -31,7 +31,7 @@
   </p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary"
-      href="/contests/rttbc25/pdf/BCCS-Points_2025-10-19.pdf" target="_blank" role="button"><svg class="bi"
+      href="/contests/rttbc25/pdf/BCCS-Points_2025-10-19.pdf" target="_blank" rel="noopener noreferrer" role="button"><svg class="bi"
         width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-bccs-points-2025">PDF</title>
         <use xlink:href="#filetype-pdf" />

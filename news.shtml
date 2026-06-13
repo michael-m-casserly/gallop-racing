@@ -79,11 +79,11 @@
               Twitter Information
             </button>
           </h2>
-          <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
+          <div id="collapseOne" class="accordion-collapse collapse" role="region" aria-labelledby="headingOne"
             data-bs-parent="#accordionTwitterInfodata">
             <div class="accordion-body accordion-td-cell">
 
-            <p>The "<i>Mike Casserly, Gallop Racing</i>" Twitter account (<a href="https://twitter.com/gallopracingllc" target="_blank">@gallopracingllc</a>) will serve as the News Feed on the Gallop Racing website. While you do not need to be a Twitter member to view the News Feed, if you decide to dig deeper into any of the links, you may need to create a Twitter account at some stage.</p>
+            <p>The "<i>Mike Casserly, Gallop Racing</i>" Twitter account (<a href="https://twitter.com/gallopracingllc" target="_blank" rel="noopener noreferrer">@gallopracingllc</a>) will serve as the News Feed on the Gallop Racing website. While you do not need to be a Twitter member to view the News Feed, if you decide to dig deeper into any of the links, you may need to create a Twitter account at some stage.</p>
 
             <p>Typical re-tweet content would include horse-specific updates regarding the next races, trainer/jockey changes, injuries, etc. Weekly <i>Race Preview</i> videos from the DRF, as well as video replays of the RTTBC/RTTR races (from TVG, TwinSpires) would also be regularly re-tweeted.</p>
 
@@ -91,7 +91,7 @@
 
             <p><img src="/images/twitter-banner-link-highlight.png" style="max-width: 610px; max-height: 112px;" alt="Twitter Banner" title="Twitter Banner"></p>
 
-            <p>Lastly, if you are a Twitter user and would like to follow the "List" of resources that Gallop utilizes, that can be found here: <a href="https://twitter.com/i/lists/1458447606745640963" target="_blank">Gallop Fantasy Racing</a></p>
+            <p>Lastly, if you are a Twitter user and would like to follow the "List" of resources that Gallop utilizes, that can be found here: <a href="https://twitter.com/i/lists/1458447606745640963" target="_blank" rel="noopener noreferrer">Gallop Fantasy Racing</a></p>
 
             </div>
           </div>
