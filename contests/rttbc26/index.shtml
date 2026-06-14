@@ -7,7 +7,7 @@
   <title>Road to the Breeders' Cup 2026 | Gallop Racing</title>
 
   <!--Special P style for RTTBC 22 page only-->
-  <style type="text/css">
+  <style>
     p {
       text-align: center;
     }
