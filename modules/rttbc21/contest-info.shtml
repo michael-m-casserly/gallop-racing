@@ -7,13 +7,13 @@
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC21-Leaderboard.pdf" target="_blank" rel="noopener noreferrer"
       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc21-leaderboard">PDF</title>
-        <use xlink:href="#filetype-pdf" />
+        <use xlink:href="#file-earmark-pdf" />
       </svg> Leaderboard</a></p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC21-Horses.pdf" target="_blank" rel="noopener noreferrer"
       role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc21-horses">PDF</title>
-        <use xlink:href="#filetype-pdf" />
+        <use xlink:href="#file-earmark-pdf" />
       </svg> Horses</a></p>
 
   <p class="module-button-wrapper">
@@ -31,7 +31,7 @@
       role="button" onclick="captureOutboundLink('/pdf/RTTBC21-All-Stables.pdf');"><svg class="bi" width="16"
         height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc21-all-stables">PDF</title>
-        <use xlink:href="#filetype-pdf" />
+        <use xlink:href="#file-earmark-pdf" />
       </svg> View All Stables</a></p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="https://twitter.com/hashtag/rttbc2021?f=live"

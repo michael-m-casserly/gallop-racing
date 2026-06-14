@@ -6,7 +6,7 @@
     href="/pdf/RTTR151-Leaderboard.pdf" target="_blank" rel="noopener noreferrer" role="button"><svg
       class="bi" width="16" height="16" role="img" aria-label="PDF">
       <title id="pdf-label-mouseover-rttr151-leaderboard">PDF</title>
-      <use xlink:href="#filetype-pdf" />
+      <use xlink:href="#file-earmark-pdf" />
     </svg> Leaderboard</a></p>
 
   <!--BEGIN SHOWING THIS ONCE THEY START PUBLISHING IT-->
@@ -14,14 +14,14 @@
     href="/contests/rttr151/pdf/20250425-Road-to-Kentucky-Derby-Leaderboard.pdf" role="button" target="_blank" rel="noopener noreferrer"><svg class="bi"
       width="16" height="16" role="img" aria-label="PDF">
       <title id="pdf-label-mouseover-rttr151-official-derby-leaderboard">PDF</title>
-      <use xlink:href="#filetype-pdf" />
+      <use xlink:href="#file-earmark-pdf" />
     </svg> Official Derby Leaderboard (Weekly) &dagger;</a>
 </p>
 <p class="module-button-wrapper"><a class="btn btn-secondary btn"
   href="/contests/rttr151/pdf/20250403-Derby-Dispatch.pdf" role="button" target="_blank" rel="noopener noreferrer"><svg class="bi"
     width="16" height="16" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-rttr151-derby-dispatch-leaderboard">PDF</title>
-    <use xlink:href="#filetype-pdf" />
+    <use xlink:href="#file-earmark-pdf" />
   </svg> "<i>The Derby Dispatch</i>" &dagger;</a>
 </p>
 
@@ -41,7 +41,7 @@
         href="/pdf/RTTR151-Horses.pdf" target="_blank" rel="noopener noreferrer" role="button"><svg
           class="bi" width="16" height="16" role="img" aria-label="PDF">
           <title id="pdf-label-mouseover-rttr151-horses">PDF</title>
-          <use xlink:href="#filetype-pdf" />
+          <use xlink:href="#file-earmark-pdf" />
         </svg> Horses</a></p>
   
   <!--ADD THIS AFTER DRAFT #1-->
@@ -49,7 +49,7 @@
       href="/pdf/RTTR151-All-Stables.pdf" role="button" target="_blank" rel="noopener noreferrer"><svg class="bi"
         width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttr151-view-all-stables">PDF</title>
-        <use xlink:href="#filetype-pdf" />
+        <use xlink:href="#file-earmark-pdf" />
       </svg> View All Stables</a>
   </p>
 

@@ -1,18 +1,18 @@
 <div class="round-border">
   <h5>RTTBC '22 Info</h5>
 
-  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC22-League-Sheet-Leaderboard.pdf" target="_blank" rel="noopener noreferrer" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF"><title id="pdf-label-mouseover-rttbc22-leaderboard">PDF</title><use xlink:href="#filetype-pdf" /></svg>&nbsp;Full Leaderboard</a></p>
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC22-League-Sheet-Leaderboard.pdf" target="_blank" rel="noopener noreferrer" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF"><title id="pdf-label-mouseover-rttbc22-leaderboard">PDF</title><use xlink:href="#file-earmark-pdf" /></svg>&nbsp;Full Leaderboard</a></p>
   
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC22-All-Stables.pdf" role="button"
       target="_blank" rel="noopener noreferrer"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc22-all-stables">PDF</title>
-        <use xlink:href="#filetype-pdf" />
+        <use xlink:href="#file-earmark-pdf" />
       </svg> View All Stables</a></p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC22-League-Sheet-Horses.pdf"
       target="_blank" rel="noopener noreferrer" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc22-horses">PDF</title>
-        <use xlink:href="#filetype-pdf" />
+        <use xlink:href="#file-earmark-pdf" />
       </svg> Horses</a>
   </p>
 
@@ -20,7 +20,7 @@
       target="_blank" rel="noopener noreferrer" role="button" onclick="captureOutboundLink('/pdf/RTTBC22-Leading-Horses-by-Stable.pdf');"><svg
         class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc22-leading-horses-by-stable">PDF</title>
-        <use xlink:href="#filetype-pdf" />
+        <use xlink:href="#file-earmark-pdf" />
       </svg> Leading Horses by Stable</a></p>
 
   <p class="module-button-wrapper">

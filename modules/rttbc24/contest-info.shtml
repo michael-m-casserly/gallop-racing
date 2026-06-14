@@ -4,25 +4,25 @@
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC24-League-Sheet-Leaderboard.pdf"
       target="_blank" rel="noopener noreferrer" role="button"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc24-leaderboard">PDF</title>
-        <use xlink:href="#filetype-pdf" />
+        <use xlink:href="#file-earmark-pdf" />
       </svg>&nbsp;Full Leaderboard</a></p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/2024_BCWC_Official_Pre-Entries.pdf"
       role="button" target="_blank" rel="noopener noreferrer"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc24-official-pre-entries">PDF</title>
-        <use xlink:href="#filetype-pdf" />
+        <use xlink:href="#file-earmark-pdf" />
       </svg>&nbsp;Official Pre-Entries</a></p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC24-Schedule-by-Division.pdf"
       role="button" target="_blank" rel="noopener noreferrer"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc24-schedule-by-division">PDF</title>
-        <use xlink:href="#filetype-pdf" />
+        <use xlink:href="#file-earmark-pdf" />
       </svg>&nbsp;Schedule by Division</a></p>
 
   <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC24-All-Stables.pdf" role="button"
       target="_blank" rel="noopener noreferrer"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc24-all-stables">PDF</title>
-        <use xlink:href="#filetype-pdf" />
+        <use xlink:href="#file-earmark-pdf" />
       </svg> View All Stables</a></p>
 
   <p class="module-button-wrapper">
@@ -43,7 +43,7 @@
     onclick="captureOutboundLink('/pdf/RTTBC24-Leading-Horses-by-Stable.pdf');"><svg
     class="bi" width="16" height="16" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-rttbc24-leading-horses-by-stable">PDF</title>
-    <use xlink:href="#filetype-pdf" />
+    <use xlink:href="#file-earmark-pdf" />
   </svg> Leading Horses by Stable</a></p>
 -->
 </div>
