@@ -17,14 +17,14 @@
       </svg>&nbsp;Schedule by Division</a></p>
 
   <!--THIS NEEDS TO BE UPDATED FOR 2026 following Draft #1-->
-  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC26-All-Stables_2026-06-05.pdf" role="button"
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC26-All-Stables_2026-06-27.pdf" role="button"
       target="_blank" rel="noopener noreferrer"><svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-rttbc26-all-stables">PDF</title>
         <use xlink:href="#file-earmark-pdf" />
       </svg> View All Stables</a>
   </p>
 
-  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC26-All-Stables_2026-06-05.xlsx" role="button"
+  <p class="module-button-wrapper"><a class="btn btn-secondary" href="/pdf/RTTBC26-All-Stables_2026-06-27.xlsx" role="button"
       target="_blank" rel="noopener noreferrer"><svg class="bi" width="16" height="16" role="img" aria-label="XLSX">
         <title id="xlsx-label-mouseover-rttbc26-all-stables">XLSX</title>
         <use xlink:href="#file-earmark-excel" />
