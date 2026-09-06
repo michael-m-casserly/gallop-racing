@@ -65,6 +65,7 @@
 
       <div style="text-align: center;">
         <h4>All Contests</h4>
+        <h5>These rules apply to all contests, including RTTR and RTTBC.</h5>
       </div>
 
       <div class="accordion" id="accordionRulesAllContests">
@@ -76,7 +77,7 @@
               aria-controls="collapseRulesAllContestsFinancial">
               Financial (FIN)
             </button>
-          </h2>
+          </h6>
           <div id="collapseRulesAllContestsFinancial" class="accordion-collapse collapse"
             role="region" aria-labelledby="headingRulesAllContestsFinancial" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
@@ -114,7 +115,7 @@
               aria-controls="collapseRulesAllContestsFormat">
               Format (FOR)
             </button>
-          </h2>
+          </h6>
           <div id="collapseRulesAllContestsFormat" class="accordion-collapse collapse"
             role="region" aria-labelledby="headingRulesAllContestsFormat" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
@@ -160,7 +161,7 @@
               aria-controls="collapseRulesAllContestsMiscellaneous">
               Miscellaneous (MIS)
             </button>
-          </h2>
+          </h6>
           <div id="collapseRulesAllContestsMiscellaneous" class="accordion-collapse collapse"
             role="region" aria-labelledby="headingRulesAllContestsMiscellaneous" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
@@ -195,7 +196,7 @@
               aria-controls="collapseRulesAllContestsPowerHorses">
               Power Picks (PWH)
             </button>
-          </h2>
+          </h6>
           <div id="collapseRulesAllContestsPowerHorses" class="accordion-collapse collapse"
             role="region" aria-labelledby="headingRulesAllContestsPowerHorses" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
@@ -285,7 +286,7 @@
               aria-controls="collapseRulesAllContestsSchedule">
               Schedule (SCH)
             </button>
-          </h2>
+          </h6>
           <div id="collapseRulesAllContestsSchedule" class="accordion-collapse collapse"
             role="region" aria-labelledby="headingRulesAllContestsSchedule" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
@@ -326,7 +327,7 @@
               aria-controls="collapseRulesAllContestsScoring">
               Scoring (SCR)
             </button>
-          </h2>
+          </h6>
           <div id="collapseRulesAllContestsScoring" class="accordion-collapse collapse"
             role="region" aria-labelledby="headingRulesAllContestsScoring" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
@@ -421,7 +422,7 @@
               aria-controls="collapseRulesAllContestsSetup">
               Setup (SET)
             </button>
-          </h2>
+          </h6>
           <div id="collapseRulesAllContestsSetup" class="accordion-collapse collapse"
             role="region" aria-labelledby="headingRulesAllContestsSetup" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
@@ -462,7 +463,7 @@
               aria-controls="collapseRulesAllContestsTimeline">
               Timeline (TIM)
             </button>
-          </h2>
+          </h6>
           <div id="collapseRulesAllContestsTimeline" class="accordion-collapse collapse"
             role="region" aria-labelledby="headingRulesAllContestsTimeline" data-bs-parent="#accordionRulesAllContests">
             <div class="accordion-body">
@@ -491,6 +492,7 @@
       <br>
       <div style="text-align: center;">
         <h4>Contest-Specific</h4>
+        <h5>These rules apply to specific contests, including RTTR and RTTBC.</h5>
       </div>
 
       <div class="accordion" id="accordionRulesRTTBC-AutoDraft">
@@ -501,7 +503,7 @@
               aria-controls="collapseRulesRTTBC-AutoDraft">
               Auto-Draft (AUT) -- <i>RTTBC ONLY</i>
             </button>
-          </h2>
+          </h6>
           <div id="collapseRulesRTTBC-AutoDraft" class="accordion-collapse collapse show"
             role="region" aria-labelledby="headingRulesRTTBC-AutoDraft" data-bs-parent="#accordionRulesRTTBC-AutoDraft">
             <div class="accordion-body">
@@ -601,7 +603,7 @@
               data-bs-target="#collapseRulesRTTBC" aria-expanded="false" aria-controls="collapseRulesRTTBC">
               RTTBC (RBC)
             </button>
-          </h2>
+          </h6>
           <div id="collapseRulesRTTBC" class="accordion-collapse collapse show" role="region" aria-labelledby="headingRulesRTTBC"
             data-bs-parent="#accordionRulesRTTBC">
             <div class="accordion-body">
@@ -658,7 +660,7 @@
               data-bs-target="#collapseRulesRTTR" aria-expanded="false" aria-controls="collapseRulesRTTR">
               RTTR (RTR)
             </button>
-          </h2>
+          </h6>
           <div id="collapseRulesRTTR" class="accordion-collapse collapse" role="region" aria-labelledby="headingRulesRTTR"
             data-bs-parent="#accordionRulesRTTR">
             <div class="accordion-body">

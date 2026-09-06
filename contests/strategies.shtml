@@ -44,7 +44,7 @@
                 data-bs-target="#collapseVariableDraft" aria-expanded="false" aria-controls="collapseVariableDraft">
                 RTTR Variable Drafting
               </button>
-            </h2>
+            </h6>
             <div id="collapseVariableDraft" class="accordion-collapse collapse" role="region" aria-labelledby="headingVariableDraft"
               data-bs-parent="#accordionStrategiesdata">
               <div class="accordion-body accordion-td-cell">
@@ -80,7 +80,7 @@
                 aria-expanded="false" aria-controls="collapseRTTBC">
                 RTTBC Approach
               </button>
-            </h2>
+            </h6>
             <div id="collapseRTTBC" class="accordion-collapse collapse show" role="region" aria-labelledby="headingRTTBC"
               data-bs-parent="#accordionStrategiesdata">
               <div class="accordion-body accordion-td-cell">

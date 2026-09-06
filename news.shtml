@@ -79,7 +79,7 @@
               data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
               Twitter Information
             </button>
-          </h2>
+          </h6>
           <div id="collapseOne" class="accordion-collapse collapse" role="region" aria-labelledby="headingOne"
             data-bs-parent="#accordionTwitterInfodata">
             <div class="accordion-body accordion-td-cell">

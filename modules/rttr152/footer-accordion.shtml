@@ -5,7 +5,7 @@
           data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
           How to Play / RTTR Scoring / Contest Notes
         </button>
-      </h2>
+      </h6>
       <div id="collapseThree" class="accordion-collapse collapse show" role="region" aria-labelledby="headingThree"
         data-bs-parent="#accordionRTTR152data">
         <div class="accordion-body accordion-td-cell">

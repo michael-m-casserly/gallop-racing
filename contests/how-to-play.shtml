@@ -69,7 +69,7 @@
               data-bs-target="#collapseHowToPlayRTTR" aria-expanded="false" aria-controls="collapseHowToPlayRTTR">
               Contest #1<br>Road to the Roses (RTTR)
             </button>
-          </h2>
+          </h6>
           <div id="collapseHowToPlayRTTR" class="accordion-collapse collapse" role="region" aria-labelledby="headingHowToPlayRTTR" data-bs-parent="#accordionHowToPlay">
             <div class="accordion-body accordion-td-cell">
               <div style="text-align: center;"><h4>Kentucky Derby</h4></div>
@@ -139,7 +139,7 @@
               data-bs-target="#collapseHowToPlayRTTBC" aria-expanded="false" aria-controls="collapseHowToPlayRTTBC">
               Contest #2<br>Road to the Breeders' Cup (RTTBC)
             </button>
-          </h2>
+          </h6>
           <div id="collapseHowToPlayRTTBC" class="accordion-collapse collapse show" role="region" aria-labelledby="headingHowToPlayRTTBC" data-bs-parent="#accordionHowToPlay">
             <div class="accordion-body accordion-td-cell">
               <div style="text-align: center;"><h4>Breeders' Cup<br>(7 Dirt Divisions)</h4></div>
