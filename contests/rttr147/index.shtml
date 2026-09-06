@@ -27,7 +27,8 @@
     </nav>
 
     <div class="text-align-center">
-      <h3>Road to the Roses<br>Derby 147 Contest</h3>
+      <h3>Road to the Roses</h3>
+      <h4>Derby 147 Contest</h4>
     </div>
 
     <div class="container marketing">
@@ -70,7 +71,7 @@
 
       <div class="accordion" id="accordionRTTR147data">
         <div class="accordion-item">
-          <h2 class="accordion-header" id="headingThree">
+          <h6 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
               How to Play / RTTR Scoring<!-- / Contest Notes-->

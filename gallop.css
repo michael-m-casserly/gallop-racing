@@ -85,20 +85,7 @@ p {
 
 
 
-h2,
-h5,
-.navbar-brand {
-
-  font-family: Charlemagne std;
-
-  color: #000;
-
-}
-
-
-
-h3,
-h4 {
+h3 {
 
   font-family: Georgia;
 
@@ -107,6 +94,17 @@ h4 {
   font-weight: bold;
 
   font-style: italic;
+
+}
+
+h5,
+h6,
+.module-title,
+.navbar-brand {
+
+  font-family: Charlemagne std;
+
+  color: #000;
 
 }
 
@@ -185,7 +183,7 @@ div.dropdown-menu {
 
 }
 
-
+.module-title {}
 
 .round-border {
 

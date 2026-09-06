@@ -36,7 +36,8 @@
     </nav>
 
     <div class="text-align-center">
-      <h3>Road to the Breeders' Cup<br>2026 Stats</h3>
+      <h3>Road to the Breeders' Cup</h3>
+      <h4>2026 Contest Stats</h4>
     </div>
 
     <!--#include virtual="/contests/subnav-menu.html" -->

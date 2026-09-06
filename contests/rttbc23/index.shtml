@@ -34,7 +34,8 @@
     </nav>
 
     <div class="text-align-center">
-      <h3>Road to the Breeders' Cup<br>2023 Contest</h3>
+      <h3>Road to the Breeders' Cup</h3>
+      <h4>2023 Contest</h4>
     </div>
 
 <!--include virtual="/countdown-timer-rttbc.html" -->
@@ -78,7 +79,7 @@
       <div class="accordion" id="accordionRTTBC23data">
 
         <div class="accordion-item">
-          <h2 class="accordion-header" id="headingThree">
+          <h6 class="accordion-header" id="headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
               How to Play / RTTBC Scoring / Contest Notes / Auto-Draft Log

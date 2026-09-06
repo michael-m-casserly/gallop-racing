@@ -28,7 +28,8 @@
     </nav>
 
     <div class="text-align-center">
-      <h3>Road to the Roses<br>Derby 149 Schedule</h3>
+      <h3>Road to the Roses</h3>
+      <h4>Derby 149 Schedule</h4>
     </div>
 
     <!--#include virtual="/contests/subnav-menu.html" -->

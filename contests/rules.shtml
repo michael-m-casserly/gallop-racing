@@ -70,7 +70,7 @@
       <div class="accordion" id="accordionRulesAllContests">
 
         <!--div class="accordion-item">
-          <h2 class="accordion-header" id="headingRulesAllContestsFinancial">
+          <h6 class="accordion-header" id="headingRulesAllContestsFinancial">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesAllContestsFinancial" aria-expanded="false"
               aria-controls="collapseRulesAllContestsFinancial">
@@ -108,7 +108,7 @@
         </div-->
 
         <div class="accordion-item">
-          <h2 class="accordion-header" id="headingRulesAllContestsFormat">
+          <h6 class="accordion-header" id="headingRulesAllContestsFormat">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesAllContestsFormat" aria-expanded="false"
               aria-controls="collapseRulesAllContestsFormat">
@@ -154,7 +154,7 @@
         </div>
 
         <div class="accordion-item">
-          <h2 class="accordion-header" id="headingRulesAllContestsMiscellaneous">
+          <h6 class="accordion-header" id="headingRulesAllContestsMiscellaneous">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesAllContestsMiscellaneous" aria-expanded="false"
               aria-controls="collapseRulesAllContestsMiscellaneous">
@@ -189,7 +189,7 @@
         </div>
 
         <div class="accordion-item">
-          <h2 class="accordion-header" id="headingRulesAllContestsPowerHorses">
+          <h6 class="accordion-header" id="headingRulesAllContestsPowerHorses">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesAllContestsPowerHorses" aria-expanded="false"
               aria-controls="collapseRulesAllContestsPowerHorses">
@@ -279,7 +279,7 @@
         </div>
 
         <div class="accordion-item">
-          <h2 class="accordion-header" id="headingRulesAllContestsSchedule">
+          <h6 class="accordion-header" id="headingRulesAllContestsSchedule">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesAllContestsSchedule" aria-expanded="false"
               aria-controls="collapseRulesAllContestsSchedule">
@@ -320,7 +320,7 @@
         </div>
 
         <div class="accordion-item">
-          <h2 class="accordion-header" id="headingRulesAllContestsScoring">
+          <h6 class="accordion-header" id="headingRulesAllContestsScoring">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesAllContestsScoring" aria-expanded="false"
               aria-controls="collapseRulesAllContestsScoring">
@@ -415,7 +415,7 @@
         </div>
 
         <div class="accordion-item">
-          <h2 class="accordion-header" id="headingRulesAllContestsSetup">
+          <h6 class="accordion-header" id="headingRulesAllContestsSetup">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesAllContestsSetup" aria-expanded="false"
               aria-controls="collapseRulesAllContestsSetup">
@@ -456,7 +456,7 @@
         </div>
 
         <div class="accordion-item">
-          <h2 class="accordion-header" id="headingRulesAllContestsTimeline">
+          <h6 class="accordion-header" id="headingRulesAllContestsTimeline">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesAllContestsTimeline" aria-expanded="false"
               aria-controls="collapseRulesAllContestsTimeline">
@@ -495,7 +495,7 @@
 
       <div class="accordion" id="accordionRulesRTTBC-AutoDraft">
         <div class="accordion-item">
-          <h2 class="accordion-header" id="headingRulesRTTBC-AutoDraft">
+          <h6 class="accordion-header" id="headingRulesRTTBC-AutoDraft">
             <button class="accordion-button" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesRTTBC-AutoDraft" aria-expanded="false"
               aria-controls="collapseRulesRTTBC-AutoDraft">
@@ -596,7 +596,7 @@
 
       <div class="accordion" id="accordionRulesRTTBC">
         <div class="accordion-item">
-          <h2 class="accordion-header" id="headingRulesRTTBC">
+          <h6 class="accordion-header" id="headingRulesRTTBC">
             <button class="accordion-button" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesRTTBC" aria-expanded="false" aria-controls="collapseRulesRTTBC">
               RTTBC (RBC)
@@ -653,7 +653,7 @@
 
       <div class="accordion" id="accordionRulesRTTR">
         <div class="accordion-item">
-          <h2 class="accordion-header" id="headingRulesRTTR">
+          <h6 class="accordion-header" id="headingRulesRTTR">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseRulesRTTR" aria-expanded="false" aria-controls="collapseRulesRTTR">
               RTTR (RTR)
