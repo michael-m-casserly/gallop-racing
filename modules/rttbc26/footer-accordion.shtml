@@ -18,7 +18,7 @@
                   <!--#include virtual="/modules/how-to-play-rttbc.html" -->
                   <!--#include virtual="/modules/rttbc-scoring-table.html" --> <!--Swap these before/after contest starts-->
                   <!--include virtual="/modules/rttbc26/contest-notes.html"--> <!--Swap these before/after contest starts-->
-
+                  <!--#include virtual="/modules/rttbc26/contest-notes-left-column.html"--> <!--Use this when the Contest Notes module gets too long-->
                 </div>
                 <!--end left column-->
 

@@ -1,5 +1,6 @@
 <div class="module-no-border" style="padding-bottom: 0px !important; margin-bottom: 0px !important;">
 <h5>Quick Links</h5>    
+<br> <!--This adds some space to make the content look more centered vertically-->
 <p>    
     <!--#include virtual="/modules/rttbc26/stables-menu.html"-->
 </p>
