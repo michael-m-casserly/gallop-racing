@@ -108,9 +108,9 @@
       <a class="nav-link link-light" href="https://docs.google.com/forms/d/e/1FAIpQLSe2GwysYayxRZN_aZm9EPkqttAGHQN3yWYEsWg4-CalcnS0Fg/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer" style="text-transform: uppercase; font-weight: bold;">Register &raquo;</a>
     </span-->
 
-    <h2 style="font-size: 1.00rem; font-weight: bold;"><span class="nav-item">
+    <h1 style="font-size: 1.00rem; font-weight: bold;"><span class="nav-item">
       <a class="nav-link link-light" href="/contests/rttbc26/index.shtml" style="text-transform: uppercase; font-weight: bold;">Breeders' Cup '26</a>
-    </span></h2>
+    </span></h1>
 
     <!-- KEEP THIS IN CASE WE WANT TO MOVE THE SEARCH BAR BACK OUTSIDE OF THE TOGGLER...form method="GET" action="http://www.google.com/custom">
         <input type="search" class="form-control" placeholder="Search Gallop..." aria-label="Search" name="q"
@@ -200,9 +200,9 @@
 <header class="py-3 mb-4 container mt-4 pt-4"
   style="background-color: #c9daf8; margin-bottom: 0rem !important; padding-bottom: 0.25rem !important; border: 2px solid black; border-radius:5px;">
   <div class="container d-flex flex-wrap justify-content-center">
-    <h1 style="margin-bottom: 0.25rem; margin-top: 0.25rem;"><a href="/index.shtml" class="d-flex align-items-center mb-3 mb-lg-0 me-lg-auto text-dark text-decoration-none">
+    <h2 style="margin-bottom: 0.25rem; margin-top: 0.25rem;"><a href="/index.shtml" class="d-flex align-items-center mb-3 mb-lg-0 me-lg-auto text-dark text-decoration-none">
       <img src="/images/logo-gallop.png" alt="Gallop Racing LLC" style="max-height:36px; max-width:51px; border: 0;">
       <span class="fs-4"><img src="/images/gallop-title-text.png" alt="Gallop Racing LLC"
-          style="max-height:53px; max-width:200px; padding-right: 0px; padding-left: 10px; border: 0;"></span><span style="font-size: 11px;">BETA</span></a></h1>
+          style="max-height:53px; max-width:200px; padding-right: 0px; padding-left: 10px; border: 0;"></span><span style="font-size: 11px;">BETA</span></a></h2>
     </div>
 </header>
