@@ -68,12 +68,13 @@
           <div class="round-border">
             <h5>Kentucky Derby</h5>
             <p>January to May</p>
-            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttr152/index.shtml"
-                role="button">RTTR 152</a></p>
+            <p class="module-button-wrapper"><a class="btn btn-secondary btn" href="/contests/rttr153/index.shtml"
+                role="button">RTTR 153</a></p>
             <p style="text-align: center;">
                 <select class="form-select" aria-label="" onchange="javascript:handleSelectContest(this)"
                   style="max-width: 240px; margin: auto;">
                   <option value="" selected>Previous RTTR Contests</option>
+                  <option value="/contests/rttr152/index.shtml">RTTR 152</option>
                   <option value="/contests/rttr151/index.shtml">RTTR 151</option>
                   <option value="/contests/rttr150/index.shtml">RTTR 150</option>
                   <option value="/contests/rttr149/index.shtml">RTTR 149</option>

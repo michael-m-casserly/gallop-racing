@@ -143,7 +143,7 @@
             <li><a class="dropdown-item" href="/contests/rttr152/schedule.shtml">Derby 152 Schedule</a></li>
             <li><a class="dropdown-item" href="/contests/rttr152/scoring.shtml">Derby 152 Scoring</a></li>
             <li><a class="dropdown-item" href="/contests/rttr152/stats.shtml">Derby 152 Stats</a></li>
-            <!--li><a class="dropdown-item" href="/contests/rttbc27/schedule.shtml">RTTBC '27 Schedule</a></li--><!--Use this when the Schedule is 1st published for the next contest-->
+            <li><a class="dropdown-item" href="/contests/rttr153/schedule.shtml">RTTR 153 Schedule</a></li--><!--Use this when the Schedule is 1st published for the next contest-->
             <li><a class="dropdown-item" href="/contests/how-to-play.shtml">How to Play</a></li>
             <li><a class="dropdown-item" href="/contests/resources.shtml">Resources</a></li>
             <li><a class="dropdown-item" href="/contests/rules.shtml">Rules</a></li>

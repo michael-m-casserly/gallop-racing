@@ -43,8 +43,8 @@
 
     <div class="container marketing">
 
-      <!--p>RTTR153 Stats will be available after the contest begins in early 2026.</p-->
-      
+      <p>RTTR153 Stats will be available after the contest begins in early 2026.</p>
+
       <div class="row">
         <!--#include virtual="/modules/jump-to-stats.html" -->
       </div>
@@ -54,7 +54,7 @@
         <div class="col-lg-4">
           <!--begin left column-->
 
-          <!--#include virtual="/modules/rttr153/horses-by-stable.html"-->
+          <!--include virtual="/modules/rttr153/horses-by-stable.html"-->
 
         </div>
         <!--end left column-->
@@ -62,9 +62,9 @@
         <div class="col-lg-4">
           <!--begin middle column-->
 
-          <!--#include virtual="/modules/rttr153/trainers-by-stable.html"-->
-          <!--#include virtual="/modules/rttr153/jockeys-by-stable.html"-->
-          <!--#include virtual="/modules/rttr153/trainer-jockey-combo-by-stable.html"-->
+          <!--include virtual="/modules/rttr153/trainers-by-stable.html"-->
+          <!--include virtual="/modules/rttr153/jockeys-by-stable.html"-->
+          <!--include virtual="/modules/rttr153/trainer-jockey-combo-by-stable.html"-->
 
         </div>
         <!--end middle column-->
@@ -72,9 +72,9 @@
         <div class="col-lg-4">
           <!--begin right column-->
 
-          <!--#include virtual="/modules/rttr153/leading-horses.html"-->
-          <!--#include virtual="/modules/rttr153/leading-trainers.html"-->
-          <!--#include virtual="/modules/rttr153/leading-jockeys.html"-->
+          <!--include virtual="/modules/rttr153/leading-horses.html"-->
+          <!--include virtual="/modules/rttr153/leading-trainers.html"-->
+          <!--include virtual="/modules/rttr153/leading-jockeys.html"-->
 
         </div>
         <!--end right column-->
