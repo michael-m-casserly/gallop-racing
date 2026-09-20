@@ -38,7 +38,7 @@
       <h4>2026 Contest</h4>
     </div>
 
-    <!--include virtual="/countdown-timer-rttbc.html" -->
+    <!--#include virtual="/countdown-timer-rttbc.html" -->
 
     <!--#include virtual="/contests/subnav-menu.html" -->
 
