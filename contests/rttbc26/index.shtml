@@ -91,6 +91,7 @@
           <!--include virtual="/modules/calendar.html" -->
 
           <!--ADD AFTER WEEK #1-->
+          <!--#include virtual="/modules/rttbc26/races-completed-bc.html" -->
           <!--#include virtual="/modules/rttbc26/races-completed.html" -->
 
         </div>
