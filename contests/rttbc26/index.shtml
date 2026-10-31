@@ -69,8 +69,8 @@
         <div class="col-lg-4">
           <!--begin left column-->
           <!--include virtual="/modules/register.html" -->
-          <!--#include virtual="/modules/rttbc26/races-upcoming.html" -->
-          <!--include virtual="/modules/rttbc26/races-completed-bc.html" -->
+          <!--include virtual="/modules/rttbc26/races-upcoming.html" -->
+          <!--#include virtual="/modules/rttbc26/races-completed-bc.html" -->
           <!--include virtual="/modules/rttbc26/contest-info.shtml" -->
           <!--include virtual="/modules/rttbc26/final-standings.shtml" -->
 
@@ -86,12 +86,11 @@
 
           <!--/div-->
 
-          <!--#include virtual="/modules/rttbc26/contest-info.shtml" -->
           <!--include virtual="/modules/resources-rttbc.html" -->
           <!--include virtual="/modules/calendar.html" -->
 
           <!--ADD AFTER WEEK #1-->
-          <!--#include virtual="/modules/rttbc26/races-completed-bc.html" -->
+          <!--include virtual="/modules/rttbc26/races-completed-bc.html" -->
           <!--#include virtual="/modules/rttbc26/races-completed.html" -->
 
         </div>
@@ -99,6 +98,8 @@
 
         <div class="col-lg-4">
         <!--begin right column-->
+
+          <!--#include virtual="/modules/rttbc26/contest-info.shtml" -->
 
           <!--#include virtual="/modules/calendar.html" -->
 
