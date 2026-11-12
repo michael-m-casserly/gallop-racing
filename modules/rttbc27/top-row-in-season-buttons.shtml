@@ -1,0 +1,33 @@
+<div class="module-no-border" style="padding-bottom: 0px !important; margin-bottom: 0px !important;">
+<h5>Quick Links</h5>    
+<br> <!--This adds some space to make the content look more centered vertically-->
+<p>    
+    <!--#include virtual="/modules/rttbc27/stables-menu.html"-->
+</p>
+
+<p class="module-button-wrapper"><a class="btn btn-secondary"
+    href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQHUXdkMOQ2rkAIfY5XlXeYspfoVQj1M81VS2XWyiLwUrSI6IYr1Ehp-CH_p-wmLg1GW73iZBKIPpu_/pubhtml?gid=0&single=true"
+    target="_blank" rel="noopener noreferrer" role="button"
+    onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQHUXdkMOQ2rkAIfY5XlXeYspfoVQj1M81VS2XWyiLwUrSI6IYr1Ehp-CH_p-wmLg1GW73iZBKIPpu_/pubhtml?gid=0&single=true');"><svg
+      class="bi" width="16" height="16" role="img" aria-label="Google">
+      <title id="google-label-mouseover-rttbc27-leaderboard">Google</title>
+      <use xlink:href="#google" />
+    </svg> Leaderboard&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+      <title id="arrow-up-right-circle-rttbc27-leaderboard-quicklinks">New Window</title>
+      <use xlink:href="#arrow-up-right-circle" />
+    </svg></a>
+  </p>
+
+  <p class="module-button-wrapper"><a class="btn btn-secondary"
+    href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQtZhTM1jnZTaeItwmNVBeBeO8L89inhgIu0ulDqmjigCJC632npZiA5ea6tK9XIUhosP7qla3szHd3/pubhtml?gid=1411863973&single=true"
+    target="_blank" rel="noopener noreferrer" role="button"
+    onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQtZhTM1jnZTaeItwmNVBeBeO8L89inhgIu0ulDqmjigCJC632npZiA5ea6tK9XIUhosP7qla3szHd3/pubhtml?gid=1411863973&single=true');"><svg
+      class="bi" width="16" height="16" role="img" aria-label="Google">
+      <title id="google-label-mouseover-rttbc27-schedule-quicklinks">Google</title>
+      <use xlink:href="#google" />
+    </svg> Full Schedule&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="New Window">
+      <title id="arrow-up-right-circle-rttbc27-schedule">New Window</title>
+      <use xlink:href="#arrow-up-right-circle" />
+    </svg></a>
+  </p>
+</div>
