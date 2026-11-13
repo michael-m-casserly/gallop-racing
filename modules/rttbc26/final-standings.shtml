@@ -8,139 +8,163 @@
     </tr>
     <tr>
       <td rowspan="2" class="leaderboard-data-number">1</td>
-      <td class="leaderboard-data-stable">JEB Stables&nbsp;<svg class="bi" width="20" height="20" role="img"
+      <td class="leaderboard-data-stable">NextGenGoodLad&nbsp;<svg class="bi" width="20" height="20" role="img"
           aria-label="Trophy" style="color: gold;">
           <title id="trophy-label-mouseover-rttbc26-win">Trophy</title>
           <use xlink:href="#trophy-fill" />
         </svg></td>
-      <td rowspan="2" class="leaderboard-data-number">982</td>
+      <td rowspan="2" class="leaderboard-data-number">1133</td>
     </tr>
     <tr>
-      <td class="leaderboard-data-player">Joseph Balut | Brooklyn, NY</td>
+      <td class="leaderboard-data-player">Declan Carolan | Port Washington, NY</td>
     </tr>
     <tr>
       <td rowspan="2" class="leaderboard-data-number">2</td>
-      <td class="leaderboard-data-stable">Handsome Dans&nbsp;<svg class="bi" width="20" height="20" role="img"
+      <td class="leaderboard-data-stable">Crack The Whip&nbsp;<svg class="bi" width="20" height="20" role="img"
           aria-label="Trophy" style="color: silver;">
           <title id="trophy-label-mouseover-rttbc26-place">Trophy</title>
           <use xlink:href="#trophy-fill" />
         </svg></td>
-      <td rowspan="2" class="leaderboard-data-number">964</td>
-    </tr>
-    <tr>
-      <td class="leaderboard-data-player">Daniel O'Connell | Bellerose Village, NY</td>
-    </tr>
-    <tr>
-      <td rowspan="2" class="leaderboard-data-number">3</td>
-      <td class="leaderboard-data-stable">Schrute Farms</td>
-      <td rowspan="2" class="leaderboard-data-number">961</td>
-    </tr>
-    <tr>
-      <td class="leaderboard-data-player">Michael Casserly | Rockaway, NY</td>
-    </tr>
-    <tr>
-      <td rowspan="2" class="leaderboard-data-number">4</td>
-      <td class="leaderboard-data-stable">The Dullahan</td>
-      <td rowspan="2" class="leaderboard-data-number">932</td>
-    </tr>
-    <tr>
-      <td class="leaderboard-data-player">John Bauman | South Ozone Park, NY</td>
-    </tr>
-    <tr>
-      <td rowspan="2" class="leaderboard-data-number">5</td>
-      <td class="leaderboard-data-stable">Crack the Whip Stables</td>
-      <td rowspan="2" class="leaderboard-data-number">903</td>
+      <td rowspan="2" class="leaderboard-data-number">1119</td>
     </tr>
     <tr>
       <td class="leaderboard-data-player">Mike Triunfo | Bayside, NY</td>
     </tr>
     <tr>
-      <td rowspan="2" class="leaderboard-data-number">6</td>
-      <td class="leaderboard-data-stable">Rippin Up Floor Boards</td>
-      <td rowspan="2" class="leaderboard-data-number">982</td>
-    </tr>
-    <tr>
-      <td class="leaderboard-data-player">Ray Carolan | Port Washington, NY</td>
-    </tr>
-    <tr>
-      <td rowspan="2" class="leaderboard-data-number">7</td>
-      <td class="leaderboard-data-stable">Moonshine Mullon</td>
-      <td rowspan="2" class="leaderboard-data-number">883</td>
-    </tr>
-    <tr>
-      <td class="leaderboard-data-player">Kevin F Mullon | Long Beach, NY</td>
-    </tr>
-    <tr>
-      <td rowspan="2" class="leaderboard-data-number">8</td>
-      <td class="leaderboard-data-stable">Quarter Horse Stables</td>
-      <td rowspan="2" class="leaderboard-data-number">882</td>
-    </tr>
-    <tr>
-      <td class="leaderboard-data-player">John Casey | Rockaway, NY</td>
-    </tr>
-    <tr>
-      <td rowspan="2" class="leaderboard-data-number">9</td>
-      <td class="leaderboard-data-stable">The OL Vinegar Shtroke</td>
-      <td rowspan="2" class="leaderboard-data-number">864</td>
+      <td rowspan="2" class="leaderboard-data-number">3</td>
+      <td class="leaderboard-data-stable">Deliver the Magic</td>
+      <td rowspan="2" class="leaderboard-data-number">1113</td>
     </tr>
     <tr>
       <td class="leaderboard-data-player">Seamus Gormley | Manhasset, NY</td>
     </tr>
     <tr>
-      <td rowspan="2" class="leaderboard-data-number">10</td>
+      <td rowspan="2" class="leaderboard-data-number">4</td>
+      <td class="leaderboard-data-stable">RippinUpFloorboards</td>
+      <td rowspan="2" class="leaderboard-data-number">1111</td>
+    </tr>
+    <tr>
+      <td class="leaderboard-data-player">Ray Carolan | Port Washington, NY</td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="leaderboard-data-number">5</td>
+      <td class="leaderboard-data-stable">Handsome Dans</td>
+      <td rowspan="2" class="leaderboard-data-number">1097</td>
+    </tr>
+    <tr>
+      <td class="leaderboard-data-player">Daniel O'Connell | Bellerose Village, NY</td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="leaderboard-data-number">6</td>
+      <td class="leaderboard-data-stable">JEB Stables</td>
+      <td rowspan="2" class="leaderboard-data-number">1091</td>
+    </tr>
+    <tr>
+      <td class="leaderboard-data-player">Joe Balut | Brooklyn, NY</td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="leaderboard-data-number">7</td>
       <td class="leaderboard-data-stable">Hot to Trot Stables</td>
-      <td rowspan="2" class="leaderboard-data-number">854</td>
+      <td rowspan="2" class="leaderboard-data-number">1074</td>
     </tr>
     <tr>
       <td class="leaderboard-data-player">Paul Henderson | Franklin Square, NY</td>
     </tr>
     <tr>
-      <td rowspan="2" class="leaderboard-data-number">11</td>
-      <td class="leaderboard-data-stable">Onepac Stables</td>
-      <td rowspan="2" class="leaderboard-data-number">841</td>
+      <td rowspan="2" class="leaderboard-data-number">8</td>
+      <td class="leaderboard-data-stable">Coach Pistol Hand Stables</td>
+      <td rowspan="2" class="leaderboard-data-number">1037</td>
     </tr>
     <tr>
       <td class="leaderboard-data-player">Greg Schaefer | Rockville Centre, NY</td>
     </tr>
     <tr>
-      <td rowspan="2" class="leaderboard-data-number">12</td>
-      <td class="leaderboard-data-stable">Drop the Anvil</td>
-      <td rowspan="2" class="leaderboard-data-number">832</td>
+      <td rowspan="2" class="leaderboard-data-number">9</td>
+      <td class="leaderboard-data-stable">Harb's Hacks</td>
+      <td rowspan="2" class="leaderboard-data-number">1028</td>
     </tr>
     <tr>
-      <td class="leaderboard-data-player">John Briody | Rockville Centre, NY</td>
+      <td class="leaderboard-data-player">Jack Harbidge | Doddington, Kent</td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="leaderboard-data-number">10</td>
+      <td class="leaderboard-data-stable">Quarter Horse Stables</td>
+      <td rowspan="2" class="leaderboard-data-number">990</td>
+    </tr>
+    <tr>
+      <td class="leaderboard-data-player">John Casey | Rockaway, NY</td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="leaderboard-data-number">11</td>
+      <td class="leaderboard-data-stable">Harvey Pack</td>
+      <td rowspan="2" class="leaderboard-data-number">923</td>
+    </tr>
+    <tr>
+      <td class="leaderboard-data-player">Charlie Kinzie | Rockaway, NY</td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="leaderboard-data-number">11</td>
+      <td class="leaderboard-data-stable">Moonshine Mullon</td>
+      <td rowspan="2" class="leaderboard-data-number">923</td>
+    </tr>
+    <tr>
+      <td class="leaderboard-data-player">Kevin F Mullon | Long Beach, NY</td>
     </tr>
     <tr>
       <td rowspan="2" class="leaderboard-data-number">13</td>
-      <td class="leaderboard-data-stable">Jack's Hacks</td>
-      <td rowspan="2" class="leaderboard-data-number">828</td>
+      <td class="leaderboard-data-stable">You're quite a Filly</td>
+      <td rowspan="2" class="leaderboard-data-number">906</td>
     </tr>
     <tr>
-      <td class="leaderboard-data-player">Jack Harbidge | London, UK</td>
+      <td class="leaderboard-data-player">Kevin Walsh | Port Washington, NY</td>
     </tr>
     <tr>
       <td rowspan="2" class="leaderboard-data-number">14</td>
-      <td class="leaderboard-data-stable">Palmisano's Ponies</td>
-      <td rowspan="2" class="leaderboard-data-number">765</td>
+      <td class="leaderboard-data-stable">The Dullahan</td>
+      <td rowspan="2" class="leaderboard-data-number">891</td>
+    </tr>
+    <tr>
+      <td class="leaderboard-data-player">John Bauman | Wellington, FL</td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="leaderboard-data-number">15</td>
+      <td class="leaderboard-data-stable">Elmers Horse Farm</td>
+      <td rowspan="2" class="leaderboard-data-number">889</td>
     </tr>
     <tr>
       <td class="leaderboard-data-player">Christopher Doria | Los Angeles, CA</td>
     </tr>
     <tr>
-      <td rowspan="2" class="leaderboard-data-number">15</td>
-      <td class="leaderboard-data-stable">Doria Bros Pony Parkh</td>
-      <td rowspan="2" class="leaderboard-data-number">740</td>
+      <td rowspan="2" class="leaderboard-data-number">16</td>
+      <td class="leaderboard-data-stable">Why The Long Face Stables</td>
+      <td rowspan="2" class="leaderboard-data-number">880</td>
     </tr>
     <tr>
       <td class="leaderboard-data-player">Stacey Harman Doria | Los Angeles, CA</td>
     </tr>
     <tr>
-      <td rowspan="2" class="leaderboard-data-number">16</td>
-      <td class="leaderboard-data-stable">Harvey Pack</td>
-      <td rowspan="2" class="leaderboard-data-number">724</td>
+      <td rowspan="2" class="leaderboard-data-number">17</td>
+      <td class="leaderboard-data-stable">Drop the Anvil</td>
+      <td rowspan="2" class="leaderboard-data-number">859</td>
     </tr>
     <tr>
-      <td class="leaderboard-data-player">Charlie Kinzie | Rockaway, NY</td>
+      <td class="leaderboard-data-player">John Briody | Rockville Centre, NY</td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="leaderboard-data-number">18</td>
+      <td class="leaderboard-data-stable">Schrute Farms</td>
+      <td rowspan="2" class="leaderboard-data-number">769</td>
+    </tr>
+    <tr>
+      <td class="leaderboard-data-player">Michael M Casserly | Rockaway, NY</td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="leaderboard-data-number">19</td>
+      <td class="leaderboard-data-stable">Thisisunbelievable</td>
+      <td rowspan="2" class="leaderboard-data-number">717</td>
+    </tr>
+    <tr>
+      <td class="leaderboard-data-player">Guy Malfait | Brussels, BE</td>
     </tr>
   </table>
   <br>

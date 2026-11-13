@@ -109,7 +109,7 @@
     </span-->
 
     <h1 style="font-size: 1.00rem; font-weight: bold;"><span class="nav-item">
-      <a class="nav-link link-light" href="/contests/rttbc26/index.shtml" style="text-transform: uppercase; font-weight: bold;">Breeders' Cup '26</a>
+      <a class="nav-link link-light" href="/contests/rttr153/index.shtml" style="text-transform: uppercase; font-weight: bold;">Derby 153 '27</a>
     </span></h1>
 
     <!-- KEEP THIS IN CASE WE WANT TO MOVE THE SEARCH BAR BACK OUTSIDE OF THE TOGGLER...form method="GET" action="http://www.google.com/custom">
@@ -139,11 +139,11 @@
             <li><a class="dropdown-item" href="/contests/rttbc26/schedule.shtml">BC '26 Schedule</a></li>
             <li><a class="dropdown-item" href="/contests/rttbc26/scoring.shtml">BC '26 Scoring</a></li>
             <li><a class="dropdown-item" href="/contests/rttbc26/stats.shtml">BC '26 Stats</a></li>
-            <li><a class="dropdown-item" href="/contests/rttr152/index.shtml">Kentucky Derby 152 ('26)</a></li>
-            <li><a class="dropdown-item" href="/contests/rttr152/schedule.shtml">Derby 152 Schedule</a></li>
-            <li><a class="dropdown-item" href="/contests/rttr152/scoring.shtml">Derby 152 Scoring</a></li>
-            <li><a class="dropdown-item" href="/contests/rttr152/stats.shtml">Derby 152 Stats</a></li>
-            <li><a class="dropdown-item" href="/contests/rttr153/schedule.shtml">RTTR 153 Schedule</a></li--><!--Use this when the Schedule is 1st published for the next contest-->
+            <li><a class="dropdown-item" href="/contests/rttr153/index.shtml">Kentucky Derby 153 ('27)</a></li>
+            <li><a class="dropdown-item" href="/contests/rttr153/schedule.shtml">Derby 153 Schedule</a></li>
+            <li><a class="dropdown-item" href="/contests/rttr153/scoring.shtml">Derby 153 Scoring</a></li>
+            <li><a class="dropdown-item" href="/contests/rttr153/stats.shtml">Derby 153 Stats</a></li>
+            <li><a class="dropdown-item" href="/contests/rttbc27/schedule.shtml">BC '27 Schedule</a></li--><!--Use this when the Schedule is 1st published for the next contest-->
             <li><a class="dropdown-item" href="/contests/how-to-play.shtml">How to Play</a></li>
             <li><a class="dropdown-item" href="/contests/resources.shtml">Resources</a></li>
             <li><a class="dropdown-item" href="/contests/rules.shtml">Rules</a></li>

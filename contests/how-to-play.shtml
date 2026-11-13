@@ -52,7 +52,7 @@
       <p>Gallop currently offers two separate contests. One is the <i>Road to the Roses</i>, or "RTTR" the other is the
         <i>Road to the Breeders' Cup</i> or "RTTBC".</p>
 
-      <p>RTTR runs from January into May, and RTTBC runs from June into November. Players can participate in
+      <p>RTTR runs from February into May, and RTTBC runs from June into November. Players can participate in
         either/or/both of the contests. One contest doesn't have any dependency on the other.</p>
 
       <p>These contests function like <i>traditional</i> fantasy sports (as opposed to <i>daily</i> fantasy sports). The
@@ -65,25 +65,25 @@
         <a id="kentuckyderby"></a>
         <div class="accordion-item">
           <h6 class="accordion-header" id="headingHowToPlayRTTR">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+            <button class="accordion-button" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseHowToPlayRTTR" aria-expanded="false" aria-controls="collapseHowToPlayRTTR">
               Contest #1<br>Road to the Roses (RTTR)
             </button>
           </h6>
-          <div id="collapseHowToPlayRTTR" class="accordion-collapse collapse" role="region" aria-labelledby="headingHowToPlayRTTR" data-bs-parent="#accordionHowToPlay">
+          <div id="collapseHowToPlayRTTR" class="accordion-collapse collapse show" role="region" aria-labelledby="headingHowToPlayRTTR" data-bs-parent="#accordionHowToPlay">
             <div class="accordion-body accordion-td-cell">
               <div style="text-align: center;"><h4>Kentucky Derby</h4></div>
 
               <p>The scope of the RTTR contest will be all of the <a
                   href="https://www.kentuckyderby.com/prep-races/" target="_blank" rel="noopener noreferrer">Kentucky Derby Prep Races</a>
-                (America circuit) beginning after the 1st week in January, amounting to ~25 races.</p>
+                (America circuit) beginning after the 1st week in February, amounting to ~18 races.</p>
 
-                <p>In mid-January, you'll draft <b>five horses, two trainers, and two jockeys</b> who you think have a good
+                <p>In mid-February, you'll draft <b>two horses, two trainers, and two jockeys</b> who you think have a good
                 chance at winning the Kentucky Derby.</p>
 
-                <p><i>Data below current as of RTTR 152.</i></p>
+                <p><i>Data below current as of RTTR 153.</i></p>
 
-                <p>There will be six races late-January / early-February where you can earn points. Then the additional Drafts are broken out as follows:</p>
+                <p>There will be three races late-February where you can earn points. Then the additional Drafts are broken out as follows:</p>
 
 
                 <div style="text-align: center; padding-bottom: 10px;">
@@ -96,18 +96,24 @@
                   </tr>
                   <tr>
                     <td>2</td>
-                    <td>mid-Feb</td>
-                    <td>5</td>
-                    <td>11</td>
+                    <td>late-Feb</td>
+                    <td>3</td>
+                    <td>4</td>
                   </tr>
                   <tr>
                     <td>3</td>
+                    <td>mid-Mar</td>
+                    <td>5</td>
+                    <td>4</td>
+                  </tr>
+                  <tr>
+                    <td>4</td>
                     <td>late-Mar*</td>
                     <td>0-5</td>
                     <td>6</td>
                   </tr>
                   <tr>
-                    <td>4</td>
+                    <td>5</td>
                     <td>early-May</td>
                     <td>0-5</td>
                     <td>1</td>
@@ -135,12 +141,12 @@
 <a id="breederscup"></a>
         <div class="accordion-item">
           <h6 class="accordion-header" id="headingHowToPlayRTTBC">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
               data-bs-target="#collapseHowToPlayRTTBC" aria-expanded="false" aria-controls="collapseHowToPlayRTTBC">
               Contest #2<br>Road to the Breeders' Cup (RTTBC)
             </button>
           </h6>
-          <div id="collapseHowToPlayRTTBC" class="accordion-collapse collapse show" role="region" aria-labelledby="headingHowToPlayRTTBC" data-bs-parent="#accordionHowToPlay">
+          <div id="collapseHowToPlayRTTBC" class="accordion-collapse collapse" role="region" aria-labelledby="headingHowToPlayRTTBC" data-bs-parent="#accordionHowToPlay">
             <div class="accordion-body accordion-td-cell">
               <div style="text-align: center;"><h4>Breeders' Cup<br>(7 Dirt Divisions)</h4></div>
 

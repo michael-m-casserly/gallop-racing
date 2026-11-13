@@ -83,7 +83,7 @@
       <!--End Row #1-->
 
           <!--Begin Row #2-->
-          <!--#include virtual="/modules/rttr153/footer-accordion.shtml" -->
+          <!--include virtual="/modules/rttr153/footer-accordion.shtml" -->
           <!--End Row #2-->
 
       <!-- FOOTER -->

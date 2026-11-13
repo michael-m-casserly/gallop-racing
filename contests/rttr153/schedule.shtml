@@ -119,7 +119,7 @@
 
           <br>
           <!--Begin Row #5-->
-          <!--#include virtual="/modules/rttr153/footer-accordion.shtml" -->
+          <!--include virtual="/modules/rttr153/footer-accordion.shtml" -->
           <!--End Row #5-->
 
       <!-- FOOTER -->

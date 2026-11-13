@@ -51,18 +51,18 @@
       <!--p>More details will be available before the contest begins in June 2026.</p-->
 
       <!--ADD THIS ROW BACK AFTER WEEK #1-->
-      <div class="row">
+      <!--div class="row">
         <div class="col-lg-4">
-          <!--#include virtual="/modules/rttbc26/leaderboard-top-five-stables.shtml" -->
+          <include virtual="/modules/rttbc26/leaderboard-top-five-stables.shtml">
         </div>
         <div class="col-lg-4">
-          <!--#include virtual="/modules/rttbc26/tracker-season-progress.html" -->
+          <include virtual="/modules/rttbc26/tracker-season-progress.html">
         </div>
         <div class="col-lg-4">
-          <!--#include virtual="/modules/rttbc26/top-row-in-season-buttons.shtml" -->
+          <include virtual="/modules/rttbc26/top-row-in-season-buttons.shtml">
         </div>
 
-      </div>
+      </div-->
       <!--end row-->
 
       <div class="row">
@@ -70,9 +70,9 @@
           <!--begin left column-->
           <!--include virtual="/modules/register.html" -->
           <!--include virtual="/modules/rttbc26/races-upcoming.html" -->
-          <!--#include virtual="/modules/rttbc26/races-completed-bc.html" -->
+          <!--include virtual="/modules/rttbc26/races-completed-bc.html" -->
           <!--include virtual="/modules/rttbc26/contest-info.shtml" -->
-          <!--include virtual="/modules/rttbc26/final-standings.shtml" -->
+          <!--#include virtual="/modules/rttbc26/final-standings.shtml" -->
 
         </div>
         <!--end left column-->
@@ -90,8 +90,8 @@
           <!--include virtual="/modules/calendar.html" -->
 
           <!--ADD AFTER WEEK #1-->
-          <!--include virtual="/modules/rttbc26/races-completed-bc.html" -->
-          <!--#include virtual="/modules/rttbc26/races-completed.html" -->
+          <!--#include virtual="/modules/rttbc26/races-completed-bc.html" -->
+          <!--include virtual="/modules/rttbc26/races-completed.html" -->
 
         </div>
         <!--end middle column-->
@@ -101,17 +101,17 @@
 
           <!--#include virtual="/modules/rttbc26/contest-info.shtml" -->
 
-          <!--#include virtual="/modules/calendar.html" -->
+          <!--include virtual="/modules/calendar.html" -->
 
-          <!--include virtual="/modules/rttbc26/races-completed.html" -->
+          <!--#include virtual="/modules/rttbc26/races-completed.html" -->
 
-          <!--#include virtual="/modules/resources-rttbc.html" -->
+          <!--include virtual="/modules/resources-rttbc.html" -->
 
-          <div class="round-border">
-            <!--#include virtual="/modules/stakes-calendar.html" -->
+          <!--div class="round-border">
+            <include virtual="/modules/stakes-calendar.html" -->
             <br>
-            <!--#include virtual="/modules/stakes-nominations-rttbc.html" -->
-          </div>
+            <include virtual="/modules/stakes-nominations-rttbc.html" -->
+          </div-->
 
         </div>
         <!--end right column-->
